@@ -1,0 +1,17 @@
+{
+  "id": "v2",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Crossover Rate",
+  "tags": [
+    "capital-budgeting",
+    "crossover-rate",
+    "incremental-cash-flows",
+    "calculation"
+  ],
+  "title": "How to solve for the crossover rate using the incremental cash flow method",
+  "summary": "Determine the crossover rate between two projects by applying the incremental cash flow approach to capital budgeting.",
+  "thumbnail": "https://i.ytimg.com/vi/ue_GpNy3-J0/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=ue_GpNy3-J0"
+}

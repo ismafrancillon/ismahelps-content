@@ -1,0 +1,16 @@
+{
+  "id": "v8",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "tags": [
+    "capital-budgeting",
+    "npv",
+    "calculation"
+  ],
+  "title": "How to compute the net present value (NPV)",
+  "summary": "Step through computing NPV by discounting expected cash flows and subtracting the initial investment outlay.",
+  "thumbnail": "https://i.ytimg.com/vi/FXVn_SweXas/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=FXVn_SweXas"
+}

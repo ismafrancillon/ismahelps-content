@@ -1,0 +1,16 @@
+{
+  "id": "v4",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Profitability Index",
+  "tags": [
+    "capital-budgeting",
+    "profitability-index",
+    "calculation"
+  ],
+  "title": "How to calculate the Profitability Index (PI)",
+  "summary": "Compute the profitability index to rank capital budgeting projects by comparing present value of inflows to initial cost.",
+  "thumbnail": "https://i.ytimg.com/vi/XQK2kbA8LG8/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=XQK2kbA8LG8"
+}

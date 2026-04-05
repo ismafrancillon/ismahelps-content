@@ -1,0 +1,16 @@
+{
+  "id": "v12",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Crossover Rate",
+  "tags": [
+    "capital-budgeting",
+    "crossover-rate",
+    "calculation"
+  ],
+  "title": "How to calculate the crossover rate for capital budgeting",
+  "summary": "Find the discount rate at which two competing projects have identical NPVs using crossover rate calculations.",
+  "thumbnail": "https://i.ytimg.com/vi/i71IMtxnBQs/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=i71IMtxnBQs"
+}

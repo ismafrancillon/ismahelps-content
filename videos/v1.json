@@ -1,0 +1,17 @@
+{
+  "id": "v1",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "tags": [
+    "capital-budgeting",
+    "irr",
+    "incremental-cash-flows",
+    "calculation"
+  ],
+  "title": "How to solve for missing payments using the incremental cash flow method (IRR)",
+  "summary": "Solve for missing payments in capital budgeting using incremental cash flows and the internal rate of return method.",
+  "thumbnail": "https://i.ytimg.com/vi/rxFCdF8tVoI/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=rxFCdF8tVoI"
+}

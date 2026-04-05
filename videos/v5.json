@@ -1,0 +1,17 @@
+{
+  "id": "v5",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Payback Period",
+  "tags": [
+    "capital-budgeting",
+    "payback-period",
+    "discounted-payback",
+    "investment-recovery"
+  ],
+  "title": "Simple and discounted payback period explained",
+  "summary": "Compare simple and discounted payback periods to assess how quickly a project recovers its initial investment.",
+  "thumbnail": "https://i.ytimg.com/vi/NAwF1E_Pmao/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=NAwF1E_Pmao"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "v3",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Crossover Rate",
+  "tags": [
+    "capital-budgeting",
+    "irr",
+    "crossover-rate",
+    "incremental-cash-flows",
+    "calculation"
+  ],
+  "title": "How to calculate the crossover rate using incremental cash flows (IRR)",
+  "summary": "Calculate the crossover rate where two projects yield equal NPVs using incremental cash flows and IRR logic.",
+  "thumbnail": "https://i.ytimg.com/vi/95lhAIPG8og/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=95lhAIPG8og"
+}

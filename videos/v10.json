@@ -1,0 +1,17 @@
+{
+  "id": "v10",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "EANPV",
+  "tags": [
+    "capital-budgeting",
+    "npv",
+    "eanpv",
+    "calculation"
+  ],
+  "title": "How to calculate Equivalent Annual Net Present Value (EANPV)",
+  "summary": "Calculate equivalent annual net present value to compare projects with different lifespans on an equal annual basis.",
+  "thumbnail": "https://i.ytimg.com/vi/bg4PZ5c8CU4/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=bg4PZ5c8CU4"
+}

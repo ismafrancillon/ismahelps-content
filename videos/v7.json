@@ -1,0 +1,18 @@
+{
+  "id": "v7",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Comprehensive Review",
+  "tags": [
+    "capital-budgeting",
+    "irr",
+    "npv",
+    "profitability-index",
+    "payback-period"
+  ],
+  "title": "How to solve capital budgeting questions: NPV, IRR, Profitability Index, & Discounted Payback Period",
+  "summary": "Work through a full capital budgeting problem covering NPV, IRR, profitability index, and discounted payback period.",
+  "thumbnail": "https://i.ytimg.com/vi/wncVgCYbHKQ/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=wncVgCYbHKQ"
+}

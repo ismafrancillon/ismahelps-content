@@ -1,0 +1,17 @@
+{
+  "id": "v9",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "tags": [
+    "capital-budgeting",
+    "npv",
+    "investment-analysis",
+    "theory"
+  ],
+  "title": "Explaining the net present value (NPV)",
+  "summary": "Understand the logic behind net present value as a tool for evaluating long-term investment decisions.",
+  "thumbnail": "https://i.ytimg.com/vi/ZqGAvVU25Rg/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=ZqGAvVU25Rg"
+}

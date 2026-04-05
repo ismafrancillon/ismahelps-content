@@ -1,0 +1,16 @@
+{
+  "id": "v14",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "tags": [
+    "capital-budgeting",
+    "irr",
+    "calculation"
+  ],
+  "title": "How to calculate the effective Internal Rate of Return (IRR)",
+  "summary": "Compute the effective internal rate of return accounting for reinvestment assumptions and compounding adjustments.",
+  "thumbnail": "https://i.ytimg.com/vi/nHKi4haoBsc/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=nHKi4haoBsc"
+}

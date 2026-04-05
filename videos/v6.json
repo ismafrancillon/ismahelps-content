@@ -1,0 +1,16 @@
+{
+  "id": "v6",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "tags": [
+    "capital-budgeting",
+    "npv",
+    "calculation"
+  ],
+  "title": "How to calculate the net present value (NPV)",
+  "summary": "Discount future cash flows to calculate net present value and evaluate whether a project adds shareholder value.",
+  "thumbnail": "https://i.ytimg.com/vi/VmvYRqGrJZk/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=VmvYRqGrJZk"
+}

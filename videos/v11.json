@@ -1,0 +1,17 @@
+{
+  "id": "v11",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Project Selection",
+  "tags": [
+    "capital-budgeting",
+    "npv",
+    "capm",
+    "project-selection"
+  ],
+  "title": "How to select capital budgeting projects by using CAPM & NPV",
+  "summary": "Select optimal capital budgeting projects by combining CAPM-derived discount rates with net present value analysis.",
+  "thumbnail": "https://i.ytimg.com/vi/i49lzYirigw/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=i49lzYirigw"
+}
