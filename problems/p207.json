@@ -1,0 +1,41 @@
+{
+  "id": "p207",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "capital-structure",
+    "debt-to-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Debt Ratios: What is the optimal debt...",
+  "summary": "Calculate the debt ratio by dividing total liabilities by total assets.",
+  "prompt": "What is the optimal debt ratio for a firm?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "B",
+      "text": "The optimal debt ratio is the level of debt that minimizes the weighted average"
+    },
+    {
+      "id": "C",
+      "text": "Financial distress probability increases"
+    },
+    {
+      "id": "D",
+      "text": "Firm value increases due to the tax shield"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The optimal debt ratio is the level of debt that minimizes the weighted average cost of capital (WACC) while maximizing the value of the firm. This balance is crucial for financial strategy and risk management."
+}

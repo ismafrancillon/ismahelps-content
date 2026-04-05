@@ -1,0 +1,41 @@
+{
+  "id": "p209",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "cost-of-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: What is the primary function of the capital asset pricing...",
+  "summary": "Calculate the cost of equity or expected return using the CAPM formula.",
+  "prompt": "What is the primary function of the capital asset pricing model (CAPM) in investment analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Unsystematic (diversifiable) risk"
+    },
+    {
+      "id": "B",
+      "text": "The primary function of the capital asset pricing model (CAPM) is to estimate"
+    },
+    {
+      "id": "C",
+      "text": "Finance internal growth and new projects"
+    },
+    {
+      "id": "D",
+      "text": "Adjusted Present Value (APV)"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The primary function of the capital asset pricing model (CAPM) is to estimate the expected return on an investment based on its systematic risk, measured by beta. CAPM helps investors understand the relationship between risk and return, allowing them to make informed decisions about which investments to pursue. By using the risk-free rate, the expected market return, and the asset's beta, investors can derive the appropriate expected return for the risks they are undertaking."
+}

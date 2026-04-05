@@ -1,0 +1,40 @@
+{
+  "id": "p262",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Performance Evaluation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Performance Evaluation: What is the key purpose of performance attribution in portfolio...",
+  "summary": "Describe performance attribution's role in decomposing portfolio return sources.",
+  "prompt": "What is the key purpose of performance attribution in portfolio management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calculated using weights and standard deviations"
+    },
+    {
+      "id": "B",
+      "text": "The key purpose of performance attribution in portfolio management is to"
+    },
+    {
+      "id": "C",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "D",
+      "text": "Portfolio with highest Sharpe ratio"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The key purpose of performance attribution in portfolio management is to evaluate the effectiveness of investment strategy decisions. It breaks down the performance of a portfolio into sources of return, allowing managers to understand which decisions contributed to the overall return, thus guiding future strategy adjustments and improving performance."
+}

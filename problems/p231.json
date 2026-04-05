@@ -1,0 +1,40 @@
+{
+  "id": "p231",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: If an investor buys a call option for 5 with...",
+  "summary": "Calculate the breakeven price for a call option as strike price plus premium.",
+  "prompt": "If an investor buys a call option for $5 with a strike price of $50, what is the minimum stock price at expiration for the investor to break even?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$40"
+    },
+    {
+      "id": "B",
+      "text": "$50"
+    },
+    {
+      "id": "C",
+      "text": "$48"
+    },
+    {
+      "id": "D",
+      "text": "$55"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Option Premium = $5<br>Strike Price = $50<br><br>**Step 2: Calculate Breakeven Price**<br>Breakeven Price = Strike Price + Option Premium = $50 + $5 = $55.<br><br>**Step 3: Conclusion**<br>The minimum stock price at expiration for the investor to break even is $55."
+}

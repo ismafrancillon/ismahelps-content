@@ -1,0 +1,40 @@
+{
+  "id": "p203",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Option Pricing Theory",
+  "subtopic": "Option Valuation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "option-pricing",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Option Valuation: What does the term \"option pricing\" refer to in investment...",
+  "summary": "Explain option pricing as calculating values based on underlying asset characteristics.",
+  "prompt": "What does the term \"option pricing\" refer to in investment analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "B",
+      "text": "Option pricing refers to the calculation of the value of options based on the"
+    },
+    {
+      "id": "C",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "D",
+      "text": "Measures profitability"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Option pricing refers to the calculation of the value of options based on the underlying assets, considering factors such as volatility, time to expiration, and the risk-free rate. This process is essential for investors to understand potential profits and risks associated with holding options, as discussed in the materials on pages 63 to 64."
+}

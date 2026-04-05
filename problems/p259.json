@@ -1,0 +1,40 @@
+{
+  "id": "p259",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: In the context of active portfolio management, what is the...",
+  "summary": "Analyze a portfolio management concept related to Active Management and Performance Measurement.",
+  "prompt": "In the context of active portfolio management, what is the primary goal of security analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Adjusted Present Value (APV)"
+    },
+    {
+      "id": "B",
+      "text": "The primary goal of security analysis in active portfolio management is to"
+    },
+    {
+      "id": "C",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "D",
+      "text": "Equal to the weighted average return"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The primary goal of security analysis in active portfolio management is to identify mispriced securities. Investors and portfolio managers seek to find securities that are undervalued or overvalued relative to their intrinsic values, allowing them to capitalize on price discrepancies for potential profit. This requires thorough research and analysis of individual securities and market conditions."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p225",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Types of Orders and Trading Strategies",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Types of Orders and Trading Strategies: A trader enters into a short position in a futures...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A trader enters into a short position in a futures contract. This implies that they:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "B",
+      "text": "A short position in a futures contract indicates that the trader expects the"
+    },
+    {
+      "id": "C",
+      "text": "Difference between spot and futures prices"
+    },
+    {
+      "id": "D",
+      "text": "Specific performance"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A short position in a futures contract indicates that the trader expects the price of the underlying asset to fall before the contract expires. [[24]]"
+}

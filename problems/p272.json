@@ -1,0 +1,40 @@
+{
+  "id": "p272",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Introduction to Real Estate",
+  "subtopic": "Real Estate Ownership",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "revenues",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Real Estate Ownership: What is the primary difference between residential and commercial real...",
+  "summary": "Distinguish residential from commercial real estate based on purpose of use.",
+  "prompt": "What is the primary difference between residential and commercial real estate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Government subsidies"
+    },
+    {
+      "id": "B",
+      "text": "The primary difference between residential and commercial real estate lies in"
+    },
+    {
+      "id": "C",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "D",
+      "text": "Mezzanine financing"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The primary difference between residential and commercial real estate lies in their purpose of use. Residential real estate is primarily for living purposes, which includes single-family homes and multifamily dwellings. In contrast, commercial real estate is used for business activities and includes office spaces, retail outlets, and industrial properties. Understanding this distinction is crucial for investors as it influences financing options, tax implications, and maintenance responsibilities throughout the investment lifecycle."
+}

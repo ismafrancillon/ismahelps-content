@@ -1,0 +1,41 @@
+{
+  "id": "p290",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "governance",
+    "shareholders",
+    "corporation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: What is the primary goal of a firm according to...",
+  "summary": "Identify Agency Theory's goal of aligning management with shareholder interests.",
+  "prompt": "What is the primary goal of a firm according to the Agency Theory?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Financial distress probability increases"
+    },
+    {
+      "id": "B",
+      "text": "Step 2: Understand that the primary goal of the firm"
+    },
+    {
+      "id": "C",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "D",
+      "text": "Firm value increases due to the tax shield"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define Agency Theory which highlights the conflict of interest between the owners (shareholders) and the managers of the firm. <br>Step 2: Understand that the primary goal of the firm, as outlined by Agency Theory, is to align management efforts towards maximizing shareholder wealth. <br>Step 3: Therefore, B is the correct choice as it directly reflects the primary objective of firms as per Agency Theory."
+}

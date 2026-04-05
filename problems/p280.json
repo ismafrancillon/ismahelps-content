@@ -1,0 +1,41 @@
+{
+  "id": "p280",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Financial Planning and Short-Term Finance",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "systematic-risk",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Financial Planning and Short-Term Finance: If a firm has a higher beta, what does it...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If a firm has a higher beta, what does it imply about the expected return and risk?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Total risk of the investment"
+    },
+    {
+      "id": "B",
+      "text": "A higher beta indicates higher systematic risk, leading to a higher expected"
+    },
+    {
+      "id": "C",
+      "text": "Correlation with market portfolio"
+    },
+    {
+      "id": "D",
+      "text": "Unsystematic (diversifiable) risk"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A higher beta indicates higher systematic risk, leading to a higher expected return according to CAPM."
+}

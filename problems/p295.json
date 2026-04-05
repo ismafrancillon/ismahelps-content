@@ -1,0 +1,40 @@
+{
+  "id": "p295",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Non-Current Liabilities",
+  "subtopic": "Bond Issuance and Valuation",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "bond-valuation",
+    "present-value",
+    "discounted-cash-flow",
+    "calculation"
+  ],
+  "title": "Bond Issuance and Valuation: A company issued bonds for 1000000 with a coupon rate...",
+  "summary": "Determine whether a bond is issued at premium or discount based on coupon versus market rate.",
+  "prompt": "A company issued bonds for $1,000,000 with a coupon rate of 5% when the market rate was 6%. If the bonds pay interest annually, what will be the bond premium or discount? Calculate the present value of the bond if the market rate is used.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bond Premium = $60,000"
+    },
+    {
+      "id": "B",
+      "text": "Bond Discount = $60,000"
+    },
+    {
+      "id": "C",
+      "text": "Bond Discount = $50,000"
+    },
+    {
+      "id": "D",
+      "text": "Bond Premium = $50,000"
+    }
+  ],
+  "correct_option": "Bond Discount = $60,000",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: The bond is issued at a discount since the coupon rate is lower than the market rate. Step 2: Calculate annual interest: $1,000,000 * 5% = $50,000. Step 3: Present Value of Bonds = PMT * PV Annuity + Face Value * PV of Lump Sum. Using PV tables, calculate the present value."
+}

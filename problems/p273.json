@@ -1,0 +1,40 @@
+{
+  "id": "p273",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Capital Structure: A company has a debt of 500000 and equity of...",
+  "summary": "Analyze a concept in theories of finance related to Capital Structure.",
+  "prompt": "A company has a debt of $500,000 and equity of $1,000,000. What is its debt-to-equity ratio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.75"
+    },
+    {
+      "id": "B",
+      "text": "0.50"
+    },
+    {
+      "id": "C",
+      "text": "0.38"
+    },
+    {
+      "id": "D",
+      "text": "0.62"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Debt = $500,000, Equity = $1,000,000. <br> **Step 2: Calculate Debt-to-Equity Ratio**<br>Debt-to-equity ratio = Debt / Equity = $500,000 / $1,000,000 = 0.5."
+}

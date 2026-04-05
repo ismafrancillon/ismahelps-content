@@ -1,0 +1,40 @@
+{
+  "id": "p204",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Option Pricing Theory and Models",
+  "subtopic": "Black-Scholes Model",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "option-pricing",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Black-Scholes Model: What is a key characteristic of the Black-Scholes model in...",
+  "summary": "Evaluate the Black-Scholes model's assumptions and limitations for option pricing.",
+  "prompt": "What is a key characteristic of the Black-Scholes model in option pricing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "B",
+      "text": "A key characteristic of the Black-Scholes model is that it assumes constant"
+    },
+    {
+      "id": "C",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "D",
+      "text": "Risk-free interest rate"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A key characteristic of the Black-Scholes model is that it assumes constant volatility over time, which simplifies the pricing of options. This assumption allows the model to calculate the theoretical value of call and put options based on the underlying asset's price, strike price, time to expiration, risk-free rate, and volatility. However, this assumption may not hold true in real markets, where volatility can change frequently due to varying market conditions."
+}

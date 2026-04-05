@@ -1,0 +1,40 @@
+{
+  "id": "p227",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Types of Orders and Trading Strategies",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Types of Orders and Trading Strategies: A trader holds a long position in a futures contract....",
+  "summary": "Assess the impact on a long futures position when the underlying price decreases.",
+  "prompt": "A trader holds a long position in a futures contract. If the market price of the asset decreases, what happens to their position?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nominal damages"
+    },
+    {
+      "id": "B",
+      "text": "A long position in a futures contract results in losses if the market price of"
+    },
+    {
+      "id": "C",
+      "text": "A money market hedge"
+    },
+    {
+      "id": "D",
+      "text": "Each plaintiff must prove individually"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A long position in a futures contract results in losses if the market price of the asset decreases, as the trader is obligated to buy at a higher price. [[24]]"
+}

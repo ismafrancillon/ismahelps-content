@@ -1,0 +1,40 @@
+{
+  "id": "p245",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio-beta",
+    "portfolio",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: A portfolio consists of Stock A with a beta of...",
+  "summary": "Calculate the portfolio beta as the weighted average of individual asset betas.",
+  "prompt": "A portfolio consists of Stock A with a beta of 0.5 and Stock B with a beta of 1.5. If the weights of Stock A and Stock B in the portfolio are 70% and 30%, respectively, what is the portfolio beta?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.96"
+    },
+    {
+      "id": "B",
+      "text": "0.80"
+    },
+    {
+      "id": "C",
+      "text": "0.48"
+    },
+    {
+      "id": "D",
+      "text": "0.56"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Portfolio Beta = w_A * β_A + w_B * β_B = 0.7(0.5) + 0.3(1.5) = 0.35 + 0.45 = 0.8."
+}

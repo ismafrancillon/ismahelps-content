@@ -1,0 +1,41 @@
+{
+  "id": "p233",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Factors Affecting Option Prices",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "option-pricing",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Factors Affecting Option Prices: If the current price of a stock is 100 and...",
+  "summary": "Identify key factors affecting option prices: volatility, time, underlying price, and interest rates.",
+  "prompt": "If the current price of a stock is $100 and the strike price of a call option is $105, what is the intrinsic value of the option?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "B",
+      "text": "The intrinsic value of a call option is calculated as max(S - K, 0)"
+    },
+    {
+      "id": "C",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "D",
+      "text": "Comparable company analysis"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The intrinsic value of a call option is calculated as max(S - K, 0). Therefore, if the stock price is $100 and the strike price is $105, the intrinsic value is $0 (out-of-the-money)."
+}

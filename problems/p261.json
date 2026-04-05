@@ -1,0 +1,41 @@
+{
+  "id": "p261",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: What does the Sharpe ratio...",
+  "summary": "Describe the Sharpe ratio as a measure of risk-adjusted return per unit of total risk.",
+  "prompt": "What does the Sharpe ratio measure in portfolio performance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "B",
+      "text": "The Sharpe ratio is a measure of risk-adjusted return that indicates how much"
+    },
+    {
+      "id": "C",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "D",
+      "text": "Measures profitability"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The Sharpe ratio is a measure of risk-adjusted return that indicates how much excess return is received for the extra volatility endured by holding a riskier asset. It is calculated by subtracting the risk-free rate from the portfolio's return and dividing the result by the standard deviation of the portfolio's return. A higher Sharpe ratio indicates better risk-adjusted performance."
+}

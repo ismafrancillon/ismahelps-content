@@ -1,0 +1,41 @@
+{
+  "id": "p283",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Financial Planning and Short-Term Finance",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "net-income",
+    "income-statement",
+    "tax-shield",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Financial Planning and Short-Term Finance: If a firm has an operating income (EBIT) of $150,000,...",
+  "summary": "Calculate net income from EBIT by subtracting interest and applying the tax rate.",
+  "prompt": "If a firm has an operating income (EBIT) of $150,000, interest expenses of $50,000, and a tax rate of 30%, what is the net income?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$52,500"
+    },
+    {
+      "id": "B",
+      "text": "$70,000"
+    },
+    {
+      "id": "C",
+      "text": "$49,000"
+    },
+    {
+      "id": "D",
+      "text": "$105,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Net Income = (EBIT - Interest) × (1 - Tax Rate) = ($150,000 - $50,000) × (1 - 0.3) = $70,000."
+}

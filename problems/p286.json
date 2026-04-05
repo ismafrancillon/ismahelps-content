@@ -1,0 +1,41 @@
+{
+  "id": "p286",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Dividend Policy",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "growth-rate",
+    "shareholders",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Dividend Policy: In the context of dividend policy, what does the term...",
+  "summary": "Define the clientele effect: investor groups have preferences for specific dividend policies.",
+  "prompt": "In the context of dividend policy, what does the term 'clientele effect' refer to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cost of equity increases"
+    },
+    {
+      "id": "B",
+      "text": "Step 2: Understand that firms may attract specific clientele based on their"
+    },
+    {
+      "id": "C",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "D",
+      "text": "Financial distress probability increases"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define the clientele effect, which refers to the idea that different groups of investors have different preferences for dividends. <br>Step 2: Understand that firms may attract specific clientele based on their dividend policies. <br>Step 3: Conclude that B accurately captures this concept, making it the correct answer."
+}

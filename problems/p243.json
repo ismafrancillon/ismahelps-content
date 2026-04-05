@@ -1,0 +1,40 @@
+{
+  "id": "p243",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Specification of Futures",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Specification of Futures: Which of the following describes the difference between a long...",
+  "summary": "Distinguish long and short positions in futures based on buy and sell obligations.",
+  "prompt": "Which of the following describes the difference between a long and short position in a futures contract?",
+  "options": [
+    {
+      "id": "A",
+      "text": "One plaintiff's proof suffices for all"
+    },
+    {
+      "id": "B",
+      "text": "In a futures contract, a long position signifies that a trader has agreed to"
+    },
+    {
+      "id": "C",
+      "text": "It never legally existed"
+    },
+    {
+      "id": "D",
+      "text": "Difference between spot and futures prices"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "In a futures contract, a long position signifies that a trader has agreed to buy the asset at a specified price in the future, while a short position indicates that the trader has agreed to sell the asset. This distinction is key to understanding futures trading."
+}

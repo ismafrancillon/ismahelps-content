@@ -1,0 +1,40 @@
+{
+  "id": "p222",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Basic Principles of Hedging: A company plans to hedge its exposure to currency fluctuations...",
+  "summary": "Distinguish futures from forward contracts based on standardization and exchange trading.",
+  "prompt": "A company plans to hedge its exposure to currency fluctuations by buying a forward contract. What risk does it eliminate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "B",
+      "text": "By buying a forward contract, the company locks in the exchange rate"
+    },
+    {
+      "id": "C",
+      "text": "No hedging is needed"
+    },
+    {
+      "id": "D",
+      "text": "A futures contract traded on an exchange"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "By buying a forward contract, the company locks in the exchange rate, thereby eliminating the risk of adverse price movements in the currency exchange rate."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p294",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Credit Cards",
+  "subtopic": "Private Equity",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Private Equity: Which of the following is NOT a typical source of...",
+  "summary": "Identify non-traditional sources of financing in real estate.",
+  "prompt": "Which of the following is NOT a typical source of financing in the real estate market?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mortgage financing"
+    },
+    {
+      "id": "B",
+      "text": "Equity partners"
+    },
+    {
+      "id": "C",
+      "text": "Commercial bank loans"
+    },
+    {
+      "id": "D",
+      "text": "Mezzanine financing"
+    }
+  ],
+  "correct_option": "B) Equity partners",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "C) Crowdfunding"
+}

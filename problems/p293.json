@@ -1,0 +1,40 @@
+{
+  "id": "p293",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Efficient Capital Markets",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Efficient Capital Markets: Which of the following statements about the efficient market hypothesis...",
+  "summary": "Identify the false statement about the efficient market hypothesis.",
+  "prompt": "Which of the following statements about the efficient market hypothesis is FALSE?",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "The statement that investors can consistently achieve above-market returns is"
+    },
+    {
+      "id": "C",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The statement that investors can consistently achieve above-market returns is false according to the efficient market hypothesis, which posits that such returns are not sustainable."
+}

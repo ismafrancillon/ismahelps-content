@@ -1,0 +1,41 @@
+{
+  "id": "p285",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Dividend Policy",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Dividend Policy: If a stock pays a 2 dividend per share and...",
+  "summary": "Apply the Gordon Growth Model or Dividend Discount Model for stock valuation.",
+  "prompt": "If a stock pays a $2.00 dividend per share and has a required return of 10%, what is the maximum price you should pay for the stock if you expect dividends to grow at 5%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$46"
+    },
+    {
+      "id": "B",
+      "text": "$40"
+    },
+    {
+      "id": "C",
+      "text": "$80"
+    },
+    {
+      "id": "D",
+      "text": "$20"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>D0 = $2.00, g = 0.05, r = 0.10. <br> **Step 2: Use the Gordon Growth Model**<br>P0 = D0 * (1 + g) / (r - g) = $2 * (1 + 0.05) / (0.10 - 0.05) = $40. <br> **Step 3: Conclusion**<br>The maximum price to pay for the stock is $40."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p276",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Long-Term Debt",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "coupon-rate",
+    "yield-to-maturity",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Long-Term Debt: Calculate the price of a bond with a face value...",
+  "summary": "Calculate bond price by discounting coupons and face value at the market rate.",
+  "prompt": "Calculate the price of a bond with a face value of $1,000, an annual coupon of $60, and a required return of 8%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$680"
+    },
+    {
+      "id": "B",
+      "text": "$850"
+    },
+    {
+      "id": "C",
+      "text": "$892"
+    },
+    {
+      "id": "D",
+      "text": "$765"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Bond Price = (C / r) + (F / (1 + r)^n) = (60 / 0.08) + (1,000 / (1 + 0.08)^n) = $60 / 0.08 + $1,000 / 1.08 = $850."
+}

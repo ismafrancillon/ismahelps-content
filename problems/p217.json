@@ -1,0 +1,41 @@
+{
+  "id": "p217",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "Borrowing Funds: Debt",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "return-on-equity",
+    "capital-structure",
+    "debt-to-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Borrowing Funds: Debt: Which of the following will likely lead to an increase...",
+  "summary": "Analyze earnings measurement or manipulation concepts in financial analysis.",
+  "prompt": "Which of the following will likely lead to an increase in a company's return on equity (ROE)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Guarantee future performance"
+    },
+    {
+      "id": "B",
+      "text": "Increasing debt can lead to a higher return on equity, provided that the return"
+    },
+    {
+      "id": "C",
+      "text": "Increasing debt (if return > cost)"
+    },
+    {
+      "id": "D",
+      "text": "Firm value decreases due to higher risk"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Increasing debt can lead to a higher return on equity, provided that the return on the borrowed funds exceeds the cost of that debt. This leverage effect can amplify ROE, making it a critical factor in financial strategy. However, it also increases risk, which must be managed carefully."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p282",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "expected-return",
+    "market-risk-premium",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If a firm has an expected return of 15%, what...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If a firm has an expected return of 15%, what is the risk premium if the risk-free rate is 5%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "11%"
+    },
+    {
+      "id": "B",
+      "text": "15%"
+    },
+    {
+      "id": "C",
+      "text": "14%"
+    },
+    {
+      "id": "D",
+      "text": "9%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Risk Premium = Expected Return - Risk-Free Rate = 15% - 5% = 10%."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p238",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Basis Risk: What is the impact of a short hedge if the...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "What is the impact of a short hedge if the basis weakens?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Natural hedging through operations"
+    },
+    {
+      "id": "B",
+      "text": "If the basis weakens, the short hedger will incur a loss"
+    },
+    {
+      "id": "C",
+      "text": "A swap agreement"
+    },
+    {
+      "id": "D",
+      "text": "Total cost of holding (storage + financing)"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "If the basis weakens, the short hedger will incur a loss because the futures price decreases relative to the spot price, undermining the effectiveness of the hedge."
+}

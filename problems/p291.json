@@ -1,0 +1,40 @@
+{
+  "id": "p291",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capital Structure: Which of the following best describes the concept of financial...",
+  "summary": "Analyze a concept in theories of finance related to Capital Structure.",
+  "prompt": "Which of the following best describes the concept of financial leverage?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "B",
+      "text": "Step 2: Understand that while leverage can amplify returns, it also"
+    },
+    {
+      "id": "C",
+      "text": "Firm value decreases due to higher risk"
+    },
+    {
+      "id": "D",
+      "text": "Cost of equity increases"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define financial leverage as the use of debt to acquire additional assets. <br>Step 2: Understand that while leverage can amplify returns, it also increases risk. <br>Step 3: Conclude that B accurately describes financial leverage as it focuses on increasing potential return through the use of debt."
+}

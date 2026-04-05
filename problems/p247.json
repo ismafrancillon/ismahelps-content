@@ -1,0 +1,41 @@
+{
+  "id": "p247",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: A portfolio has an expected return of 0.1 and a...",
+  "summary": "Calculate the Sharpe ratio from portfolio excess return over the risk-free rate divided by standard deviation.",
+  "prompt": "A portfolio has an expected return of 10% and a standard deviation of 15%. If the risk-free rate is 3%, what is the Sharpe Ratio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.40"
+    },
+    {
+      "id": "B",
+      "text": "0.47"
+    },
+    {
+      "id": "C",
+      "text": "0.33"
+    },
+    {
+      "id": "D",
+      "text": "0.35"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Sharpe Ratio = (E(r) - r_f) / σ = (10% - 3%) / 15% = 0.47."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p229",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Margin Accounts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Margin Accounts: How does margin work in...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "How does margin work in futures trading?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Difference between spot and futures prices"
+    },
+    {
+      "id": "B",
+      "text": "In futures trading, margin acts as a performance bond to ensure that both"
+    },
+    {
+      "id": "C",
+      "text": "Price and yield move inversely"
+    },
+    {
+      "id": "D",
+      "text": "Daily settlement of gains/losses"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "In futures trading, margin acts as a performance bond to ensure that both parties meet their obligations. It is adjusted daily based on market fluctuations. This system helps reduce default risk by requiring parties to maintain sufficient funds in their margin accounts."
+}

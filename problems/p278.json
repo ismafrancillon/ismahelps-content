@@ -1,0 +1,41 @@
+{
+  "id": "p278",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "governance",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: How does the presence of agency costs influence a firm's...",
+  "summary": "Evaluate how agency costs influence capital structure decisions.",
+  "prompt": "How does the presence of agency costs influence a firm's capital structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "B",
+      "text": "Step 2: Recognize that high agency costs often lead to a preference for"
+    },
+    {
+      "id": "C",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "D",
+      "text": "Cost of equity increases"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define agency costs as the costs arising from conflicts of interest between stakeholders. <br>Step 2: Recognize that high agency costs often lead to a preference for equity financing, as it avoids the obligations and scrutiny associated with debt. <br>Step 3: Therefore, B correctly reflects the influence of agency costs on capital structure decisions."
+}

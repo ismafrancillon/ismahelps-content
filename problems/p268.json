@@ -1,0 +1,41 @@
+{
+  "id": "p268",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Cash Flow Modeling",
+  "subtopic": "Real Estate Income Statement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Real Estate Income Statement: A multifamily property is expected to generate 10000 per month...",
+  "summary": "Calculate or interpret NOI in real estate investment analysis.",
+  "prompt": "A multifamily property is expected to generate $10,000 per month in rent and has an operating expense ratio of 30%. What is the NOI?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$50,400"
+    },
+    {
+      "id": "B",
+      "text": "$84,000"
+    },
+    {
+      "id": "C",
+      "text": "$75,600"
+    },
+    {
+      "id": "D",
+      "text": "$126,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Key Variables**: Monthly Rent = $10,000; Annual Rent = $10,000 × 12 = $120,000; Operating Expense Ratio = 30% (0.30). **Step 2: Calculate Operating Expenses**: Operating Expenses = Annual Rent × Operating Expense Ratio = $120,000 × 0.30 = $36,000. **Step 3: Calculate NOI**: NOI = Annual Rent - Operating Expenses = $120,000 - $36,000 = $84,000. Thus, the net operating income is $84,000."
+}

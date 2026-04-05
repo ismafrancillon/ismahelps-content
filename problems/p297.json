@@ -1,0 +1,45 @@
+{
+  "id": "p297",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "American Options, Return Options",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "american-option",
+    "put-option",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "American Options, Return Options: A local retail store allows you to return the merchandise...",
+  "summary": "Identify the type of real option embedded in a store return policy by analyzing put-like features.",
+  "prompt": "A local retail store allows you to return the merchandise you purchase and get your money back for up to 30 days after the purchase date. The store has, in effect, provided each shopper with _______________ options. A) American Call. B) European Call. C) American Put. D) European Put. E) Convertible bond.",
+  "options": [
+    {
+      "id": "A",
+      "text": "American Call"
+    },
+    {
+      "id": "B",
+      "text": "European Call"
+    },
+    {
+      "id": "C",
+      "text": "American Put"
+    },
+    {
+      "id": "D",
+      "text": "European Put"
+    },
+    {
+      "id": "E",
+      "text": "Convertible bond"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The correct answer to the question is **C) American Put**. Here’s the rationale broken down step-by-step:\n\n### Step 1: Understanding the Concept of Options\n- **Options** are financial derivatives that give the holder the right, but not the obligation, to buy or sell an asset at a predetermined price before or at a specified expiration date. \n- **Put options** specifically give the holder the right to sell an asset at a predetermined price, which is analogous to the ability to return merchandise for a refund.\n\n### Step 2: Analyzing the Scenario\n- The scenario describes a local retail store that allows customers to return merchandise for up to 30 days after purchase. This effectively gives shoppers the opportunity to \"sell\" their merchandise back to the store at the original purchase price within a specified timeframe.\n- This aligns closely with the characteristics of a **put option**, where the buyer has the right to sell an asset at a set price.\n\n### Step 3: Differentiating Between American and European Options\n- **American options** can be exercised at any time before or on the expiration date. In this case, since shoppers can return items at any point within 30 days, it reflects the flexibility of American options.\n- **European options**, on the other hand, can only be exercised at the expiration date. Since the scenario allows returns over a period of time, it does not fit the definition of a European option.\n\n### Conclusion\nThus, the store's return policy effectively provides shoppers with **American Put** options because:\n- They have the right to return merchandise (sell it back) at a fixed price (the original price) within a specified timeframe (30 days).\n- This flexibility aligns perfectly with the characteristics of American put options, confirming that the answer is **C) American Put**."
+}

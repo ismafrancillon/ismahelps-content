@@ -1,0 +1,40 @@
+{
+  "id": "p230",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: If a trader buys a call option with a strike...",
+  "summary": "Calculate the breakeven price for a call option as strike price plus premium.",
+  "prompt": "If a trader buys a call option with a strike price of $50 for a premium of $5, what is their breakeven point?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$50"
+    },
+    {
+      "id": "B",
+      "text": "$55"
+    },
+    {
+      "id": "C",
+      "text": "$28"
+    },
+    {
+      "id": "D",
+      "text": "$58"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The breakeven point is calculated as Strike Price + Premium = $50 + $5 = $55. [[24]]"
+}

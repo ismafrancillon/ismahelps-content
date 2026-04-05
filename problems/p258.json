@@ -1,0 +1,41 @@
+{
+  "id": "p258",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Fixed-Income Securities",
+  "subtopic": "The Term Structure of Interest Rates",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "duration",
+    "bond-pricing",
+    "interest-rates",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "The Term Structure of Interest Rates: If you have a bond portfolio with a weighted average...",
+  "summary": "Calculate approximate bond portfolio price change using duration and interest rate changes.",
+  "prompt": "If you have a bond portfolio with a weighted average duration of 6 years and interest rates increase by 50 basis points, what is the approximate percentage price change of the bond portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.6%"
+    },
+    {
+      "id": "B",
+      "text": "0.5%"
+    },
+    {
+      "id": "C",
+      "text": "1.5%"
+    },
+    {
+      "id": "D",
+      "text": "4.5%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Key Variables<br> Duration = 6 years, Change in interest rate = 0.50%<br><br> Step 2: Use Duration Formula<br> Price change = -Duration * Change in interest rate<br> Price change = -6 * 0.005 = -0.03 or -3%<br><br> Step 3: Confirm Calculation<br> This indicates the bond portfolio's price will decrease by approximately 3% in response to the interest rate increase."
+}

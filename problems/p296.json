@@ -1,0 +1,40 @@
+{
+  "id": "p296",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Bond Valuation",
+  "subtopic": "Yield to Maturity",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "yield-curve",
+    "interest-rates",
+    "interpretation"
+  ],
+  "title": "Yield to Maturity: The convex shape of the bond price-yield curve shows: I....",
+  "summary": "Evaluate properties of the convex bond price-yield curve including slope, curvature, and price change asymmetry.",
+  "prompt": "The convex shape of the bond price-yield curve shows: I. The curve is always downward sloping. II. The curve is flatter when the yield is high. III. For 1% changes in the interest rate, the decreases in the bond price when the interest rate increases are greater than increases in the bond price when the interest rate decreases. Select one: A. Only I is correct. B. Both I and II are correct. C. Both I and III are correct. D. All statements are correct",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only I is correct"
+    },
+    {
+      "id": "B",
+      "text": "Both I and II are correct"
+    },
+    {
+      "id": "C",
+      "text": "Both I and III are correct"
+    },
+    {
+      "id": "D",
+      "text": "All statements are correct"
+    }
+  ],
+  "correct_option": "Both I and II are correct.",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The convex shape of the bond price-yield curve shows: I. The curve is always downward sloping. II. The curve is flatter when the yield is high. III. For 1% changes in the interest rate, the decreases in the bond price when the interest rate increases are greater than increases in the bond price when the interest rate decreases. Select one: A. Only I is correct. B. Both I and II are correct. C. Both I and III are correct. D. All statements are correct. Answer: B. Both I and II are correct. Explanation: 1. **Statement I**: The bond price-yield curve is always downward sloping because as the yield (interest rate) increases, the present value of the bond's future cash flows decreases, leading to a lower bond price. This is a fundamental characteristic of the bond price-yield relationship. 2. **Statement II**: The curve is flatter when the yield is high because at higher yields, the bond price becomes less sensitive to changes in yield. This means that the price changes less for a given change in yield, resulting in a flatter curve. This is due to the convexity of the bond price-yield relationship, which shows that price sensitivity decreases as yields increase. 3. **Statement III**: This statement is incorrect. The convexity of the bond price-yield curve implies that for a given change in yield, the increase in bond price when yields decrease is greater than the decrease in bond price when yields increase. This means that the bond price is more sensitive to decreases in yield than to increases in yield. Therefore, the correct answer is B. Both I and II are correct."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p248",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "beta",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: A portfolio manager’s alpha is...",
+  "summary": "Define alpha as excess return above the CAPM-predicted expected return.",
+  "prompt": "A portfolio manager’s alpha is defined as:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Standard deviation of returns"
+    },
+    {
+      "id": "B",
+      "text": "Alpha represents the excess return of a portfolio above the expected return"
+    },
+    {
+      "id": "C",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "D",
+      "text": "Unsystematic (diversifiable) risk"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Alpha represents the excess return of a portfolio above the expected return predicted by the CAPM, indicating manager skill."
+}

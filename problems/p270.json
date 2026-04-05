@@ -1,0 +1,40 @@
+{
+  "id": "p270",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Functions",
+  "subtopic": "Property Management",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Property Management: What function does property management...",
+  "summary": "Describe property management functions including maintenance, security, and administration.",
+  "prompt": "What function does property management serve in real estate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Proportion of debt financing"
+    },
+    {
+      "id": "B",
+      "text": "Property management is essential for the daily operation of a property"
+    },
+    {
+      "id": "C",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "D",
+      "text": "Measures ability to meet short-term obligations"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Property management is essential for the daily operation of a property. It encompasses housekeeping, security, maintenance, and repairs, as well as the administration of the property, including rent collection and expense management. Effective property management ensures the property's value is maintained and operational efficiency is achieved, impacting overall investment returns."
+}

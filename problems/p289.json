@@ -1,0 +1,40 @@
+{
+  "id": "p289",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Time Value of Money",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Time Value of Money: What is the present value of an annuity that pays...",
+  "summary": "Calculate the present value of an ordinary annuity using the annuity present value formula.",
+  "prompt": "What is the present value of an annuity that pays $1,200 per year for 10 years at a discount rate of 5%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$12,000"
+    },
+    {
+      "id": "B",
+      "text": "$10,000"
+    },
+    {
+      "id": "C",
+      "text": "$9,000"
+    },
+    {
+      "id": "D",
+      "text": "$7,500"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "PV = PMT × [(1 - (1 + r)^-n) / r] = 1,200 × [(1 - (1 + 0.05)^-10) / 0.05] = $10,000."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p264",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "efficient-frontier",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: What is the role of the Treynor-Black model in active...",
+  "summary": "Describe the Treynor-Black model's approach of combining active picks with a passive index.",
+  "prompt": "What is the role of the Treynor-Black model in active portfolio management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Provide insights into performance trends"
+    },
+    {
+      "id": "B",
+      "text": "The Treynor-Black model plays a crucial role in active portfolio management by"
+    },
+    {
+      "id": "C",
+      "text": "Equal to the weighted average return"
+    },
+    {
+      "id": "D",
+      "text": "Calculated using weights and standard deviations"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The Treynor-Black model plays a crucial role in active portfolio management by providing a systematic method for constructing a portfolio using a limited number of securities that have been analyzed by an investor. It combines the alpha of selected securities with a market index to create an optimal risky portfolio. This allows an investor to benefit from their security analysis while still maintaining a diversified approach."
+}

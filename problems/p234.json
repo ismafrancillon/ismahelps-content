@@ -1,0 +1,40 @@
+{
+  "id": "p234",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: If the current stock price is $100, the strike price...",
+  "summary": "Calculate the intrinsic value of a call option from stock price and strike price.",
+  "prompt": "If the current stock price is $100, the strike price is $90, and the risk-free rate is 5%, what is the intrinsic value of a call option?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$15"
+    },
+    {
+      "id": "B",
+      "text": "$10"
+    },
+    {
+      "id": "C",
+      "text": "$11"
+    },
+    {
+      "id": "D",
+      "text": "$13"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The intrinsic value of a call option is calculated as max(0, Stock Price - Strike Price) = max(0, 100 - 90) = $10. [[24]]"
+}

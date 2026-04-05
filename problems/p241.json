@@ -1,0 +1,40 @@
+{
+  "id": "p241",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Futures",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Futures: When is it advantageous to use a futures contract instead...",
+  "summary": "Distinguish futures from forward contracts based on standardization and exchange trading.",
+  "prompt": "When is it advantageous to use a futures contract instead of a forward contract?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only the storage cost"
+    },
+    {
+      "id": "B",
+      "text": "Futures contracts are standardized and traded on exchanges"
+    },
+    {
+      "id": "C",
+      "text": "An options contract for downside protection"
+    },
+    {
+      "id": "D",
+      "text": "Daily margin requirement"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Futures contracts are standardized and traded on exchanges, which generally provides greater liquidity than forward contracts that are customized and traded OTC. This liquidity can lead to better pricing and lower transaction costs for traders."
+}

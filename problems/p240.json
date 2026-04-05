@@ -1,0 +1,41 @@
+{
+  "id": "p240",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "american-option",
+    "options",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Call: What type of options can be exercised at any time...",
+  "summary": "Identify American options as exercisable at any time before expiration.",
+  "prompt": "What type of options can be exercised at any time before expiration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "B",
+      "text": "American options can be exercised at any time before expiration, while European"
+    },
+    {
+      "id": "C",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "D",
+      "text": "Risk-free interest rate"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "American options can be exercised at any time before expiration, while European options can only be exercised at expiration. [[24]]"
+}

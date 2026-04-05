@@ -1,0 +1,40 @@
+{
+  "id": "p265",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: Which of the following is a limitation of active portfolio...",
+  "summary": "Analyze a portfolio management concept related to Active Management and Performance Measurement.",
+  "prompt": "Which of the following is a limitation of active portfolio management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily margin requirement"
+    },
+    {
+      "id": "B",
+      "text": "A significant limitation of active portfolio management is the increased"
+    },
+    {
+      "id": "C",
+      "text": "Only the storage cost"
+    },
+    {
+      "id": "D",
+      "text": "Expected profit from holding"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A significant limitation of active portfolio management is the increased transaction costs associated with frequent trading and security analysis. While active management offers the potential for higher returns, these costs can erode the net benefits of the returns generated, making it challenging for managers to consistently outperform passive strategies on a risk-adjusted basis."
+}

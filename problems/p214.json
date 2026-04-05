@@ -1,0 +1,41 @@
+{
+  "id": "p214",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Option Pricing Theory",
+  "subtopic": "Option to Delay",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-pricing",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Option to Delay: Which of the following best describes the \"option to delay\"...",
+  "summary": "Describe the option to delay as the value of waiting under investment uncertainty.",
+  "prompt": "Which of the following best describes the \"option to delay\" in investment analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "B",
+      "text": "The \"option to delay\" refers to the opportunity to wait before making an"
+    },
+    {
+      "id": "C",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "D",
+      "text": "Option premium"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The \"option to delay\" refers to the opportunity to wait before making an investment decision, particularly in volatile markets where future cash flows are uncertain. This option allows firms to maximize potential returns by making informed decisions based on changing market conditions, as discussed in the materials on pages 65 to 66."
+}

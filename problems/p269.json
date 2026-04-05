@@ -1,0 +1,41 @@
+{
+  "id": "p269",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Loan to Value (LTV)",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "financial-ratios",
+    "solvency",
+    "debt-to-equity",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Loan to Value (LTV): If a property has a total value of 1000000 and...",
+  "summary": "Calculate the loan-to-value ratio from loan amount and total property value.",
+  "prompt": "If a property has a total value of $1,000,000 and a loan of $600,000, what is the loan-to-value (LTV) ratio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "66%"
+    },
+    {
+      "id": "B",
+      "text": "60%"
+    },
+    {
+      "id": "C",
+      "text": "72%"
+    },
+    {
+      "id": "D",
+      "text": "62%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Variables**: Total Value = $1,000,000; Loan Amount = $600,000. **Step 2: Calculate LTV Ratio**: LTV = Loan Amount / Total Value. **Step 3: Solve**: LTV = $600,000 / $1,000,000 = 0.60 or 60%. Thus, the LTV ratio is 60%."
+}

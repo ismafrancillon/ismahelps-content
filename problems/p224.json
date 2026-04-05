@@ -1,0 +1,40 @@
+{
+  "id": "p224",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "expected-return",
+    "calculation",
+    "economics",
+    "short-answer"
+  ],
+  "title": "Derivative Instruments: A stock's price is currently 100 If the price is...",
+  "summary": "Calculate the expected return from an investment's current and anticipated future price.",
+  "prompt": "A stock's price is currently $100. If the price is expected to rise to $120, what is the expected return?",
+  "options": [
+    {
+      "id": "A",
+      "text": "17%"
+    },
+    {
+      "id": "B",
+      "text": "20%"
+    },
+    {
+      "id": "C",
+      "text": "30%"
+    },
+    {
+      "id": "D",
+      "text": "18%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Expected return = (Future Price - Current Price) / Current Price = (120 - 100) / 100 = 20%. [[24]]"
+}

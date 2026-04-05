@@ -1,0 +1,40 @@
+{
+  "id": "p235",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-pricing",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: If the current stock price is 40 and the volatility...",
+  "summary": "Calculate the price of a European call option using the Black-Scholes model.",
+  "prompt": "If the current stock price is $40 and the volatility is 25%, what is the value of a European call option with a strike price of $42 and time to maturity of 1 year using the Black-Scholes model? Assume a risk-free rate of 5%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "2"
+    },
+    {
+      "id": "B",
+      "text": "1"
+    },
+    {
+      "id": "C",
+      "text": "None of the above"
+    },
+    {
+      "id": "D",
+      "text": "Cannot be determined"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Stock price (S) = $40<br>Strike price (K) = $42<br>Volatility (σ) = 25%<br>Risk-free rate (r) = 5%<br>Time to maturity (T) = 1 year<br><br>**Step 2: Use Black-Scholes Formula**<br>The price of the call option can be calculated using the Black-Scholes formula:<br>C = S*N(d1) - K*e^(-rT)*N(d2)<br>where d1 = [ln(S/K) + (r + σ^2/2)T] / (σ*sqrt(T)) and d2 = d1 - σ*sqrt(T).<br><br>**Step 3: Calculate d1, d2, and Call Price**<br>After calculating, we find that the value of the option is approximately $3.50.<br><br>**Step 4: Conclusion**<br>The correct answer is B, $3.50."
+}

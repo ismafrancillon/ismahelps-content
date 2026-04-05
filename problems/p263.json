@@ -1,0 +1,41 @@
+{
+  "id": "p263",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "beta",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: What is the primary focus...",
+  "summary": "Identify the Treynor measure's focus on systematic risk (beta) rather than total risk.",
+  "prompt": "What is the primary focus of the Treynor measure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Expected excess return per unit of risk"
+    },
+    {
+      "id": "B",
+      "text": "The Treynor measure evaluates the performance of a portfolio relative to its"
+    },
+    {
+      "id": "C",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "D",
+      "text": "Slope of the security market line"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The Treynor measure evaluates the performance of a portfolio relative to its systematic risk, as measured by beta."
+}

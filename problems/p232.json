@@ -1,0 +1,41 @@
+{
+  "id": "p232",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Trading Strategies Involving Options",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "hedging",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Trading Strategies Involving Options: If an investor writes a covered call option, what is...",
+  "summary": "Analyze options trading strategies and their payoff characteristics.",
+  "prompt": "If an investor writes a covered call option, what is the primary risk exposure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Option premium"
+    },
+    {
+      "id": "B",
+      "text": "The primary risk of a covered call is that the stock may appreciate above the"
+    },
+    {
+      "id": "C",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "D",
+      "text": "The strike price"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The primary risk of a covered call is that the stock may appreciate above the strike price, leading to the potential loss of additional gains the investor would have realized had they not sold the call."
+}

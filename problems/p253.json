@@ -1,0 +1,41 @@
+{
+  "id": "p253",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: If an investor has an annual return of 0.15 and...",
+  "summary": "Calculate the Sharpe ratio from portfolio excess return over the risk-free rate divided by standard deviation.",
+  "prompt": "If an investor has an annual return of 15% and a risk-free rate of 5%, what is the investor's Sharpe ratio if the standard deviation of the portfolio return is 20%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.75"
+    },
+    {
+      "id": "B",
+      "text": "0.50"
+    },
+    {
+      "id": "C",
+      "text": "0.42"
+    },
+    {
+      "id": "D",
+      "text": "0.55"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Variables<br> Return of portfolio (rp) = 15%, Risk-free rate (rf) = 5%, Standard deviation (σ) = 20%<br><br> Step 2: Use Sharpe Ratio Formula<br> Sharpe Ratio = (rp - rf) / σ<br> Sharpe Ratio = (0.15 - 0.05) / 0.20<br><br> Step 3: Calculate Sharpe Ratio<br> Sharpe Ratio = 0.10 / 0.20 = 0.5. Hence the Sharpe ratio is 0.5."
+}

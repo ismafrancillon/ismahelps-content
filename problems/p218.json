@@ -1,0 +1,41 @@
+{
+  "id": "p218",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Leveraged Buyouts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "cost-of-debt",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Leveraged Buyouts: In a leveraged buyout (LBO), the buyer primarily uses what...",
+  "summary": "Identify debt as the primary source of financing used in leveraged buyout transactions.",
+  "prompt": "In a leveraged buyout (LBO), the buyer primarily uses what to finance the acquisition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Same share price as before"
+    },
+    {
+      "id": "B",
+      "text": "LBOs are characterized by the use of significant amounts of debt to finance the"
+    },
+    {
+      "id": "C",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "D",
+      "text": "A formal tender offer to shareholders"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "LBOs are characterized by the use of significant amounts of debt to finance the acquisition of a company."
+}

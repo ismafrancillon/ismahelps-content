@@ -1,0 +1,41 @@
+{
+  "id": "p249",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "risk-free-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: An investor wants to form a portfolio that has an...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "An investor wants to form a portfolio that has an expected return of 12%. If they are investing 50% in a stock with an expected return of 20% and the rest in a risk-free asset with a return of 3%, how much should they invest in the risk-free asset?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8%"
+    },
+    {
+      "id": "B",
+      "text": "12%"
+    },
+    {
+      "id": "C",
+      "text": "6%"
+    },
+    {
+      "id": "D",
+      "text": "10%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Set up the equation: 0.5(20%) + 0.5(r_f) = 12%. Solve for r_f."
+}

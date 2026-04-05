@@ -1,0 +1,41 @@
+{
+  "id": "p202",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Equity",
+  "subtopic": "Beta",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "beta",
+    "systematic-risk",
+    "capm",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Beta: What does \"beta\" represent in the context of investment analysis?...",
+  "summary": "Calculate beta or apply it within the CAPM framework for asset pricing.",
+  "prompt": "What does \"beta\" represent in the context of investment analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Standard deviation of returns"
+    },
+    {
+      "id": "B",
+      "text": "Beta is a measure of an investment's volatility in relation to the overall"
+    },
+    {
+      "id": "C",
+      "text": "Slope of the security market line"
+    },
+    {
+      "id": "D",
+      "text": "Correlation with market portfolio"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Beta is a measure of an investment's volatility in relation to the overall market. A beta of 1 indicates that the investment's price will move with the market, greater than 1 indicates more volatility than the market, and less than 1 indicates less volatility. This measure is critical in determining the cost of equity since it adjusts the expected return based on the relative risk of the investment compared to market movements. This is explained in the materials on pages 15 and 20."
+}

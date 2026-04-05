@@ -1,0 +1,41 @@
+{
+  "id": "p274",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-equity",
+    "cost-of-debt",
+    "capital-structure",
+    "calculation"
+  ],
+  "title": "Corporate Financing Decisions: A firm has a cost of equity of 0.12 and...",
+  "summary": "Calculate WACC from the weighted costs of equity and debt.",
+  "prompt": "A firm has a cost of equity of 12% and a cost of debt of 8%. If the firm has a debt-to-equity ratio of 0.5, what is the WACC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "15%"
+    },
+    {
+      "id": "B",
+      "text": "10%"
+    },
+    {
+      "id": "C",
+      "text": "6%"
+    },
+    {
+      "id": "D",
+      "text": "12%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Cost of equity = 0.12, Cost of debt = 0.08, Debt-to-equity ratio = 0.5. <br> **Step 2: Calculate Weights**<br>Weight of Equity = 1 / (1 + 0.5) = 0.67, Weight of Debt = 0.5 / (1 + 0.5) = 0.33. <br> **Step 3: Calculate WACC**<br>WACC = (0.67 * 0.12) + (0.33 * 0.08) = 0.10 or 10%."
+}

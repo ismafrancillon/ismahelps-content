@@ -1,0 +1,41 @@
+{
+  "id": "p256",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "risk-free-rate",
+    "calculation"
+  ],
+  "title": "CAPM: If the expected return on a portfolio is 15%, and...",
+  "summary": "Calculate the expected return on equity using CAPM given beta, risk-free rate, and market return.",
+  "prompt": "If the expected return on a portfolio is 15%, and its beta is 0.8, what is the risk-free rate if the market return is 12%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6%"
+    },
+    {
+      "id": "B",
+      "text": "4%"
+    },
+    {
+      "id": "C",
+      "text": "3%"
+    },
+    {
+      "id": "D",
+      "text": "1%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using CAPM: E(r) = r_f + β[E(r_m) - r_f] => 15% = r_f + 0.8(12% - r_f). Solving gives r_f = 4%."
+}

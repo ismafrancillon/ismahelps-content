@@ -1,0 +1,40 @@
+{
+  "id": "p213",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Historical Growth Rates",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "growth-rate",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Historical Growth Rates: When estimating growth rates, why is it important to consider...",
+  "summary": "Assess the role of historical growth rates as indicators for estimating future firm growth.",
+  "prompt": "When estimating growth rates, why is it important to consider historical growth rates?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Always distributed as dividends"
+    },
+    {
+      "id": "B",
+      "text": "Historical growth rates are important"
+    },
+    {
+      "id": "C",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "D",
+      "text": "Growth = ROE × Retention ratio"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Historical growth rates are important because they provide a baseline or reference point for estimating future growth. By analyzing past performance, investors can better understand trends, the company's potential for future earnings, and the sustainability of growth. This approach is crucial in investment analysis and is discussed in the context of estimating growth in the course materials, particularly on pages 18 and 19."
+}

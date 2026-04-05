@@ -1,0 +1,40 @@
+{
+  "id": "p246",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: A portfolio consists of two assets, A and B, where...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "A portfolio consists of two assets, A and B, where A has a weight of 0.6 and a return of 10% and B has a weight of 0.4 and a return of 15%. What is the portfolio's expected return?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6%"
+    },
+    {
+      "id": "B",
+      "text": "12%"
+    },
+    {
+      "id": "C",
+      "text": "9%"
+    },
+    {
+      "id": "D",
+      "text": "17%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "E(r) = 0.6(10%) + 0.4(15%) = 6% + 6% = 12%."
+}

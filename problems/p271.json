@@ -1,0 +1,40 @@
+{
+  "id": "p271",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Debt Service Coverage Ratio (DSCR)",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "financial-ratios",
+    "solvency",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Debt Service Coverage Ratio (DSCR): What is the debt service coverage ratio (DSCR) for a...",
+  "summary": "Calculate DSCR by dividing NOI by total debt service payments.",
+  "prompt": "What is the debt service coverage ratio (DSCR) for a property with NOI of $300,000 and annual debt service of $250,000?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.14"
+    },
+    {
+      "id": "B",
+      "text": "1.20"
+    },
+    {
+      "id": "C",
+      "text": "1.50"
+    },
+    {
+      "id": "D",
+      "text": "0.72"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**: NOI = $300,000; Annual Debt Service = $250,000. **Step 2: Use DSCR Formula**: DSCR = NOI / Debt Service. **Step 3: Solve**: DSCR = $300,000 / $250,000 = 1.2. Thus, the debt service coverage ratio is 1.2."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p255",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "risk-free-rate",
+    "calculation"
+  ],
+  "title": "CAPM: If the expected return on a portfolio is 0.1 and...",
+  "summary": "Calculate the expected return on equity using CAPM given beta, risk-free rate, and market return.",
+  "prompt": "If the expected return on a portfolio is 10% and its beta is 0.8, what would the risk-free rate be if the expected market return is 12%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Equal to the weighted average return"
+    },
+    {
+      "id": "B",
+      "text": "Using CAPM: E(r) = r_f + β[E(r_m) - r_f]"
+    },
+    {
+      "id": "C",
+      "text": "Unsystematic (diversifiable) risk"
+    },
+    {
+      "id": "D",
+      "text": "Depends on correlation between assets"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using CAPM: E(r) = r_f + β[E(r_m) - r_f]. Rearranging gives r_f = E(r) - β[E(r_m) - r_f]."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p237",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Futures",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Futures: What is a key characteristic of a futures contract compared...",
+  "summary": "Distinguish futures from forward contracts based on standardization and exchange trading.",
+  "prompt": "What is a key characteristic of a futures contract compared to a forward contract?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "B",
+      "text": "Futures contracts are standardized and traded on exchanges"
+    },
+    {
+      "id": "C",
+      "text": "A futures contract traded on an exchange"
+    },
+    {
+      "id": "D",
+      "text": "The strike price"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Futures contracts are standardized and traded on exchanges, which provides more liquidity compared to forward contracts that are customized and traded over-the-counter (OTC). Futures also have daily settlements that mitigate counterparty risk. Understanding the differences helps market participants choose the right instrument for their needs."
+}

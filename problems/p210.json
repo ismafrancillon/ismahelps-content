@@ -1,0 +1,41 @@
+{
+  "id": "p210",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Fundamental Determinants of Growth",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "retained-earnings",
+    "growth-rate",
+    "net-income",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Fundamental Determinants of Growth: What is the role of retained earnings in a firm's...",
+  "summary": "Assess the role of retained earnings in financing firm growth through reinvestment in business operations.",
+  "prompt": "What is the role of retained earnings in a firm's growth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Guarantee future performance"
+    },
+    {
+      "id": "B",
+      "text": "Retained earnings are the portion of net income that is retained in the company"
+    },
+    {
+      "id": "C",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "D",
+      "text": "It reduces total liabilities"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Retained earnings are the portion of net income that is retained in the company rather than distributed as dividends. These funds are typically reinvested in the business to finance growth initiatives, such as new projects or capital expenditures. This underscores the importance of retained earnings in sustaining a firm's growth trajectory."
+}

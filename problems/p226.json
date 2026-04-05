@@ -1,0 +1,40 @@
+{
+  "id": "p226",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Types of Orders and Trading Strategies",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Types of Orders and Trading Strategies: A trader has a long position in 10 contracts of...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A trader has a long position in 10 contracts of a futures market. If the price moves against them by $2, what is their total loss?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$1"
+    },
+    {
+      "id": "B",
+      "text": "$2"
+    },
+    {
+      "id": "C",
+      "text": "$4"
+    },
+    {
+      "id": "D",
+      "text": "$3"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The total loss is calculated as the price movement multiplied by the number of contracts multiplied by the contract size. Therefore, loss = $2 x 10 contracts x contract size."
+}

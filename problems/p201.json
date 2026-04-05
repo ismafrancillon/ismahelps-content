@@ -1,0 +1,41 @@
+{
+  "id": "p201",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Residual Income Model",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "intrinsic-value",
+    "return-on-equity",
+    "cost-of-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Residual Income Model: The primary purpose of the Residual Income Model is to:...",
+  "summary": "Describe the Residual Income Model's focus on excess return over required equity return.",
+  "prompt": "The primary purpose of the Residual Income Model is to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Adjusted Present Value (APV)"
+    },
+    {
+      "id": "B",
+      "text": "The Residual Income Model focuses on determining the intrinsic value of equity"
+    },
+    {
+      "id": "C",
+      "text": "Price-to-Earnings (P/E) ratio"
+    },
+    {
+      "id": "D",
+      "text": "Finance internal growth and new projects"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The Residual Income Model focuses on determining the intrinsic value of equity by assessing the excess return generated over the required return on equity. This model is particularly useful for valuing firms that do not pay dividends or have irregular dividend patterns, as highlighted in the materials on pages 41 and 42."
+}

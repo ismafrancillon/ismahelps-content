@@ -1,0 +1,44 @@
+{
+  "id": "p298",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Abnormal Returns, Market Expectations",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "expected-return",
+    "interpretation",
+    "mcq"
+  ],
+  "title": "Abnormal Returns, Market Expectations: Nicholas Manufacturing just announced yesterday that its fourth quarter earnings...",
+  "summary": "Interpret a negative abnormal return following positive earnings news in the context of market expectations.",
+  "prompt": "Nicholas Manufacturing just announced yesterday that its fourth quarter earnings will be 10% higher than last year's fourth quarter. You observe that Nicholas had an abnormal return of -1.2% yesterday. This suggests that: A) the market is not efficient. B) Nicholas' stock will probably rise in value tomorrow. C) investors expected the earnings increase to be larger than what was actually announced. D) investors expected the earnings increase to be smaller than what was actually announced. E) earnings are expected to decrease next quarter",
+  "options": [
+    {
+      "id": "A",
+      "text": "the market is not efficient"
+    },
+    {
+      "id": "B",
+      "text": "Nicholas' stock will probably rise in value tomorrow"
+    },
+    {
+      "id": "C",
+      "text": "investors expected the earnings increase to be larger than what was actually"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    },
+    {
+      "id": "E",
+      "text": "earnings are expected to decrease next quarter"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Answer: C) investors expected the earnings increase to be larger than what was actually announced. Explanation: 1. **Observation of Abnormal Return**: Nicholas Manufacturing announced that its fourth quarter earnings would be 10% higher than last year's fourth quarter. Despite this positive news, the stock experienced an abnormal return of -1.2% yesterday. 2. **Efficient Market Hypothesis**: According to the Efficient Market Hypothesis, stock prices reflect all available information. Therefore, any new information (such as an earnings announcement) should be quickly absorbed and reflected in the stock price. 3. **Market Expectations**: The negative abnormal return indicates that investors were disappointed by the earnings announcement. This suggests that investors had anticipated an even higher earnings increase than the 10% announced. When the actual increase was revealed to be lower than their expectations, the stock price adjusted downward to reflect this disappointment. In summary, the abnormal return of -1.2% indicates that investors were expecting a larger increase in earnings than what was announced, leading to the correct answer: C) investors expected the earnings increase to be larger than what was actually announced."
+}

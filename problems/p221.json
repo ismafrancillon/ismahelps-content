@@ -1,0 +1,40 @@
+{
+  "id": "p221",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Merger Professionals",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "governance",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Merger Professionals: What is the role of investment bankers in mergers and...",
+  "summary": "Describe the role of investment bankers in identifying targets, negotiating, and structuring M&A deals.",
+  "prompt": "What is the role of investment bankers in mergers and acquisitions?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The strike price"
+    },
+    {
+      "id": "B",
+      "text": "Investment bankers play a critical role in M&A by helping firms identify"
+    },
+    {
+      "id": "C",
+      "text": "Same share price as before"
+    },
+    {
+      "id": "D",
+      "text": "Significant debt financing"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Investment bankers play a critical role in M&A by helping firms identify suitable targets, facilitating negotiations, and advising on deal structuring and financing options."
+}

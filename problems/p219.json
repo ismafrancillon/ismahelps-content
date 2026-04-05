@@ -1,0 +1,40 @@
+{
+  "id": "p219",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Takeover Tactics",
+  "subtopic": "Tender Offers",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "governance",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Tender Offers: In the context of merger negotiations, what is a \"bear...",
+  "summary": "Define a bear hug as an informal preliminary overture from a bidder to target company management.",
+  "prompt": "In the context of merger negotiations, what is a \"bear hug\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A proxy contest for board control"
+    },
+    {
+      "id": "B",
+      "text": "A bear hug refers to an informal overture made by a bidder to the target"
+    },
+    {
+      "id": "C",
+      "text": "Same share price as before"
+    },
+    {
+      "id": "D",
+      "text": "Significant debt financing"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A bear hug refers to an informal overture made by a bidder to the target company's management, often as a preliminary step before launching a formal takeover bid."
+}

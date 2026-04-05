@@ -1,0 +1,41 @@
+{
+  "id": "p206",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Operating Leases",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-debt",
+    "financial-ratios",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Operating Leases: What is the main reason for firms to prefer using...",
+  "summary": "Identify why firms prefer operating leases for off-balance-sheet treatment and reduced reported debt.",
+  "prompt": "What is the main reason for firms to prefer using operating leases instead of capital leases?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It reduces net income"
+    },
+    {
+      "id": "B",
+      "text": "Firms often prefer operating leases"
+    },
+    {
+      "id": "C",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "D",
+      "text": "Measures ability to meet short-term obligations"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Firms often prefer operating leases because they do not appear as liabilities on the balance sheet, thus reducing the debt load and improving financial ratios. This can make a company appear more financially stable and capable of taking on additional debt if necessary. Moreover, operating leases can offer greater flexibility and lower upfront costs compared to capital leases, which require significant capital investments."
+}

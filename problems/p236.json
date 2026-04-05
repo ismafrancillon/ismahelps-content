@@ -1,0 +1,40 @@
+{
+  "id": "p236",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Factors Affecting Option Prices",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "intrinsic-value-option",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Factors Affecting Option Prices: In the context of options, what does the term \"intrinsic...",
+  "summary": "Identify key factors affecting option prices: volatility, time, underlying price, and interest rates.",
+  "prompt": "In the context of options, what does the term \"intrinsic value\" refer to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic value represents the actual value of an option if it were exercised"
+    },
+    {
+      "id": "C",
+      "text": "Adjusted Present Value (APV)"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic value of the option"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Intrinsic value represents the actual value of an option if it were exercised today, calculated as the difference between the current market price of the underlying asset and the strike price of the option. Understanding intrinsic value is crucial for evaluating options."
+}

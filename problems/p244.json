@@ -1,0 +1,41 @@
+{
+  "id": "p244",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "american-option",
+    "options",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Call: Which of the following is a feature of American options?...",
+  "summary": "Identify American options as exercisable at any time before expiration.",
+  "prompt": "Which of the following is a feature of American options?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "B",
+      "text": "American options can be exercised at any time before their expiration date,"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "The strike price"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "American options can be exercised at any time before their expiration date, unlike European options, which can only be exercised at expiration. [[24]]"
+}

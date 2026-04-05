@@ -1,0 +1,41 @@
+{
+  "id": "p281",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "growth-rate",
+    "return-on-equity",
+    "retained-earnings",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: If a firm has a return on equity (ROE) of...",
+  "summary": "Calculate the sustainable growth rate from ROE and the retention ratio.",
+  "prompt": "If a firm has a return on equity (ROE) of 15% and a retention ratio of 40%, what is its sustainable growth rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "12%"
+    },
+    {
+      "id": "B",
+      "text": "6%"
+    },
+    {
+      "id": "C",
+      "text": "11%"
+    },
+    {
+      "id": "D",
+      "text": "4%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>ROE = 0.15, Retention Ratio = 0.40. <br> **Step 2: Calculate Sustainable Growth Rate**<br>Sustainable Growth Rate = ROE * Retention Ratio = 0.15 * 0.40 = 0.06 or 6%."
+}

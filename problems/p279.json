@@ -1,0 +1,41 @@
+{
+  "id": "p279",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Capital Structure: If a company has 400000 in equity and its stock...",
+  "summary": "Analyze a concept in theories of finance related to Capital Structure.",
+  "prompt": "If a company has $400,000 in equity and its stock has a required return of 12%, what is the value of the firm if it has a debt-to-equity ratio of 0.5?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$900,000"
+    },
+    {
+      "id": "B",
+      "text": "$600,000"
+    },
+    {
+      "id": "C",
+      "text": "$450,000"
+    },
+    {
+      "id": "D",
+      "text": "$480,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using WACC: WACC = (E/V)rE + (D/V)rD(1-T) => V = D + E; hence, if D/E = 0.5, then V = $400,000 + $200,000 = $600,000."
+}

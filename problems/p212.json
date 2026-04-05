@@ -1,0 +1,40 @@
+{
+  "id": "p212",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Historical Growth Rates",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "growth-rate",
+    "valuation",
+    "interpretation",
+    "short-answer"
+  ],
+  "title": "Historical Growth Rates: What is the significance of historical growth rates in estimating...",
+  "summary": "Assess the role of historical growth rates as indicators for estimating future firm growth.",
+  "prompt": "What is the significance of historical growth rates in estimating future growth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "B",
+      "text": "Historical growth rates serve as critical indicators for estimating future"
+    },
+    {
+      "id": "C",
+      "text": "Increasing debt (if return > cost)"
+    },
+    {
+      "id": "D",
+      "text": "Growth = ROE × Retention ratio"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Historical growth rates serve as critical indicators for estimating future growth, as they provide insights into the company's performance trends and sustainability of growth. Analyzing past performance allows investors to make informed projections about the company's potential to replicate or exceed historical growth rates. This concept is emphasized in the materials, particularly on pages 18 and 19."
+}

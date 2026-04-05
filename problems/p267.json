@@ -1,0 +1,41 @@
+{
+  "id": "p267",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Cash Flow Modeling",
+  "subtopic": "Real Estate Income Statement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "revenues",
+    "expenses",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Real Estate Income Statement: A commercial property has an occupancy rate of 85%. If...",
+  "summary": "Calculate effective gross income by applying the occupancy rate to potential gross income.",
+  "prompt": "A commercial property has an occupancy rate of 85%. If the potential gross income (PGI) is $200,000, what is the effective gross income (EGI)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "83%"
+    },
+    {
+      "id": "B",
+      "text": "85%"
+    },
+    {
+      "id": "C",
+      "text": "42%"
+    },
+    {
+      "id": "D",
+      "text": "51%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Key Variables**: PGI = $200,000; Occupancy Rate = 85% (0.85). **Step 2: Calculate EGI**: EGI = PGI × Occupancy Rate. **Step 3: Solve**: EGI = $200,000 × 0.85 = $170,000. Thus, the effective gross income is $170,000."
+}

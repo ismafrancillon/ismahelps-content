@@ -1,0 +1,41 @@
+{
+  "id": "p292",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "governance",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capital Structure: Which of the following best describes the impact of agency...",
+  "summary": "Evaluate how agency costs influence capital structure decisions.",
+  "prompt": "Which of the following best describes the impact of agency costs on capital structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Firm value decreases due to higher risk"
+    },
+    {
+      "id": "B",
+      "text": "Step 2: Understand that high agency costs can lead managers to prefer"
+    },
+    {
+      "id": "C",
+      "text": "WACC decreases"
+    },
+    {
+      "id": "D",
+      "text": "Optimal level minimizes WACC"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define agency costs as the costs associated with conflicts of interest between stakeholders, primarily between owners and management. <br>Step 2: Understand that high agency costs can lead managers to prefer equity financing to avoid the increased scrutiny that debt requires. <br>Step 3: Thus, B accurately describes the impact of agency costs on capital structure decisions."
+}

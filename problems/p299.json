@@ -1,0 +1,44 @@
+{
+  "id": "p299",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "put-option",
+    "calculation"
+  ],
+  "title": "Payoff: Suppose that the price of a share of stock in...",
+  "summary": "Determine the maximum profit of an options portfolio by analyzing payoffs and premiums.",
+  "prompt": "Suppose that the price of a share of stock in ADT Co. is currently trading at $30/share. Consider building a portfolio with the following option positions: § Buy a put option with a strike price of $40 for a $2.5 premium. § Sell two put options each with a strike price of $24 for a $1 premium each. Which of the following is correct? A) The maximum profit of this portfolio is $16.00. B) All statements are incorrect. C) The maximum profit of this portfolio is 15.50 D) The maximum loss of this portfolio is $0. E) The maximum loss of this portfolio is unlimited",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "All statements are incorrect"
+    },
+    {
+      "id": "C",
+      "text": "The maximum profit of this portfolio is 15.50"
+    },
+    {
+      "id": "D",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "E",
+      "text": "All of the above"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The correct answer is C) The maximum profit of this portfolio is $15.50. Let's break down the calculations step-by-step to ensure clarity: 1. **Define the Option Positions:** - **Buy a put option with a strike price of $40 for a $2.5 premium:** This means you have the right to sell the stock at $40, and you pay $2.5 for this right. - **Sell two put options each with a strike price of $24 for a $1 premium each:** This means you are obligated to buy the stock at $24, and you receive $1 for each option sold, totaling $2. 2. **Calculate the Net Premium Paid/Received:** - **Premium paid for buying the $40 put:** $2.5 - **Premium received for selling two $24 puts:** $2 (since 2 * $1 = $2) - **Net premium paid:** $2.5 - $2 = $0.5 3. **Determine the Profit/Loss Scenarios:** - **Maximum profit scenario:** This occurs when the stock price is below $24 at expiration. In this case, both $24 puts are exercised, and the $40 put is also exercised. - **Maximum loss scenario:** This occurs when the stock price is above $40 at expiration. In this case, none of the puts are exercised. 4. **Calculate the Maximum Profit:** - **When the stock price is below $24:** - **Profit from buying the $40 put:** $40 - $24 = $16 (since the $40 put allows you to sell at $40 when the market price is $24) - **Loss from selling two $24 puts:** $24 - $24 = $0 (since the $24 puts are exercised, but you buy at the same price) - **Net profit:** $16 - $0.5 (net premium paid) = $15.5 5. **Calculate the Maximum Loss:** - **When the stock price is above $40:** - **Loss from buying the $40 put:** $2.5 (premium paid) - **Profit from selling two $24 puts:** $2 (premium received) - **Net loss:** $2.5 - $2 = $0.5 Therefore, the maximum profit of this portfolio is $15.50, which corresponds to option C."
+}

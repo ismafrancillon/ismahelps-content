@@ -1,0 +1,41 @@
+{
+  "id": "p215",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "From Earnings to Cash Flows",
+  "subtopic": "FCFE",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cash-flows",
+    "net-income",
+    "income-statement",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "FCFE: Which of the following best describes the relationship between operating...",
+  "summary": "Describe the relationship between operating income and FCFE after reinvestments.",
+  "prompt": "Which of the following best describes the relationship between operating income and free cash flow to equity (FCFE)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Guarantee future performance"
+    },
+    {
+      "id": "B",
+      "text": "Free cash flow to equity (FCFE) is derived from operating income after"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "Always distributed as dividends"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Free cash flow to equity (FCFE) is derived from operating income after accounting for capital expenditures and changes in working capital. It represents the cash available to equity holders after all operational expenses and reinvestments have been accounted for. This relationship is fundamental in financial analysis and is discussed in the materials, particularly on pages 47 and 48."
+}

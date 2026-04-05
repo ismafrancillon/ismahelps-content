@@ -1,0 +1,41 @@
+{
+  "id": "p287",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "cost-of-debt",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: What are the implications of the trade-off theory of capital...",
+  "summary": "Explain the trade-off theory balancing tax benefits of debt against bankruptcy costs.",
+  "prompt": "What are the implications of the trade-off theory of capital structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Expected profit from holding"
+    },
+    {
+      "id": "B",
+      "text": "Step 2: Recognize that it suggests an optimal capital structure exists"
+    },
+    {
+      "id": "C",
+      "text": "WACC decreases"
+    },
+    {
+      "id": "D",
+      "text": "Financial distress probability increases"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define the trade-off theory, which posits that firms seek to balance the tax benefits of debt against the costs of potential bankruptcy. <br>Step 2: Recognize that it suggests an optimal capital structure exists where the marginal benefit of debt equals its marginal cost. <br>Step 3: Conclude that B correctly reflects this balancing act, making it the right choice."
+}

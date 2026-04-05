@@ -1,0 +1,41 @@
+{
+  "id": "p211",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Equity",
+  "subtopic": "Market Risk Premium",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "market-risk-premium",
+    "capm",
+    "cost-of-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Market Risk Premium: What is the role of the equity market risk premium...",
+  "summary": "Analyze the market risk premium and its role in expected return calculations.",
+  "prompt": "What is the role of the equity market risk premium in investment valuation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Total risk of the investment"
+    },
+    {
+      "id": "B",
+      "text": "The equity market risk premium is the additional return that investors expect"
+    },
+    {
+      "id": "C",
+      "text": "Always distributed as dividends"
+    },
+    {
+      "id": "D",
+      "text": "Residual Income Model"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The equity market risk premium is the additional return that investors expect for taking on the higher risk associated with equity investments compared to risk-free investments. It is a critical component in the Capital Asset Pricing Model (CAPM) and is used to estimate the expected return on equity, which is essential for valuing stocks. This concept is discussed extensively in the course materials, particularly on pages 9 and 10."
+}

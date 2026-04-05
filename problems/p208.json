@@ -1,0 +1,41 @@
+{
+  "id": "p208",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "APV Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "discounted-cash-flow",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "APV Approach: What is the primary benefit of using the Adjusted Present...",
+  "summary": "Identify the benefit of APV in separating unlevered firm value from tax benefits of debt.",
+  "prompt": "What is the primary benefit of using the Adjusted Present Value (APV) approach for valuation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "B",
+      "text": "The primary benefit of the APV approach is that it separates the value of the"
+    },
+    {
+      "id": "C",
+      "text": "EV/EBITDA multiples"
+    },
+    {
+      "id": "D",
+      "text": "Provide insights into performance trends"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The primary benefit of the APV approach is that it separates the value of the unlevered firm from the value of the tax benefits of debt financing. This method allows analysts to assess the impact of leverage on a firm's value more clearly, making it particularly useful for firms with significant variations in their capital structure. This concept is elaborated on in the materials, especially on pages 55 and 56."
+}

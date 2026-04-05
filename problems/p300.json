@@ -1,0 +1,44 @@
+{
+  "id": "p300",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Bond Valuation",
+  "subtopic": "Yield to Maturity",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "yield-to-maturity",
+    "interpretation",
+    "mcq"
+  ],
+  "title": "Yield to Maturity: The £40 par value bond with maturity in two years...",
+  "summary": "Assess whether a bond is overvalued or undervalued by comparing its present value to its market price.",
+  "prompt": "The £40 par value bond with maturity in two years and £5 semi-annual coupon is trading for £50. If the Yield to maturity is 7%, the bond is: A) Over-valued B) Fairly-valued C) Under-valued D) Over-valued or undervalued applies only to stocks priced through CAPM. E) Insufficient Information",
+  "options": [
+    {
+      "id": "A",
+      "text": "Over-valued"
+    },
+    {
+      "id": "B",
+      "text": "Fairly-valued"
+    },
+    {
+      "id": "C",
+      "text": "Under-valued"
+    },
+    {
+      "id": "D",
+      "text": "Over-valued or undervalued applies only to stocks priced through CAPM"
+    },
+    {
+      "id": "E",
+      "text": "Insufficient Information"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "To determine whether the £40 par value bond with maturity in two years and £5 semi-annual coupon trading for £50 is over-valued, fairly-valued, or under-valued given a yield to maturity (YTM) of 7%, we need to calculate the bond's present value (PV) and compare it to its trading price. ### Step-by-Step Solution: 1. **Define Variables:** - **Face Value (F):** £40 - **Coupon Payment (C):** £5 (semi-annual) - **Yield to Maturity (YTM):** 7% annually (3.5% semi-annually) - **Number of Periods (n):** 2 years * 2 = 4 semi-annual periods - **Market Price (P):** £50 2. **Calculate Present Value of Coupon Payments:** The present value of the coupon payments can be calculated using the formula for the present value of an annuity: \\[ PV_{\\text{coupons}} = C \\times \\left( \\frac{1 - (1 + k)^{-n}}{k} \\right) \\] where \\( C \\) is the coupon payment, \\( k \\) is the semi-annual yield, and \\( n \\) is the number of periods. \\[ PV_{\\text{coupons}} = £5 \\times \\left( \\frac{1 - (1 + 0.035)^{-4}}{0.035} \\right) \\] 3. **Calculate Present Value of Face Value:** The present value of the face value is calculated using the present value of a lump sum formula: \\[ PV_{\\text{face}} = F \\times (1 + k)^{-n} \\] \\[ PV_{\\text{face}} = £40 \\times (1 + 0.035)^{-4} \\] 4. **Compute Each Component:** - \\( PV_{\\text{coupons}} \\): \\[ PV_{\\text{coupons}} = £5 \\times \\left( \\frac{1 - (1 + 0.035)^{-4}}{0.035} \\right) = £5 \\times 3.7177 = £18.5885 \\] - \\( PV_{\\text{face}} \\): \\[ PV_{\\text{face}} = £40 \\times (1 + 0.035)^{-4} = £40 \\times 0.8714 = £34.856 \\] 5. **Calculate Total Present Value:** \\[ PV_{\\text{total}} = PV_{\\text{coupons}} + PV_{\\text{face}} = £18.5885 + £34.856 = £53.4445 \\] 6. **Compare to Market Price:** - Trading Price: £50 - Calculated Present Value: £53.4445 ### Conclusion: Since the calculated present value (£53.4445) is higher than the trading price (£50), the bond is **under-valued**. Therefore, the correct answer is: **Answer: C) Under-valued**"
+}

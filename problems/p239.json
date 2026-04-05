@@ -1,0 +1,40 @@
+{
+  "id": "p239",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Margin Accounts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Margin Accounts: What is the primary purpose of using margin accounts in...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "What is the primary purpose of using margin accounts in futures trading?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily margin requirement"
+    },
+    {
+      "id": "B",
+      "text": "Margin accounts are used to guarantee that traders can fulfill their"
+    },
+    {
+      "id": "C",
+      "text": "Daily settlement of gains/losses"
+    },
+    {
+      "id": "D",
+      "text": "Compensatory damages"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Margin accounts are used to guarantee that traders can fulfill their contractual obligations, reducing the risk of default and ensuring market integrity."
+}

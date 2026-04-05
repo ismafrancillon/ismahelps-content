@@ -1,0 +1,41 @@
+{
+  "id": "p257",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "standard-deviation",
+    "variance",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: If the standard deviation of Stock A is 0.2 and...",
+  "summary": "Calculate portfolio standard deviation using asset weights, volatilities, and correlation.",
+  "prompt": "If the standard deviation of Stock A is 20% and Stock B is 30%, and the correlation between them is 0.5, what is the portfolio standard deviation if the weights are 0.5 for each?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "B",
+      "text": "σ² = w_A²σ_A² + w_B²σ_B² + 2w_Aw_BCov(A,B)"
+    },
+    {
+      "id": "C",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "D",
+      "text": "Calculated using weights and standard deviations"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "σ² = w_A²σ_A² + w_B²σ_B² + 2w_Aw_BCov(A,B). Calculate to find the portfolio standard deviation."
+}

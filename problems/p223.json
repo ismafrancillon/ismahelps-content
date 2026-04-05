@@ -1,0 +1,41 @@
+{
+  "id": "p223",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Futures",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "cash-flows",
+    "hedging",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Futures: A company wants to hedge against a price drop in...",
+  "summary": "Calculate the profit or loss from a futures position based on entry and exit prices.",
+  "prompt": "A company wants to hedge against a price drop in oil. If the current price of oil is $60 and the futures price for delivery in 3 months is $62, what is the profit/loss from the futures contract if the price drops to $55 at expiration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$74"
+    },
+    {
+      "id": "B",
+      "text": "$62"
+    },
+    {
+      "id": "C",
+      "text": "$31"
+    },
+    {
+      "id": "D",
+      "text": "$37"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br>Current price of oil = $60<br>Futures price = $62<br>Price at expiration = $55<br><br>**Step 2: Determine Profit/Loss**<br>The profit/loss from the futures contract can be calculated as:<br>Profit/Loss = Futures Price - Spot Price at Expiration<br>Profit/Loss = $62 - $55 = $7 profit<br><br>However, since the company is holding a short position to hedge, the company will incur a loss of $7 when the price drops.<br><br>**Step 3: Conclusion**<br>The correct answer is B, as the company loses $7 on the futures contract when the price drops to $55."
+}

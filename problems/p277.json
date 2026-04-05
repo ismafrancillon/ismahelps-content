@@ -1,0 +1,41 @@
+{
+  "id": "p277",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-debt",
+    "cost-of-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: How does the pecking-order theory suggest firms should prioritize their...",
+  "summary": "Describe the pecking-order theory's financing preference: retained earnings, then debt, then equity.",
+  "prompt": "How does the pecking-order theory suggest firms should prioritize their financing sources?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Firm value increases due to the tax shield"
+    },
+    {
+      "id": "B",
+      "text": "Step 2: Recognize that this is due to the costs associated with issuing new"
+    },
+    {
+      "id": "C",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "D",
+      "text": "Firm value decreases due to higher risk"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define the pecking-order theory, which states that firms prefer to finance new projects first with internal funds, then with debt, and finally with external equity as a last resort. <br>Step 2: Recognize that this is due to the costs associated with issuing new equity and the information asymmetry that exists. <br>Step 3: Conclude that B, which outlines the correct order of preference, accurately represents the theory."
+}

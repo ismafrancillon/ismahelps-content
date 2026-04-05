@@ -1,0 +1,41 @@
+{
+  "id": "p216",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Equity",
+  "subtopic": "Risk and Return",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "systematic-risk",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Risk and Return: Which of the following statements best describes the relationship between...",
+  "summary": "Analyze an investment analysis concept related to Risk and Return.",
+  "prompt": "Which of the following statements best describes the relationship between risk and the cost of equity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Growth = ROE × Retention ratio"
+    },
+    {
+      "id": "B",
+      "text": "The relationship between risk and the cost of equity is direct"
+    },
+    {
+      "id": "C",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "D",
+      "text": "Systematic risk relative to the market"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The relationship between risk and the cost of equity is direct; as the perceived risk of an investment increases, the required return by investors also increases, resulting in a higher cost of equity. This is captured in the Capital Asset Pricing Model (CAPM), which states that the expected return on equity is equal to the risk-free rate plus a premium based on the equity’s beta, which measures its volatility relative to the market. This concept is detailed in the FINA410 course materials, specifically on pages 9 and 10."
+}

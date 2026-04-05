@@ -1,0 +1,41 @@
+{
+  "id": "p254",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If the expected return of the market is 8%, the...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If the expected return of the market is 8%, the risk-free rate is 2%, and the beta of a stock is 1.2, what is the expected return of the stock?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4.8%"
+    },
+    {
+      "id": "B",
+      "text": "9.6%"
+    },
+    {
+      "id": "C",
+      "text": "12.6%"
+    },
+    {
+      "id": "D",
+      "text": "8.6%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using CAPM: E(r) = r_f + β[E(r_m) - r_f] = 2% + 1.2(8% - 2%) = 9.6%."
+}

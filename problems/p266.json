@@ -1,0 +1,41 @@
+{
+  "id": "p266",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "efficient-frontier",
+    "portfolio",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "CAPM: Which of the following statements about the Capital Market Line...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "Which of the following statements about the Capital Market Line (CML) is true?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Expected excess return per unit of risk"
+    },
+    {
+      "id": "B",
+      "text": "The Capital Market Line (CML) represents portfolios that optimally combine risk"
+    },
+    {
+      "id": "C",
+      "text": "Total risk of the investment"
+    },
+    {
+      "id": "D",
+      "text": "Unsystematic (diversifiable) risk"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The Capital Market Line (CML) represents portfolios that optimally combine risk and return for efficient portfolios. It is a graphical representation that demonstrates the expected return of a portfolio as a function of its risk (standard deviation). The CML is derived from the risk-free rate and the market portfolio, indicating the best possible return for a given level of risk."
+}

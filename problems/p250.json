@@ -1,0 +1,40 @@
+{
+  "id": "p250",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "diversification",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: How do portfolio managers typically differentiate between asset allocation and...",
+  "summary": "Distinguish asset allocation across classes from security selection within classes.",
+  "prompt": "How do portfolio managers typically differentiate between asset allocation and security selection?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Option premium"
+    },
+    {
+      "id": "B",
+      "text": "Portfolio managers differentiate between asset allocation and security"
+    },
+    {
+      "id": "C",
+      "text": "Provide insights into performance trends"
+    },
+    {
+      "id": "D",
+      "text": "Portfolio with highest Sharpe ratio"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Portfolio managers differentiate between asset allocation and security selection by defining asset allocation as the process of deciding how to distribute investments across various asset classes (e.g., stocks, bonds, cash) while security selection focuses on choosing specific securities within those asset classes. This distinction allows for a structured approach to building and managing a portfolio."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p242",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "european-option",
+    "call-option",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Call: Which of the following best describes a European call option?...",
+  "summary": "Analyze call option properties, pricing, or payoff structure.",
+  "prompt": "Which of the following best describes a European call option?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "B",
+      "text": "A European call option can only be exercised at expiration, contrasting with"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic value of the option"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A European call option can only be exercised at expiration, contrasting with American options that can be exercised at any time before expiration."
+}

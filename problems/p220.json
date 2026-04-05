@@ -1,0 +1,41 @@
+{
+  "id": "p220",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Shareholder Returns",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "shareholders",
+    "market-value",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Shareholder Returns: What is a common outcome for target shareholders in a...",
+  "summary": "Assess the typical premium received by target shareholders during a merger transaction.",
+  "prompt": "What is a common outcome for target shareholders in a merger?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "B",
+      "text": "Target shareholders typically receive a premium for their shares during a"
+    },
+    {
+      "id": "C",
+      "text": "A premium above market price"
+    },
+    {
+      "id": "D",
+      "text": "A discount on their shares"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Target shareholders typically receive a premium for their shares during a merger, enhancing their value."
+}
