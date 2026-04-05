@@ -1,0 +1,32 @@
+{
+  "id": "p825",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Specification of Futures",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Specification of Futures: Futures contracts have standardized contract terms determined by the exchange...",
+  "summary": "Assess whether futures contracts are standardized agreements with exchange-determined terms.",
+  "prompt": "Futures contracts have standardized contract terms determined by the exchange on which they are traded.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True, futures contracts are indeed standardized agreements defined by exchanges. This standardization includes contract size, expiration dates, and the underlying asset. The exchange specifies these terms to ensure liquidity and facilitate trading among many participants. This is articulated in the sections discussing futures contracts and their mechanics."
+}

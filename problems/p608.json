@@ -1,0 +1,24 @@
+{
+  "id": "p608",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Enterprise Value",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "market-value",
+    "valuation",
+    "capital-structure",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Enterprise Value: Calculate the enterprise value if the equity value is 500...",
+  "summary": "Calculate enterprise value from equity value, debt, and cash components.",
+  "prompt": "Calculate the enterprise value if the equity value is $500 million, the debt is $200 million, and cash is $50 million.",
+  "options": [],
+  "correct_option": "$650 million",
+  "answer_text": "$650 million",
+  "answer_format": "text",
+  "solution": "Enterprise Value = Equity + Debt - Cash = $500 million + $200 million - $50 million = $650 million."
+}

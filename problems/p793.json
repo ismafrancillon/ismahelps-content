@@ -1,0 +1,33 @@
+{
+  "id": "p793",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFE",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "net-income",
+    "income-statement",
+    "expenses",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "FCFE: The net income of a firm should only include its...",
+  "summary": "Evaluate whether net income includes only operating expenses or all expense categories.",
+  "prompt": "The net income of a firm should only include its operating expenses.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Net income is defined as the earnings available to shareholders after all expenses, including operating, capital, and financial expenses, have been accounted for. Operating income does not include financial expenses like interest payments or capital expenses, which may skew the understanding of true profitability. This distinction is crucial in measuring the actual performance of the firm."
+}

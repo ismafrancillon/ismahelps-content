@@ -1,0 +1,33 @@
+{
+  "id": "p815",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Put",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "put-option",
+    "option-payoff",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Put: A trader can benefit from writing put options if they...",
+  "summary": "Evaluate whether writing put options benefits from an expected price increase.",
+  "prompt": "A trader can benefit from writing put options if they believe that the price of the underlying asset will increase.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. When a trader writes (sells) a put option, they receive a premium upfront and are obligated to buy the underlying asset at the strike price if the option is exercised. If the trader anticipates that the price of the underlying asset will increase, the likelihood of the option being exercised decreases, allowing the trader to keep the premium as profit. Understanding the risk-reward dynamics of options is crucial for traders, as it informs their strategies and market outlook. This concept is elaborated in the \"Put (Advanced)\" section from Document 6 on Page 12."
+}

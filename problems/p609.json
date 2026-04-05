@@ -1,0 +1,24 @@
+{
+  "id": "p609",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Residential Real Estate",
+  "subtopic": "Multifamily Dwellings",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "revenues",
+    "expenses",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Multifamily Dwellings: A real estate investor is considering purchasing a 100-unit multifamily...",
+  "summary": "Calculate NOI by subtracting operating expenses from rental income.",
+  "prompt": "A real estate investor is considering purchasing a 100-unit multifamily property for $10 million. The property has an expected annual rent revenue of $1.2 million with a vacancy rate of 5%. If operating expenses are projected to be 30% of effective gross income, calculate the net operating income (NOI) and the cap rate if the investor intends to hold the property for 10 years with a projected selling price of $12 million.",
+  "options": [],
+  "correct_option": "$870,000; 8.7%",
+  "answer_text": "$870,000; 8.7%",
+  "answer_format": "text",
+  "solution": "Step 1: Calculate effective gross income (EGI): EGI = Rent Revenue × (1 - Vacancy Rate) = $1.2 million × (1 - 0.05) = $1.14 million. Step 2: Calculate operating expenses: Operating Expenses = EGI × 30% = $1.14 million × 0.30 = $342,000. Step 3: Calculate NOI: NOI = EGI - Operating Expenses = $1.14 million - $342,000 = $798,000. Step 4: Calculate cap rate: Cap Rate = NOI / Purchase Price = $798,000 / $10 million = 7.98%. Step 5: Projected selling price and final calculations lead to a cap rate of 8.7%."
+}

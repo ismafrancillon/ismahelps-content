@@ -1,0 +1,23 @@
+{
+  "id": "p605",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Enterprise Value",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "market-value",
+    "valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Enterprise Value: If an acquirer pays a total of 20 million in...",
+  "summary": "Calculate the total enterprise value of a merger transaction using cash, stock, and debt components.",
+  "prompt": "If an acquirer pays a total of $20 million in cash and $15 million in stock for a target firm, what is the total enterprise value of the transaction if the target has $5 million in cash?",
+  "options": [],
+  "correct_option": "$30 million",
+  "answer_text": "$30 million",
+  "answer_format": "text",
+  "solution": "Total Enterprise Value = Cash + Stock + Target Debt - Target Cash = $20 million + $15 million + 0 - $5 million = $30 million."
+}

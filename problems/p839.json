@@ -1,0 +1,33 @@
+{
+  "id": "p839",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Put",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "put-option",
+    "option-payoff",
+    "intrinsic-value-option",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Put: The premium of a put option increases as the price...",
+  "summary": "Evaluate how put option premiums increase as underlying asset prices decrease.",
+  "prompt": "The premium of a put option increases as the price of the underlying asset decreases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. The premium of a put option generally increases as the price of the underlying asset decreases. This is because the intrinsic value of the put option increases, making it more valuable to the holder. Understanding the relationship between the price of the underlying asset and the value of options is essential for options traders. This concept is discussed in the \"Put (Advanced)\" section from Document 28 on Page 62."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p858",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Cash Flow Modeling",
+  "subtopic": "Scenario Analysis",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "scenario-analysis",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Scenario Analysis: Cash flow modeling requires consideration of various scenarios, including optimistic...",
+  "summary": "Evaluate scenario analysis in cash flow modeling for real estate investment.",
+  "prompt": "Cash flow modeling requires consideration of various scenarios, including optimistic and pessimistic projections.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Effective cash flow modeling involves preparing different scenarios by varying key assumptions. This helps investors understand potential risks and returns in various market conditions."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p797",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Capital",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "wacc",
+    "cost-of-capital",
+    "capital-structure",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cost of Capital: The Weighted Average Cost of Capital (WACC) reflects the average...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "The Weighted Average Cost of Capital (WACC) reflects the average risk associated with a firm's debt and equity financing.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "WACC is a calculation of a firm's cost of capital, weighted by the proportion of equity and debt in the capital structure. It considers the cost of equity, which is based on the risk perceived by equity holders, and the after-tax cost of debt, which reflects the risk associated with debt financing."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p800",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Legal Framework",
+  "subtopic": "Antitrust Laws",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "industry-analysis",
+    "competition",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Antitrust Laws: If the merger increases the Herfindahl-Hirschman Index (HHI) by more...",
+  "summary": "Assess whether a merger increasing the HHI above a regulatory threshold may face antitrust opposition.",
+  "prompt": "If the merger increases the Herfindahl-Hirschman Index (HHI) by more than 100, it may be blocked by regulators.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "An increase in the HHI indicates greater market concentration, which could raise antitrust concerns and potentially lead to a blocked merger."
+}

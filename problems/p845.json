@@ -1,0 +1,32 @@
+{
+  "id": "p845",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Market Efficiency",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "efficient-frontier",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Market Efficiency: According to the efficient market hypothesis, it is impossible to...",
+  "summary": "Evaluate the efficient market hypothesis and its implications for investment returns.",
+  "prompt": "According to the efficient market hypothesis, it is impossible to consistently achieve higher returns than the overall market without taking on additional risk.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement encapsulates the essence of the efficient market hypothesis, which asserts that all available information is reflected in stock prices, making it difficult to outperform the market consistently."
+}

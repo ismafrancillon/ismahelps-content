@@ -1,0 +1,24 @@
+{
+  "id": "p593",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: A property is expected to generate cash flows of 250000...",
+  "summary": "Calculate the present value or NPV of a real estate investment.",
+  "prompt": "A property is expected to generate cash flows of $250,000 annually for 4 years, followed by $350,000 annually for the next 6 years. If the discount rate is 8%, what is the present value of these cash flows?",
+  "options": [],
+  "correct_option": "2543567",
+  "answer_text": "2543567",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the present value of the cash flows, we will use the formula for the present value of cash flows. First, calculate the PV of the first 4 years: PV1 = $250,000 * [(1 - (1 + 0.08)^-4) / 0.08] = $250,000 * 3.31213 = $828,032. Next, calculate the PV of the next 6 years: PV2 = $350,000 * [(1 - (1 + 0.08)^-6) / 0.08] / (1 + 0.08)^4 = $350,000 * 4.62369 / 1.36049 = $1,166,536. Finally, total PV = PV1 + PV2 = $828,032 + $1,166,536 = $1,994,568. This calculation is essential for investors to assess the value of future cash flows and make informed investment decisions."
+}

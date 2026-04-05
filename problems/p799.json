@@ -1,0 +1,32 @@
+{
+  "id": "p799",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Strategy",
+  "subtopic": "Synergy",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Synergy: If an acquirer pays a premium for a target, it...",
+  "summary": "Evaluate whether paying an acquisition premium implies an expectation of synergy creation.",
+  "prompt": "If an acquirer pays a premium for a target, it assumes that the merger will create synergies.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Paying a premium generally reflects the acquirer’s expectation that the merger will result in value creation through synergies."
+}

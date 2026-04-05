@@ -1,0 +1,32 @@
+{
+  "id": "p855",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "REIT and Housing Finance",
+  "subtopic": "REIT Qualifications",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "shareholders",
+    "revenues",
+    "true-false"
+  ],
+  "title": "REIT Qualifications: A REIT must invest at least 0.75 of its total...",
+  "summary": "Assess the REIT requirement to invest at least 75% of assets in real estate.",
+  "prompt": "A REIT must invest at least 75% of its total assets in real estate to maintain its tax-advantaged status.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True. To maintain its tax-advantaged status, a Real Estate Investment Trust (REIT) is required to invest at least 75% of its total assets in real estate. This regulation is essential for ensuring that a significant portion of a REIT's investments are tied to real estate activities, which allows it to avoid corporate taxes and pass income through to shareholders. This requirement is crucial for anyone studying finance and investing in real estate, as it affects investment strategies and tax planning."
+}

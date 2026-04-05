@@ -1,0 +1,33 @@
+{
+  "id": "p809",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Options",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "call-option",
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Options: A call option gives the holder the right, but not...",
+  "summary": "Distinguish between the right granted by options and the obligation in futures contracts.",
+  "prompt": "A call option gives the holder the right, but not the obligation, to buy an asset at a specified price by a certain date.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true as it defines the fundamental characteristic of a call option. A call option grants the holder the right, but not the obligation, to purchase a specific underlying asset at a predetermined strike price before or at the expiration date. This is a core concept in options trading and is discussed in the introductory sections of the materials provided, particularly in the context of the definitions of options."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p832",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Interest Rates",
+  "subtopic": "Interest Rate Futures",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "interest-rates",
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Interest Rate Futures: Interest rate futures are primarily used to hedge against changes...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Interest rate futures are primarily used to hedge against changes in interest rates.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True; interest rate futures allow market participants to lock in borrowing or lending rates, thereby reducing exposure to fluctuations in interest rates which can impact cash flows."
+}

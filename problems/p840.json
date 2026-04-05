@@ -1,0 +1,32 @@
+{
+  "id": "p840",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Margin Requirements for Options",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "option-pricing",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Margin Requirements for Options: The premium paid for an...",
+  "summary": "Evaluate whether the premium paid for an option is non-refundable regardless of exercise or expiration.",
+  "prompt": "The premium paid for an option is non-refundable.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True; once an option is purchased, the premium is paid to the seller and is not returned, regardless of whether the option is exercised or expires worthless."
+}

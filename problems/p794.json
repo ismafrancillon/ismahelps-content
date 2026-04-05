@@ -1,0 +1,33 @@
+{
+  "id": "p794",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Equity",
+  "subtopic": "Cost of Capital",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "market-risk-premium",
+    "risk-free-rate",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cost of Capital: The risk premium is the additional return expected by investors...",
+  "summary": "Calculate the cost of equity or expected return using the CAPM formula.",
+  "prompt": "The risk premium is the additional return expected by investors for taking on risk compared to a risk-free investment.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The risk premium compensates investors for the extra risk of investing in risky assets compared to safer investments. This is a core principle of finance, underpinning models like CAPM."
+}

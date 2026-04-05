@@ -1,0 +1,33 @@
+{
+  "id": "p821",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "hedging",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basic Principles of Hedging: An investor can profit from a short position in a...",
+  "summary": "Calculate the profit or loss from a futures position based on entry and exit prices.",
+  "prompt": "An investor can profit from a short position in a futures contract even if the price of the underlying asset does not decrease.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. An investor can profit from a short futures position if the price of the underlying asset remains stable or decreases, as they can close the position at a favorable price relative to their original short position. Additionally, if the price remains unchanged, the cost of carrying the position may lead to a profit through time decay. Understanding the mechanics of futures trading is essential for investors looking to manage risk and exploit price movements. This concept is discussed in the \"Hedging Strategies Using Futures\" section from Document 23 on Page 48."
+}

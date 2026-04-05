@@ -1,0 +1,32 @@
+{
+  "id": "p829",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Trading Strategies Involving Options",
+  "subtopic": "Arbitrage Opportunities",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-pricing",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Arbitrage Opportunities: If the futures price of an asset is below its...",
+  "summary": "Assess whether a futures price below expected spot price indicates an arbitrage opportunity.",
+  "prompt": "If the futures price of an asset is below its expected future spot price, it might indicate that there is an arbitrage opportunity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. When the futures price of an asset is lower than its expected future spot price, arbitrageurs can take advantage of the price discrepancy by buying the asset in the spot market and simultaneously selling it in the futures market. This creates a risk-free profit opportunity until the prices converge. Understanding arbitrage opportunities is a key concept in trading and market efficiency. The concept of arbitrage is discussed in the \"Trading Strategies Involving Options\" section from Document 11 on Page 21."
+}

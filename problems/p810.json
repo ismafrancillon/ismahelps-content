@@ -1,0 +1,33 @@
+{
+  "id": "p810",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basic Principles of Hedging: A company enters into a futures contract to hedge against...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A company enters into a futures contract to hedge against price fluctuations. If the price of the underlying asset rises, the value of the company's position in the futures contract will decrease.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true because when a company enters a futures contract to hedge against price fluctuations, they are taking a position that will lose value if the price of the underlying asset rises. This is a fundamental concept in hedging strategies where the purpose is to reduce risk. In this case, the company benefits if the price of the underlying asset decreases, offsetting potential losses from their actual position. Hedging involves taking an opposite position in a derivative to mitigate the risk of adverse price movements, thus confirming the statement's validity."
+}

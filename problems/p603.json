@@ -1,0 +1,24 @@
+{
+  "id": "p603",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Enterprise Value",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "market-value",
+    "valuation",
+    "capital-structure",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Enterprise Value: If a company has an equity value of 200 million,...",
+  "summary": "Calculate enterprise value from equity value, debt, and cash using the EV formula.",
+  "prompt": "If a company has an equity value of $200 million, debt of $100 million, and cash of $50 million, what is its enterprise value?",
+  "options": [],
+  "correct_option": "$250 million",
+  "answer_text": "$250 million",
+  "answer_format": "text",
+  "solution": "Enterprise Value = Equity + Debt - Cash = $200 million + $100 million - $50 million = $250 million."
+}

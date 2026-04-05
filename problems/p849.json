@@ -1,0 +1,33 @@
+{
+  "id": "p849",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Equilibrium in Capital Markets",
+  "subtopic": "CAPM",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "systematic-risk",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "CAPM: The Capital Asset Pricing Model (CAPM) suggests that the expected...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "The Capital Asset Pricing Model (CAPM) suggests that the expected return on a security is directly proportional to its systematic risk, measured by beta.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The CAPM posits that the expected return on an asset is equal to the risk-free rate plus a premium that is proportional to the asset's beta. This directly links the expected return to systematic risk, which is the risk inherent to the market as a whole, rather than diversifiable, firm-specific risk. Thus, the relationship is foundational in finance, indicating that higher beta values will result in higher expected returns, supporting the validity of CAPM as a tool for investors."
+}

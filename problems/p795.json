@@ -1,0 +1,33 @@
+{
+  "id": "p795",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "From Earnings to Cash Flows",
+  "subtopic": "Tax Effect",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "tax-shield",
+    "net-income",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Tax Effect: The tax savings generated from net operating losses carried forward...",
+  "summary": "Assess how net operating loss carryforwards generate tax savings that enhance firm valuation.",
+  "prompt": "The tax savings generated from net operating losses carried forward can be significant for a firm’s valuation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Firms with net operating losses can carry these forward to offset future taxable income, effectively providing a tax shield that can enhance their valuation. This tax benefit can significantly impact cash flow projections, making it essential to account for in valuation models."
+}

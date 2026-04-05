@@ -1,0 +1,24 @@
+{
+  "id": "p604",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Debt Structure",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Debt Structure: A firm with an EBITDA of 10 million and a...",
+  "summary": "Determine maximum additional debt capacity based on a target debt-to-EBITDA ratio and existing debt.",
+  "prompt": "A firm with an EBITDA of $10 million and a debt of $4 million is considering a merger with a firm valued at 6x EBITDA. What is the maximum amount of debt the acquiring firm can take on while maintaining an acceptable debt-to-EBITDA ratio of 3.0?",
+  "options": [],
+  "correct_option": "$26 million",
+  "answer_text": "$26 million",
+  "answer_format": "text",
+  "solution": "Maximum Debt = Acceptable Debt-to-EBITDA Ratio * EBITDA = 3.0 * $10 million = $30 million. However, total debt must account for existing debt: $30 million - $4 million = $26 million."
+}

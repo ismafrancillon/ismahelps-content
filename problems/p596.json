@@ -1,0 +1,24 @@
+{
+  "id": "p596",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Perpetuity",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "terminal-value",
+    "cash-flows",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "Perpetuity: A firm wants to assess the value of a project...",
+  "summary": "Apply capital budgeting techniques to evaluate investment project viability.",
+  "prompt": "A firm wants to assess the value of a project with an expected cash flow of $500,000 per year for 10 years, and it is expected to grow at 4% after that. If the discount rate is 10%, what is the present value of the project using the perpetuity formula?",
+  "options": [],
+  "correct_option": "4249051.78",
+  "answer_text": "4249051.7800000003",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**: Cash Flow = $500,000; Growth Rate (g) = 4%; Discount Rate (r) = 10%; Project Life = 10 years. <br> **Step 2: Calculate Present Value of Cash Flows**: PV = Cash Flow * [(1 - (1 + g) / (1 + r)^n) / (r - g)]. <br> PV = $500,000 * [(1 - (1.04 / (1.10)^10)) / (0.10 - 0.04)] = $4,249,051.78. <br> This indicates the total value of the project considering future cash flows."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p859",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Functions",
+  "subtopic": "Real Estate Ownership",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "contracts",
+    "contract-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Real Estate Ownership: In the context of commercial real estate, a lease is...",
+  "summary": "Evaluate the definition of a lease as a legal agreement for property rental terms.",
+  "prompt": "In the context of commercial real estate, a lease is a legal agreement that outlines the terms under which one party agrees to rent property owned by another party.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True. A lease is a crucial legal document in commercial real estate that establishes the rights and responsibilities of both the landlord and the tenant. It typically outlines the rental amount, lease duration, and terms of use for the property. Understanding leases is essential for real estate investors and managers as they directly influence income streams and property management practices. This legal framework also impacts valuation, financing, and investment strategies."
+}

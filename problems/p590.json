@@ -1,0 +1,24 @@
+{
+  "id": "p590",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "DCF",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "discounted-cash-flow",
+    "present-value",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "DCF: A company is considering a merger that is expected to...",
+  "summary": "Calculate the present value of post-merger cash flows over multiple years using DCF analysis.",
+  "prompt": "A company is considering a merger that is expected to yield $500,000 in cash flows after tax. If the appropriate discount rate is 8%, what is the present value of these cash flows over a five-year period?",
+  "options": [],
+  "correct_option": "1799679.52",
+  "answer_text": "1799679.52",
+  "answer_format": "numeric_decimal",
+  "solution": "PV = CF / (1 + r)^n = $500,000 / (1 + 0.08)^5 = $1,799,679.52."
+}

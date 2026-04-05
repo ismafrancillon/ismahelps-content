@@ -1,0 +1,32 @@
+{
+  "id": "p798",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Reverse Mergers",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "shareholders",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Reverse Mergers: A reverse merger allows a private company to go public...",
+  "summary": "Evaluate the reverse merger as a method for a private company to become publicly traded.",
+  "prompt": "A reverse merger allows a private company to go public by merging with a public company.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "A reverse merger is indeed a method for a private company to become publicly traded by merging with an already public company."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p844",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "risk-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Active Management and Performance Measurement: A well-structured investment policy should consider both the investor's objectives...",
+  "summary": "Evaluate the components of a well-structured investment policy including objectives and constraints.",
+  "prompt": "A well-structured investment policy should consider both the investor's objectives and constraints.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "A comprehensive investment policy must balance the investor’s return objectives with their risk tolerance and any external constraints."
+}

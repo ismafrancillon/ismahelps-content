@@ -1,0 +1,23 @@
+{
+  "id": "p591",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Borrowing Funds: Debt",
+  "subtopic": "Debt Ratios",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "debt-capacity",
+    "leverage",
+    "debt-ratio",
+    "calculation"
+  ],
+  "title": "Debt Ratios: A firm has total assets of 5000000 and total liabilities...",
+  "summary": "Calculate the debt ratio by dividing total liabilities by total assets.",
+  "prompt": "A firm has total assets of $5,000,000 and total liabilities of $3,000,000. If the firm wants to maintain a debt ratio of 60%, how much additional debt can the firm take on without exceeding this ratio?",
+  "options": [],
+  "correct_option": "2000000",
+  "answer_text": "2000000",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**<br> Total Assets = $5,000,000<br> Total Liabilities = $3,000,000<br> Desired Debt Ratio = 60%<br> **Step 2: Calculate Maximum Liabilities Using Desired Debt Ratio**<br> Maximum Liabilities = Total Assets * Desired Debt Ratio = $5,000,000 * 0.60 = $3,000,000<br> **Step 3: Calculate Additional Debt Capacity**<br> Additional Debt = Maximum Liabilities - Current Liabilities = $3,000,000 - $3,000,000 = $0<br> Therefore, the firm cannot take on additional debt without exceeding the desired ratio."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p830",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Arbitrage",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-pricing",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Arbitrage: If the futures price of an asset is greater than...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "If the futures price of an asset is greater than the spot price, arbitrage opportunities exist.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true; if the futures price exceeds the spot price, traders can buy the asset at the lower spot price and sell it at the higher futures price, locking in a profit. This is a fundamental principle of arbitrage in futures markets."
+}

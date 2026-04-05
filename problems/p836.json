@@ -1,0 +1,32 @@
+{
+  "id": "p836",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basis Risk: The basis risk in hedging refers to the risk that...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "The basis risk in hedging refers to the risk that the futures price and the spot price will not move in tandem.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True; basis risk arises when the difference between the spot price and futures price (the basis) changes, potentially leading to ineffective hedges."
+}

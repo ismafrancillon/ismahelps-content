@@ -1,0 +1,33 @@
+{
+  "id": "p822",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Trading Strategies Involving Options",
+  "subtopic": "Trading Strategies",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "put-option",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Trading Strategies: Call options are typically more expensive than put options when...",
+  "summary": "Evaluate whether call options are more expensive in bullish markets.",
+  "prompt": "Call options are typically more expensive than put options when the market is bullish.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. In a bullish market, demand for call options generally increases as traders anticipate rising prices. This demand drives up the premiums for call options, making them more expensive than put options, which may not see the same level of demand. Understanding market sentiment and its impact on option pricing is essential for traders. This concept is discussed in the \"Trading Strategies Involving Options\" section from Document 21 on Page 42."
+}

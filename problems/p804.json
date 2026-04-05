@@ -1,0 +1,32 @@
+{
+  "id": "p804",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Strategy",
+  "subtopic": "Hubris Hypothesis of Takeovers",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "governance",
+    "corporation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Hubris Hypothesis of Takeovers: The hubris hypothesis suggests that managers may overestimate their ability...",
+  "summary": "Assess the hubris hypothesis that managerial overconfidence leads to poor acquisition outcomes.",
+  "prompt": "The hubris hypothesis suggests that managers may overestimate their ability to manage the target firm post-acquisition.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The hubris hypothesis posits that managerial overconfidence can lead to poor acquisition decisions, resulting in negative outcomes for the acquiring firm."
+}

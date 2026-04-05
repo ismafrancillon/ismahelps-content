@@ -1,0 +1,32 @@
+{
+  "id": "p850",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Equilibrium in Capital Markets",
+  "subtopic": "Market Efficiency",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "efficient-frontier",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Market Efficiency: The efficient market hypothesis (EMH) states that stock prices reflect...",
+  "summary": "Evaluate the efficient market hypothesis and its implications for investment returns.",
+  "prompt": "The efficient market hypothesis (EMH) states that stock prices reflect all available information, making it impossible to consistently achieve higher returns than the overall market.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The EMH posits that financial markets are \"informationally efficient,\" meaning all known information is already reflected in stock prices. As a result, achieving consistent abnormal returns is improbable without possessing insider information or an edge that allows one to identify mispriced securities. Investors are encouraged to adopt passive investment strategies, as market timing and security selection are unlikely to yield superior results over time."
+}

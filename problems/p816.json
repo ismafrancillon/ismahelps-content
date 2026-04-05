@@ -1,0 +1,32 @@
+{
+  "id": "p816",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basic Principles of Hedging: A trader can offset a long position in the underlying...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A trader can offset a long position in the underlying asset by taking a short position in a futures contract.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. A trader can offset a long position in the underlying asset by taking a short position in a futures contract. This strategy effectively hedges against potential losses from price declines in the underlying asset by locking in a selling price through the futures contract. Understanding how to manage positions using futures contracts is essential for risk management in trading. This concept is discussed in the \"Hedging Strategies Using Futures\" section from Document 32 on Page 73."
+}

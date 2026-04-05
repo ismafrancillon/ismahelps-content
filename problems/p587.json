@@ -1,0 +1,24 @@
+{
+  "id": "p587",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: A property has a cap rate of 0.09 and a...",
+  "summary": "Calculate property value by dividing NOI by the capitalization rate.",
+  "prompt": "A property has a cap rate of 9% and a NOI of $90,000. What is the estimated value of the property?",
+  "options": [],
+  "correct_option": "1000000",
+  "answer_text": "1000000",
+  "answer_format": "numeric_decimal",
+  "solution": "The estimated value can be calculated using the formula: Value = NOI / Cap Rate. Here, Value = $90,000 / 0.09 = $1,000,000. This relationship between NOI and cap rate is fundamental in real estate valuation, helping investors determine property worth based on income generation. Understanding this valuation method is essential for finance students when analyzing potential investments and making informed decisions in real estate finance."
+}

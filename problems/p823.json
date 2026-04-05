@@ -1,0 +1,33 @@
+{
+  "id": "p823",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Call: Call options provide the buyer with the right but not...",
+  "summary": "Evaluate the fundamental characteristic of a call option as the right but not obligation to buy.",
+  "prompt": "Call options provide the buyer with the right but not the obligation to purchase the underlying asset at a predetermined price.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. A call option grants the buyer the right, but not the obligation, to buy the underlying asset at a specified strike price before or at the expiration date. This characteristic of options is fundamental and distinguishes them from other financial instruments. The right to buy allows investors to leverage their positions while limiting their potential losses to the premium paid for the option. Understanding this concept is crucial for students studying finance as it forms the basis of options trading strategies. The core attributes of options are explained in the \"Call (Advanced)\" section from Document 5 on Page 10."
+}

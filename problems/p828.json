@@ -1,0 +1,33 @@
+{
+  "id": "p828",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Interest Rates",
+  "subtopic": "Yield Curves",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "interest-rates",
+    "bond-pricing",
+    "yield-curve",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Yield Curves: If interest rates rise, the value of existing bonds will...",
+  "summary": "Assess the inverse relationship between rising interest rates and bond values.",
+  "prompt": "If interest rates rise, the value of existing bonds will generally fall.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. When interest rates rise, the value of existing bonds typically falls. This inverse relationship occurs because new bonds are issued at higher rates, making existing bonds with lower rates less attractive. Understanding the impact of interest rate movements on bond prices is essential for fixed-income investors. This concept is discussed in the \"Yield Curves\" section from Document 31 on Page 70."
+}

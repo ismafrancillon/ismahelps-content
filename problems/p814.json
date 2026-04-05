@@ -1,0 +1,32 @@
+{
+  "id": "p814",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basic Principles of Hedging: A short hedge is appropriate when a trader expects the...",
+  "summary": "Evaluate whether a short futures position aligns with an expectation of rising prices.",
+  "prompt": "A short hedge is appropriate when a trader expects the price of the underlying asset to fall.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True; a short hedge involves selling futures contracts to protect against potential losses from a decline in the asset's price, effectively locking in a selling price."
+}

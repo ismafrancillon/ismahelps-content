@@ -1,0 +1,32 @@
+{
+  "id": "p835",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "hedging",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basis Risk: The basis is the difference between the futures price and...",
+  "summary": "Distinguish long and short positions in futures based on buy and sell obligations.",
+  "prompt": "The basis is the difference between the futures price and the spot price of an asset.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True, the basis is defined as the difference between the spot price and the futures price of an asset. Understanding the basis is critical for hedging strategies as it indicates how well the futures price aligns with the underlying asset's current market value. This concept is foundational in futures trading and hedging."
+}

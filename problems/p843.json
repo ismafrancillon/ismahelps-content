@@ -1,0 +1,33 @@
+{
+  "id": "p843",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Performance Measurement",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "beta",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Performance Measurement: A portfolio's alpha is a measure of its risk-adjusted performance,...",
+  "summary": "Calculate the alpha of a security under CAPM by comparing its actual return to the CAPM-predicted expected return.",
+  "prompt": "A portfolio's alpha is a measure of its risk-adjusted performance, indicating how much better or worse the portfolio performed compared to its expected return based on its beta.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Alpha quantifies performance on a risk-adjusted basis by comparing the actual return of a portfolio to the return predicted by the CAPM or other asset pricing models, based on its beta. A positive alpha indicates the portfolio has outperformed its expected return, while a negative alpha suggests underperformance. This measure is crucial for evaluating the effectiveness of portfolio management and investment strategies."
+}

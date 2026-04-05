@@ -1,0 +1,32 @@
+{
+  "id": "p856",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Corporate Real Estate",
+  "subtopic": "Lease, Acquire, or Develop Facilities",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Lease, Acquire, or Develop Facilities: A sale-leaseback transaction allows a company to retain control of...",
+  "summary": "Describe a sale-leaseback as selling property while retaining occupancy through a lease.",
+  "prompt": "A sale-leaseback transaction allows a company to retain control of its property while generating immediate cash.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "In a sale-leaseback, a company sells its property to an investor and simultaneously leases it back, providing immediate liquidity while still operating from the same location."
+}

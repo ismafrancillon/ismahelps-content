@@ -1,0 +1,23 @@
+{
+  "id": "p601",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "NAV",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "market-value",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "NAV: Calculate the Net Acquisition Value (NAV) if Company A is...",
+  "summary": "Calculate the net acquisition value by combining firm values and subtracting premiums and expenses.",
+  "prompt": "Calculate the Net Acquisition Value (NAV) if Company A is valued at $300 million, Company B at $200 million, with a premium of $50 million and acquisition expenses of $30 million.",
+  "options": [],
+  "correct_option": "$120 million",
+  "answer_text": "$120 million",
+  "answer_format": "text",
+  "solution": "NAV = (Value A + Value B) - Premium - Expenses = ($300 million + $200 million) - $50 million - $30 million = $120 million."
+}

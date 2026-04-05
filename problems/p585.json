@@ -1,0 +1,24 @@
+{
+  "id": "p585",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "DCF",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "discounted-cash-flow",
+    "present-value",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "DCF: If a company's cash flows are projected to grow at...",
+  "summary": "Calculate the present value of a future cash flow using the discount rate over a specified period.",
+  "prompt": "If a company's cash flows are projected to grow at 5% annually and the required rate of return is 10%, what is the present value of $1 million received in year 5?",
+  "options": [],
+  "correct_option": "620921.32",
+  "answer_text": "620921.3199999999",
+  "answer_format": "numeric_decimal",
+  "solution": "PV = CF / (1 + r)^n = $1 million / (1 + 0.10)^5 = $620,921.32."
+}

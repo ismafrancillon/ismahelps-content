@@ -1,0 +1,33 @@
+{
+  "id": "p853",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Types of Real Estate Loans",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "bond-pricing",
+    "interest-rates",
+    "cost-of-debt",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Types of Real Estate Loans: A commercial mortgage is typically structured as interest-only with a...",
+  "summary": "Evaluate the typical structure of a commercial mortgage with balloon payment.",
+  "prompt": "A commercial mortgage is typically structured as interest-only with a balloon payment at maturity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True. Commercial mortgages often feature interest-only payment structures with a balloon payment due at the end of the loan term. This allows borrowers to manage cash flow in the short term while preparing for a larger payment at maturity. Understanding this structure is vital for finance students, as it affects cash flow projections and overall financing strategies for real estate investments. Investors must account for these balloon payments when planning their financial strategies."
+}

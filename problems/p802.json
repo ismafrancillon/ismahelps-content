@@ -1,0 +1,32 @@
+{
+  "id": "p802",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Valuation Methods",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "discounted-cash-flow",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Valuation Methods: The discounted cash flow (DCF) method is widely used for...",
+  "summary": "Evaluate the DCF method as a standard valuation approach applicable to both private and public companies.",
+  "prompt": "The discounted cash flow (DCF) method is widely used for valuing both private and public companies.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The DCF method is a standard valuation approach utilized for both private and public companies. It allows the evaluator to determine the value of a company based on its projected future cash flows, discounted back to their present value. This method is particularly effective in providing insights into the intrinsic value of a firm irrespective of its public or private status."
+}

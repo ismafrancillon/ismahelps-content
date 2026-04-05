@@ -1,0 +1,32 @@
+{
+  "id": "p834",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Trading Venues",
+  "subtopic": "Exchanges vs OTC",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Exchanges vs OTC: Options are typically traded in over-the-counter markets, which do not...",
+  "summary": "Compare exchange-traded and OTC-traded derivatives regarding regulation and risk.",
+  "prompt": "Options are typically traded in over-the-counter markets, which do not have the same regulatory structure as exchanges.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True; the OTC market operates with fewer regulations compared to organized exchanges, making it crucial for participants to understand the credit risk associated with counterparties."
+}

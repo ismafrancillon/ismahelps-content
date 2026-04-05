@@ -1,0 +1,32 @@
+{
+  "id": "p811",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Futures",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Futures: A futures contract obligates the buyer to purchase an underlying...",
+  "summary": "Evaluate whether a futures contract obligates the buyer to purchase the underlying asset.",
+  "prompt": "A futures contract obligates the buyer to purchase an underlying asset at a specified price at a future date.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true because a futures contract is a standardized agreement traded on exchanges, which binds the buyer to purchase the asset at the agreed-upon price at the contract's expiration. This characteristic differentiates it from options, which provide the right but not the obligation to buy or sell."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p852",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "efficient-frontier",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Portfolio Management Techniques: The separation property in portfolio theory states that the choice...",
+  "summary": "Determine optimal portfolio weights using variance minimization with correlated assets.",
+  "prompt": "The separation property in portfolio theory states that the choice of risky assets should depend on individual preferences, while the optimal risky portfolio remains the same for all investors.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The separation property facilitates the idea that investors can separate the decision-making process into two parts: determining the optimal risky portfolio based on market data and the individual investor's level of risk aversion. This means that while the risky portfolio is consistent for all investors, the proportion of their portfolio allocated to that risky asset versus the risk-free asset will vary according to their risk tolerance. This foundational concept simplifies portfolio management and aligns it with investors' goals."
+}

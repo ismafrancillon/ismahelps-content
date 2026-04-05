@@ -1,0 +1,32 @@
+{
+  "id": "p803",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Legal Framework",
+  "subtopic": "Laws Governing Mergers",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "governance",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Laws Governing Mergers: The Hart-Scott-Rodino Act requires a bidder to file for antitrust...",
+  "summary": "Evaluate the Hart-Scott-Rodino Act's requirement for antitrust filing before completing large acquisitions.",
+  "prompt": "The Hart-Scott-Rodino Act requires a bidder to file for antitrust review prior to acquiring a target company.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The Hart-Scott-Rodino Act mandates that acquiring firms must file with the Federal Trade Commission (FTC) and the Department of Justice (DOJ) for antitrust review before completing certain large transactions. This requirement ensures that the potential impact of the merger or acquisition on market competition is assessed before the deal is finalized."
+}

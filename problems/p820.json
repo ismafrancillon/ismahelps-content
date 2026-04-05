@@ -1,0 +1,33 @@
+{
+  "id": "p820",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Trading Strategies Involving Options",
+  "subtopic": "Trading Strategies",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Trading Strategies: A trader who expects a decline in the price of...",
+  "summary": "Assess whether writing call options generates income when expecting a price decline.",
+  "prompt": "A trader who expects a decline in the price of an asset should consider writing call options to generate income.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. If a trader expects a decline in the price of an asset, writing call options can generate income through the premium received. If the option is not exercised, the trader keeps the premium as profit. Understanding this strategy can enhance traders' income potential while managing their market expectations. This concept is discussed in the \"Trading Strategies Involving Options\" section from Document 29 on Page 65."
+}

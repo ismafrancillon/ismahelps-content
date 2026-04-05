@@ -1,0 +1,32 @@
+{
+  "id": "p831",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Specification of Futures",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Specification of Futures: If the price of an underlying asset increases, the value...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "If the price of an underlying asset increases, the value of a long futures position will also increase.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. In a long futures position, the trader benefits from price increases in the underlying asset. The value of the position increases as the price of the asset rises, leading to potential profits when the position is closed. Understanding the dynamics of futures pricing is essential for effective trading strategies. This concept is discussed in the \"Mechanics of Futures Markets\" section from Document 20 on Page 40."
+}

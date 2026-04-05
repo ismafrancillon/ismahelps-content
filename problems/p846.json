@@ -1,0 +1,33 @@
+{
+  "id": "p846",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "diversification",
+    "unsystematic-risk",
+    "portfolio",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Portfolio Management Techniques: In a well-diversified portfolio, unsystematic risk can be reduced to...",
+  "summary": "Evaluate whether diversification can eliminate unsystematic risk in a portfolio.",
+  "prompt": "In a well-diversified portfolio, unsystematic risk can be reduced to zero.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Diversification effectively eliminates unsystematic risk, as the unique risks of individual securities cancel each other out."
+}

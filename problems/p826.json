@@ -1,0 +1,33 @@
+{
+  "id": "p826",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Interest Rates",
+  "subtopic": "Types of Interest Rates",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "expected-return",
+    "portfolio",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Types of Interest Rates: If a company has a portfolio with a beta of...",
+  "summary": "Calculate the required return on a portfolio using its weighted-average beta and CAPM.",
+  "prompt": "If a company has a portfolio with a beta of 1.5 and the market's expected return is 10%, the company's expected return can be calculated using the CAPM model.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. The Capital Asset Pricing Model (CAPM) is used to calculate the expected return of an asset based on its systematic risk, represented by beta. The formula is: Expected Return = Risk-Free Rate + Beta * (Market Return - Risk-Free Rate). By applying this model, the company can estimate its expected return based on its beta and the market's expected return. Understanding the application of CAPM is essential for finance students analyzing risk and return relationships. This concept is elaborated in the \"Types of Interest Rates\" section from Document 13 on Page 24."
+}

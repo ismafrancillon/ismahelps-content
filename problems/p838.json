@@ -1,0 +1,32 @@
+{
+  "id": "p838",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Margin Accounts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Margin Accounts: The margin requirement in futures trading is designed to protect...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "The margin requirement in futures trading is designed to protect against the risk of default.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True; margin accounts serve as a guarantee that traders can cover potential losses, and they are adjusted daily based on the market movements to maintain sufficient funds in the account. This setup minimizes the risk of default in futures trading."
+}

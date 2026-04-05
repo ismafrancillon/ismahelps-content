@@ -1,0 +1,32 @@
+{
+  "id": "p851",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Active Management and Performance Measurement: The primary objective of active management is to achieve a...",
+  "summary": "Identify active management's goal of outperforming the market on a risk-adjusted basis.",
+  "prompt": "The primary objective of active management is to achieve a return that exceeds the market return on a risk-adjusted basis.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Active management aims to outperform the market return after adjusting for the associated risks, which is a fundamental goal for many portfolio managers."
+}

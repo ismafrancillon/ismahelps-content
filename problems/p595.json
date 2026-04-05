@@ -1,0 +1,24 @@
+{
+  "id": "p595",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: A property is expected to generate cash flows of 300000...",
+  "summary": "Calculate the present value or NPV of a real estate investment.",
+  "prompt": "A property is expected to generate cash flows of $300,000 annually for the next 5 years, and then $500,000 annually for the subsequent 5 years. If the discount rate is 10%, what is the present value of these cash flows?",
+  "options": [],
+  "correct_option": "3230000",
+  "answer_text": "3230000",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the present value of future cash flows, we use the following steps: 1. Calculate the present value of cash flows for the first 5 years (annuity) and the subsequent 5 years (growing annuity). 2. Use the formula for present value of an annuity: PV = PMT * [(1 - (1 + r)^-n) / r]. For the first 5 years: PV1 = $300,000 * [(1 - (1 + 0.10)^-5) / 0.10] = $1,146,000. For the next 5 years: PV2 = $500,000 * [(1 - (1 + 0.10)^-5) / 0.10] / (1 + 0.10)^5 = $1,924,000. Total PV = PV1 + PV2 = $1,146,000 + $1,924,000 = $3,230,000. This concept is a fundamental aspect of cash flow modeling and valuation in real estate finance."
+}

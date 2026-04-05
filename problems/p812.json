@@ -1,0 +1,32 @@
+{
+  "id": "p812",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Derivative Instruments: A futures contract requires the buyer to purchase the underlying...",
+  "summary": "Evaluate the characteristics and classification of derivative instruments.",
+  "prompt": "A futures contract requires the buyer to purchase the underlying asset at a specified price and at a specified future date.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Futures contracts are agreements to buy or sell an asset at a future date for a set price. The buyer is obliged to purchase the asset, while the seller is obligated to deliver it. This characteristic distinguishes futures contracts from options, where the buyer has the right but not the obligation to buy. [[24]]"
+}

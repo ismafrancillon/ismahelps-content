@@ -1,0 +1,32 @@
+{
+  "id": "p813",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Trading Venues (Exchanges vs OTC)",
+  "subtopic": "Trading Venues",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Trading Venues: A market maker provides liquidity by being willing to buy...",
+  "summary": "Describe market makers' role in providing liquidity by quoting buy and sell prices.",
+  "prompt": "A market maker provides liquidity by being willing to buy and sell options at quoted prices, ensuring that there is a continuous market for these derivatives.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. Market makers play a crucial role in the options market by providing liquidity, allowing traders to buy and sell options at quoted prices. Their willingness to take on the risk of holding options ensures that there is a continuous market for these derivatives, facilitating trading and price discovery. Understanding the role of market makers is essential for finance students analyzing market dynamics. This concept is discussed in the \"Trading Venues (Exchanges vs OTC)\" section from Document 25 on Page 54."
+}

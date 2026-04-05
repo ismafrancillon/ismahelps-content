@@ -1,0 +1,33 @@
+{
+  "id": "p847",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "efficient-frontier",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Portfolio Management Techniques: The Black-Litterman model is designed to incorporate both market equilibrium...",
+  "summary": "Describe the Black-Litterman model combining market equilibrium with investor views.",
+  "prompt": "The Black-Litterman model is designed to incorporate both market equilibrium and subjective views into portfolio optimization.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The Black-Litterman model enhances the portfolio optimization process by combining the market’s equilibrium returns with the investor’s subjective views on expected returns. This approach allows for a more flexible and robust framework for asset allocation, balancing the insights derived from market data with the individual investor’s beliefs. The model works by adjusting the expected returns based on the confidence in the investor's views, thereby optimizing the overall portfolio allocation."
+}

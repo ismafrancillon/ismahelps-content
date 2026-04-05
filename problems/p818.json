@@ -1,0 +1,32 @@
+{
+  "id": "p818",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Cross Hedging",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cross Hedging: A trader sells a futures contract to hedge against price...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A trader sells a futures contract to hedge against price increases in the underlying asset. If the price of the underlying asset decreases, the trader will incur a loss.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. When a trader sells a futures contract as a hedge against price increases, they are protecting themselves from rising prices. However, if the price of the underlying asset decreases, the trader will incur a loss on the futures position. Understanding the dynamics of futures contracts and their role in hedging strategies is crucial for managing risk in financial markets. This concept is explored in the \"Cross Hedging\" section from Document 14 on Page 27."
+}

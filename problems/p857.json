@@ -1,0 +1,32 @@
+{
+  "id": "p857",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Commercial Real Estate",
+  "subtopic": "General Commercial Properties",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "General Commercial Properties: All commercial properties are designed to generate cash flow from...",
+  "summary": "Evaluate whether commercial properties are designed to generate rental cash flow.",
+  "prompt": "All commercial properties are designed to generate cash flow from rents.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Commercial properties, which include office, retail, industrial, and special-purpose spaces, are primarily designed to generate cash flow through rents. Understanding how these properties operate is essential for real estate investors."
+}

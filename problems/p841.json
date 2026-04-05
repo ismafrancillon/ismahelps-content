@@ -1,0 +1,32 @@
+{
+  "id": "p841",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Valuing Forward Contracts: The value of a short forward position increases when the...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "The value of a short forward position increases when the spot price of the underlying asset decreases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. In a short forward position, the trader benefits when the spot price of the underlying asset decreases. Since they have agreed to sell the asset at the forward price, a decline in the spot price increases their profit margin. Understanding the dynamics of forward contracts is essential for traders managing risk and speculating on price movements. This concept is elaborated in the \"Valuing Forward Contracts\" section from Document 10 on Page 19."
+}

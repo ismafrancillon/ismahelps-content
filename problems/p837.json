@@ -1,0 +1,32 @@
+{
+  "id": "p837",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Margin Accounts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Margin Accounts: The margin requirement for futures trading is usually lower than...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "The margin requirement for futures trading is usually lower than that for options trading.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Futures contracts typically have lower margin requirements compared to options due to daily marking-to-market procedures, which help mitigate credit risk. [[29]]"
+}

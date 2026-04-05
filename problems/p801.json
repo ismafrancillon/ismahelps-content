@@ -1,0 +1,32 @@
+{
+  "id": "p801",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Strategy",
+  "subtopic": "Synergy",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Synergy: In the context of mergers, synergy can be defined as...",
+  "summary": "Evaluate the concept of synergy where the combined value of firms exceeds their individual values.",
+  "prompt": "In the context of mergers, synergy can be defined as the situation where 2 + 2 = 5.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Synergy refers to the concept that the combined value of two firms working together can exceed the sum of their individual values."
+}

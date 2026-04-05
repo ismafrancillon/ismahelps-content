@@ -1,0 +1,33 @@
+{
+  "id": "p805",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Reasons for M&A",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "shareholders",
+    "corporation",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Reasons for M&A: The main objective of a merger is to enhance shareholder...",
+  "summary": "Identify shareholder value enhancement as the main objective of mergers and acquisitions.",
+  "prompt": "The main objective of a merger is to enhance shareholder value.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Mergers are typically pursued with the intention of creating value for shareholders through synergies, growth, and improved efficiency."
+}

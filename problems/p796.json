@@ -1,0 +1,33 @@
+{
+  "id": "p796",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Terminal Value",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "terminal-value",
+    "discounted-cash-flow",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Terminal Value: The terminal value in a DCF model represents the expected...",
+  "summary": "Evaluate the role of terminal value in capturing cash flows beyond the explicit forecast period.",
+  "prompt": "The terminal value in a DCF model represents the expected cash flows beyond the forecast period.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Terminal value is critical in a DCF analysis as it captures the value of a firm beyond the explicit forecast years. It is calculated based on the expected stable growth of cash flows into perpetuity."
+}

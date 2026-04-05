@@ -1,0 +1,23 @@
+{
+  "id": "p594",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Comparable Sales Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "market-value",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Comparable Sales Approach: If a property is purchased for 2000000 and the investor...",
+  "summary": "Calculate the future value of a property based on an annual appreciation rate.",
+  "prompt": "If a property is purchased for $2,000,000 and the investor estimates a 10% annual appreciation over 5 years, what will be the estimated value of the property at the end of that period?",
+  "options": [],
+  "correct_option": "3221000",
+  "answer_text": "3221000",
+  "answer_format": "numeric_decimal",
+  "solution": "The future value of the property can be calculated using the formula: FV = PV * (1 + r)^n. Here, FV = $2,000,000 * (1 + 0.10)^5 = $2,000,000 * (1.61051) = $3,221,000. This appreciation rate is essential for investors to understand as it impacts their investment strategy and potential returns. Knowing how to calculate future values based on appreciation is critical for finance students in evaluating real estate investments."
+}

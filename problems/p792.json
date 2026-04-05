@@ -1,0 +1,33 @@
+{
+  "id": "p792",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "Capital Expenses",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "depreciation",
+    "net-income",
+    "income-statement",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Expenses: The inclusion of capital expenses in operating expenses can lead...",
+  "summary": "Evaluate how misclassifying capital expenses distorts income measurement.",
+  "prompt": "The inclusion of capital expenses in operating expenses can lead to an overestimation of net income.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Misclassifying capital expenses as operating expenses skews the measurement of both operating and net income. Operating income should only reflect revenues minus operating expenses, excluding capital expenses, which should be depreciated over time. This highlights the importance of accurate classification for financial reporting."
+}

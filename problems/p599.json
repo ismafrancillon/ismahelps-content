@@ -1,0 +1,24 @@
+{
+  "id": "p599",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Normal Annuity",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "time-value-of-money",
+    "future-value",
+    "annuity",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Normal Annuity: Your job pays you at the end of the year...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "Your job pays you at the end of the year and today, December 31, you just received your\nsalary of $125,000 and you plan to spend all of it. However, you want to start saving for\nretirement beginning next year. You have decided that one year from today you will begin\ndepositing 20% of your annual salary in an account that will earn 4.5% per year. Your\nSalary will increase 3% per year throughout your career. How much money will you have\nwhen you retire 50 years from today?",
+  "options": [],
+  "correct_option": "7980320.23",
+  "answer_text": "7980320.2300000004",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the total amount of money you will have when you retire 50 years from today, we need to follow these steps: 1. **Define Key Variables:** - Initial salary: $125,000 - Annual savings rate: 20% - Annual salary growth rate: 3% - Annual interest rate on savings: 4.5% - Time to retirement: 50 years 2. **Calculate Annual Contributions:** - First-year contribution: 20% of $125,000 = $25,000 3. **Determine Future Value of Contributions:** - Use the formula for the future value of a growing annuity: \\[ FV = \\frac{C \\times ((1 + r)^n - (1 + g)^n)}{r - g} \\] where \\(C\\) is the initial contribution, \\(r\\) is the annual interest rate, \\(g\\) is the growth rate of contributions, and \\(n\\) is the number of years. 4. **Plug in the Values:** - \\(C = 25,000\\) - \\(r = 0.045\\) - \\(g = 0.03\\) - \\(n = 50\\) 5. **Compute the Future Value:** \\[ FV = \\frac{25,000 \\times ((1 + 0.045)^{50} - (1 + 0.03)^{50})}{0.045 - 0.03} \\] - Calculate \\((1 + 0.045)^{50}\\): \\[ (1.045)^{50} \\approx 8.961 \\] - Calculate \\((1 + 0.03)^{50}\\): \\[ (1.03)^{50} \\approx 4.384 \\] - Plug these values into the formula: \\[ FV = \\frac{25,000 \\times (8.961 - 4.384)}{0.015} \\] - Calculate the numerator: \\[ 25,000 \\times (8.961 - 4.384) = 25,000 \\times 4.577 = 114,425 \\] - Divide by the denominator: \\[ \\frac{114,425}{0.015} \\approx 7,628,333 \\] Therefore, the total amount of money you will have when you retire 50 years from today is approximately $7,628,333. ### Explanation: - We first calculated the initial annual savings based on the given salary and savings rate. - Then, we used the future value of a growing annuity formula to determine the total value of the savings over 50 years, considering both the interest rate on savings and the annual salary growth rate. - By plugging in the values and performing the calculations step-by-step, we arrived at the final amount you will have at retirement."
+}

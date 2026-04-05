@@ -1,1 +1,41 @@
-
+{
+  "id": "p1",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Risk",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Risk: An investor invests 800 in a risky asset with an...",
+  "summary": "Calculate a two-asset portfolio's expected return and standard deviation using weighted averages.",
+  "prompt": "An investor invests $800 in a risky asset with an expected rate of return of 18% and a standard deviation of 25%. The investor also invests $200 in a Treasury bill with a 4% rate of return. Her portfolio's expected rate of return and standard deviation are ______and ______, respectively.",
+  "options": [
+    {
+      "id": "A",
+      "text": "15.2%"
+    },
+    {
+      "id": "B",
+      "text": "11.2%"
+    },
+    {
+      "id": "C",
+      "text": "13.2%"
+    },
+    {
+      "id": "D",
+      "text": "17.2%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "To solve the problem, we need to calculate the portfolio's expected rate of return and standard deviation. ### Expected Rate of Return First, let's calculate the expected rate of return for the portfolio. The expected rate of return on the portfolio is the weighted average of the expected returns of the risky asset and the Treasury bill. - Investment in risky asset: $800 - Expected return on risky asset: 18% (0.18) - Investment in Treasury bill: $200 - Expected return on Treasury bill: 4% (0.04) The total investment is $800 + $200 = $1000. The weights of the investments are: - Weight of risky asset: $800 / $1000 = 0.8 - Weight of Treasury bill: $200 / $1000 = 0.2 The expected return of the portfolio (E[Rp]) is calculated as follows: \\[ E[Rp] = (Weight_{risky} \\times Return_{risky}) + (Weight_{T-bill} \\times Return_{T-bill}) \\] \\[ E[Rp] = (0.8 \\times 0.18) + (0.2 \\times 0.04) \\] \\[ E[Rp] = 0.144 + 0.008 \\] \\[ E[Rp] = 0.152 \\] So, the expected rate of return for the portfolio is 15.2%. ### Standard Deviation Next, we calculate the standard deviation of the portfolio. Since the Treasury bill is risk-free, its standard deviation is 0. Therefore, the portfolio's standard deviation is only affected by the risky asset. - Standard deviation of risky asset: 25% (0.25) The standard deviation of the portfolio (σp) is calculated as follows: \\[ \\sigma_p = Weight_{risky} \\times \\sigma_{risky} \\] \\[ \\sigma_p = 0.8 \\times 0.25 \\] \\[ \\sigma_p = 0.2 \\] So, the standard deviation of the portfolio is 20%. ### Final Answer - Expected rate of return: 15.2% - Standard deviation: 20% Therefore, the portfolio's expected rate of return is 15.2%, and its standard deviation is 20%."
+}

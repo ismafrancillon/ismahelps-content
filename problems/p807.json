@@ -1,0 +1,33 @@
+{
+  "id": "p807",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Going-Private Transactions and LBOs",
+  "subtopic": "Management Buyouts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "corporation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Management Buyouts: The primary motivation for conducting leveraged buyouts (LBOs) is to...",
+  "summary": "Assess the primary motivation for LBOs as enhancing shareholder wealth through increased leverage.",
+  "prompt": "The primary motivation for conducting leveraged buyouts (LBOs) is to enhance shareholder wealth through increased leverage.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "LBOs are primarily motivated by the potential to enhance shareholder wealth by utilizing significant leverage to finance the acquisition. The increased debt can lead to tax savings and, when managed properly, can result in higher returns on equity for shareholders. However, the successful execution of LBOs depends on careful financial structuring and management of the acquired entity post-buyout."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p597",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Commercial Real Estate",
+  "subtopic": "Retail",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "revenues",
+    "expenses",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Retail: A retail property has a gross income of 800000 and...",
+  "summary": "Calculate property value using the capitalization rate and NOI.",
+  "prompt": "A retail property has a gross income of $800,000 and expenses of $300,000. If the property is appraised at a cap rate of 9%, what is the estimated value of the property?",
+  "options": [],
+  "correct_option": "5555555.56",
+  "answer_text": "5555555.5599999996",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: Calculate NOI: NOI = Gross Income - Expenses = $800,000 - $300,000 = $500,000. Step 2: Calculate property value using the cap rate: Property Value = NOI / Cap Rate = $500,000 / 0.09 = $5,555,555.56."
+}

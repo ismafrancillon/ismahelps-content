@@ -1,0 +1,24 @@
+{
+  "id": "p607",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "EV/EBITDA",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "multiples",
+    "market-value",
+    "valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "EV/EBITDA: A firm has an EBITDA of 10 million and a...",
+  "summary": "Calculate enterprise value by applying the industry EV/EBITDA multiple to the firm's EBITDA.",
+  "prompt": "A firm has an EBITDA of $10 million and a market value of debt of $5 million. If the industry average EV/EBITDA multiple is 6, what is the enterprise value?",
+  "options": [],
+  "correct_option": "$60 million",
+  "answer_text": "$60 million",
+  "answer_format": "text",
+  "solution": "Enterprise Value = EV/EBITDA * EBITDA = 6 * $10 million = $60 million."
+}

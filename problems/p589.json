@@ -1,0 +1,24 @@
+{
+  "id": "p589",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "growth-rate",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: A property has a selling price of 1.5 million and...",
+  "summary": "Calculate NOI by subtracting operating expenses from rental income.",
+  "prompt": "A property has a selling price of $1.5 million and a current NOI of $120,000. If the projected annual growth rate of NOI is 3%, calculate the value of the property in 5 years using the Gordon Growth Model.",
+  "options": [],
+  "correct_option": "1647716",
+  "answer_text": "1647716",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: Calculate future NOI: Future NOI = Current NOI × (1 + growth rate)^number of years = $120,000 × (1 + 0.03)^5 = $120,000 × 1.15927 = $139,113.24. Step 2: Calculate cap rate (based on current value): Cap Rate = NOI / Property Value = $120,000 / $1,500,000 = 0.08. Step 3: Value in 5 years = Future NOI / Cap Rate = $139,113.24 / 0.08 = $1,738,915.50."
+}

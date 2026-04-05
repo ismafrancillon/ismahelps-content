@@ -1,0 +1,33 @@
+{
+  "id": "p848",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "portfolio",
+    "beta",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "CAPM: The Capital Asset Pricing Model (CAPM) assumes that all investors...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "The Capital Asset Pricing Model (CAPM) assumes that all investors hold identical risky portfolios.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The CAPM is based on the premise that all investors have the same expectations regarding returns and risks, leading them to hold the same market portfolio. This is crucial for the theory's implications about market efficiency."
+}

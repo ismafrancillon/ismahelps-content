@@ -1,0 +1,32 @@
+{
+  "id": "p824",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Derivative Instruments: Futures contracts are standardized agreements...",
+  "summary": "Evaluate whether futures contracts are standardized agreements traded on exchanges.",
+  "prompt": "Futures contracts are standardized agreements traded on exchanges.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Futures contracts are indeed standardized and traded on exchanges, which facilitates liquidity and transparency in the markets. [[24]]"
+}

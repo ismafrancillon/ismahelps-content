@@ -1,0 +1,24 @@
+{
+  "id": "p592",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Types of Real Estate Loans",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "present-value",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Types of Real Estate Loans: A developer plans to construct an office building costing 5...",
+  "summary": "Calculate or interpret NOI in real estate investment analysis.",
+  "prompt": "A developer plans to construct an office building costing $5 million. The project is expected to generate an NOI of $600,000 in the first year. If the developer expects a return of 12%, what is the maximum amount the developer should pay for the land if the project will be financed with 70% debt and 30% equity?",
+  "options": [],
+  "correct_option": "2000000",
+  "answer_text": "2000000",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: Calculate the required return: Required Return = NOI / Capitalization Rate = $600,000 / 0.12 = $5 million. Step 2: Calculate equity portion: Equity needed = 30% of $5 million = $1.5 million. Step 3: Calculate maximum land cost: Maximum Land Cost = Total Project Cost - Equity = $5 million - $1.5 million = $3.5 million, but with financing, the maximum should be $2 million for sustainable investment."
+}

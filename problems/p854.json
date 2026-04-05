@@ -1,0 +1,32 @@
+{
+  "id": "p854",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Functions",
+  "subtopic": "Property Management",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Property Management: A property manager is responsible for the day-to-day operations of...",
+  "summary": "Analyze a real estate finance concept related to Property Management.",
+  "prompt": "A property manager is responsible for the day-to-day operations of a property, including maintenance.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Property management encompasses various responsibilities such as housekeeping, security, maintenance, and repairs. Effective property management is essential for maintaining property value and tenant satisfaction."
+}

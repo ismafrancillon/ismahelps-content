@@ -1,0 +1,32 @@
+{
+  "id": "p819",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Specification of Futures",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Specification of Futures: A trader who enters into a long futures contract is...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A trader who enters into a long futures contract is entitled to receive the underlying asset at the expiration of the contract.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. When a trader enters into a long futures contract, they are entitled to receive the underlying asset at the contract's expiration. This obligation is part of the futures contract mechanics, where the buyer agrees to purchase the asset at the specified futures price. Understanding the rights and obligations in futures contracts is essential for effective trading strategies. This concept is discussed in the \"Specification of Futures Contracts\" section from Document 24 on Page 50."
+}

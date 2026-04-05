@@ -1,0 +1,23 @@
+{
+  "id": "p606",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Synergy",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "market-value",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Synergy: A company plans to acquire another firm for 50 million,...",
+  "summary": "Calculate the effective acquisition cost by subtracting expected synergies from the purchase price.",
+  "prompt": "A company plans to acquire another firm for $50 million, with expected synergies of $10 million. What is the effective cost of the acquisition when considering these synergies?",
+  "options": [],
+  "correct_option": "$40 million",
+  "answer_text": "$40 million",
+  "answer_format": "text",
+  "solution": "Effective Cost = Acquisition Price - Synergies = $50 million - $10 million = $40 million."
+}

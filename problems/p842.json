@@ -1,0 +1,33 @@
+{
+  "id": "p842",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "risk-free-rate",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "CAPM: A portfolio with a beta of zero will have an...",
+  "summary": "Calculate the required return on a portfolio using its weighted-average beta and CAPM.",
+  "prompt": "A portfolio with a beta of zero will have an expected return equal to the risk-free rate.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "A beta of zero indicates that the portfolio is not influenced by market movements, thus its return is equivalent to that of risk-free assets."
+}

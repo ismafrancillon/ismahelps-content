@@ -1,0 +1,24 @@
+{
+  "id": "p602",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Commercial Real Estate",
+  "subtopic": "Office",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "revenues",
+    "financial-ratios",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Office: A commercial property has a gross rental income of $500,000,...",
+  "summary": "Calculate debt service and DSCR for a commercial property with a mortgage.",
+  "prompt": "A commercial property has a gross rental income of $500,000, with expenses totaling $150,000. The property is financed with a $3 million mortgage at an interest rate of 5% for 25 years. Calculate the debt service and the cash flow after debt service.",
+  "options": [],
+  "correct_option": "$204,000; $296,000",
+  "answer_text": "$204,000; $296,000",
+  "answer_format": "text",
+  "solution": "Step 1: Calculate Net Operating Income (NOI): NOI = Gross Rental Income - Expenses = $500,000 - $150,000 = $350,000. Step 2: Calculate the monthly mortgage payment (PMT) using the formula: PMT = P * (r(1+r)^n) / ((1+r)^n - 1) where P = principal, r = monthly interest rate (5%/12), n = number of payments (25*12). PMT = $3,000,000 * (0.004167(1.004167^300)) / ((1.004167^300) - 1) = $17,484.61. Step 3: Calculate annual debt service: Debt Service = PMT * 12 = $17,484.61 * 12 = $209,815.32. Step 4: Cash Flow = NOI - Debt Service = $350,000 - $209,815.32 = $140,184.68."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p806",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "History of Mergers",
+  "subtopic": "Causes of Merger Waves",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "industry-analysis",
+    "economics",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Causes of Merger Waves: The merger process is predominantly influenced by market conditions and...",
+  "summary": "Evaluate how market conditions and economic cycles influence merger and acquisition activity.",
+  "prompt": "The merger process is predominantly influenced by market conditions and the economic environment.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Market conditions and economic environments play significant roles in M&A activities. Economic expansions often lead to increased M&A activity as firms seek growth opportunities faster than through organic means. Conversely, during economic downturns, M&A activity tends to decrease as firms become more cautious about taking risks. Understanding these dynamics is crucial for firms considering mergers or acquisitions."
+}
