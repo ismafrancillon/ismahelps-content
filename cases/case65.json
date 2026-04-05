@@ -1,0 +1,85 @@
+{
+  "id": "case65",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "edtech",
+  "topic": "scaling-strategy",
+  "subtopic": "ai-personalized-learning",
+  "difficulty": "Medium",
+  "style": "General",
+  "tags": [
+    "edtech",
+    "ai",
+    "personalized-learning",
+    "k-12",
+    "scaling"
+  ],
+  "title": "Scaling AI-Based Personalized Learning in Public Schools",
+  "summary": "Scale an AI-powered personalized tutoring system for K-12 students across an entire national public school system.",
+  "prompt": "Our client, EdTech Innovators Inc., is a leading company in the AI and education technology space. The company has developed an AI-powered tutoring system designed to provide personalized learning experiences for K-12 students. This system is currently being piloted in a country's public school system. We have been engaged to help our client determine the feasibility and strategy for scaling this AI-powered tutoring system across the entire country.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current scope and scale of the pilot program?",
+        "answer": "The pilot is implemented in 50 public schools, covering approximately 10,000 students across various regions."
+      },
+      {
+        "question": "What are the key features of the AI-powered tutoring system?",
+        "answer": "The system offers personalized learning plans, real-time progress tracking, adaptive assessments, and interactive content tailored to each student's learning pace and style."
+      },
+      {
+        "question": "What feedback has been received from pilot schools?",
+        "answer": "Feedback has been largely positive, with improvements in student engagement, learning outcomes, and teacher satisfaction. However, there are concerns about initial setup complexity and ongoing technical support."
+      },
+      {
+        "question": "What is the current infrastructure and technological readiness?",
+        "answer": "Infrastructure varies significantly. Urban schools are generally better equipped, while rural schools face challenges such as limited internet access and outdated hardware."
+      },
+      {
+        "question": "What are the financial implications of scaling nationwide?",
+        "answer": "The estimated cost includes initial setup, training, and ongoing maintenance. Funding sources need to be identified and cost-saving measures explored."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Market Analysis",
+        "points": [
+          "Current Education Landscape: Assess the public school system, number of schools, students, and regional distribution.",
+          "Competitive Landscape: Identify other EdTech solutions in use or being considered.",
+          "Regulatory Environment: Understand government policies on AI and technology in education."
+        ]
+      },
+      {
+        "title": "Implementation Strategy",
+        "points": [
+          "Pilot Program Evaluation: Analyze results and feedback to identify success factors and areas for improvement.",
+          "Infrastructure Requirements: Assess technology needs including hardware, software, and internet connectivity.",
+          "Training and Support: Develop comprehensive training programs for teachers and administrators."
+        ]
+      },
+      {
+        "title": "Financial Analysis",
+        "points": [
+          "Cost Estimation: Estimate total scaling cost including setup, training, and ongoing maintenance.",
+          "Return on Investment: Calculate expected ROI from improved outcomes and efficiency.",
+          "Funding Sources: Identify government grants, private investments, and public-private partnerships."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Financial Projections for Nationwide AI Tutoring System",
+      "content": "Category | Initial Setup Cost ($M) | Annual Maintenance Cost ($M) | Total Cost Over 5 Years ($M) | Potential Funding Sources\nHardware and Software | 50 | 10 | 100 | Government Grants, Private Investments\nTraining and Development | 20 | 5 | 45 | Public-Private Partnerships\nTechnical Support | 10 | 5 | 35 | Government Budget Allocation\nInternet Infrastructure | 30 | 8 | 70 | Telecom Partnerships\nTotal | 110 | 28 | 250 | -"
+    },
+    "exhibit_answer": "High initial setup costs of $110M include hardware, software, training, and internet infrastructure. Annual maintenance of $28M indicates need for continuous funding. Total 5-year cost of $250M emphasizes long-term commitment. Multiple funding sources can be leveraged. Internet infrastructure investment is crucial for rural areas. Robust training and support is essential for successful adoption.",
+    "math_prompt": "Calculate the break-even point. Initial setup: $110M. Annual maintenance: $28M. Annual savings from efficiency: $15M. Annual student performance funding: $10M. Annual partnership revenue: $5M.",
+    "math_answer": "1. Annual costs: $28M\n2. Annual savings and revenue: $15M + $10M + $5M = $30M\n3. Net annual benefit: $30M - $28M = $2M\n4. Break-even: $110M / $2M = 55 years\n\nThe 55-year break-even indicates need for additional cost-saving measures or increased funding to make the project more financially viable.",
+    "creative_prompt": "How can EdTech Innovators Inc. leverage partnerships to enhance scalability and adoption?",
+    "creative_answer": [
+      "Technology Partnerships: Collaborate with tech companies for affordable hardware/software. Partner with telecom companies for rural internet infrastructure.",
+      "Educational Institutions: Work with universities to integrate AI training into teacher curricula. Collaborate with research institutions for continuous improvement.",
+      "Government Collaboration: Engage government for funding and policy support. Advocate for AI-in-education policies.",
+      "Community Engagement: Involve parents and local communities. Organize workshops to demonstrate personalized learning benefits."
+    ],
+    "final_suggestion": "Focus on a phased implementation strategy starting with regions that have necessary infrastructure. Continuous evaluation from pilot schools should guide improvements. Building strong partnerships with technology providers, educational institutions, and government bodies will be crucial for securing resources and support."
+  }
+}

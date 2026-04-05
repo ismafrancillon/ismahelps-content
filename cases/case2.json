@@ -1,0 +1,81 @@
+{
+  "id": "case2",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "paper-packaging",
+  "topic": "financing-strategy",
+  "subtopic": "capital-structure-decision",
+  "difficulty": "Medium",
+  "style": "BCG",
+  "tags": ["financing", "capital-structure", "manufacturing", "sustainability", "market-entry"],
+  "title": "Raising Capital for a Paper Packaging Plant",
+  "summary": "Determine optimal debt-vs-equity financing for a Canadian packaging company building a new sustainable manufacturing plant.",
+  "prompt": "Our client is a mid-sized Canadian packaging company specializing in sustainable paper-based products. They are seeking financing to build a new manufacturing plant to meet the growing demand for eco-friendly packaging solutions. The company needs to determine the optimal capital structure (debt vs. equity), identify potential investors, and justify the business case based on projected demand, regulatory trends, and cost advantages.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the estimated cost of building the new manufacturing plant?",
+        "answer": "The estimated cost of building the new manufacturing plant is $80 million."
+      },
+      {
+        "question": "What is the current financial health of the company?",
+        "answer": "The company is currently profitable with annual revenues of $200 million and a net profit margin of 10%. They have a debt-to-equity ratio of 0.5 and a credit rating of BBB."
+      },
+      {
+        "question": "What is the projected demand for sustainable paper-based products?",
+        "answer": "The demand for sustainable paper-based products is projected to grow at a CAGR of 8% over the next five years due to increasing environmental regulations and consumer preferences for eco-friendly packaging."
+      },
+      {
+        "question": "What are the regulatory trends impacting the paper packaging industry?",
+        "answer": "Regulatory trends include stringent environmental regulations aimed at reducing plastic waste, incentives for sustainable packaging solutions, and potential subsidies for eco-friendly manufacturing practices."
+      },
+      {
+        "question": "Who are the potential investors for this project?",
+        "answer": "Potential investors include private equity firms, venture capitalists, institutional investors, and strategic partners within the packaging or sustainability sectors."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Capital Structure (Debt vs. Equity)",
+        "points": [
+          "Debt Financing — Pros: Interest tax shield, no ownership dilution, fixed repayment schedule. Cons: Increased financial risk, mandatory interest payments, potential impact on credit rating.",
+          "Equity Financing — Pros: No mandatory repayments, access to investor expertise, potential for strategic partnerships. Cons: Dilution of ownership, potential loss of control, higher cost of capital.",
+          "Hybrid Approach — Pros: Balanced risk, optimized cost of capital, diversified funding sources. Cons: Complexity in structuring, potential conflicts between debt and equity holders."
+        ]
+      },
+      {
+        "title": "Identifying Potential Investors",
+        "points": [
+          "Private Equity Firms: Large firms (e.g., KKR, Carlyle, Blackstone) with a focus on sustainable investments. Mid-sized firms ($250M to $5B) with expertise in the packaging industry.",
+          "Venture Capitalists: Firms specializing in eco-friendly and sustainable startups.",
+          "Institutional Investors: Pension funds, insurance companies, and endowments with a mandate for sustainable investments.",
+          "Strategic Partners: Companies within the packaging or sustainability sectors looking for strategic investments."
+        ]
+      },
+      {
+        "title": "Justifying the Business Case",
+        "points": [
+          "Projected Demand: Analyze market trends, customer preferences, and competitive landscape.",
+          "Regulatory Trends: Evaluate the impact of current and future regulations on the demand for sustainable packaging.",
+          "Cost Advantages: Assess the cost benefits of the new plant, including economies of scale, technological advancements, and potential subsidies."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Projected Financial Performance of the New Plant (in $ millions)",
+      "content": "Year | Revenue | COGS | Gross Profit | Operating Expenses | Operating Profit | Net Income\n1 | 50 | 30 | 20 | 10 | 10 | 7.5\n2 | 60 | 36 | 24 | 12 | 12 | 9\n3 | 70 | 42 | 28 | 14 | 14 | 10.5\n4 | 80 | 48 | 32 | 16 | 16 | 12\n5 | 90 | 54 | 36 | 18 | 18 | 13.5"
+    },
+    "exhibit_answer": "Revenue Growth: The revenue is projected to grow from $50 million in Year 1 to $90 million in Year 5, reflecting a CAGR of 15%. Gross Profit Margin: The gross profit margin remains consistent at 40% throughout the projection period. Operating Expenses: Operating expenses are projected to increase proportionally with revenue, maintaining a steady ratio. Operating Profit: Operating profit grows from $10 million in Year 1 to $18 million in Year 5, indicating strong operational efficiency. Net Income: Net income increases from $7.5 million in Year 1 to $13.5 million in Year 5, demonstrating the profitability of the new plant. Cost of Goods Sold (COGS): The COGS increases in line with revenue growth, maintaining a consistent percentage of revenue. Financial Viability: The projections indicate strong financial performance, supporting the business case for the new plant.",
+    "math_prompt": "Calculate the break-even point in units for the new manufacturing plant. Assume the following:\nFixed costs: $80 million\nVariable cost per unit: $2.50\nSelling price per unit: $5.00",
+    "math_answer": "To calculate the break-even point in units, use the formula:\nBreak-even point (units) = Fixed Costs / (Selling Price per Unit - Variable Cost per Unit)\n\nStep-by-step solution:\n1. Identify fixed costs: $80 million\n2. Identify variable cost per unit: $2.50\n3. Identify selling price per unit: $5.00\n4. Calculate the contribution margin per unit: $5.00 - $2.50 = $2.50\n5. Calculate the break-even point in units: 80,000,000 / 2.50 = 32,000,000\n\nThe break-even point is 32 million units.",
+    "creative_prompt": "What strategic partnerships could the company explore to enhance its competitive advantage and market reach for the new manufacturing plant?",
+    "creative_answer": [
+      "Partnership with Retail Chains: Collaborate with major retail chains to secure long-term contracts for supplying sustainable packaging products.",
+      "Joint Ventures with Technology Providers: Form joint ventures with technology providers to incorporate advanced manufacturing technologies and improve production efficiency.",
+      "Alliances with Environmental Organizations: Partner with environmental organizations to promote sustainable packaging solutions and enhance brand reputation.",
+      "Collaboration with E-commerce Platforms: Work with e-commerce platforms to provide eco-friendly packaging solutions for online retailers, tapping into the growing e-commerce market.",
+      "Strategic Alliances with FMCG Companies: Establish strategic alliances with fast-moving consumer goods (FMCG) companies to supply customized packaging solutions, ensuring steady demand and revenue streams."
+    ],
+    "final_suggestion": "To effectively solve this case, focus on a comprehensive analysis of the capital structure options, identification of potential investors, and a detailed justification of the business case based on market demand, regulatory trends, and cost advantages. Utilize financial projections and strategic partnerships to strengthen the business case and ensure the successful implementation of the new manufacturing plant."
+  }
+}

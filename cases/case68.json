@@ -1,0 +1,86 @@
+{
+  "id": "case68",
+  "content_type": "case",
+  "category": "operations",
+  "industry": "water-infrastructure",
+  "topic": "water-sustainability",
+  "subtopic": "infrastructure-modernization",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "water",
+    "infrastructure",
+    "sustainability",
+    "climate-change",
+    "conservation"
+  ],
+  "title": "Modernizing a National Water Supply System",
+  "summary": "Develop a comprehensive national plan for long-term water sustainability addressing conservation, infrastructure upgrades, and governance reform.",
+  "prompt": "A country is facing severe water shortages due to the impacts of climate change and aging water infrastructure. The government has tasked a consulting team with developing a comprehensive plan to ensure long-term water sustainability. The plan must address three primary areas: improving water conservation methods, upgrading the existing water distribution systems, and exploring alternative water sources such as desalination and wastewater recycling. The team must consider financial viability, social impacts, and political feasibility in their proposal.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of the water infrastructure?",
+        "answer": "The infrastructure is over 50 years old, with frequent leaks and inefficiencies leading to significant water loss. Climate change has reduced rainfall and increased evaporation rates."
+      },
+      {
+        "question": "What is the budget allocated for this project?",
+        "answer": "The government has allocated $1 billion, but must prioritize due to competing projects like healthcare infrastructure."
+      },
+      {
+        "question": "What are the key stakeholders and their concerns?",
+        "answer": "Key stakeholders include the national government, local municipalities, environmental groups, and the general public. Some municipalities are concerned about the financial burden."
+      },
+      {
+        "question": "Are there existing water conservation programs?",
+        "answer": "Small-scale programs exist including awareness campaigns and incentives for water-saving appliances, but impact has been limited due to lack of widespread adoption and enforcement."
+      },
+      {
+        "question": "What are the potential environmental impacts of desalination and wastewater recycling?",
+        "answer": "Desalination can increase energy consumption and create brine disposal issues. Wastewater recycling may face public perception challenges. Both require careful environmental impact assessments."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Financial Analysis",
+        "points": [
+          "Cost-Benefit Analysis: Evaluate costs of upgrades, conservation programs, and alternative sources against long-term benefits.",
+          "Funding Sources: Identify government grants, public-private partnerships, and international aid.",
+          "ROI and Payback Period: Calculate expected returns for each project component."
+        ]
+      },
+      {
+        "title": "Technical Feasibility",
+        "points": [
+          "Infrastructure Assessment: Conduct thorough assessment of current infrastructure for critical upgrade areas.",
+          "Technology Evaluation: Research the most efficient and sustainable technologies for conservation, desalination, and recycling.",
+          "Implementation Plan: Develop detailed plans including timelines, resource allocation, and risk management."
+        ]
+      },
+      {
+        "title": "Social and Environmental Impact",
+        "points": [
+          "Community Engagement: Engage with local communities to understand needs and incorporate feedback.",
+          "Environmental Impact Assessment: Conduct comprehensive assessments for desalination and recycling projects.",
+          "Public Awareness Campaigns: Develop campaigns to promote water conservation and educate on new initiatives."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Water Sustainability Project Financial and Impact Comparison",
+      "content": "Component | Initial Investment | Annual Maintenance | Projected Annual Savings | Payback Period | Environmental Impact (1-10) | Public Acceptance (1-10)\nInfrastructure Upgrade | $500M | $50M | $100M | 5 years | 8 | 7\nWater Conservation | $200M | $20M | $50M | 4 years | 9 | 8\nDesalination | $200M | $30M | $40M | 7 years | 6 | 5\nWastewater Recycling | $100M | $10M | $30M | 3.3 years | 7 | 6"
+    },
+    "exhibit_answer": "Infrastructure upgrade has highest investment but significant savings and 5-year payback with high environmental and public acceptance scores. Water conservation has moderate investment with highest environmental impact score and public acceptance, 4-year payback. Desalination has higher maintenance and longest payback (7 years) with moderate scores. Wastewater recycling offers the shortest payback (3.3 years) with balanced scores. Prioritize infrastructure upgrades and conservation for highest returns; use desalination and recycling as supplementary measures.",
+    "math_prompt": "Calculate total cost and NPV of savings over 10 years for the water conservation component. Initial investment: $200M, annual maintenance: $20M, annual savings: $50M. Discount rate: 5%.",
+    "math_answer": "Step 1: Total cost = $200M + ($20M * 10) = $400M\nStep 2: Total savings = $50M * 10 = $500M\nStep 3: NPV of savings = $50M * [1-(1.05)^-10]/0.05 \u2248 $50M * 7.722 \u2248 $386.1M\nStep 4: Net Benefit = $386.1M - $400M = -$13.9M\n\nDespite the slightly negative net benefit, long-term environmental and social benefits may justify the investment. Additional funding sources could improve financial viability.",
+    "creative_prompt": "Propose a strategy to enhance public acceptance and participation in water conservation initiatives.",
+    "creative_answer": [
+      "Community Involvement: Establish local water conservation committees for community participation in decision-making.",
+      "Incentive Programs: Offer financial incentives such as rebates and tax credits for water-saving technologies.",
+      "Education and Outreach: Launch widespread campaigns on water conservation importance.",
+      "Partnerships: Collaborate with schools, businesses, and non-profits for joint conservation initiatives.",
+      "Monitoring and Feedback: Implement usage monitoring systems with feedback and rewards for top performers."
+    ],
+    "final_suggestion": "Prioritize upgrading aging infrastructure and implementing water conservation initiatives for the highest financial and social returns. Desalination and wastewater recycling should be pursued as supplementary measures. Community engagement and incentives will be crucial for conservation success."
+  }
+}

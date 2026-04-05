@@ -1,0 +1,89 @@
+{
+  "id": "case5",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "sports",
+  "topic": "ecosystem-development",
+  "subtopic": "sports-hub-strategy",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": ["sports", "urban-planning", "mega-project", "tourism", "market-entry"],
+  "title": "Developing a Sports Ecosystem for a Middle Eastern City",
+  "summary": "Design a world-class sports ecosystem for a new Middle Eastern city, covering facilities, events, tourism, and jobs.",
+  "prompt": "A sovereign wealth fund is spearheading the development of a new, futuristic city in the Middle East. As part of its urban planning and economic strategy, the fund aims to incorporate a world-class sports ecosystem. The goal is to create a hub that attracts international sports events, promotes local sports participation, and supports economic growth through sports tourism and related industries. Your task is to develop a comprehensive strategy to achieve this vision.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the primary sports that the city wants to focus on?",
+        "answer": "The city aims to focus on a mix of popular international sports such as football, tennis, and athletics, as well as regional sports like camel racing and falconry."
+      },
+      {
+        "question": "What is the budget allocated for the development of the sports ecosystem?",
+        "answer": "The sovereign wealth fund has allocated a budget of $5 billion for the development of the sports ecosystem over the next five years."
+      },
+      {
+        "question": "What is the timeline for the development and launch of the sports facilities?",
+        "answer": "The timeline for the development is five years, with key milestones set for the completion of major facilities within the first three years."
+      },
+      {
+        "question": "Are there any existing sports facilities in the region that can be leveraged or will all facilities be newly constructed?",
+        "answer": "There are a few existing facilities, but the majority of the infrastructure will be newly constructed to meet world-class standards."
+      },
+      {
+        "question": "What are the key objectives for the sports ecosystem beyond hosting events?",
+        "answer": "The key objectives include promoting local sports participation, fostering youth development programs, increasing sports tourism, and creating job opportunities within the sports industry."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Market Analysis",
+        "points": [
+          "Demand Analysis: Assess the demand for various sports in the region and internationally.",
+          "Competitive Landscape: Analyze existing sports hubs in the region and globally to identify competitive advantages.",
+          "Target Audience: Define the target demographics for sports events and participation."
+        ]
+      },
+      {
+        "title": "Infrastructure Development",
+        "points": [
+          "Facility Planning: Identify the types and capacities of sports facilities required.",
+          "Location Strategy: Determine the optimal locations within the city for different sports facilities.",
+          "Sustainability: Incorporate sustainable practices in the construction and operation of facilities."
+        ]
+      },
+      {
+        "title": "Economic Impact",
+        "points": [
+          "Tourism Revenue: Estimate the potential revenue from sports tourism, including ticket sales, accommodations, and ancillary services.",
+          "Job Creation: Analyze the potential for job creation in construction, operations, and related industries.",
+          "Investment Attraction: Identify opportunities to attract private investment and sponsorships."
+        ]
+      },
+      {
+        "title": "Marketing and Promotion",
+        "points": [
+          "Branding: Develop a strong brand identity for the sports ecosystem.",
+          "Partnerships: Form strategic partnerships with international sports organizations, media, and local businesses.",
+          "Events Calendar: Plan a calendar of events to ensure year-round engagement and visibility."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Projected Economic Impact of the Sports Ecosystem (5-Year Period)",
+      "content": "Year | Projected Attendance (millions) | Tourism Revenue ($ millions) | Job Creation (FTEs) | Private Investment ($ millions)\n1 | 1.5 | 300 | 5,000 | 100\n2 | 2.0 | 400 | 7,500 | 150\n3 | 2.5 | 500 | 10,000 | 200\n4 | 3.0 | 600 | 12,500 | 250\n5 | 3.5 | 700 | 15,000 | 300"
+    },
+    "exhibit_answer": "Key insights from the exhibit include: 1. Steady Growth in Attendance: Projected attendance grows steadily from 1.5 million in the first year to 3.5 million by the fifth year. 2. Increasing Tourism Revenue: Corresponding tourism revenue increases from $300 million to $700 million over the same period. 3. Job Creation: Significant job creation is projected, with full-time equivalents (FTEs) increasing from 5,000 to 15,000. 4. Attracting Investment: Private investment is expected to grow from $100 million in the first year to $300 million by the fifth year. 5. Economic Multiplier Effect: The combined impact of increased attendance, tourism revenue, job creation, and private investment will contribute significantly to the city's economy. 6. Sustainability of Growth: The steady growth in all key variables indicates a sustainable development trajectory for the sports ecosystem.",
+    "math_prompt": "Calculate the break-even point for the sports ecosystem development. Assume the following:\nInitial capital expenditure: $5 billion\nAnnual operating costs: $200 million\nAverage ticket price: $50\nAverage spend per tourist (excluding ticket): $200\nPercentage of attendees who are tourists: 40%",
+    "math_answer": "1. Calculate annual revenue from ticket sales:\nYear 1: 1.5 million attendees * $50 = $75 million\nYear 2: 2.0 million attendees * $50 = $100 million\nYear 3: 2.5 million attendees * $50 = $125 million\nYear 4: 3.0 million attendees * $50 = $150 million\nYear 5: 3.5 million attendees * $50 = $175 million\n\n2. Calculate annual revenue from tourism spend:\nYear 1: 1.5 million * 40% * $200 = $120 million\nYear 2: 2.0 million * 40% * $200 = $160 million\nYear 3: 2.5 million * 40% * $200 = $200 million\nYear 4: 3.0 million * 40% * $200 = $240 million\nYear 5: 3.5 million * 40% * $200 = $280 million\n\n3. Calculate total annual revenue:\nYear 1: $75 million + $120 million = $195 million\nYear 2: $100 million + $160 million = $260 million\nYear 3: $125 million + $200 million = $325 million\nYear 4: $150 million + $240 million = $390 million\nYear 5: $175 million + $280 million = $455 million\n\n4. Calculate cumulative revenue and subtract cumulative operating costs:\nYear 1: $195 million - $200 million = -$5 million\nYear 2: $260 million - $200 million = $60 million\nYear 3: $325 million - $200 million = $125 million\nYear 4: $390 million - $200 million = $190 million\nYear 5: $455 million - $200 million = $255 million\n\n5. Calculate cumulative profit:\nYear 1: -$5 million\nYear 2: $60 million\nYear 3: $185 million\nYear 4: $375 million\nYear 5: $630 million\n\nThe break-even point is reached in Year 5 when cumulative profit exceeds the initial capital expenditure of $5 billion.",
+    "creative_prompt": "What innovative strategies can the city implement to ensure the sports ecosystem remains a year-round attraction, beyond just hosting sports events?",
+    "creative_answer": [
+      "Multi-Purpose Facilities: Design sports facilities to be adaptable for various events such as concerts, exhibitions, and conferences to ensure year-round usage.",
+      "Sports Academies: Establish sports academies and training centers to attract young talent and create a continuous flow of visitors.",
+      "Cultural Integration: Integrate cultural festivals and local heritage events with sports to attract a diverse audience.",
+      "Health and Wellness Programs: Develop health and wellness programs, including fitness camps and wellness retreats, leveraging the sports facilities.",
+      "Technology Integration: Utilize cutting-edge technology such as virtual reality sports experiences and e-sports tournaments to attract tech-savvy audiences.",
+      "Community Engagement: Engage the local community through regular sports leagues, amateur tournaments, and family sports days to foster a sense of ownership and participation."
+    ],
+    "final_suggestion": "To effectively solve this case, focus on a balanced approach that combines market analysis, infrastructure development, economic impact assessment, and innovative marketing strategies. Ensure the sports ecosystem is sustainable and adaptable to changing trends and demands. Engage stakeholders, including local communities, international sports organizations, and private investors, to create a vibrant and dynamic sports hub that contributes significantly to the city's overall growth and development."
+  }
+}

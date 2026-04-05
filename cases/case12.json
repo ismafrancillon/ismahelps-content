@@ -1,0 +1,88 @@
+{
+  "id": "case12",
+  "content_type": "case",
+  "category": "profitability",
+  "industry": "media",
+  "topic": "subscription-growth",
+  "subtopic": "digital-news-monetization",
+  "difficulty": "Medium",
+  "style": "General",
+  "tags": ["profitability", "subscription", "media", "retention", "digital-transformation"],
+  "title": "Boosting Subscription Revenue for a Financial News Platform",
+  "summary": "Diagnose declining retention and revenue for a premium financial news site, then recommend growth strategies.",
+  "prompt": "Prime Inc., a premium financial news website, has been experiencing difficulties with user retention and subscription growth. Over the past five years, the company has seen a steady decline in revenue, despite decades of stable growth. The website primarily reproduces content from its print magazine, which has led to a lack of differentiation in its online offering. Prime Inc. has hired your consulting team to evaluate and recommend strategies to enhance the value proposition for paid subscribers. The key areas to focus on include pricing, content strategy, user experience improvements, and potential partnerships.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current pricing structure for subscriptions?",
+        "answer": "The current pricing structure includes three subscription tiers: Basic ($10/month), Standard ($20/month), and Premium ($30/month). Each tier offers varying levels of access to content and features."
+      },
+      {
+        "question": "What feedback have users provided regarding the content and user experience?",
+        "answer": "User feedback indicates that the content is not perceived as unique or insightful compared to free alternatives. Additionally, the user experience is considered outdated and not user-friendly."
+      },
+      {
+        "question": "Who are the main competitors, and what are their strengths?",
+        "answer": "The main competitors are other financial news platforms like Bloomberg, Financial Times, and The Wall Street Journal. These competitors offer more interactive and exclusive content, better user experiences, and have established strong brand loyalty."
+      },
+      {
+        "question": "What partnerships, if any, does Prime Inc. currently have?",
+        "answer": "Prime Inc. currently has limited partnerships, primarily with financial institutions for sponsored content. There is potential to explore more strategic alliances."
+      },
+      {
+        "question": "What are the key demographics and preferences of the target audience?",
+        "answer": "The target audience consists of professionals and investors aged 30-55, who value timely and in-depth financial analysis. They prefer mobile-friendly platforms and personalized content."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Pricing Strategy",
+        "points": [
+          "Evaluate current pricing tiers: Assess the profitability and customer satisfaction of each subscription tier.",
+          "Competitive pricing analysis: Compare Prime Inc.'s pricing with competitors to identify opportunities for adjustments.",
+          "Introduce flexible pricing options: Consider introducing monthly, quarterly, and annual plans with discounts for long-term commitments."
+        ]
+      },
+      {
+        "title": "Content Strategy",
+        "points": [
+          "Enhance content differentiation: Develop exclusive content such as expert interviews, in-depth analysis, and market insights that are not available in the print magazine.",
+          "Leverage multimedia: Incorporate videos, podcasts, and interactive charts to make the content more engaging.",
+          "Personalization and customization: Utilize data analytics to offer personalized content recommendations based on user preferences and behavior."
+        ]
+      },
+      {
+        "title": "User Experience Improvements",
+        "points": [
+          "Redesign the website and mobile app: Focus on improving navigation, readability, and overall aesthetics to enhance user satisfaction.",
+          "Implement user feedback: Regularly collect and act on user feedback to continuously improve the platform.",
+          "Enhance customer support: Offer prompt and effective customer service through multiple channels (live chat, email, phone)."
+        ]
+      },
+      {
+        "title": "Partnerships",
+        "points": [
+          "Strategic alliances with financial institutions: Partner with banks, investment firms, and fintech companies to offer bundled services and exclusive content.",
+          "Collaborations with industry experts: Engage financial analysts, economists, and thought leaders to contribute content and participate in webinars or live events.",
+          "Cross-promotion with complementary platforms: Collaborate with non-competing platforms to reach a broader audience and offer added value to subscribers."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Financial Performance and User Feedback Analysis",
+      "content": "Metric | Q1 2022 | Q2 2022 | Q3 2022 | Q4 2022 | Q1 2023 | Q2 2023 | Q3 2023 | Q4 2023\nTotal Revenue ($000s) | 1,200 | 1,150 | 1,100 | 1,050 | 1,000 | 950 | 900 | 850\nSubscription Growth (%) | 5% | 4% | 3% | 2% | 1% | 0% | -1% | -2%\nChurn Rate (%) | 10% | 11% | 12% | 13% | 14% | 15% | 16% | 17%\nUser Satisfaction (1-10) | 7.5 | 7.4 | 7.3 | 7.2 | 7.1 | 7.0 | 6.9 | 6.8\nContent Quality Rating (%) | 75% | 74% | 73% | 72% | 71% | 70% | 69% | 68%\nWebsite Traffic (000s) | 500 | 480 | 460 | 440 | 420 | 400 | 380 | 360"
+    },
+    "exhibit_answer": "Declining Revenue: Total revenue has decreased steadily from $1.2 million in Q1 2022 to $850,000 in Q4 2023. Negative Subscription Growth: Subscription growth has turned negative, dropping from 5% in Q1 2022 to -2% in Q4 2023. Increasing Churn Rate: The churn rate has increased from 10% in Q1 2022 to 17% in Q4 2023, indicating a growing number of subscribers are leaving the platform. Decreasing User Satisfaction: User satisfaction has declined from 7.5 in Q1 2022 to 6.8 in Q4 2023, reflecting dissatisfaction with the platform. Lower Content Quality Rating: The content quality rating has dropped from 75% in Q1 2022 to 68% in Q4 2023, suggesting that users perceive a decline in content value. Reduced Website Traffic: Website traffic has decreased from 500,000 visits in Q1 2022 to 360,000 visits in Q4 2023, indicating reduced user engagement.",
+    "math_prompt": "Prime Inc. is considering a new pricing strategy to boost revenue. They plan to introduce a new subscription tier called \"Elite\" at $50/month, which is expected to attract 5,000 new subscribers. The current number of subscribers for Basic, Standard, and Premium tiers are 10,000, 8,000, and 6,000 respectively. If the churn rates for Basic, Standard, and Premium are 20%, 15%, and 10% respectively, calculate the total monthly revenue and the impact of the new Elite tier on overall revenue.",
+    "math_answer": "Step 1: Calculate the revenue from each existing tier:\nBasic: 10,000 * $10 = $100,000\nStandard: 8,000 * $20 = $160,000\nPremium: 6,000 * $30 = $180,000\n\nStep 2: Calculate the churned subscribers for each tier:\nBasic: 10,000 * 0.20 = 2,000\nStandard: 8,000 * 0.15 = 1,200\nPremium: 6,000 * 0.10 = 600\n\nStep 3: Calculate the remaining subscribers after churn:\nBasic: 10,000 - 2,000 = 8,000\nStandard: 8,000 - 1,200 = 6,800\nPremium: 6,000 - 600 = 5,400\n\nStep 4: Calculate the new revenue from each tier:\nBasic: 8,000 * $10 = $80,000\nStandard: 6,800 * $20 = $136,000\nPremium: 5,400 * $30 = $162,000\n\nStep 5: Calculate the revenue from the new Elite tier:\nElite: 5,000 * $50 = $250,000\n\nStep 6: Calculate the total monthly revenue:\nTotal Revenue: $80,000 + $136,000 + $162,000 + $250,000 = $628,000\n\nStep 7: Calculate the impact of the new Elite tier on overall revenue:\nImpact: $628,000 - ($100,000 + $160,000 + $180,000) = $628,000 - $440,000 = $188,000",
+    "creative_prompt": "What innovative strategies can Prime Inc. implement to create a unique value proposition that differentiates it from competitors and attracts new subscribers?",
+    "creative_answer": [
+      "Exclusive Financial Tools: Develop proprietary financial tools and calculators that provide users with unique insights and analysis capabilities.",
+      "Interactive Webinars and Q&A Sessions: Host regular live webinars and Q&A sessions with industry experts and thought leaders to engage subscribers.",
+      "Customized Investment Portfolios: Offer personalized investment portfolio recommendations based on user preferences and risk tolerance.",
+      "Gamification Elements: Introduce gamification elements such as quizzes, leaderboards, and rewards to make the platform more engaging and fun.",
+      "Community Building: Create a community forum where subscribers can interact, share insights, and network with like-minded individuals."
+    ],
+    "final_suggestion": "To effectively address the challenges Prime Inc. is facing, the company should adopt a multi-faceted approach that includes revising its pricing strategy, enhancing content differentiation, improving user experience, and forging strategic partnerships. By implementing these strategies, Prime Inc. can create a compelling value proposition that attracts and retains subscribers, ultimately driving revenue growth and securing its position in the competitive financial news market."
+  }
+}

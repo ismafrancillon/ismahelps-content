@@ -1,0 +1,84 @@
+{
+  "id": "case40",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "healthcare",
+  "topic": "telemedicine-scaling",
+  "subtopic": "low-income-expansion",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "market-entry",
+    "telemedicine",
+    "healthcare-access",
+    "infrastructure",
+    "developing-country"
+  ],
+  "title": "Expanding Telemedicine in a Low-Income Country",
+  "summary": "Scale telemedicine services in a low-income country by evaluating internet infrastructure, doctor availability, and regulatory barriers.",
+  "prompt": "A health tech startup is partnering with a government in a low-income country to scale telemedicine services. The team must evaluate internet infrastructure, doctor availability, and regulatory challenges to ensure the successful implementation and expansion of the telemedicine network. The goal is to provide accessible and affordable healthcare to underserved populations, leveraging technology to overcome traditional barriers to healthcare access.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of internet infrastructure in the country?",
+        "answer": "The internet infrastructure is underdeveloped, with limited broadband penetration and significant disparities between urban and rural areas. Mobile internet is more widely available, but connectivity issues and low speeds are common."
+      },
+      {
+        "question": "What is the availability of qualified doctors and healthcare professionals?",
+        "answer": "There is a shortage of qualified doctors, particularly in rural areas. Most healthcare professionals are concentrated in urban centers. There is also a need for additional training in telemedicine practices."
+      },
+      {
+        "question": "What are the key regulatory challenges we might face?",
+        "answer": "Regulatory challenges include obtaining necessary approvals for telemedicine services, ensuring compliance with data privacy and security laws, and navigating bureaucratic processes. There may also be resistance from traditional healthcare providers."
+      },
+      {
+        "question": "What is the target population for the telemedicine services?",
+        "answer": "The target population includes underserved and rural communities with limited access to healthcare facilities. This includes low-income families, elderly individuals, and those with chronic health conditions."
+      },
+      {
+        "question": "What are the potential funding sources for this project?",
+        "answer": "Potential funding sources include government grants, international aid organizations, private investors, and partnerships with NGOs. The startup may also explore public-private partnerships."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Internet Infrastructure",
+        "points": [
+          "Assessment: Evaluate existing broadband and mobile internet coverage. Identify gaps in connectivity, particularly in rural areas.",
+          "Improvement Strategies: Partner with telecom companies. Explore government incentives for infrastructure development. Implement low-cost solutions like satellite internet.",
+          "Technology Integration: Ensure compatibility of telemedicine platforms with available internet services. Develop offline capabilities for areas with intermittent connectivity."
+        ]
+      },
+      {
+        "title": "Doctor Availability",
+        "points": [
+          "Current Workforce Analysis: Map the distribution of doctors. Identify regions with the highest shortages. Assess willingness of doctors to participate in telemedicine.",
+          "Training and Capacity Building: Develop training programs for doctors on telemedicine practices. Partner with medical schools.",
+          "Recruitment and Retention: Implement recruitment campaigns. Offer competitive compensation. Create a supportive work environment."
+        ]
+      },
+      {
+        "title": "Regulatory Challenges",
+        "points": [
+          "Regulatory Landscape Analysis: Review existing telemedicine regulations. Identify potential legal and bureaucratic hurdles.",
+          "Compliance and Advocacy: Ensure compliance with data privacy and security laws. Develop a robust legal framework. Advocate for favorable policies.",
+          "Stakeholder Engagement: Collaborate with government agencies, healthcare providers, and NGOs. Conduct awareness campaigns to gain public support."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Telemedicine Readiness Assessment by Region",
+      "content": "Region | Internet Coverage (%) | Mobile Internet Speed (Mbps) | Number of Doctors per 10,000 | Regulatory Approval Time (Months) | Data Privacy Compliance (Yes/No)\nUrban | 80 | 10 | 20 | 3 | Yes\nSemi-Urban | 60 | 5 | 10 | 6 | Yes\nRural | 30 | 2 | 5 | 9 | No\nRemote | 10 | 1 | 2 | 12 | No"
+    },
+    "exhibit_answer": "Urban Areas: High internet coverage (80%) and decent speed (10 Mbps). High doctor ratio (20 per 10,000) and quick regulatory approval (3 months). Well-suited for initial rollout. Semi-Urban Areas: Moderate coverage (60%) and lower speed (5 Mbps). Fewer doctors and moderate regulatory approval time. Requires some improvements. Rural Areas: Low coverage (30%) and poor speed (2 Mbps). Significant doctor shortage and longer regulatory approval. Needs substantial investment. Remote Areas: Very low coverage (10%) and very poor speed (1 Mbps). Critical doctor shortage and lengthy regulatory approval. Greatest challenge requiring innovative solutions.",
+    "math_prompt": "Calculate the total investment required to improve internet infrastructure in rural and remote areas. Assume:\nRural: $50,000 per 1% increase in coverage. Target: increase to 60%.\nRemote: $100,000 per 1% increase in coverage. Target: increase to 30%.",
+    "math_answer": "1. Rural Area Investment:\nCurrent coverage: 30%, Target: 60%\nIncrease needed: 30%\nCost: 30 * $50,000 = $1,500,000\n\n2. Remote Area Investment:\nCurrent coverage: 10%, Target: 30%\nIncrease needed: 20%\nCost: 20 * $100,000 = $2,000,000\n\n3. Total Investment:\n$1,500,000 + $2,000,000 = $3,500,000\n\nThe total investment required is $3.5 million.",
+    "creative_prompt": "How can the health tech startup leverage partnerships to overcome the challenges of doctor availability and regulatory hurdles?",
+    "creative_answer": [
+      "Partnerships with Medical Institutions: Collaborate with local and international medical schools to create telemedicine training programs. Establish exchange programs to bring experienced doctors.",
+      "Government and NGO Collaboration: Work closely with government health departments to streamline regulatory approvals. Partner with NGOs for funding, resources, and advocacy support.",
+      "Technology and Telecom Partnerships: Partner with telecom companies to improve internet infrastructure. Utilize technology firms to develop user-friendly telemedicine platforms that comply with local regulations."
+    ],
+    "final_suggestion": "To successfully expand the telemedicine network in the low-income country, the health tech startup should focus on improving internet infrastructure, increasing the availability of trained doctors, and addressing regulatory challenges through strategic partnerships. By investing in these areas and leveraging collaborations, the startup can provide accessible and affordable healthcare to underserved populations, ultimately improving health outcomes and quality of life."
+  }
+}

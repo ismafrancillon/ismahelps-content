@@ -1,0 +1,87 @@
+{
+  "id": "case46",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "biomedical",
+  "topic": "economic-development",
+  "subtopic": "research-hub-creation",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "biomedical",
+    "r&d",
+    "economic-development",
+    "investment-attraction",
+    "developing-country"
+  ],
+  "title": "Creating a National Biomedical Research Hub",
+  "summary": "Advise a developing economy's government on establishing a leading biomedical R&D hub to attract investment and talent.",
+  "prompt": "Our client is the government of a developing economy that aims to establish itself as a leading hub for biomedical research and development (R&D). The government seeks to attract significant foreign and domestic investment in the biomedical sector to boost economic growth, create high-quality jobs, and advance healthcare outcomes. The government is particularly interested in understanding the key factors that will make the country an attractive destination for biomedical R&D investments. They need a comprehensive strategy that includes policy recommendations, infrastructure development, and marketing initiatives to position the country as a competitive player in the global biomedical research market.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What specific incentives is the government willing to offer?",
+        "answer": "The government is considering tax credits, grants, streamlined regulatory processes, and subsidized land for research facilities."
+      },
+      {
+        "question": "What is the current state of infrastructure and technology?",
+        "answer": "The country has basic infrastructure but needs significant upgrades in research facilities, high-speed internet, and transportation."
+      },
+      {
+        "question": "What is the level of expertise and availability of skilled labor?",
+        "answer": "There is a moderate level of expertise with several universities offering relevant programs, but more specialized training is needed."
+      },
+      {
+        "question": "Are there any existing partnerships with international research institutions?",
+        "answer": "There are a few nascent partnerships, but the government aims to significantly expand these collaborations."
+      },
+      {
+        "question": "What are the primary healthcare challenges the country faces?",
+        "answer": "Challenges include infectious diseases, chronic illnesses, and lack of access to advanced medical treatments."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Policy and Regulatory Environment",
+        "points": [
+          "Incentives for Investment: Tax credits, grants, subsidized land and facilities, streamlined regulatory processes.",
+          "Intellectual Property Protections: Robust IP laws, fast-track patent processing, collaboration with international IP bodies.",
+          "Government Support: Public-private partnerships, funding for joint research projects, dedicated government agency."
+        ]
+      },
+      {
+        "title": "Infrastructure and Technological Development",
+        "points": [
+          "Research Facilities: State-of-the-art labs, high-speed internet, biomedical research parks with shared resources.",
+          "Transportation and Logistics: Improved networks, efficient logistics for import/export, cold chain development.",
+          "Technological Advancements: Advanced research equipment, collaboration with tech companies, data management systems."
+        ]
+      },
+      {
+        "title": "Human Capital and Expertise",
+        "points": [
+          "Education and Training: Enhanced university programs, specialized training centers, scholarships and grants.",
+          "Attracting Global Talent: Incentives for international researchers, exchange programs, welcoming environment.",
+          "Retention of Local Talent: Competitive salaries, continuous professional development, career advancement opportunities."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Key Variables for Attracting Biomedical R&D Investment",
+      "content": "Variable | Current Status | Target Status | Key Actions\nTax Credits | Limited | Comprehensive | Implement new tax credit policies\nResearch Facilities | Basic | Advanced | Develop state-of-the-art labs\nHigh-Speed Internet | Moderate | High | Invest in digital infrastructure\nSkilled Labor Availability | Moderate | High | Enhance education and training\nInternational Partnerships | Nascent | Extensive | Expand global collaborations\nTransportation Networks | Developing | Efficient | Improve transport and logistics\nIP Protections | Basic | Robust | Strengthen IP laws and processes\nGovernment Support | Limited | Strong | Create dedicated R&D agency\nHealthcare Challenges | Significant | Addressed | Focus R&D on local healthcare needs"
+    },
+    "exhibit_answer": "Tax Credits need to become comprehensive to incentivize investments. Research Facilities require significant upgrades. High-Speed Internet is essential for modern research. Skilled Labor must increase through enhanced education. International Partnerships should expand extensively. Transportation Networks need improvement. IP Protections must be robust. Government Support should be strong with a dedicated agency. Healthcare Challenges can be addressed through targeted R&D.",
+    "math_prompt": "Calculate the total investment required to develop necessary infrastructure and incentives:\nResearch facilities: $500M\nInternet infrastructure: $150M\nTransportation networks: $200M\nTax credits (5 years): $100M/year\nTraining centers: $50M\nGovernment support/partnerships: $75M",
+    "math_answer": "1. Research Facilities: $500M\n2. Internet Infrastructure: $150M\n3. Transportation Networks: $200M\n4. Tax Credits (5 years): $100M * 5 = $500M\n5. Training Centers: $50M\n6. Government Support: $75M\n\nTotal Investment Required: $500M + $150M + $200M + $500M + $50M + $75M = $1,475M ($1.475 billion)",
+    "creative_prompt": "How can the government effectively market the country as a prime destination for biomedical R&D to international investors?",
+    "creative_answer": [
+      "Showcase Success Stories: Highlight successful biomedical research projects and partnerships.",
+      "Leverage International Conferences: Host and participate in global biomedical conferences and expos.",
+      "Strategic Alliances: Form alliances with leading global research institutions and biotech companies.",
+      "Digital Marketing Campaigns: Launch targeted campaigns showcasing the country's strengths.",
+      "Incentive Packages: Offer attractive packages tailored to biomedical investors.",
+      "Government Endorsements: Secure endorsements from high-ranking officials and industry leaders."
+    ],
+    "final_suggestion": "To create a national biomedical research hub, the government must focus on enhancing infrastructure, offering attractive incentives, and building strong international partnerships. By addressing these key areas, the country can position itself as a competitive player in the global biomedical research market."
+  }
+}

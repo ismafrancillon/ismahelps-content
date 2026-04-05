@@ -1,0 +1,86 @@
+{
+  "id": "case56",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "biotech",
+  "topic": "regulatory-reform",
+  "subtopic": "patent-system-overhaul",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "regulatory-reform",
+    "biotech",
+    "patent-system",
+    "innovation",
+    "medtech"
+  ],
+  "title": "Reforming a National Patent System for Biotech",
+  "summary": "Recommend reforms to a slow and costly patent approval process stifling biotech and med-tech innovation.",
+  "prompt": "A country is facing significant criticism for its slow and expensive patent approval process in the biotech and med-tech sectors. This inefficiency is stifling innovation, delaying the commercialization of new technologies, and discouraging investment. The government has tasked a consulting team with designing reforms to promote faster patent approvals while ensuring robust intellectual property (IP) protections. The team must analyze the current system, identify bottlenecks, and propose actionable solutions to streamline the process without compromising the quality and security of the patent evaluations.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the primary reasons for the current delays?",
+        "answer": "The delays are primarily due to understaffing, outdated technology, and complex regulatory requirements that require extensive documentation and review."
+      },
+      {
+        "question": "How does the current cost compare to other countries?",
+        "answer": "The cost is significantly higher compared to other developed countries due to additional fees for expedited reviews and higher administrative costs."
+      },
+      {
+        "question": "What are the key stages and where do bottlenecks occur?",
+        "answer": "Key stages include initial application review, technical evaluation, peer review, and final approval. Bottlenecks occur during technical evaluation and peer review due to lack of specialized reviewers."
+      },
+      {
+        "question": "What is the current average approval time?",
+        "answer": "On average, it takes about 24-36 months for a patent to be approved."
+      },
+      {
+        "question": "Are there any existing improvement initiatives?",
+        "answer": "Yes, pilot programs focused on digitizing records and introducing AI-based preliminary reviews exist but are in early stages."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Current System Evaluation",
+        "points": [
+          "Staffing and Resources: Assess staff numbers, qualifications, and resource adequacy. Identify gaps in specialized expertise.",
+          "Technology and Infrastructure: Review current technology. Determine digitization and automation levels. Identify outdated systems.",
+          "Regulatory Complexity: Analyze regulatory requirements. Identify overly complex or redundant areas."
+        ]
+      },
+      {
+        "title": "Benchmarking and Best Practices",
+        "points": [
+          "International Comparisons: Compare patent processes of leading countries in biotech and med-tech.",
+          "Industry Feedback: Gather feedback from companies on current system pain points.",
+          "Success Stories: Study successful reforms in other countries."
+        ]
+      },
+      {
+        "title": "Proposed Reforms",
+        "points": [
+          "Process Streamlining: Simplify and expedite the application process. Introduce a fast-track option for high-priority patents.",
+          "Technology Upgrades: Implement AI and machine learning for preliminary reviews. Digitize records. Use blockchain for secure tracking.",
+          "Resource Allocation: Increase funding and hiring to address understaffing. Develop training programs for reviewers."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Patent System Comparison Across Countries",
+      "content": "Country | Avg. Approval Time (months) | Cost (USD) | Number of Staff | Technology Used | Regulatory Complexity\nCountry A | 12 | 5,000 | 200 | Advanced AI & Blockchain | Moderate\nCountry B | 18 | 7,000 | 150 | Digitized Records | High\nCountry C | 24 | 6,000 | 180 | Basic Automation | Moderate\nCountry D | 15 | 8,000 | 220 | Advanced AI | Low\nFocus Country | 30 | 10,000 | 100 | Outdated Systems | Very High"
+    },
+    "exhibit_answer": "The focus country has the longest approval time (30 months) and highest cost ($10,000). Understaffing (100 staff) is a major bottleneck. Outdated technology versus competitors using AI and blockchain. Very high regulatory complexity compounds delays. Countries with advanced technology and moderate regulatory complexity have shorter times and lower costs.",
+    "math_prompt": "Calculate the potential reduction in approval time and cost if the focus country adopts advanced AI/blockchain, increases staff by 50%, and simplifies regulations to moderate level.\nCurrent: 30 months, $10,000\nTech reduction: 40% time, 30% cost\nStaff increase reduction: 20% time, 10% cost\nSimplified regulations reduction: 20% time, 20% cost",
+    "math_answer": "1. Time Reduction:\nTech: 30 * 40% = 12 months\nStaff: 30 * 20% = 6 months\nRegulations: 30 * 20% = 6 months\nTotal reduction: 24 months\nNew approval time: 30 - 24 = 6 months\n\n2. Cost Reduction:\nTech: $10,000 * 30% = $3,000\nStaff: $10,000 * 10% = $1,000\nRegulations: $10,000 * 20% = $2,000\nTotal reduction: $6,000\nNew cost: $10,000 - $6,000 = $4,000\n\nReforms could reduce approval time to 6 months and cost to $4,000.",
+    "creative_prompt": "How can the focus country incentivize biotech and med-tech companies to invest in R&D and file more patents despite current challenges?",
+    "creative_answer": [
+      "Tax Incentives: Offer tax credits or deductions for R&D expenditures and patent filing fees.",
+      "Grant Programs: Establish grants for startups and small businesses in biotech and med-tech.",
+      "Public-Private Partnerships: Foster collaborations between government, academia, and private companies.",
+      "Fast-Track Options: Introduce fast-track approval for high-impact patents with reduced fees.",
+      "Awareness Campaigns: Educate companies about patent protection benefits and available incentives."
+    ],
+    "final_suggestion": "Adopt a multi-faceted approach including upgrading technology, increasing staffing, simplifying regulations, and providing financial incentives. By benchmarking against best practices and addressing current bottlenecks, the country can create a more efficient and attractive environment for biotech and med-tech innovation."
+  }
+}

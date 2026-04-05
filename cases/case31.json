@@ -1,0 +1,98 @@
+{
+  "id": "case31",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "healthcare",
+  "topic": "system-design",
+  "subtopic": "universal-healthcare",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "public-policy",
+    "healthcare",
+    "universal-coverage",
+    "funding",
+    "infrastructure"
+  ],
+  "title": "Implementing Universal Healthcare in a Developing Nation",
+  "summary": "Assess funding mechanisms, infrastructure gaps, and workforce availability for a low-income nation implementing universal healthcare.",
+  "prompt": "A government in a low-income nation is exploring the feasibility of implementing a universal healthcare system. The team tasked with this project must assess various critical factors including potential funding mechanisms, infrastructure challenges, workforce availability, and the long-term sustainability of the healthcare system. The goal is to ensure that every citizen has access to necessary healthcare services regardless of their financial situation.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of the healthcare system in the country?",
+        "answer": "The current healthcare system is heavily reliant on out-of-pocket expenses, with limited public healthcare facilities that are often underfunded and understaffed. Private healthcare is available but is unaffordable for the majority of the population."
+      },
+      {
+        "question": "What are the potential funding mechanisms being considered for the universal healthcare system?",
+        "answer": "Potential funding mechanisms include increasing taxes, reallocating existing government budgets, introducing mandatory health insurance contributions from employers and employees, and seeking international aid or loans."
+      },
+      {
+        "question": "What are the key infrastructure challenges that need to be addressed?",
+        "answer": "Key challenges include inadequate healthcare facilities, lack of medical equipment, poor transportation networks, and unreliable electricity and water supply in many regions."
+      },
+      {
+        "question": "What is the current availability of healthcare workforce in the country?",
+        "answer": "There is a significant shortage of healthcare professionals, including doctors, nurses, and technicians. Many healthcare workers are concentrated in urban areas, leaving rural areas underserved."
+      },
+      {
+        "question": "How will the long-term sustainability of the healthcare system be ensured?",
+        "answer": "Sustainability can be addressed through continuous funding, investment in healthcare education and training, development of efficient healthcare delivery models, and implementation of robust monitoring and evaluation systems."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Funding Mechanisms",
+        "points": [
+          "Taxation: Evaluate the potential for increasing taxes without causing undue burden on the population. Consider progressive taxation.",
+          "Reallocation of Budget: Identify areas within the current government budget that can be reallocated to fund healthcare.",
+          "Health Insurance Contributions: Explore the feasibility of mandatory health insurance contributions from employers and employees.",
+          "International Aid and Loans: Seek international aid and low-interest loans from organizations such as the World Bank, IMF, and WHO."
+        ]
+      },
+      {
+        "title": "Infrastructure Challenges",
+        "points": [
+          "Healthcare Facilities: Assess the current state and identify regions requiring new hospitals, clinics, and health centers.",
+          "Medical Equipment: Evaluate the availability and condition of medical equipment. Plan for procurement and training.",
+          "Transportation Networks: Improve transportation to ensure patients can access healthcare facilities. Consider mobile clinics and telemedicine.",
+          "Utilities: Ensure reliable electricity and water supply to healthcare facilities. Explore alternative energy sources."
+        ]
+      },
+      {
+        "title": "Workforce Availability",
+        "points": [
+          "Training and Education: Invest in medical education and training programs to increase healthcare professionals.",
+          "Distribution of Workforce: Develop strategies to attract and retain healthcare workers in rural and underserved areas.",
+          "International Recruitment: Consider recruiting healthcare professionals from other countries to fill critical gaps."
+        ]
+      },
+      {
+        "title": "Long-term Sustainability",
+        "points": [
+          "Continuous Funding: Develop a sustainable funding model with diversified revenue sources.",
+          "Efficiency in Healthcare Delivery: Adopt efficient models such as primary care networks, preventive care programs, and community health workers.",
+          "Monitoring and Evaluation: Implement robust systems to track performance and make informed decisions.",
+          "Public-Private Partnerships: Explore partnerships with private sector organizations."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Healthcare Infrastructure Assessment",
+      "content": "Region | Population | Current Healthcare Facilities | Required Healthcare Facilities | Medical Equipment Availability (%) | Transportation Network Quality (1-10) | Electricity Reliability (%) | Water Supply Reliability (%)\nUrban Area 1 | 1,000,000 | 5 Hospitals, 20 Clinics | 3 Hospitals, 10 Clinics | 75% | 8 | 90% | 85%\nUrban Area 2 | 800,000 | 4 Hospitals, 15 Clinics | 2 Hospitals, 8 Clinics | 70% | 7 | 85% | 80%\nRural Area 1 | 500,000 | 2 Hospitals, 5 Clinics | 4 Hospitals, 15 Clinics | 50% | 5 | 60% | 50%\nRural Area 2 | 300,000 | 1 Hospital, 3 Clinics | 3 Hospitals, 10 Clinics | 40% | 4 | 50% | 45%\nRural Area 3 | 200,000 | 1 Hospital, 2 Clinics | 2 Hospitals, 5 Clinics | 30% | 3 | 40% | 35%"
+    },
+    "exhibit_answer": "Urban areas generally have better healthcare infrastructure compared to rural areas, but there is still a need for additional facilities and equipment. Rural areas are significantly underserved, with lower availability of medical equipment and poorer transportation networks. Electricity and water supply reliability are major concerns, particularly in rural areas. Investment in new healthcare facilities and upgrading existing ones is crucial, especially in rural areas. Improving transportation networks and utility services will be essential. A phased approach to infrastructure development should be considered, prioritizing areas with the greatest need.",
+    "math_prompt": "The government is planning to implement a universal healthcare system with an initial budget of $500 million. The estimated costs for various components are as follows:\nNew healthcare facilities: $200 million\nUpgrading existing facilities: $100 million\nMedical equipment procurement: $50 million\nTraining and education programs: $50 million\nImprovement of transportation networks: $50 million\nUtilities infrastructure (electricity and water): $50 million\nCalculate the percentage allocation of the budget for each component and determine if the total budget is sufficient.",
+    "math_answer": "1. New healthcare facilities: Cost: $200 million, Percentage: (200/500)*100 = 40%\n2. Upgrading existing facilities: Cost: $100 million, Percentage: (100/500)*100 = 20%\n3. Medical equipment procurement: Cost: $50 million, Percentage: (50/500)*100 = 10%\n4. Training and education programs: Cost: $50 million, Percentage: (50/500)*100 = 10%\n5. Improvement of transportation networks: Cost: $50 million, Percentage: (50/500)*100 = 10%\n6. Utilities infrastructure: Cost: $50 million, Percentage: (50/500)*100 = 10%\n\nTotal estimated costs: 200 + 100 + 50 + 50 + 50 + 50 = $500 million\nConclusion: The total budget of $500 million is sufficient to cover all the estimated costs.",
+    "creative_prompt": "How can the government ensure the long-term engagement and retention of healthcare professionals in rural and underserved areas?",
+    "creative_answer": [
+      "Financial Incentives: Offer competitive salaries, bonuses, and loan forgiveness programs to attract and retain healthcare professionals in rural areas.",
+      "Career Development Opportunities: Establish continuous professional development programs, including workshops, certifications, and advanced training opportunities.",
+      "Work-Life Balance: Implement flexible working hours and provide adequate leave policies to ensure a healthy work-life balance.",
+      "Community Integration: Facilitate the integration of healthcare professionals into the local community through social programs and support for family relocation.",
+      "Infrastructure and Resources: Ensure healthcare facilities in rural areas are well-equipped with modern medical equipment and technology.",
+      "Public-Private Partnerships: Collaborate with private sector organizations to provide additional resources, training, and support."
+    ],
+    "final_suggestion": "Implementing a universal healthcare system in a low-income nation is a complex and multifaceted challenge. It requires careful planning, substantial investment, and ongoing commitment from the government and stakeholders. By addressing funding mechanisms, infrastructure challenges, workforce availability, and long-term sustainability, the government can create a robust healthcare system that ensures equitable access to healthcare services for all citizens. Continuous monitoring, evaluation, and adaptation will be essential."
+  }
+}

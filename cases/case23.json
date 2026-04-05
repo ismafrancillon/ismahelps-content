@@ -1,0 +1,44 @@
+{
+  "id": "case23",
+  "content_type": "case",
+  "category": "profitability",
+  "industry": "airlines",
+  "topic": "route-optimization",
+  "subtopic": "network-restructuring",
+  "difficulty": "Hard",
+  "style": "Bain",
+  "tags": ["profitability", "airline", "route-optimization", "cost-reduction", "turnaround"],
+  "title": "Restructuring an Airline's Route Network",
+  "summary": "Optimize a struggling North American airline's route network to improve utilization, cut costs, and restore profits.",
+  "prompt": "A North American airline is facing significant challenges in its operations due to shifts in demand, rising operational costs, and increasing competition from budget carriers. The airline's route network is no longer optimized, leading to underutilized flights, inefficient routes, and declining profitability. The airline needs to restructure its route network to better align with current market demands, reduce costs, and compete effectively with low-cost carriers. How should the airline approach this restructuring?",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What are the current demand trends for air travel in North America?", "answer": "Demand trends indicate a shift towards leisure travel over business travel, with increased interest in domestic and short-haul international flights due to pandemic-related travel restrictions and changing consumer preferences."},
+      {"question": "What are the key cost components for the airline, and how have they changed recently?", "answer": "Key cost components include fuel, labor, maintenance, and airport fees. Recently, fuel costs have been volatile, labor costs have increased due to union negotiations, and maintenance costs have risen due to aging aircraft."},
+      {"question": "Who are the main competitors, and what strategies are they using to attract customers?", "answer": "Main competitors are budget carriers like Southwest Airlines and Spirit Airlines, which attract customers through lower fares, no-frills services, and efficient operations. Legacy carriers like Delta and American Airlines also pose competition with extensive route networks and loyalty programs."},
+      {"question": "What are the most and least profitable routes currently operated by the airline?", "answer": "The most profitable routes are typically high-traffic domestic routes and popular international destinations. The least profitable routes are those with low passenger load factors, high operational costs, and strong competition from budget carriers."},
+      {"question": "What infrastructure and resources does the airline have that can support the restructuring?", "answer": "The airline has a fleet of various aircraft types, partnerships with other airlines for code-sharing, and access to major hubs in key cities. However, some aircraft are older and less fuel-efficient, and there may be limited flexibility in renegotiating airport slots and gate assignments."}
+    ],
+    "framework": [
+      {"title": "Demand Analysis", "points": ["Passenger Load Factors: Assess current load factors on all routes to identify underperforming routes.", "Market Trends: Analyze shifts in travel demand, focusing on emerging markets and popular destinations.", "Customer Preferences: Gather data on customer preferences, including preferred travel times, destinations, and willingness to pay for additional services."]},
+      {"title": "Cost Structure Optimization", "points": ["Fuel Efficiency: Evaluate the fuel efficiency of the current fleet and consider retiring older, less efficient aircraft.", "Operational Costs: Review and renegotiate contracts with suppliers, airports, and labor unions to reduce costs.", "Maintenance and Overhaul: Implement a more efficient maintenance schedule to minimize downtime and costs."]},
+      {"title": "Competitive Positioning", "points": ["Pricing Strategy: Develop competitive pricing strategies to attract price-sensitive customers without sacrificing profitability.", "Service Differentiation: Enhance service offerings, such as loyalty programs, in-flight amenities, and customer service, to differentiate from budget carriers.", "Partnerships and Alliances: Strengthen partnerships with other airlines to expand the network and offer more destinations through code-sharing agreements."]}
+    ],
+    "exhibit": {
+      "title": "Current Route Performance Metrics",
+      "content": "Route | Load Factor (%) | RASM (cents) | CASM (cents) | Competitors Present | Profitability ($)\nNYC-LAX | 85 | 14 | 12 | Delta, Southwest | 500,000\nNYC-MIA | 75 | 12 | 11 | American, Spirit | 300,000\nLAX-SFO | 65 | 10 | 9 | Southwest, United | 100,000\nBOS-ORD | 55 | 8 | 10 | United, American | -50,000\nMIA-DFW | 60 | 9 | 11 | American, Spirit | -100,000\nSEA-DEN | 90 | 15 | 13 | Southwest, United | 400,000"
+    },
+    "exhibit_answer": "Key Insights: 1. NYC-LAX Route: High load factor and profitability indicate this is a strong route, despite competition. 2. NYC-MIA Route: Moderate load factor but profitable; potential for increased revenue with targeted marketing. 3. LAX-SFO Route: Low load factor and marginal profitability; consider reducing frequency or using smaller aircraft. 4. BOS-ORD Route: Low load factor and negative profitability; strong competition suggests potential route elimination. 5. MIA-DFW Route: Low load factor and unprofitable; assess demand and consider alternative routes or partnerships. 6. SEA-DEN Route: High load factor and profitability; opportunity to increase frequency or expand services.",
+    "math_prompt": "Calculate the break-even load factor for the BOS-ORD route if the CASM is 10 cents and the average ticket price is $150. Assume the aircraft has 150 seats and operates 300 flights per year.\nVariables:\n1. CASM: 10 cents\n2. Average Ticket Price: $150\n3. Seats per Flight: 150\n4. Flights per Year: 300",
+    "math_answer": "Step 1: Calculate total annual costs.\nCASM (in dollars) = 0.10\nTotal seats = 150\nFlights per year = 300\nTotal annual costs = CASM * Total seats * Flights per year\nTotal annual costs = 0.10 * 150 * 300 = $4,500\n\nStep 2: Calculate total annual revenue at break-even.\nBreak-even revenue = Total annual costs\nBreak-even revenue = $4,500\n\nStep 3: Calculate break-even load factor.\nAverage ticket price = $150\nBreak-even load factor = Break-even revenue / (Average ticket price * Total seats * Flights per year)\nBreak-even load factor = $4,500 / ($150 * 150 * 300)\nBreak-even load factor = 0.10 or 10%",
+    "creative_prompt": "How can the airline leverage technology and data analytics to optimize its route network and improve customer satisfaction?",
+    "creative_answer": [
+      "Data Analytics: Utilize advanced data analytics to analyze passenger booking patterns, preferences, and seasonal trends to optimize flight schedules and routes.",
+      "Dynamic Pricing: Implement dynamic pricing algorithms to adjust fares in real-time based on demand, competition, and other market factors.",
+      "Customer Feedback: Use customer feedback and sentiment analysis from social media and surveys to identify areas for service improvement and tailor offerings to meet customer needs.",
+      "Predictive Maintenance: Adopt predictive maintenance technologies to reduce aircraft downtime and improve operational efficiency.",
+      "Personalization: Develop personalized marketing campaigns and loyalty programs using customer data to enhance engagement and retention."
+    ],
+    "final_suggestion": "To restructure its route network effectively, the airline should focus on analyzing demand trends, optimizing cost structures, and enhancing competitive positioning. By leveraging data analytics and technology, the airline can make informed decisions, improve operational efficiency, and better meet customer needs, ultimately leading to increased profitability and market share. Regularly review route performance and market conditions to adapt quickly to changes. Engage with stakeholders, including employees and partners, to ensure smooth implementation and continuous improvement."
+  }
+}

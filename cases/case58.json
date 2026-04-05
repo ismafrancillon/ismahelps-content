@@ -1,0 +1,87 @@
+{
+  "id": "case58",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "space",
+  "topic": "ecosystem-development",
+  "subtopic": "space-industry-hub",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "space-industry",
+    "market-entry",
+    "satellites",
+    "space-tourism",
+    "economic-development"
+  ],
+  "title": "Building a Space Industry Ecosystem",
+  "summary": "Advise a middle-income country on attracting space companies and developing infrastructure for satellites and space tourism.",
+  "prompt": "A middle-income country aims to establish itself as a hub for private space companies, focusing on satellite development and space tourism. The government has allocated a significant budget and is seeking strategic advice on how to attract private space companies, develop necessary infrastructure, and create a sustainable ecosystem. The country has a moderate technological base, a skilled workforce, and favorable geographic conditions for space launches. The challenge is to formulate a comprehensive strategy that balances investment, policy incentives, and international partnerships.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of the country's technological and industrial base related to space?",
+        "answer": "The country has a moderate technological base with existing industries in telecommunications and aerospace. However, it lacks specific infrastructure for space launches and satellite manufacturing."
+      },
+      {
+        "question": "What budget has the government allocated?",
+        "answer": "The government has allocated $2 billion over the next five years for infrastructure development, subsidies, and incentives."
+      },
+      {
+        "question": "What are the key geographic and climatic conditions?",
+        "answer": "The country has equatorial proximity ideal for geostationary satellite launches. The climate is generally stable with minimal natural disasters."
+      },
+      {
+        "question": "What are the primary economic and technological goals?",
+        "answer": "Boost economic growth through high-tech jobs, foster innovation, attract foreign investment, develop satellite manufacturing, and establish leadership in space tourism."
+      },
+      {
+        "question": "What international partnerships are being considered?",
+        "answer": "Preliminary talks with space agencies from developed nations, and considering partnerships with companies like SpaceX and Blue Origin for technology transfer and joint ventures."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Market Analysis and Positioning",
+        "points": [
+          "Current Market Landscape: Assess global space industry trends, key players, and market dynamics.",
+          "Competitive Positioning: Evaluate competitive advantages such as geography, workforce, and cost structure.",
+          "Target Segments: Identify and prioritize segments like small satellite manufacturers and space tourism operators."
+        ]
+      },
+      {
+        "title": "Infrastructure and Ecosystem Development",
+        "points": [
+          "Infrastructure Requirements: Identify critical needs including launch facilities, R&D centers, and manufacturing plants.",
+          "Regulatory and Policy Framework: Develop supportive policies including tax incentives, grants, and streamlined regulatory processes.",
+          "Talent and Skill Development: Create educational and training programs. Partner with universities and research institutions."
+        ]
+      },
+      {
+        "title": "Investment and Partnership Strategy",
+        "points": [
+          "Funding and Incentives: Allocate the $2B budget effectively across infrastructure, subsidies, and incentives.",
+          "International Collaborations: Establish strategic partnerships with leading space agencies and private companies.",
+          "Marketing and Promotion: Develop a strategy to promote the country as a hub for space activities."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Budget Allocation for Space Industry Ecosystem (5-Year Period)",
+      "content": "Year | Infrastructure Development ($M) | Subsidies & Incentives ($M) | Talent Development ($M) | Marketing & Promotion ($M) | Total ($M)\n1 | 200 | 100 | 50 | 20 | 370\n2 | 250 | 120 | 60 | 30 | 460\n3 | 300 | 140 | 70 | 40 | 550\n4 | 350 | 160 | 80 | 50 | 640\n5 | 400 | 180 | 90 | 60 | 730\nTotal | 1500 | 700 | 350 | 200 | 2750"
+    },
+    "exhibit_answer": "Infrastructure investment increases annually from $200M to $400M to build and sustain launch facilities and R&D centers. Subsidies grow from $100M to $180M to attract and support private space companies. Talent development funding rises from $50M to $90M to build a skilled workforce. Marketing budget increases from $20M to $60M to establish global presence. Total 5-year expenditure of $2.75B reflects comprehensive investment in building the ecosystem.",
+    "math_prompt": "Calculate the ROI assuming: Space industry generates $500M in Year 1 revenue with 20% annual growth. Operational costs are 60% of revenue each year. Additional costs include 10% of total budget allocation for marketing each year.",
+    "math_answer": "Year 1: Revenue $500M, OpCosts $300M, Marketing $37M, Net Profit $163M\nYear 2: Revenue $600M, OpCosts $360M, Marketing $46M, Net Profit $194M\nYear 3: Revenue $720M, OpCosts $432M, Marketing $55M, Net Profit $233M\nYear 4: Revenue $864M, OpCosts $518.4M, Marketing $64M, Net Profit $281.6M\nYear 5: Revenue $1,036.8M, OpCosts $622.08M, Marketing $73M, Net Profit $341.72M\n\nTotal Net Profit: $1,213.32M\nROI = ($1,213.32M / $2,000M) * 100 = 60.67%",
+    "creative_prompt": "What innovative strategies can the government implement for long-term sustainability and growth of the space industry ecosystem?",
+    "creative_answer": [
+      "Public-Private Partnerships: Foster collaborations between government, private companies, and academia. Establish joint research labs and innovation hubs.",
+      "Space Innovation Fund: Create a dedicated fund to support startups and small businesses with grants, low-interest loans, and equity investments.",
+      "Regulatory Sandbox: Allow companies to test new technologies in a controlled environment with faster regulatory approvals.",
+      "International Collaborations: Strengthen partnerships with international space agencies for joint missions and knowledge sharing.",
+      "Space Tourism Promotion: Develop unique experiences such as suborbital flights and space hotels. Partner with tourism boards.",
+      "Sustainability Initiatives: Promote sustainable practices in space activities including debris management and eco-friendly technologies."
+    ],
+    "final_suggestion": "Focus on understanding market dynamics, leveraging the country's unique advantages, and implementing a balanced strategy addressing infrastructure, policy, talent, and partnerships. Analyze the financial projections thoroughly and think creatively about long-term strategies for sustainable growth."
+  }
+}

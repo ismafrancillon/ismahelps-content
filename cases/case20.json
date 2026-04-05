@@ -1,0 +1,44 @@
+{
+  "id": "case20",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "sports",
+  "topic": "league-creation",
+  "subtopic": "new-league-viability",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": ["market-entry", "sports-league", "viability-analysis", "media-rights", "competition"],
+  "title": "Creating a New Professional Sports League in North America",
+  "summary": "Assess the viability of launching a new professional sports league, including demand, financials, and competition.",
+  "prompt": "A group of investors is exploring the creation of a new professional sports league in North America, potentially focusing on an alternative football or basketball league. They seek to understand the viability of this venture, including market demand, financial implications, operational challenges, and strategic considerations. The investors aim to determine if entering this market is a sound business decision and, if so, how to structure their entry to maximize success.",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What specific sports are we considering for the new league?", "answer": "We are focusing on either an alternative football league or a basketball league."},
+      {"question": "What is the target demographic for the league?", "answer": "The target demographic includes sports enthusiasts aged 18-45, primarily in urban areas with high sports engagement."},
+      {"question": "What is the current competitive landscape for professional sports leagues in North America?", "answer": "The competitive landscape includes established leagues such as the NFL, NBA, and various minor leagues. Understanding their market share, fan base, and financial performance is crucial."},
+      {"question": "What are the key revenue streams we should consider?", "answer": "Key revenue streams include ticket sales, broadcasting rights, sponsorships, merchandise, and potential digital content subscriptions."},
+      {"question": "What initial capital investment is required to launch the league?", "answer": "The initial capital investment includes costs for team acquisitions, stadium leases or construction, marketing, operations, and player salaries. An estimated budget will be needed."}
+    ],
+    "framework": [
+      {"title": "Market Analysis", "points": ["Market Demand: Analyze attendance and viewership trends for existing leagues. Assess social media following and engagement levels for similar sports. Conduct surveys to gauge interest in a new league.", "Competitive Landscape: Evaluate the strengths and weaknesses of existing leagues. Identify unmet needs or underserved markets. Understand regulatory, financial, and operational barriers.", "Target Demographic: Study population segments most likely to engage with the new league. Identify key cities or regions with high sports engagement. Determine preferences for game times, formats, and additional services."]},
+      {"title": "Financial Analysis", "points": ["Revenue Streams: Project ticket sales based on stadium capacity and pricing strategies. Estimate potential deals with TV networks and streaming platforms. Identify potential sponsors and the value of sponsorship deals.", "Cost Structure: Calculate costs for stadiums, team acquisitions, marketing, and operations. Include player salaries, staff wages, logistics, and maintenance. Determine the break-even point based on projected revenues and costs.", "Funding Sources: Assess the amount of capital the investors can provide. Explore options for loans, grants, and other financial support. Consider revenue sharing arrangements with teams and sponsors."]},
+      {"title": "Strategic Considerations", "points": ["Brand Positioning: Define what sets the new league apart from existing ones. Develop a comprehensive marketing plan targeting key demographics. Identify strategic partnerships with media, sponsors, and community organizations.", "Operational Strategy: Decide on the number of teams, their locations, and management structures. Plan the season schedule, including regular-season games, playoffs, and special events. Implement strategies to enhance fan experience both in-stadium and online.", "Risk Management: Understand and mitigate regulatory and legal risks. Develop contingency plans for financial shortfalls. Ensure robust operational procedures to handle unexpected challenges."]}
+    ],
+    "exhibit": {
+      "title": "Financial Projections for New Sports League",
+      "content": "Revenue Streams | Year 1 | Year 2 | Year 3 | Year 4 | Year 5\nTicket Sales | $10M | $15M | $20M | $25M | $30M\nBroadcasting Rights | $5M | $10M | $15M | $20M | $25M\nSponsorships | $3M | $6M | $9M | $12M | $15M\nMerchandise Sales | $2M | $4M | $6M | $8M | $10M\nDigital Content | $1M | $2M | $3M | $4M | $5M\nTotal Revenue | $21M | $37M | $53M | $69M | $85M\n\nCost Structure | Year 1 | Year 2 | Year 3 | Year 4 | Year 5\nPlayer Salaries | $8M | $12M | $16M | $20M | $24M\nStadium Costs | $5M | $5M | $5M | $5M | $5M\nMarketing Expenses | $2M | $3M | $4M | $5M | $6M\nOperational Costs | $3M | $4M | $5M | $6M | $7M\nAdministrative Costs | $1M | $1.5M | $2M | $2.5M | $3M\nTotal Costs | $19M | $25.5M | $32M | $38.5M | $45M"
+    },
+    "exhibit_answer": "Revenue Growth: The revenue projections show a steady increase over the first five years, driven by ticket sales, broadcasting rights, and sponsorships. Break-Even Point: The league is expected to break even in Year 1, with total revenues slightly surpassing total costs. Scalability: The revenue streams are scalable, with significant growth potential in broadcasting rights and digital content. Cost Management: Player salaries and stadium costs are the largest expenses, but they are manageable within the projected revenue growth. Marketing Impact: Marketing expenses are projected to increase, reflecting the need for aggressive promotion in the initial years. Operational Efficiency: Operational and administrative costs are expected to grow but remain a smaller percentage of total costs, indicating efficient management.",
+    "math_prompt": "Calculate the break-even point for the new sports league. Assume the following:\nFixed costs (stadium, administrative, and marketing costs) are $8 million per year.\nVariable costs (player salaries and operational costs) are $11 million in Year 1, increasing by 10% annually.\nAverage ticket price is $50, and the average attendance per game is 20,000.\nThe league plans to hold 20 games in Year 1, increasing by 10% annually.",
+    "math_answer": "1. Year 1 Variable Costs:\nPlayer Salaries: $8M\nOperational Costs: $3M\nTotal Variable Costs: $11M\n\n2. Total Costs in Year 1:\nFixed Costs: $8M\nVariable Costs: $11M\nTotal Costs: $19M\n\n3. Revenue from Ticket Sales in Year 1:\nAverage Ticket Price: $50\nAverage Attendance per Game: 20,000\nNumber of Games: 20\nTotal Ticket Revenue: 50 * 20,000 * 20 = $20M\n\n4. Break-Even Analysis:\nTotal Revenue (Year 1): $21M\nTotal Costs (Year 1): $19M\nBreak-Even Point: Achieved in Year 1 with a surplus of $2M",
+    "creative_prompt": "How can the new sports league differentiate itself from established leagues like the NFL and NBA to attract a loyal fan base?",
+    "creative_answer": [
+      "Innovative Game Formats: Introduce shorter game durations or unique rule variations to enhance excitement and engagement.",
+      "Fan-Centric Experiences: Offer interactive fan experiences, such as virtual reality game views, behind-the-scenes access, and fan voting on game elements.",
+      "Community Engagement: Focus on grassroots initiatives, youth programs, and community involvement to build a loyal local fan base.",
+      "Digital Integration: Leverage digital platforms for live streaming, exclusive content, and social media engagement to attract younger audiences.",
+      "Sustainability Initiatives: Implement eco-friendly practices and promote sustainability to appeal to environmentally conscious fans."
+    ],
+    "final_suggestion": "To ensure the successful launch of the new sports league, the investors should focus on comprehensive market research, strategic partnerships, and a robust marketing plan. By differentiating the league through innovative game formats, fan-centric experiences, and strong community engagement, the league can attract a loyal fan base and achieve long-term sustainability."
+  }
+}

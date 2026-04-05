@@ -1,0 +1,80 @@
+{
+  "id": "case9",
+  "content_type": "case",
+  "category": "profitability",
+  "industry": "beverages",
+  "topic": "brand-revitalization",
+  "subtopic": "declining-sales-turnaround",
+  "difficulty": "Easy",
+  "style": "Bain",
+  "tags": ["profitability", "brand-revitalization", "beverages", "consumer-trends", "market-share"],
+  "title": "Revitalizing a Legacy Soft Drink Brand",
+  "summary": "Develop strategies to reverse declining sales for a legacy soft drink brand losing share to healthier alternatives.",
+  "prompt": "A well-known soft drink brand, once a market leader, has been experiencing a significant decline in sales over the past few years. The primary reasons for this downturn include the rising popularity of healthier alternatives and craft beverages. The brand has been losing market share to these competitors and is now seeking strategies to revitalize its presence in the market. The company aims to understand the root causes of its declining sales and develop a comprehensive plan to regain its market share without compromising its profit margins.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current market share of the brand compared to its competitors?",
+        "answer": "The brand currently holds a 10% market share, down from 20% five years ago. Major competitors include both large health-focused beverage companies and smaller craft beverage producers."
+      },
+      {
+        "question": "What are the key demographics of the brand's consumer base?",
+        "answer": "The primary consumer base consists of individuals aged 18-35, with a significant portion being health-conscious millennials and Gen Z consumers."
+      },
+      {
+        "question": "What marketing strategies have been employed in the past five years?",
+        "answer": "The brand has primarily relied on traditional advertising methods such as TV commercials and print ads. There has been minimal investment in digital marketing or social media engagement."
+      },
+      {
+        "question": "What is the current pricing strategy of the brand compared to its competitors?",
+        "answer": "The brand is priced at a mid-range level, which is higher than most health-focused alternatives but lower than premium craft beverages."
+      },
+      {
+        "question": "Are there any recent changes in consumer preferences that could impact the brand?",
+        "answer": "Yes, there is a growing trend towards organic, low-sugar, and functional beverages that offer health benefits beyond hydration."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Market Analysis",
+        "points": [
+          "Consumer Trends: Identify and analyze current consumer preferences and trends in the beverage industry.",
+          "Competitive Landscape: Assess the strengths and weaknesses of key competitors, including both large health-focused brands and smaller craft producers.",
+          "Market Segmentation: Segment the market to identify potential target demographics and niches that the brand can focus on."
+        ]
+      },
+      {
+        "title": "Product Strategy",
+        "points": [
+          "Product Innovation: Explore opportunities for product innovation, such as introducing healthier variants, organic ingredients, or functional benefits.",
+          "Product Portfolio: Evaluate the current product portfolio and consider discontinuing underperforming products while focusing on high-potential offerings.",
+          "Packaging and Branding: Refresh the packaging and branding to appeal to modern consumers, emphasizing health benefits and sustainability."
+        ]
+      },
+      {
+        "title": "Marketing and Distribution",
+        "points": [
+          "Digital Marketing: Increase investment in digital marketing, including social media campaigns, influencer partnerships, and targeted online ads.",
+          "Retail Partnerships: Strengthen partnerships with key retailers, including health food stores and online marketplaces.",
+          "Promotions and Discounts: Implement strategic promotions and discounts to attract new customers and retain existing ones."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Competitive Landscape in the Beverage Industry",
+      "content": "Competitor | Market Share (%) | Annual Growth Rate (%) | Key Attributes\nHealth Beverage Co. | 25 | 10 | Organic, low-sugar, functional ingredients\nCraft Drinks Inc. | 15 | 8 | Premium, artisanal, unique flavors\nLegacy Soft Drink | 10 | -5 | Traditional, high-sugar, established brand\nFresh Juice Co. | 20 | 12 | Fresh, natural, no preservatives\nSparkling Water Ltd. | 18 | 9 | Zero-calorie, flavored, trendy"
+    },
+    "exhibit_answer": "Health Beverage Co. is the market leader with a 25% share and a strong annual growth rate of 10%, indicating a significant consumer shift towards healthier options. Craft Drinks Inc. has captured 15% of the market with an 8% growth rate, highlighting the appeal of premium and artisanal beverages. The legacy soft drink brand has a declining market share of 10% and a negative growth rate of -5%, emphasizing the need for a strategic overhaul. Fresh Juice Co. and Sparkling Water Ltd. are also strong competitors, with market shares of 20% and 18% respectively, and healthy growth rates, reflecting the popularity of natural and zero-calorie beverages.",
+    "math_prompt": "Calculate the potential increase in annual revenue if the legacy soft drink brand can regain 5% market share within the next two years. Assume the total market size is $10 billion, and the brand's current annual revenue is $1 billion.",
+    "math_answer": "Current market share: 10%\nCurrent annual revenue: $1 billion\nTotal market size: $10 billion\n\nStep 1: Calculate the current market size attributed to the brand.\nMarket size attributed to the brand = Total market size * Current market share\n= $10 billion * 10% = $1 billion\n\nStep 2: Calculate the revenue per 1% market share.\nRevenue per 1% market share = Current annual revenue / Current market share\n= $1 billion / 10% = $100 million\n\nStep 3: Calculate the potential increase in revenue if the brand regains 5% market share.\nPotential increase in market share = 5%\nPotential increase in revenue = Revenue per 1% market share * Potential increase in market share\n= $100 million * 5 = $500 million\n\nStep 4: Calculate the new annual revenue.\nNew annual revenue = Current annual revenue + Potential increase in revenue\n= $1 billion + $500 million = $1.5 billion\n\nTherefore, if the legacy soft drink brand can regain 5% market share, its annual revenue could increase by $500 million, resulting in a new annual revenue of $1.5 billion.",
+    "creative_prompt": "What innovative marketing strategies can the legacy soft drink brand employ to appeal to health-conscious consumers and differentiate itself from competitors?",
+    "creative_answer": [
+      "Collaborations with Health Influencers: Partner with health and wellness influencers to promote the brand's new healthier variants. Influencers can create engaging content showcasing the benefits of the products and how they fit into a healthy lifestyle.",
+      "Sustainability Initiatives: Launch a campaign highlighting the brand's commitment to sustainability. This could include using eco-friendly packaging, supporting environmental causes, and promoting recycling programs.",
+      "Health Challenges and Campaigns: Organize health challenges or fitness campaigns that encourage consumers to incorporate the brand's beverages into their daily routines. Offer rewards and incentives for participation, such as discounts or exclusive merchandise.",
+      "Interactive Social Media Content: Create interactive content on social media platforms, such as polls, quizzes, and live Q&A sessions, to engage with consumers and gather feedback on new product ideas.",
+      "Community Events and Sponsorships: Sponsor local health and wellness events, such as marathons, yoga classes, or farmers' markets, to increase brand visibility and connect with health-conscious consumers."
+    ],
+    "final_suggestion": "To effectively revitalize the legacy soft drink brand, it is crucial to understand the shifting consumer preferences and adapt accordingly. By focusing on product innovation, leveraging digital marketing, and emphasizing sustainability, the brand can appeal to health-conscious consumers and regain market share. Additionally, strategic partnerships and community engagement will help build a positive brand image and foster customer loyalty. Implementing these strategies will position the brand for long-term growth and profitability in the evolving beverage market."
+  }
+}

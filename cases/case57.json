@@ -1,0 +1,83 @@
+{
+  "id": "case57",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "telecommunications",
+  "topic": "infrastructure-deployment",
+  "subtopic": "5g-rollout",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "telecommunications",
+    "5g",
+    "infrastructure",
+    "developing-country",
+    "public-private"
+  ],
+  "title": "Deploying 5G Infrastructure in a Developing Country",
+  "summary": "Plan a public-private partnership to expand 5G coverage to 80% within five years in a high-population developing country.",
+  "prompt": "A telecommunications agency in a high-population developing country is partnering with private firms to expand 5G coverage. The goal is to enhance connectivity, support economic growth, and improve access to digital services. The agency aims to reach 80% coverage within five years. This case examines the strategic, operational, and financial considerations for successfully deploying 5G infrastructure in this context.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of telecommunications infrastructure?",
+        "answer": "The country has widespread 3G and 4G networks, but 5G infrastructure is minimal and concentrated in a few urban centers."
+      },
+      {
+        "question": "What are the key regulatory requirements and potential barriers?",
+        "answer": "Requirements include obtaining spectrum licenses, adhering to safety and environmental standards, and ensuring data privacy compliance. Barriers include bureaucratic delays and high compliance costs."
+      },
+      {
+        "question": "What is the competitive landscape?",
+        "answer": "The market is dominated by three major telecom operators, with intense competition on pricing and service quality."
+      },
+      {
+        "question": "What are the expected costs and revenue streams?",
+        "answer": "Costs include infrastructure development, spectrum acquisition, operations, and marketing. Revenue streams include subscriptions, enterprise services, IoT applications, and content partnerships."
+      },
+      {
+        "question": "What is the demographic and economic profile of the target market?",
+        "answer": "The country has a young, tech-savvy population with a growing middle class. Economic growth is steady, driven by urbanization and digital adoption."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Strategic Considerations",
+        "points": [
+          "Market Analysis: Analyze demographic trends, economic indicators, and consumer behavior.",
+          "Regulatory Environment: Assess spectrum allocation, compliance requirements, and government support.",
+          "Competitive Landscape: Evaluate market share, service differentiation, and partnership opportunities."
+        ]
+      },
+      {
+        "title": "Operational Considerations",
+        "points": [
+          "Infrastructure Development: Site acquisition, technology deployment, and supply chain management.",
+          "Network Optimization: Coverage planning, capacity management, and quality assurance.",
+          "Human Resources: Talent acquisition, training programs, and change management."
+        ]
+      },
+      {
+        "title": "Financial Considerations",
+        "points": [
+          "Cost Analysis: Capital expenditure, operational expenditure, and funding sources.",
+          "Revenue Projections: Subscription models, value-added services, and partnership revenues.",
+          "Risk Management: Financial, operational, and market risks."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "5G Deployment Financial Projections (5-Year Period)",
+      "content": "Year | CapEx | OpEx | Spectrum Costs | Revenue from Subscriptions | Revenue from Enterprise | Revenue from IoT | Total Revenue\n1 | $300M | $50M | $100M | $50M | $20M | $10M | $80M\n2 | $200M | $60M | $0 | $100M | $40M | $20M | $160M\n3 | $100M | $70M | $0 | $200M | $60M | $30M | $290M\n4 | $50M | $80M | $0 | $300M | $80M | $40M | $420M\n5 | $50M | $90M | $0 | $400M | $100M | $50M | $550M"
+    },
+    "exhibit_answer": "Year 1: High initial CapEx and spectrum costs result in net loss. Year 2: Reduced CapEx, revenue growth starts offsetting losses. Year 3: Significant revenue growth leads to profitability. Year 4: Minimal CapEx with continued revenue growth for substantial profit. Year 5: Revenue peaks with widespread adoption. Break-even achieved by Year 3 with sustained growth thereafter.",
+    "math_prompt": "Calculate the break-even point. Initial CapEx (Year 1): $300M, Average annual OpEx: $70M, Total spectrum costs: $100M, Average annual revenue growth: 50%, Initial annual revenue (Year 1): $80M.",
+    "math_answer": "1. Total Costs: $300M (CapEx) + $100M (spectrum) + $70M*5 (OpEx) = $750M\n2. Annual Revenue: Y1=$80M, Y2=$120M, Y3=$180M, Y4=$270M, Y5=$405M\n3. Cumulative Revenue: $80M+$120M+$180M+$270M+$405M = $1,055M\n4. Break-even: $750M / ($1,055M/5) = $750M / $211M \u2248 3.55 years\n\nThe project reaches profitability slightly after the third year.",
+    "creative_prompt": "How can the agency leverage partnerships with local businesses and international technology firms to accelerate 5G adoption?",
+    "creative_answer": [
+      "Local Business Partnerships: Retail collaborations for bundled services, enterprise solutions for healthcare/manufacturing/logistics, and community engagement programs.",
+      "International Technology Firms: Technology transfer agreements for cutting-edge 5G technologies, joint ventures to share investment costs and risks, and innovation hubs for local talent development and new 5G applications."
+    ],
+    "final_suggestion": "Focus on strategic, operational, and financial aspects of 5G deployment. Pay close attention to market analysis, regulatory environment, and competitive landscape. Leverage partnerships and manage costs to achieve 80% coverage and drive economic growth."
+  }
+}

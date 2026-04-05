@@ -1,0 +1,83 @@
+{
+  "id": "case67",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "agriculture",
+  "topic": "food-security",
+  "subtopic": "climate-resilience",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "food-security",
+    "climate-change",
+    "agriculture",
+    "supply-chain",
+    "resilience"
+  ],
+  "title": "Revamping National Food Security for Climate Resilience",
+  "summary": "Redesign a national food security strategy to address supply disruptions caused by extreme climate events.",
+  "prompt": "A country is experiencing significant food supply disruptions due to extreme weather events caused by climate change. These disruptions have led to food shortages, increased prices, and social unrest. The government has tasked a consulting team with revamping the national food security strategy. The team must assess alternative agriculture methods, such as vertical farming and lab-grown meat, evaluate trade policies, and consider investments in resilient crops to ensure a stable and sustainable food supply in the face of ongoing climate challenges.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What specific extreme weather events are causing the most disruption?",
+        "answer": "The primary events include prolonged droughts, severe floods, and unseasonal temperature fluctuations."
+      },
+      {
+        "question": "Which crops are most affected?",
+        "answer": "Staple crops such as wheat, rice, and maize are the most affected, leading to significant shortages and price increases."
+      },
+      {
+        "question": "What is the current state of agricultural infrastructure?",
+        "answer": "The infrastructure is outdated, with limited modern technology and inefficient irrigation systems, making it vulnerable to climate impacts."
+      },
+      {
+        "question": "Are there any existing government policies aimed at improving food security?",
+        "answer": "There are subsidies for farmers and investment in irrigation projects, but they are insufficient for current challenges."
+      },
+      {
+        "question": "What is the country's current reliance on food imports?",
+        "answer": "The country relies heavily on food imports, particularly for staple crops. High tariffs and import restrictions have exacerbated shortages during crises."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Alternative Agriculture Methods",
+        "points": [
+          "Vertical Farming: Assess feasibility in urban areas, cost of setup, potential yield, and suitable crops.",
+          "Lab-Grown Meat: Investigate current technology, scalability, cost of production, and market acceptance.",
+          "Aquaponics and Hydroponics: Explore potential as sustainable methods, initial investment, and long-term benefits."
+        ]
+      },
+      {
+        "title": "Trade Policies",
+        "points": [
+          "Import Tariffs and Restrictions: Review current policies and their impact on food prices and availability during crises.",
+          "Trade Agreements: Analyze existing agreements and explore new partnerships to diversify food import sources."
+        ]
+      },
+      {
+        "title": "Investment in Resilient Crops",
+        "points": [
+          "Research and Development: Invest in climate-resilient crop varieties through collaboration with agricultural research institutions.",
+          "Farmer Support Programs: Implement programs to support farmers in adopting resilient varieties with training, resources, and financial incentives."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Comparison of Alternative Agriculture Methods",
+      "content": "Method | Initial Investment | Yield (tons/year) | Resource Efficiency | Climate Resilience | Market Acceptance | Environmental Impact\nVertical Farming | High | 10 | High | High | Moderate | Low\nLab-Grown Meat | Very High | 5 | Moderate | High | Low | High\nAquaponics | Moderate | 8 | High | High | High | Low\nHydroponics | Moderate | 7 | High | High | High | Low"
+    },
+    "exhibit_answer": "Vertical farming and lab-grown meat require high initial investments. Vertical farming and aquaponics offer higher yields. All methods except lab-grown meat demonstrate high resource efficiency. All methods provide high climate resilience. Aquaponics and hydroponics have higher market acceptance. Lab-grown meat has the highest environmental impact among alternatives.",
+    "math_prompt": "Calculate the break-even point for a vertical farming project. Initial investment: $500,000. Annual operating cost: $100,000. Expected annual revenue: $150,000.",
+    "math_answer": "1. Annual Profit: $150,000 - $100,000 = $50,000\n2. Break-Even Point: $500,000 / $50,000 = 10 years\n\nThe 10-year break-even period may affect investment decisions, highlighting the need for subsidies or incentives to encourage adoption.",
+    "creative_prompt": "Propose a comprehensive strategy to enhance food security considering alternative agriculture, trade reforms, and resilient crops.",
+    "creative_answer": [
+      "Promote vertical farming, aquaponics, and hydroponics in urban areas with financial incentives and technical support.",
+      "Reduce import tariffs on essential food products to ensure stable supply during crises.",
+      "Negotiate new trade agreements with diverse partners to reduce supply chain risk.",
+      "Invest in R&D for climate-resilient crop varieties with farmer support programs for transition."
+    ],
+    "final_suggestion": "The country must adopt a multi-faceted approach combining innovative agriculture methods, strategic trade policies, and investment in resilient crops. By leveraging these strategies, the country can build a more robust and sustainable food system capable of withstanding future climate impacts."
+  }
+}

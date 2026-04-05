@@ -1,0 +1,86 @@
+{
+  "id": "case59",
+  "content_type": "case",
+  "category": "operations",
+  "industry": "healthcare",
+  "topic": "workforce-planning",
+  "subtopic": "doctor-shortage",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "healthcare",
+    "workforce",
+    "doctor-shortage",
+    "rural-access",
+    "operational-strategy"
+  ],
+  "title": "Addressing a National Doctor Shortage",
+  "summary": "Evaluate solutions to a critical national doctor shortage including accelerated training, international recruitment, and telemedicine expansion.",
+  "prompt": "A developed country is facing a significant shortage of doctors, particularly in rural areas. This shortage has led to increased patient wait times, reduced access to care, and overburdened healthcare facilities. The government and healthcare leaders are exploring various solutions to address this issue, including accelerated medical training programs, international recruitment of physicians, and the integration of AI-assisted diagnostics. The goal is to ensure that rural populations receive timely and adequate medical care while maintaining high standards of healthcare delivery. The team must evaluate the feasibility, costs, and potential impact of these solutions to develop a comprehensive strategy for addressing the physician shortage.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current ratio of doctors to patients in rural vs. urban areas?",
+        "answer": "Rural areas: 1:2000; Urban areas: 1:500."
+      },
+      {
+        "question": "What are the main barriers to doctors practicing in rural areas?",
+        "answer": "Lack of professional development opportunities, lower salaries, and limited access to advanced medical facilities and technologies."
+      },
+      {
+        "question": "What is the average time and cost to train a doctor?",
+        "answer": "Approximately 8 years at an average cost of $250,000."
+      },
+      {
+        "question": "How many international doctors are currently practicing, and what challenges do they face?",
+        "answer": "About 5,000 international doctors face licensing/certification processes, cultural and language barriers, and integration challenges."
+      },
+      {
+        "question": "What are the current capabilities and limitations of AI-assisted diagnostics?",
+        "answer": "AI can accurately diagnose conditions like diabetic retinopathy, skin cancers, and some cardiovascular diseases. Limitations include the need for high-quality data inputs and integration with existing healthcare IT systems."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Accelerated Medical Training Programs",
+        "points": [
+          "Curriculum Design: Evaluate feasibility of compressing the traditional curriculum without compromising quality.",
+          "Residency Programs: Develop shorter, intensive residency programs focused on primary care and rural healthcare.",
+          "Incentives: Introduce scholarships, loan forgiveness, and other incentives for accelerated programs."
+        ]
+      },
+      {
+        "title": "International Recruitment",
+        "points": [
+          "Licensing and Certification: Streamline the process for international doctors to obtain licenses.",
+          "Integration Programs: Develop cultural and language training to help international doctors integrate.",
+          "Partnerships: Establish partnerships with countries that have a surplus of medical professionals."
+        ]
+      },
+      {
+        "title": "AI-Assisted Diagnostics",
+        "points": [
+          "Technology Integration: Assess current infrastructure and identify gaps.",
+          "Training Programs: Implement training for healthcare professionals to use AI tools effectively.",
+          "Pilot Programs: Launch pilots in rural areas to test and refine AI-assisted diagnostic tools."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Comparison of Doctor Shortage Solutions",
+      "content": "Variable | Accelerated Medical Training | International Recruitment | AI-Assisted Diagnostics\nTime to Implement | 4 years | 2 years | 1 year\nInitial Cost | $500 million | $200 million | $100 million\nAnnual Operating Cost | $100 million | $50 million | $25 million\nDoctors Added Annually | 1,000 | 500 | 200\nImpact on Rural Access | High | Medium | High\nPotential Risks | Quality of training | Integration challenges | Data privacy"
+    },
+    "exhibit_answer": "AI-assisted diagnostics is fastest to implement (1 year) and most cost-effective. Accelerated training adds the most doctors annually (1,000) but takes longest (4 years). International recruitment is a medium-term solution with integration challenges. Both accelerated training and AI diagnostics have high impact on rural healthcare access. A combined approach offers the best results.",
+    "math_prompt": "Calculate the total cost over 10 years for each solution and the cost per doctor added.\nAccelerated Training: $500M initial + $100M/year\nInternational Recruitment: $200M initial + $50M/year\nAI Diagnostics: $100M initial + $25M/year",
+    "math_answer": "Total costs (10 years):\nAccelerated Training: $500M + $1B = $1.5B (10,000 doctors = $150K/doctor)\nInternational Recruitment: $200M + $500M = $700M (5,000 doctors = $140K/doctor)\nAI Diagnostics: $100M + $250M = $350M (2,000 doctors = $175K/doctor)\n\nInternational recruitment has the lowest cost per doctor ($140K), while AI diagnostics has the highest ($175K) but provides rapid scalability.",
+    "creative_prompt": "How can the government incentivize medical professionals to practice in rural areas beyond the discussed solutions?",
+    "creative_answer": [
+      "Financial Incentives: Higher salaries, signing bonuses, and relocation assistance for rural doctors.",
+      "Professional Development: Continuing education opportunities, research grants, and sabbaticals.",
+      "Community Integration: Programs helping doctors and families integrate into rural communities including housing assistance.",
+      "Telemedicine Support: Invest in telemedicine infrastructure for rural doctors to consult with specialists remotely.",
+      "Loan Forgiveness Programs: Implement programs for doctors who commit to rural practice for a specified period."
+    ],
+    "final_suggestion": "A multi-faceted approach combining accelerated training, international recruitment, and AI-assisted diagnostics provides both immediate and long-term solutions. Additionally, comprehensive incentive programs will attract and retain medical professionals in rural areas, ensuring equitable healthcare access."
+  }
+}

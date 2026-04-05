@@ -1,0 +1,43 @@
+{
+  "id": "case26",
+  "content_type": "case",
+  "category": "mergers-and-acquisitions",
+  "industry": "sports",
+  "topic": "acquisition-analysis",
+  "subtopic": "niche-league-acquisition",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": ["m&a", "sports-league", "private-equity", "monetization", "growth-potential"],
+  "title": "Acquiring a Niche Sports League for Private Equity",
+  "summary": "Evaluate a PE firm's acquisition of an unprofitable niche sports league, assessing monetization and partnership potential.",
+  "prompt": "Our client, a private equity (PE) firm, is considering acquiring a growing but currently unprofitable niche sports league, such as professional pickleball or e-sports. The PE firm seeks to evaluate the market potential, monetization opportunities, and partnership strategies to determine if this acquisition will yield a good return on investment. They need a comprehensive assessment of whether to proceed with the acquisition and, if so, how to optimize the league's profitability and growth.",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What is the current financial performance of the niche sports league?", "answer": "The league is currently unprofitable but has shown significant growth in viewership and participation over the past three years. Revenue streams include ticket sales, merchandise, and limited sponsorship deals."},
+      {"question": "What are the key demographics of the league's fan base?", "answer": "The fan base primarily consists of younger audiences, aged 18-34, who are highly engaged on social media and digital platforms. This demographic is tech-savvy and values interactive and immersive experiences."},
+      {"question": "What are the main revenue streams and their respective contributions to the total revenue?", "answer": "The primary revenue streams are ticket sales (30%), merchandise (20%), sponsorships (25%), and broadcast rights (25%). The league has potential to expand these streams, particularly in digital content and international markets."},
+      {"question": "Who are the current competitors, and what are their market positions?", "answer": "Competitors include other niche sports leagues and mainstream sports leagues that are expanding into digital and e-sports. The market is fragmented, with no single dominant player, allowing room for growth and differentiation."},
+      {"question": "What are the potential risks associated with the acquisition?", "answer": "Risks include regulatory issues, fluctuating fan interest, high operational costs, and potential backlash from traditional sports fans. There is also a risk of overestimating the monetization potential in the short term."}
+    ],
+    "framework": [
+      {"title": "Market Potential Analysis", "points": ["Market Size and Growth Trends: Assess the current size of the niche sports market and its projected growth over the next 5-10 years. Analyze viewership trends, participation rates, and geographic expansion opportunities.", "Target Demographics: Study the demographics of the fan base, including age, income levels, and engagement on digital platforms. Evaluate the potential for audience growth and retention.", "Competitive Landscape: Identify key competitors and their market shares. Analyze competitive strengths and weaknesses, and potential threats to the niche sports league."]},
+      {"title": "Monetization Opportunities", "points": ["Revenue Streams: Evaluate existing revenue streams (ticket sales, merchandise, sponsorships, broadcast rights). Explore new revenue opportunities, such as digital content, in-game purchases, and international expansion.", "Cost Structure: Analyze the current cost structure, including fixed and variable costs. Identify areas for cost optimization and potential synergies.", "Partnership and Sponsorship Strategies: Assess current partnerships and sponsorship deals. Develop strategies to attract new sponsors and partners, focusing on digital and tech companies."]},
+      {"title": "Strategic Growth and Profitability", "points": ["Operational Efficiency: Evaluate the league's operational processes and identify inefficiencies. Propose improvements to enhance operational efficiency and reduce costs.", "Marketing and Branding: Develop a comprehensive marketing strategy to increase brand awareness and fan engagement. Leverage social media and digital platforms to reach a broader audience.", "Regulatory and Legal Considerations: Identify potential regulatory and legal hurdles. Develop strategies to mitigate these risks and ensure compliance."]}
+    ],
+    "exhibit": {
+      "title": "Revenue and Cost Analysis Table",
+      "content": "Revenue Streams | Current Revenue ($M) | Projected Revenue ($M) | Growth Rate (%)\nTicket Sales | 10 | 15 | 50\nMerchandise | 7 | 12 | 71\nSponsorships | 8 | 20 | 150\nBroadcast Rights | 8 | 18 | 125\nDigital Content | 0 | 10 | N/A\nTotal Revenue | 33 | 75 | 127\n\nCosts | Current ($M) | Projected ($M) | Growth Rate (%)\nPlayer Salaries | 15 | 20 | 33\nOperational Costs | 10 | 12 | 20\nMarketing Expenses | 5 | 8 | 60\nAdministrative Expenses | 3 | 4 | 33\nTotal Costs | 33 | 44 | 33\n\nNet Profit/(Loss) | 0 | 31 | N/A"
+    },
+    "exhibit_answer": "Revenue Growth: Significant growth potential in sponsorships and broadcast rights, with new revenue from digital content. Cost Management: Player salaries and operational costs are major expenses; need for cost optimization. Profitability: Projected net profit of $31M indicates strong potential for profitability post-acquisition. Revenue Diversification: Digital content offers a new and lucrative revenue stream. Market Expansion: Opportunities to expand viewership and revenue geographically and demographically. Operational Efficiency: Need to streamline operations to further enhance profitability.",
+    "math_prompt": "Calculate the break-even point for the niche sports league. Assume the following:\nFixed Costs: $25M (includes player salaries, operational costs, and administrative expenses)\nVariable Costs per Unit (ticket): $20\nAverage Ticket Price: $50",
+    "math_answer": "1. Determine Contribution Margin per Ticket:\nContribution Margin = Ticket Price - Variable Cost\nContribution Margin = $50 - $20 = $30\n\n2. Calculate Break-Even Point in Units:\nBreak-Even Point (Units) = Fixed Costs / Contribution Margin per Unit\nBreak-Even Point (Units) = $25,000,000 / $30 = 833,333 tickets\n\n3. Calculate Break-Even Point in Revenue:\nBreak-Even Revenue = Break-Even Point (Units) * Ticket Price\nBreak-Even Revenue = 833,333 tickets * $50 = $41,666,650",
+    "creative_prompt": "What innovative strategies can the niche sports league implement to enhance fan engagement and increase revenue streams?",
+    "creative_answer": [
+      "Interactive Digital Platforms: Develop an app with interactive features such as live polls, fantasy leagues, and augmented reality experiences. Offer exclusive behind-the-scenes content and virtual meet-and-greets with players.",
+      "Esports Integration: Host esports tournaments featuring the niche sport, attracting a younger, tech-savvy audience. Collaborate with popular gaming influencers to promote events and merchandise.",
+      "Subscription-Based Models: Introduce a subscription service for exclusive content, early access to tickets, and premium merchandise. Offer tiered memberships with varying levels of access and benefits.",
+      "Sustainable Initiatives: Implement eco-friendly practices in stadiums and events to attract environmentally conscious fans. Partner with sustainability-focused brands for sponsorships and collaborations."
+    ],
+    "final_suggestion": "To effectively evaluate and optimize the acquisition of the niche sports league, the PE firm should focus on assessing market potential, exploring diverse monetization opportunities, and implementing strategic growth initiatives. By leveraging digital platforms, enhancing fan engagement, and optimizing operational efficiency, the league can achieve profitability and sustainable growth."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "case11",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "alternative-protein",
+  "topic": "international-expansion",
+  "subtopic": "asian-market-entry",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": ["market-entry", "plant-based", "asia-expansion", "consumer-goods", "go-to-market"],
+  "title": "Expanding a Plant-Based Meat Company into Asia",
+  "summary": "Design an entry strategy for a North American plant-based protein company expanding into the Asian market.",
+  "prompt": "A North American alternative protein company, specializing in plant-based meat products, is considering expanding into the Asian market. The company has experienced significant growth in North America and Europe and now seeks to capitalize on the burgeoning demand for plant-based products in Asia. The team must assess which countries to prioritize for entry, analyze local consumer preferences, and identify potential partners or regulatory hurdles. The goal is to develop a comprehensive market entry strategy that ensures successful penetration and long-term growth in the Asian market.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the specific plant-based meat products the company offers?",
+        "answer": "The company offers a range of plant-based meat products including burgers, sausages, nuggets, and ground meat substitutes."
+      },
+      {
+        "question": "What is the company's current market share and revenue in North America and Europe?",
+        "answer": "The company holds a 15% market share in North America and a 10% market share in Europe, with annual revenues of $200 million."
+      },
+      {
+        "question": "What is the budget allocated for the Asian market entry?",
+        "answer": "The company has allocated $50 million for the initial market entry and expansion in Asia."
+      },
+      {
+        "question": "Are there any existing partnerships or distribution channels in Asia?",
+        "answer": "Currently, the company has no existing partnerships or distribution channels in Asia."
+      },
+      {
+        "question": "What are the company's long-term goals for the Asian market?",
+        "answer": "The company aims to achieve a 10% market share in the Asian plant-based meat market within five years and establish strong brand recognition."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Market Selection",
+        "points": [
+          "Market Size and Growth Potential: Assess the size of the plant-based meat market in various Asian countries. Identify countries with the highest growth potential for plant-based products. Analyze trends in consumer behavior and dietary preferences.",
+          "Economic and Demographic Factors: Evaluate economic stability and growth rates of potential markets. Consider demographic factors such as population size, urbanization, and income levels. Identify key urban centers with a higher propensity for adopting plant-based diets.",
+          "Competitive Landscape: Analyze the presence of local and international competitors in the plant-based meat market. Identify market leaders and their product offerings. Assess the level of market saturation and potential barriers to entry."
+        ]
+      },
+      {
+        "title": "Consumer Preferences",
+        "points": [
+          "Dietary Habits and Cultural Factors: Study local dietary habits and cultural preferences related to meat consumption. Identify potential acceptance and demand for plant-based meat products. Analyze the impact of religious and cultural practices on food choices.",
+          "Health and Environmental Awareness: Assess the level of consumer awareness regarding health benefits of plant-based diets. Evaluate the importance of environmental sustainability in consumer purchasing decisions. Identify key consumer segments likely to adopt plant-based products.",
+          "Pricing and Positioning: Determine optimal pricing strategies based on local purchasing power and competitive pricing. Identify effective positioning strategies to differentiate the brand from competitors. Develop marketing messages that resonate with local consumer values and preferences."
+        ]
+      },
+      {
+        "title": "Strategic Partnerships and Regulatory Considerations",
+        "points": [
+          "Potential Partners: Identify potential local partners for distribution, manufacturing, and marketing. Evaluate the capabilities and market reach of potential partners. Assess the alignment of potential partners' values and goals with the company's mission.",
+          "Regulatory Environment: Analyze food safety and labeling regulations in target markets. Identify potential regulatory hurdles and compliance requirements. Assess the impact of trade policies and tariffs on market entry.",
+          "Distribution Channels: Evaluate potential distribution channels including retail, e-commerce, and food service. Identify key retailers and online platforms for product placement. Develop strategies for effective distribution and supply chain management."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Market Analysis Table for Target Asian Countries",
+      "content": "Country | Plant-Based Meat Market Size ($M) | CAGR (%) | Population (M) | Urbanization (%) | GDP Growth (%) | Competitors Present | Regulatory Complexity\nChina | 500 | 15 | 1400 | 60 | 6 | High | Medium\nIndia | 300 | 20 | 1300 | 35 | 7 | Medium | High\nJapan | 200 | 10 | 125 | 80 | 1 | Medium | Low\nSouth Korea | 150 | 12 | 50 | 82 | 2.5 | Medium | Medium\nSingapore | 100 | 8 | 5.7 | 100 | 3 | Low | Low\nThailand | 120 | 10 | 70 | 50 | 3.5 | Low | Medium"
+    },
+    "exhibit_answer": "Key insights from the exhibit: 1. China has the largest market size and significant growth potential, making it a prime target for entry. 2. India shows the highest CAGR, indicating a rapidly growing market, but regulatory complexity is high. 3. Japan has a smaller market size but high urbanization and low regulatory complexity, making it an attractive market. 4. South Korea offers a moderate market size and growth rate with medium regulatory complexity. 5. Singapore has a small market but high urbanization and low regulatory complexity, making it a good test market. 6. Thailand presents a moderate market size and growth rate with medium regulatory complexity.",
+    "math_prompt": "Calculate the projected revenue for the company in the first year of market entry in China. Assume the following:\nThe company captures 5% of the market share in the first year.\nThe market size is $500 million.\nThe average price per unit sold is $5.\nThe company expects to sell 10 million units.",
+    "math_answer": "1. Calculate the revenue from market share:\nMarket share revenue = Market size * Market share\nMarket share revenue = $500 million * 0.05 = $25 million\n\n2. Calculate the revenue from units sold:\nRevenue from units sold = Units sold * Price per unit\nRevenue from units sold = 10 million units * $5 = $50 million\n\n3. Total projected revenue:\nTotal projected revenue = Market share revenue + Revenue from units sold\nTotal projected revenue = $25 million + $50 million = $75 million",
+    "creative_prompt": "What innovative marketing strategies could the company employ to differentiate its plant-based meat products in the Asian market and drive consumer adoption?",
+    "creative_answer": [
+      "Leverage Influencer Marketing: Partner with local influencers and celebrities who advocate for healthy and sustainable lifestyles. Create engaging content showcasing the benefits of plant-based diets and the unique features of the company's products.",
+      "Cultural Customization: Develop region-specific flavors and products that cater to local tastes and culinary traditions. Collaborate with local chefs to create signature dishes using the company's plant-based meat products.",
+      "Sustainability Campaigns: Highlight the environmental benefits of plant-based diets through targeted marketing campaigns. Partner with environmental organizations to promote sustainability and reduce carbon footprint.",
+      "Health and Wellness Initiatives: Launch educational campaigns on the health benefits of plant-based diets, including reduced risk of chronic diseases. Offer free health assessments and dietary consultations to encourage consumer adoption.",
+      "Interactive and Experiential Marketing: Organize cooking classes, tasting events, and pop-up restaurants to provide consumers with hands-on experiences. Utilize augmented reality (AR) and virtual reality (VR) to create immersive brand experiences."
+    ],
+    "final_suggestion": "To successfully enter the Asian market, the company should prioritize countries with high market potential and manageable regulatory environments, such as China and Japan. By understanding local consumer preferences and leveraging strategic partnerships, the company can effectively position its plant-based meat products and drive adoption. Innovative marketing strategies tailored to local cultures and values will be crucial in differentiating the brand and achieving long-term growth."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "case21",
+  "content_type": "case",
+  "category": "mergers-and-acquisitions",
+  "industry": "hospitality",
+  "topic": "acquisition-analysis",
+  "subtopic": "boutique-hotel-acquisition",
+  "difficulty": "Medium",
+  "style": "McKinsey",
+  "tags": ["m&a", "hospitality", "boutique-hotels", "eco-tourism", "due-diligence"],
+  "title": "Acquiring a Boutique Hotel Chain in Quebec",
+  "summary": "Evaluate a private equity firm's potential acquisition of an eco-conscious boutique hotel chain in Quebec, Canada.",
+  "prompt": "A private equity firm is considering acquiring a regional boutique hotel chain in Quebec that caters to eco-conscious travelers. The firm needs to assess demand, competitive positioning, and growth potential to determine if this acquisition aligns with their strategic goals. The boutique hotel chain currently operates 10 properties across Quebec, each with a unique eco-friendly offering. The private equity firm seeks to understand the market dynamics, potential for expansion, and competitive landscape before making a decision.",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What is the current occupancy rate of the boutique hotel chain?", "answer": "The current occupancy rate averages 75% annually, with higher rates during peak tourist seasons."},
+      {"question": "What are the key eco-friendly features offered by the boutique hotel chain?", "answer": "The hotels offer features such as solar energy, locally sourced organic food, eco-friendly toiletries, and waste reduction programs."},
+      {"question": "Who are the main competitors in the eco-friendly boutique hotel market in Quebec?", "answer": "Main competitors include other boutique hotels with similar eco-friendly offerings and larger hotel chains that have introduced eco-friendly initiatives."},
+      {"question": "What is the financial performance of the hotel chain over the past three years?", "answer": "The hotel chain has seen a steady revenue growth of 10% annually, with a current EBITDA margin of 20%."},
+      {"question": "What are the potential barriers to entry for new competitors in this market?", "answer": "Barriers include high initial capital investment, the need for specialized eco-friendly certifications, and the challenge of building brand reputation among eco-conscious travelers."}
+    ],
+    "framework": [
+      {"title": "Market Demand Analysis", "points": ["Tourism Trends in Quebec: Analyze historical and projected tourism growth rates in Quebec. Identify key tourist attractions and their impact on hotel demand.", "Eco-Conscious Traveler Segment: Assess the size and growth of the eco-conscious traveler segment. Understand traveler preferences and willingness to pay a premium for eco-friendly offerings.", "Seasonality: Examine seasonal demand fluctuations and their impact on occupancy rates."]},
+      {"title": "Competitive Positioning", "points": ["Competitive Landscape: Identify direct and indirect competitors in the eco-friendly boutique hotel market. Compare the unique selling propositions (USPs) of competitors.", "Market Share: Estimate the market share of the boutique hotel chain relative to competitors. Analyze customer reviews and ratings to gauge market perception.", "Pricing Strategy: Evaluate the pricing strategy of the hotel chain compared to competitors. Assess the price elasticity of demand for eco-friendly offerings."]},
+      {"title": "Growth Potential", "points": ["Expansion Opportunities: Identify potential regions within Quebec or other provinces for new hotel openings. Evaluate the feasibility of converting existing properties to eco-friendly hotels.", "Partnerships and Collaborations: Explore potential partnerships with eco-friendly brands and local suppliers. Assess opportunities for collaboration with tourism boards and environmental organizations.", "Marketing and Brand Development: Develop strategies to enhance brand visibility and attract eco-conscious travelers. Utilize digital marketing and social media to reach target audiences."]}
+    ],
+    "exhibit": {
+      "title": "Financial Performance and Market Trends",
+      "content": "Year | Revenue (CAD) | EBITDA Margin (%) | Occupancy Rate (%) | Market Share (%) | Competitor A Market Share (%) | Competitor B Market Share (%) | Average Room Rate (CAD)\n2020 | 5,000,000 | 18 | 70 | 15 | 20 | 25 | 150\n2021 | 5,500,000 | 19 | 72 | 16 | 21 | 24 | 155\n2022 | 6,050,000 | 20 | 75 | 17 | 22 | 23 | 160"
+    },
+    "exhibit_answer": "Revenue Growth: The boutique hotel chain has experienced steady revenue growth, increasing from CAD 5,000,000 in 2020 to CAD 6,050,000 in 2022. EBITDA Margin: The EBITDA margin has improved from 18% in 2020 to 20% in 2022, indicating better operational efficiency. Occupancy Rate: The occupancy rate has increased from 70% in 2020 to 75% in 2022, showing higher demand and better utilization of capacity. Market Share: The hotel chain's market share has grown from 15% in 2020 to 17% in 2022, suggesting a competitive edge in the eco-friendly segment. Competitor Analysis: Competitor A and B have slightly decreased market shares, indicating potential market consolidation opportunities for the boutique hotel chain. Pricing Strategy: The average room rate has increased from CAD 150 in 2020 to CAD 160 in 2022, reflecting the ability to command higher prices due to unique eco-friendly offerings.",
+    "math_prompt": "Calculate the projected revenue for the boutique hotel chain in 2023 if the following conditions are met:\nThe occupancy rate is expected to increase by 5%.\nThe average room rate is expected to increase by 3%.\nThe number of rooms available across all properties remains constant at 500.\nThe number of days in the year is 365.",
+    "math_answer": "1. Current Occupancy Rate: 75%\nProjected Occupancy Rate = 75% * 1.05 = 78.75%\n\n2. Current Average Room Rate: CAD 160\nProjected Average Room Rate = CAD 160 * 1.03 = CAD 164.80\n\n3. Total Room Nights Available: 500 rooms * 365 days = 182,500 room nights\n\n4. Occupied Room Nights: 182,500 * 78.75% = 143,156.25\n\n5. Projected Revenue:\nProjected Revenue = 143,156.25 room nights * CAD 164.80 = CAD 23,594,790",
+    "creative_prompt": "What strategies can the boutique hotel chain employ to differentiate itself further in the eco-friendly market and attract more eco-conscious travelers?",
+    "creative_answer": [
+      "Innovative Eco-Friendly Initiatives: Introduce unique eco-friendly initiatives such as zero-waste policies, carbon offset programs, and sustainable building practices to enhance the hotel's green credentials.",
+      "Community Engagement: Partner with local communities to offer authentic eco-tourism experiences, such as guided nature tours, wildlife conservation programs, and cultural workshops.",
+      "Loyalty Programs: Develop a loyalty program that rewards guests for eco-friendly behaviors, such as using public transportation, reducing water usage, and participating in hotel-organized environmental activities.",
+      "Green Certifications: Obtain and prominently display reputable green certifications (e.g., LEED, Green Key) to build trust and credibility among eco-conscious travelers.",
+      "Educational Campaigns: Launch educational campaigns highlighting the environmental impact of travel and how guests can contribute to sustainability during their stay."
+    ],
+    "final_suggestion": "To effectively assess the acquisition of the boutique hotel chain, the private equity firm should conduct a thorough market demand analysis, evaluate competitive positioning, and explore growth potential. By leveraging unique eco-friendly offerings and capitalizing on the growing trend of eco-conscious travel, the firm can position the hotel chain for sustainable growth and long-term success."
+  }
+}

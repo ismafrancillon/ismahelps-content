@@ -1,0 +1,45 @@
+{
+  "id": "case22",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "quick-service-restaurants",
+  "topic": "international-expansion",
+  "subtopic": "latam-entry",
+  "difficulty": "Medium",
+  "style": "BCG",
+  "tags": ["market-entry", "qsr", "latin-america", "international-expansion", "go-to-market"],
+  "title": "Expanding a Canadian Fast-Food Chain into Latin America",
+  "summary": "Design a market entry strategy for a Canadian QSR chain expanding into Latin American markets.",
+  "prompt": "A successful Canadian fast-food chain, known for its high-quality and affordable menu, is looking to expand into Latin America. The company has experienced significant growth in Canada and now aims to capture market share in new international markets. The key challenges are to determine which Latin American markets to prioritize, decide whether to franchise or own stores, and adapt their menu to local preferences. The company seeks a strategic plan that outlines the best approach to enter these markets successfully.",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What is the current market share and competitive landscape of the fast-food industry in Latin America?", "answer": "The fast-food market in Latin America is growing rapidly, with a mix of local and international players. Major competitors include McDonald's, Burger King, and local chains."},
+      {"question": "What are the key consumer preferences and dining habits in the target Latin American countries?", "answer": "Consumers in Latin America have diverse tastes, with a preference for fresh, locally-sourced ingredients. There is also a growing trend towards healthier options."},
+      {"question": "What are the economic and political conditions in the target markets?", "answer": "Economic conditions vary, with some countries experiencing growth while others face economic challenges. Political stability is also a concern, with some regions having more favorable business environments than others."},
+      {"question": "What are the logistical and supply chain considerations for entering these markets?", "answer": "Logistics and supply chain management can be challenging due to infrastructure issues and import regulations. Establishing local partnerships and sourcing can mitigate some of these challenges."},
+      {"question": "What is the company's budget and timeline for this expansion?", "answer": "The company has allocated a substantial budget for this expansion and aims to enter the market within the next 12-18 months."}
+    ],
+    "framework": [
+      {"title": "Market Prioritization", "points": ["Market Size and Growth: Evaluate the size and growth rate of the fast-food market in various Latin American countries.", "Competitive Landscape: Analyze the level of competition and market saturation in each target market.", "Economic and Political Stability: Assess the economic conditions, political stability, and ease of doing business in each country.", "Consumer Preferences: Study local dining habits, preferences, and trends to identify markets with the highest potential for the brand."]},
+      {"title": "Entry Strategy", "points": ["Franchising vs. Owning Stores: Evaluate the pros and cons of franchising versus owning stores in each market.", "Partnerships and Joint Ventures: Consider forming partnerships or joint ventures with local businesses to navigate regulatory and market challenges.", "Brand Positioning and Marketing: Develop a branding and marketing strategy tailored to each market's cultural nuances and consumer behavior."]},
+      {"title": "Menu Adaptation", "points": ["Local Preferences: Conduct market research to understand local tastes and preferences, including popular ingredients and dishes.", "Health Trends: Incorporate healthier menu options in line with the growing trend towards health-conscious eating.", "Pricing Strategy: Develop a pricing strategy that balances affordability with profitability, considering local purchasing power and competition."]}
+    ],
+    "exhibit": {
+      "title": "Market Analysis of Selected Latin American Countries",
+      "content": "Country | Market Size (USD) | Annual Growth Rate (%) | Number of Competitors | Political Stability Index | Ease of Doing Business Index | Consumer Preference for Fast Food (%) | Average Income (USD)\nBrazil | 5 Billion | 8% | 15 | 60 | 75 | 70% | 9,000\nMexico | 4.5 Billion | 7% | 12 | 65 | 70 | 65% | 8,000\nArgentina | 3 Billion | 5% | 10 | 55 | 65 | 60% | 10,000\nChile | 2 Billion | 6% | 8 | 70 | 80 | 75% | 15,000\nColombia | 2.5 Billion | 7% | 9 | 60 | 68 | 68% | 8,000"
+    },
+    "exhibit_answer": "Market Size and Growth: Brazil and Mexico have the largest markets with high growth rates, indicating strong potential for expansion. Number of Competitors: Brazil and Mexico also have a higher number of competitors, suggesting a more competitive environment. Political Stability and Ease of Doing Business: Chile scores highest on political stability and ease of doing business, making it an attractive market despite its smaller size. Consumer Preference for Fast Food: Chile has the highest consumer preference for fast food, followed by Brazil, indicating strong demand in these markets. Average Income: Chile and Argentina have higher average incomes, suggesting greater spending power among consumers. Infrastructure Quality: Chile has the best infrastructure quality, which can facilitate smoother operations and logistics.",
+    "math_prompt": "Calculate the expected revenue for the first year of operations in Brazil if the company opens 20 stores, with each store generating an average monthly revenue of $50,000. Additionally, consider an annual growth rate of 8% and a 5% operational cost reduction due to economies of scale. What will be the net revenue at the end of the first year?",
+    "math_answer": "Monthly Revenue per Store: $50,000\nNumber of Stores: 20\nTotal Monthly Revenue: $50,000 * 20 = $1,000,000\nAnnual Revenue (without growth): $1,000,000 * 12 = $12,000,000\nAnnual Growth Rate: 8%\nExpected Annual Revenue: $12,000,000 * 1.08 = $12,960,000\nOperational Cost Reduction: 5%\nNet Revenue: $12,960,000 * 0.95 = $12,312,000",
+    "creative_prompt": "How can the company leverage digital and social media marketing to create brand awareness and attract customers in the new Latin American markets?",
+    "creative_answer": [
+      "Social Media Campaigns: Develop localized social media campaigns on platforms like Facebook, Instagram, and Twitter to engage with potential customers. Use targeted ads to reach specific demographics.",
+      "Influencer Partnerships: Collaborate with popular local influencers to promote the brand and create authentic content that resonates with the audience.",
+      "User-Generated Content: Encourage customers to share their dining experiences on social media using branded hashtags. Run contests and promotions to incentivize participation.",
+      "Localized Content: Create content that reflects local culture, traditions, and preferences. Use local languages and incorporate regional festivals and events into marketing campaigns.",
+      "Online Ordering and Delivery: Partner with local food delivery apps to offer convenient online ordering and delivery services. Promote these services through digital channels.",
+      "Customer Engagement: Use social media to interact with customers, respond to inquiries, and gather feedback. Create a community around the brand by sharing customer stories and experiences."
+    ],
+    "final_suggestion": "To successfully expand into Latin America, the Canadian fast-food chain should prioritize markets like Brazil, Mexico, and Chile based on market size, growth potential, and consumer preferences. The company should consider a mix of franchising and owning stores to balance control and scalability. Adapting the menu to local tastes and leveraging digital marketing will be crucial for building brand awareness and attracting customers. By addressing logistical challenges and forming strategic partnerships, the company can establish a strong presence and achieve sustainable growth in the region."
+  }
+}

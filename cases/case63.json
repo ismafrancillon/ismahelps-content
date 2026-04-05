@@ -1,0 +1,86 @@
+{
+  "id": "case63",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "healthcare",
+  "topic": "data-analytics",
+  "subtopic": "pandemic-surveillance",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "public-health",
+    "data-analytics",
+    "pandemic-response",
+    "surveillance",
+    "disease-tracking"
+  ],
+  "title": "Optimizing Public Health Data for Pandemic Response",
+  "summary": "Enhance a nation's real-time disease outbreak tracking capabilities to strengthen its overall pandemic preparedness and response plan.",
+  "prompt": "A national government is seeking to enhance its capabilities in tracking disease outbreaks in real-time. The aim is to improve the nation's pandemic response plan by leveraging advanced data collection methods. The government has tasked a consulting team with evaluating current data-sharing policies, exploring the potential of AI-driven analytics, and addressing privacy concerns associated with real-time data tracking. The goal is to create a robust system that can efficiently monitor and respond to future pandemics.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the current data-sharing policies in place?",
+        "answer": "The current policies involve a mix of federal and state regulations with inconsistencies in how data is reported and shared between jurisdictions and healthcare providers."
+      },
+      {
+        "question": "What types of data are currently being collected?",
+        "answer": "Data includes patient demographics, symptoms, test results, vaccination status, and hospitalization records. However, the data is often fragmented and not standardized."
+      },
+      {
+        "question": "What AI-driven analytics tools are currently being used or considered?",
+        "answer": "Currently, basic analytics tools are used for trend analysis. The government is considering advanced AI tools for predicting outbreak patterns, identifying hotspots, and suggesting interventions in real-time."
+      },
+      {
+        "question": "What are the primary privacy concerns?",
+        "answer": "Privacy concerns include potential misuse of personal health information, unauthorized access to sensitive data, and ethical implications of tracking individuals' movements during a pandemic."
+      },
+      {
+        "question": "What are the key performance indicators for the improved system?",
+        "answer": "KPIs include accuracy and timeliness of outbreak detection, speed of data sharing, effectiveness of AI-based interventions, and level of public trust and compliance."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Data-Sharing Policies",
+        "points": [
+          "Current Policies Assessment: Evaluate existing federal and state regulations. Identify inconsistencies and interoperability gaps.",
+          "Policy Recommendations: Propose standardized data-sharing protocols. Recommend legal frameworks for compliance and security.",
+          "Implementation Plan: Develop phased implementation strategy with training programs and monitoring mechanisms."
+        ]
+      },
+      {
+        "title": "AI-Driven Analytics",
+        "points": [
+          "Current Tools Evaluation: Assess existing tools and identify limitations.",
+          "AI Tools Selection: Evaluate predictive modeling, outbreak detection, and intervention planning tools for accuracy and scalability.",
+          "Integration and Testing: Develop integration plans with pilot tests and stakeholder feedback loops."
+        ]
+      },
+      {
+        "title": "Privacy Concerns",
+        "points": [
+          "Privacy Risk Assessment: Identify risks associated with real-time tracking. Evaluate current data protection measures.",
+          "Mitigation Strategies: Develop robust encryption and access controls. Propose anonymization and aggregation policies.",
+          "Compliance and Monitoring: Establish regulatory framework with an oversight body and regular audits."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Current vs. Proposed Data Collection System",
+      "content": "Variable | Current State | Proposed Improvements\nData-Sharing Policies | Fragmented and inconsistent | Standardized and integrated\nTypes of Data Collected | Patient demographics, symptoms, etc. | Comprehensive and standardized\nAI-Driven Analytics | Basic trend analysis tools | Advanced predictive AI tools\nPrivacy Concerns | High risk of misuse and unauthorized access | Robust encryption and anonymization\nKPIs | Accuracy, timeliness, public trust | Enhanced accuracy, faster response times, higher public trust"
+    },
+    "exhibit_answer": "Data-Sharing Policies are fragmented, leading to delays. Standardization will improve timeliness and accuracy. Data collection lacks standardization; comprehensive collection provides a more complete picture. Basic AI tools are limited; advanced tools enable proactive pandemic response. Privacy risks are significant; robust encryption and anonymization will build public trust. KPIs need improvement through better AI tools and standardized policies.",
+    "math_prompt": "Given: Current average outbreak detection time: 7 days (AI reduces by 40%). Current accuracy: 85% (AI increases to 95%). Current compliance rate: 70% (standardized policies increase to 90%). Calculate improvements and impact on pandemic response.",
+    "math_answer": "1. New Detection Time: 7 days * (1 - 0.40) = 4.2 days\n2. Accuracy Improvement: 95% - 85% = 10%\n3. Compliance Improvement: 90% - 70% = 20%\n\nFaster detection (4.2 vs. 7 days) allows earlier intervention. 10% accuracy improvement reduces false positives/negatives. 20% compliance increase ensures more comprehensive data collection for better-informed decisions.",
+    "creative_prompt": "How would you design a public awareness campaign to address privacy concerns and encourage participation in the improved disease tracking system?",
+    "creative_answer": [
+      "Emphasize the importance of real-time data in saving lives and preventing widespread outbreaks.",
+      "Clearly explain how data will be collected, used, and protected through transparency reports.",
+      "Use social media, public service announcements, and community outreach to engage diverse audiences.",
+      "Share testimonials from healthcare professionals and affected individuals to build trust.",
+      "Offer incentives such as free health check-ups or vaccination drives for participants."
+    ],
+    "final_suggestion": "Focus on understanding current limitations in data-sharing, evaluating AI-driven analytics potential, and addressing privacy concerns. Use a structured approach to propose improvements backed by data and stakeholder feedback. Engage the public to build trust and ensure compliance for a robust pandemic response system."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "case18",
+  "content_type": "case",
+  "category": "growth-strategy",
+  "industry": "digital-fitness",
+  "topic": "product-development",
+  "subtopic": "ai-coaching-feature",
+  "difficulty": "Medium",
+  "style": "General",
+  "tags": ["product-development", "ai", "fitness", "user-engagement", "retention"],
+  "title": "AI Coaching to Boost Fitness App Engagement",
+  "summary": "Design an AI-driven personal coaching feature for FitLife to reverse declining user engagement and retention.",
+  "prompt": "A digital fitness platform, FitLife, is experiencing a decline in user engagement and retention. To address this issue, the company plans to introduce AI-driven personal coaching. This new feature aims to provide personalized workout plans, real-time feedback, and motivational support to users. The team must assess the technical feasibility of implementing AI coaching, develop a suitable pricing model, and evaluate the expected impact on customer lifetime value (CLV).",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What is the current user engagement and retention rate of the platform?", "answer": "The current user engagement rate is 40%, and the retention rate is 30% after three months of usage."},
+      {"question": "What are the key features of the proposed AI-driven personal coaching?", "answer": "The AI-driven personal coaching will include personalized workout plans, real-time feedback during exercises, progress tracking, and motivational messages."},
+      {"question": "What is the budget allocated for the development and implementation of the AI coaching feature?", "answer": "The budget allocated for this project is $1 million for development and an additional $200,000 for marketing and promotional activities."},
+      {"question": "What are the expected technical challenges in implementing AI-driven coaching?", "answer": "The expected challenges include integrating AI algorithms with the existing platform, ensuring data privacy and security, and maintaining the accuracy and reliability of AI recommendations."},
+      {"question": "How does the company currently monetize its platform, and what are the proposed pricing models for the AI coaching feature?", "answer": "The platform currently monetizes through subscription fees and in-app purchases. The proposed pricing models for the AI coaching feature include a premium subscription tier and a pay-per-use model."}
+    ],
+    "framework": [
+      {"title": "Technical Feasibility", "points": ["Assess the current technical infrastructure and its ability to support AI integration.", "Identify potential AI vendors or in-house development options.", "Evaluate the timeline for development and integration.", "Determine the scalability of the AI coaching feature."]},
+      {"title": "Pricing Model", "points": ["Analyze the current pricing strategy and user willingness to pay.", "Compare different pricing models (e.g., premium subscription, pay-per-use).", "Conduct market research to understand competitor pricing.", "Develop a pricing strategy that maximizes revenue while ensuring affordability for users."]},
+      {"title": "Impact on Customer Lifetime Value (CLV)", "points": ["Calculate the current CLV and identify factors affecting it.", "Estimate the potential increase in CLV with the introduction of AI coaching.", "Analyze the impact of improved engagement and retention on overall revenue.", "Develop strategies to enhance user experience and maximize CLV."]}
+    ],
+    "exhibit": {
+      "title": "Current User Metrics and Projected Impact",
+      "content": "Metric | Current Value | Projected Value (After AI Coaching)\nUser Engagement Rate | 40% | 60%\nUser Retention Rate | 30% | 50%\nMonthly Active Users | 100,000 | 150,000\nAverage Revenue per User | $10 | $15\nCustomer Lifetime Value | $120 | $225\nDevelopment Cost | $1,000,000 | -\nMarketing Cost | $200,000 | -\nTotal Revenue | $1,200,000 | $3,375,000"
+    },
+    "exhibit_answer": "Key insights derived from the exhibit: 1. User Engagement Rate: The projected increase from 40% to 60% indicates a significant improvement in user interaction with the platform. 2. User Retention Rate: The retention rate is expected to rise from 30% to 50%, suggesting that AI coaching will effectively keep users engaged over a longer period. 3. Monthly Active Users: The number of active users is projected to increase by 50%, reflecting the attractiveness of the new feature. 4. Average Revenue per User: The average revenue per user is expected to grow from $10 to $15, indicating users' willingness to pay for premium services. 5. Customer Lifetime Value: The CLV is projected to nearly double, from $120 to $225, highlighting the long-term financial benefits of the AI coaching feature. 6. Total Revenue: The overall revenue is expected to increase significantly, from $1,200,000 to $3,375,000, demonstrating the potential profitability of the investment.",
+    "math_prompt": "Calculate the break-even point for the AI coaching feature. Given the following variables:\nDevelopment Cost: $1,000,000\nMarketing Cost: $200,000\nAverage Revenue per User Post-AI Coaching: $15\nCurrent Monthly Active Users: 100,000\nProjected Increase in Monthly Active Users: 50%",
+    "math_answer": "1. Total Cost:\nDevelopment Cost: $1,000,000\nMarketing Cost: $200,000\nTotal Cost = $1,000,000 + $200,000 = $1,200,000\n\n2. Additional Revenue:\nCurrent Monthly Active Users: 100,000\nProjected Increase: 50%\nProjected Monthly Active Users = 100,000 * 1.5 = 150,000\nAdditional Users = 150,000 - 100,000 = 50,000\nAverage Revenue per User Post-AI Coaching: $15\nAdditional Monthly Revenue = 50,000 * $15 = $750,000\n\n3. Break-Even Point:\nTotal Cost = $1,200,000\nMonthly Additional Revenue = $750,000\nBreak-Even Point (in months) = Total Cost / Monthly Additional Revenue\nBreak-Even Point = $1,200,000 / $750,000 = 1.6 months\n\nThe AI coaching feature will break even in approximately 1.6 months.",
+    "creative_prompt": "What strategies can FitLife implement to ensure the long-term success and scalability of the AI-driven personal coaching feature?",
+    "creative_answer": [
+      "Continuous Improvement: Regularly update the AI algorithms based on user feedback and performance data. Incorporate new fitness trends and research to keep the coaching relevant and effective.",
+      "User Engagement and Community Building: Create a community platform where users can share their progress, challenges, and achievements. Organize virtual fitness challenges and events to foster a sense of community and motivate users.",
+      "Partnerships and Collaborations: Partner with fitness influencers and experts to promote the AI coaching feature. Collaborate with gyms and fitness centers to offer hybrid online and offline coaching programs.",
+      "Data Privacy and Security: Ensure robust data privacy and security measures to protect user information. Communicate transparently with users about how their data is used and stored.",
+      "Scalable Infrastructure: Invest in scalable cloud infrastructure to handle increased user traffic and data processing. Plan for future expansion to international markets by localizing the AI coaching content."
+    ],
+    "final_suggestion": "To effectively tackle the case of increasing user engagement for FitLife through AI-driven personal coaching, it is crucial to assess the technical feasibility, develop a suitable pricing model, and evaluate the impact on customer lifetime value. By focusing on continuous improvement, user engagement, strategic partnerships, data privacy, and scalable infrastructure, FitLife can ensure the long-term success and profitability of the AI coaching feature."
+  }
+}

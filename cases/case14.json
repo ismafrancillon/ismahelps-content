@@ -1,0 +1,86 @@
+{
+  "id": "case14",
+  "content_type": "case",
+  "category": "profitability",
+  "industry": "real-estate",
+  "topic": "foot-traffic-recovery",
+  "subtopic": "mall-revitalization",
+  "difficulty": "Medium",
+  "style": "General",
+  "tags": ["profitability", "retail", "real-estate", "foot-traffic", "e-commerce-impact"],
+  "title": "Revitalizing a Struggling Suburban Shopping Mall",
+  "summary": "Recommend strategies to boost foot traffic and profitability for a suburban mall losing visitors to e-commerce.",
+  "prompt": "A real estate investment firm owns a suburban shopping mall that has been experiencing a significant decline in foot traffic due to the rapid growth of e-commerce. The mall, which once thrived with a variety of retail stores, entertainment venues, and dining options, is now struggling to attract visitors. The firm has hired you as a consultant to develop strategies to boost foot traffic and revitalize the mall. Your task is to identify the root causes of the decline, evaluate potential strategies to increase foot traffic, and recommend actionable solutions that can be implemented within the next 12 months.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the current occupancy rates and tenant mix in the mall?",
+        "answer": "The current occupancy rate is 65%. The tenant mix includes 40% retail stores, 30% dining options, 20% entertainment venues, and 10% service providers."
+      },
+      {
+        "question": "What are the key demographics of the suburban area where the mall is located?",
+        "answer": "The suburban area has a population of approximately 150,000 people. The key demographics include families with children, young professionals, and retirees. The median household income is $75,000."
+      },
+      {
+        "question": "What marketing efforts have been made to attract visitors to the mall?",
+        "answer": "The mall has primarily relied on traditional marketing methods such as local newspaper ads, radio spots, and occasional social media posts. There has been limited use of digital marketing and targeted advertising."
+      },
+      {
+        "question": "Are there any upcoming developments or competitors in the area that could impact foot traffic?",
+        "answer": "There is a new shopping center under construction 5 miles away, which is expected to open in the next 6 months. Additionally, several e-commerce fulfillment centers have been established in the region, further driving the shift towards online shopping."
+      },
+      {
+        "question": "What feedback have current tenants provided regarding their challenges and needs?",
+        "answer": "Tenants have reported a decline in sales and expressed concerns about the lack of foot traffic. They have also suggested the need for more events and activities to attract visitors and enhance the overall shopping experience."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Tenant Mix and Occupancy",
+        "points": [
+          "Evaluate the current tenant mix and identify gaps or opportunities for new tenants that can attract more visitors.",
+          "Consider introducing anchor tenants or popular brands that can serve as key attractions.",
+          "Explore the possibility of offering short-term leases or pop-up shops to create a dynamic and ever-changing shopping experience."
+        ]
+      },
+      {
+        "title": "Marketing and Promotions",
+        "points": [
+          "Assess the effectiveness of current marketing efforts and identify areas for improvement.",
+          "Develop a comprehensive digital marketing strategy, including social media campaigns, targeted online ads, and email marketing.",
+          "Plan and execute events, promotions, and community activities to draw visitors to the mall."
+        ]
+      },
+      {
+        "title": "Customer Experience and Amenities",
+        "points": [
+          "Enhance the overall shopping experience by improving amenities such as seating areas, restrooms, and family-friendly facilities.",
+          "Introduce loyalty programs or partnerships with local businesses to offer exclusive discounts and incentives.",
+          "Invest in technology solutions such as mobile apps, free Wi-Fi, and interactive directories to improve convenience and engagement."
+        ]
+      },
+      {
+        "title": "Competitive Analysis and Differentiation",
+        "points": [
+          "Conduct a thorough analysis of nearby competitors and identify unique selling points for the mall.",
+          "Develop strategies to differentiate the mall, such as themed areas, unique dining experiences, or exclusive entertainment options.",
+          "Collaborate with local influencers or community groups to build a strong local presence and attract specific target audiences."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Current and Projected Mall Performance Metrics",
+      "content": "Metric | Current Value | Projected Value (12 Months)\nOccupancy Rate | 65% | 80%\nAverage Rent per Square Foot | $30 | $32\nMarketing Expenses | $100,000 | $150,000\nMonthly Foot Traffic | 50,000 | 75,000\nAverage Tenant Sales | $500,000 | $650,000\nEvent Frequency | 1 per month | 3 per month\nSocial Media Engagement | 5,000 likes | 10,000 likes"
+    },
+    "exhibit_answer": "Key Insights from the Exhibit: 1. Occupancy Rate Increase: Projected to rise from 65% to 80%, indicating a significant improvement in tenant attraction and retention. 2. Average Rent Growth: Expected increase in average rent per square foot from $30 to $32, suggesting a positive impact on revenue. 3. Enhanced Marketing Efforts: Marketing expenses are projected to increase by 50%, reflecting a more aggressive and comprehensive marketing strategy. 4. Foot Traffic Boost: Monthly foot traffic is anticipated to grow by 50%, indicating successful implementation of strategies to attract more visitors. 5. Higher Tenant Sales: Average tenant sales are projected to increase by 30%, demonstrating the positive effect of increased foot traffic and marketing efforts on tenant performance. 6. Increased Event Frequency: The number of events per month is expected to triple, providing more opportunities to engage the community and draw visitors. 7. Improved Social Media Engagement: Doubling of social media likes, indicating better online presence and customer engagement.",
+    "math_prompt": "Calculate the projected annual revenue increase for the mall based on the following information:\nCurrent annual revenue from tenants: $18,000,000\nProjected increase in occupancy rate from 65% to 80%\nAverage rent per square foot increase from $30 to $32\nTotal leasable area of the mall: 600,000 square feet",
+    "math_answer": "1. Current Occupied Area:\n65% of 600,000 square feet = 390,000 square feet\n\n2. Projected Occupied Area:\n80% of 600,000 square feet = 480,000 square feet\n\n3. Current Annual Revenue per Square Foot:\n$18,000,000 / 390,000 square feet = $46.15 per square foot\n\n4. Projected Annual Revenue per Square Foot:\n$32 per square foot (new average rent) x 480,000 square feet = $15,360,000\n\n5. Projected Annual Revenue Increase:\nHowever, considering the increase in occupied area and rent:\nNew revenue: $32 x 480,000 = $15,360,000\nOld revenue: $30 x 480,000 = $14,400,000\nIncremental revenue: $15,360,000 - $14,400,000 = $960,000\n\nTherefore, the projected annual revenue increase is $960,000.",
+    "creative_prompt": "Propose an innovative strategy to transform the mall into a community hub that goes beyond traditional shopping experiences. Consider elements such as technology, partnerships, and unique attractions.",
+    "creative_answer": [
+      "Technology Integration: Develop a mobile app that offers personalized shopping experiences, exclusive deals, and real-time event updates. Implement interactive digital kiosks and augmented reality (AR) experiences to engage visitors and enhance their shopping journey. Provide free high-speed Wi-Fi throughout the mall to encourage visitors to stay longer and share their experiences on social media.",
+      "Community Partnerships: Collaborate with local businesses, artisans, and farmers to host regular markets, pop-up shops, and craft fairs. Partner with local schools, sports teams, and cultural organizations to host events, performances, and exhibitions. Offer space for community meetings, workshops, and classes to create a sense of belonging and engagement.",
+      "Unique Attractions: Create themed zones within the mall, such as a tech hub with the latest gadgets, a wellness area with fitness classes and spa services, and a family zone with interactive play areas and entertainment. Introduce a rooftop garden or urban farm where visitors can relax, participate in gardening workshops, and enjoy farm-to-table dining experiences. Develop an indoor amusement park or adventure zone with attractions like virtual reality (VR) games, escape rooms, and climbing walls to draw families and thrill-seekers."
+    ],
+    "final_suggestion": "To effectively solve this case, it is crucial to take a holistic approach that addresses both the immediate and long-term challenges faced by the mall. Focus on creating a compelling value proposition for visitors through enhanced tenant mix, targeted marketing, improved customer experience, and unique attractions. Regularly monitor key performance indicators (KPIs) such as foot traffic, tenant sales, and social media engagement to measure the impact of implemented strategies and make data-driven adjustments as needed. Engaging with the community and leveraging technology will be key to revitalizing the mall and ensuring its sustainable growth in the face of evolving consumer preferences and competition from e-commerce."
+  }
+}

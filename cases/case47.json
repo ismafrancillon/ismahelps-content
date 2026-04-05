@@ -1,0 +1,86 @@
+{
+  "id": "case47",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "healthcare",
+  "topic": "system-design",
+  "subtopic": "organ-donation-system",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "public-policy",
+    "healthcare",
+    "organ-donation",
+    "ethics",
+    "system-design"
+  ],
+  "title": "Establishing a National Organ Donation System",
+  "summary": "Design a centralized organ donation and transplant system addressing allocation efficiency, ethics, and wait times.",
+  "prompt": "A developing country is facing significant challenges due to the lack of a centralized organ donation system. This has led to inefficiencies in organ allocation, long wait times for patients, and numerous ethical concerns regarding organ procurement and distribution. The government has formed a task force to establish a comprehensive national organ donation and transplant system. The team must develop a legal framework, a public awareness strategy, and a logistical implementation plan to ensure the system's efficiency and ethical integrity.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current process for organ donation in the country?",
+        "answer": "Currently, organ donation is managed at the regional level with no standardized national system. Each region follows its own protocols, leading to inconsistencies and inefficiencies."
+      },
+      {
+        "question": "What are the main ethical concerns related to the current system?",
+        "answer": "Ethical concerns include the lack of transparency in organ allocation, potential exploitation of vulnerable populations, and instances of illegal organ trade."
+      },
+      {
+        "question": "What is the public perception of organ donation?",
+        "answer": "Public perception is mixed, with a significant portion being skeptical or unaware of organ donation benefits. Cultural and religious beliefs also play a role."
+      },
+      {
+        "question": "What are the key logistical challenges?",
+        "answer": "Key challenges include establishing a centralized database, ensuring efficient transportation and storage of organs, and coordinating between healthcare facilities."
+      },
+      {
+        "question": "What legal frameworks currently exist?",
+        "answer": "Existing legal frameworks are outdated and vary by region. A unified national legal framework is needed."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Legal Framework",
+        "points": [
+          "Consent Models: Decide between opt-in (explicit) or opt-out (presumed consent). Establish next of kin consent guidelines.",
+          "Regulation and Oversight: Create a central authority. Develop comprehensive ethical guidelines for transparency and fairness.",
+          "Legal Protections: Implement laws protecting donors and recipients. Establish strict penalties for illegal organ trade."
+        ]
+      },
+      {
+        "title": "Public Awareness Strategy",
+        "points": [
+          "Education Campaigns: Utilize TV, radio, online platforms, and community engagement to educate about organ donation benefits.",
+          "Addressing Cultural and Religious Concerns: Tailor messaging to address cultural sensitivities. Share success stories.",
+          "Simplifying Registration: Allow registration at hospitals, clinics, and online. Offer incentives for registration."
+        ]
+      },
+      {
+        "title": "Logistical Implementation Plan",
+        "points": [
+          "Centralized Database: Develop a national registry tracking registrations, availability, and recipient needs. Ensure data security.",
+          "Transportation and Storage: Establish a reliable organ transport network with dedicated vehicles and trained personnel. Invest in state-of-the-art storage.",
+          "Coordination and Training: Foster hospital collaboration. Implement training programs for healthcare professionals."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "National Organ Donation System Overview",
+      "content": "Variable | Current State | Proposed State\nConsent Model | Regional Opt-in | National Opt-out\nRegulatory Body | None | Central Authority\nLegal Protections | Inconsistent | Comprehensive National Laws\nPublic Awareness | Low | High\nRegistration Points | Limited | Multiple\nCentralized Database | None | Established\nOrgan Transport Network | Fragmented | Integrated\nStorage Facilities | Inadequate | State-of-the-Art\nHealthcare Coordination | Poor | Improved\nTraining Programs | Limited | Extensive"
+    },
+    "exhibit_answer": "Moving from regional opt-in to national opt-out will increase registered donors. A central authority ensures consistent oversight. Comprehensive national laws protect rights and deter illegal activities. High public awareness increases registrations. Expanded registration points make it easier to register. A centralized database streamlines matching. Integrated transport ensures timely delivery. State-of-the-art storage preserves organ quality. Improved coordination enhances efficiency. Extensive training ensures quality care.",
+    "math_prompt": "Calculate the potential increase in organ donations if the country switches from opt-in to opt-out. Population: 50 million. Current opt-in registration rate: 5%. Opt-out projected rate: 30%. Each donor can save up to 8 lives.",
+    "math_answer": "1. Current Registered Donors (Opt-in): 50,000,000 * 0.05 = 2,500,000\n2. Projected Registered Donors (Opt-out): 50,000,000 * 0.30 = 15,000,000\n3. Increase in Registered Donors: 15,000,000 - 2,500,000 = 12,500,000\n4. Additional Lives Saved: 12,500,000 * 8 = 100,000,000\n\nSwitching to opt-out could increase registered donors by 12.5 million, potentially saving up to 100 million lives.",
+    "creative_prompt": "How can the government ensure the sustainability and continuous improvement of the national organ donation system?",
+    "creative_answer": [
+      "Continuous Monitoring: Track KPIs such as registration rates, matching efficiency, and transplant success rates.",
+      "Stakeholder Engagement: Gather feedback from healthcare professionals, donors, recipients, and community leaders.",
+      "Ongoing Public Awareness: Maintain campaigns to encourage new registrations using social media and digital platforms.",
+      "Innovation and Technology: Invest in R&D for organ preservation, transportation, and transplantation methods.",
+      "Policy and Legal Updates: Regularly review and update frameworks to address emerging ethical concerns and best practices."
+    ],
+    "final_suggestion": "To effectively establish the system, focus on developing a comprehensive legal framework, a robust public awareness strategy, and a well-coordinated logistical plan. Continuous monitoring, stakeholder engagement, and investment in innovation will be crucial for sustainability and improvement."
+  }
+}

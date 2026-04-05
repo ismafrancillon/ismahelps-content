@@ -1,0 +1,89 @@
+{
+  "id": "case42",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "healthcare",
+  "topic": "data-infrastructure",
+  "subtopic": "rare-disease-registry",
+  "difficulty": "Medium",
+  "style": "General",
+  "tags": [
+    "healthcare",
+    "rare-diseases",
+    "data-registry",
+    "research",
+    "patient-outcomes"
+  ],
+  "title": "Creating a National Rare Disease Registry",
+  "summary": "Design a centralized rare disease database to consolidate patient data, improve research, and enhance treatment outcomes.",
+  "prompt": "The government is considering creating a centralized rare disease registry to improve research and patient outcomes. This initiative aims to consolidate data on rare diseases, which are conditions affecting fewer than 200,000 people in the US. The centralized database is expected to enhance research capabilities, facilitate better treatment protocols, and ultimately improve patient care. However, the team must evaluate several critical factors, including data privacy concerns, integration with existing healthcare systems, and potential funding models. The task is to develop a comprehensive plan addressing these aspects to ensure the successful implementation of the national rare disease registry.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What specific data privacy concerns should we consider?",
+        "answer": "The main concerns include ensuring patient consent, data anonymization, secure data storage and transmission, and compliance with existing privacy regulations such as HIPAA."
+      },
+      {
+        "question": "How will the database integrate with existing healthcare systems?",
+        "answer": "The integration will involve standardizing data formats, creating APIs for seamless data exchange, and ensuring compatibility with electronic health record (EHR) systems used by healthcare providers."
+      },
+      {
+        "question": "What are the potential funding models for this initiative?",
+        "answer": "Potential funding models include government grants, public-private partnerships, subscription fees for access to the database, and philanthropic contributions."
+      },
+      {
+        "question": "What stakeholders need to be involved in this project?",
+        "answer": "Key stakeholders include government health agencies, healthcare providers, pharmaceutical companies, patient advocacy groups, and technology vendors."
+      },
+      {
+        "question": "What are the key milestones and timeline for implementation?",
+        "answer": "Key milestones include project planning and approval, stakeholder engagement, system development and testing, pilot phase, full-scale deployment, and ongoing maintenance and updates."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Data Privacy Concerns",
+        "points": [
+          "Patient Consent: Ensure patients are fully informed and obtain explicit consent.",
+          "Data Anonymization: Implement techniques to anonymize data while providing valuable research information.",
+          "Secure Data Storage and Transmission: Use encryption and security measures to protect data.",
+          "Compliance with Regulations: Ensure the database complies with HIPAA and relevant regulations."
+        ]
+      },
+      {
+        "title": "Integration with Healthcare Systems",
+        "points": [
+          "Standardization of Data Formats: Develop standardized formats for compatibility across systems.",
+          "APIs for Data Exchange: Create APIs for seamless exchange between the database and existing EHR systems.",
+          "Interoperability with EHR Systems: Work with EHR vendors for integration without disrupting workflows."
+        ]
+      },
+      {
+        "title": "Funding Models",
+        "points": [
+          "Government Grants: Seek funding from government health agencies for development and operations.",
+          "Public-Private Partnerships: Partner with pharmaceutical companies and technology vendors.",
+          "Subscription Fees: Charge subscription fees for database access.",
+          "Philanthropic Contributions: Solicit donations from philanthropic organizations."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Financial Projections for National Rare Disease Database (5-Year Period)",
+      "content": "Year | Initial Development Costs | Annual Operating Costs | Government Grants | Public-Private Partnership Contributions | Subscription Fees | Philanthropic Contributions | Total Revenue\n1 | $10M | $5M | $5M | $2M | $1M | $2M | $10M\n2 | $0 | $5M | $5M | $2M | $2M | $2M | $11M\n3 | $0 | $5M | $5M | $2M | $3M | $2M | $12M\n4 | $0 | $5M | $5M | $2M | $4M | $2M | $13M\n5 | $0 | $5M | $5M | $2M | $5M | $2M | $14M"
+    },
+    "exhibit_answer": "Initial development costs are $10M, with annual operating costs of $5M. Government grants cover 50% of annual operating costs. Public-private partnerships contribute $2M annually. Subscription fees grow from $1M in Year 1 to $5M in Year 5. Philanthropic contributions remain steady at $2M per year. The database breaks even in Year 1 and generates increasing net profits from Year 2 onwards, reaching $9M in Year 5.",
+    "math_prompt": "Calculate the break-even point for the national rare disease database, considering initial development costs, annual operating costs, and projected revenue streams over five years.",
+    "math_answer": "Step 1: Total costs over five years:\nInitial Development: $10M\nAnnual Operating: $5M * 5 = $25M\nTotal Costs: $35M\n\nStep 2: Total revenue over five years:\nGovernment Grants: $5M * 5 = $25M\nPublic-Private Partnerships: $2M * 5 = $10M\nPhilanthropic Contributions: $2M * 5 = $10M\nSubscription Fees: $1M + $2M + $3M + $4M + $5M = $15M\nTotal Revenue: $60M\n\nStep 3: Net profit/loss each year:\nYear 1: $10M - $15M = -$5M (but revenue = costs at $10M each after development absorbed)\nYear 2: $11M - $5M = $6M\nYear 3: $12M - $5M = $7M\nYear 4: $13M - $5M = $8M\nYear 5: $14M - $5M = $9M\nCumulative Net Profit: $25M\n\nThe break-even point is achieved in Year 1.",
+    "creative_prompt": "How can the government ensure continuous improvement and innovation in the national rare disease database?",
+    "creative_answer": [
+      "Regular Updates and Enhancements: Implement a schedule for regular updates incorporating new research findings and technological advancements.",
+      "User Feedback Mechanism: Establish a robust feedback mechanism to gather input from researchers, healthcare providers, and patients.",
+      "Collaboration with Research Institutions: Partner with leading institutions to stay at the forefront of rare disease research.",
+      "Advanced Analytics and AI: Incorporate AI capabilities to analyze large datasets, identify trends, and provide predictive insights.",
+      "Integration with Genomic Data: Enable personalized medicine approaches and support development of targeted therapies.",
+      "Open Data Initiatives: Promote data sharing among researchers while ensuring privacy and security."
+    ],
+    "final_suggestion": "To solve this case effectively, focus on addressing data privacy, integration with healthcare systems, and funding models. Develop a comprehensive plan that includes stakeholder engagement, financial projections, and a roadmap for continuous improvement and innovation."
+  }
+}

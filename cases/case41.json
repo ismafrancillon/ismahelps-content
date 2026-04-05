@@ -1,0 +1,84 @@
+{
+  "id": "case41",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "healthcare",
+  "topic": "antibiotic-resistance",
+  "subtopic": "national-strategy",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "public-health",
+    "antibiotic-resistance",
+    "policy",
+    "prescription-guidelines",
+    "awareness"
+  ],
+  "title": "Combating Antibiotic Resistance in a Developing Country",
+  "summary": "Develop a national strategy to address rising antibiotic resistance through prescription reform and public awareness.",
+  "prompt": "The Health Ministry of a developing country is facing a significant public health challenge due to the rising levels of antibiotic resistance. To address this issue, the ministry is developing a comprehensive national strategy. The team responsible for this strategy must evaluate current prescription guidelines, design effective public awareness campaigns, and explore viable alternatives to traditional antibiotics. The goal is to reduce the misuse of antibiotics, increase public understanding of antibiotic resistance, and identify new treatment options that can mitigate the problem.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of antibiotic resistance in the country?",
+        "answer": "The country has seen a steady increase in antibiotic-resistant infections over the past decade, with some regions reporting resistance rates as high as 50% for common antibiotics."
+      },
+      {
+        "question": "What are the existing prescription guidelines for antibiotics?",
+        "answer": "Current guidelines are outdated and not strictly enforced. There is a lack of standardized protocols for prescribing antibiotics, leading to over-prescription and misuse."
+      },
+      {
+        "question": "How aware is the general public about antibiotic resistance and its implications?",
+        "answer": "Public awareness is quite low. Most people do not understand the concept of antibiotic resistance or the importance of completing prescribed antibiotic courses."
+      },
+      {
+        "question": "What alternatives to traditional antibiotics are currently being considered?",
+        "answer": "The team is exploring the use of probiotics, bacteriophages, and herbal medicines as potential alternatives. However, these alternatives are still in the early stages of research and development."
+      },
+      {
+        "question": "What resources are available for implementing the new strategy?",
+        "answer": "The ministry has allocated a budget of $50 million for the initial phase of the strategy, which includes updating prescription guidelines, launching awareness campaigns, and funding research into alternative treatments."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Assessing Prescription Guidelines",
+        "points": [
+          "Current Guidelines Review: Evaluate existing guidelines and identify gaps. Assess compliance levels among healthcare providers. Benchmark against countries with successful antibiotic resistance management.",
+          "Stakeholder Involvement: Engage healthcare professionals in the revision process. Conduct workshops and training sessions.",
+          "Implementation Plan: Roll out updated guidelines nationwide. Provide resources and support for healthcare facilities."
+        ]
+      },
+      {
+        "title": "Public Awareness Campaigns",
+        "points": [
+          "Target Audience Identification: Segment the population based on demographics and risk factors. Tailor messages to different groups.",
+          "Campaign Design: Use multiple channels (TV, radio, social media, community events). Develop clear, relatable messages about the dangers of antibiotic misuse.",
+          "Measurement and Evaluation: Set clear objectives and KPIs. Conduct pre- and post-campaign surveys."
+        ]
+      },
+      {
+        "title": "Exploring Alternatives to Traditional Antibiotics",
+        "points": [
+          "Research and Development: Invest in research on probiotics, bacteriophages, and herbal medicines. Collaborate with universities and international organizations. Conduct clinical trials.",
+          "Regulatory Framework: Develop regulations for the approval and use of alternative treatments.",
+          "Integration into Healthcare System: Train healthcare providers on alternative treatments. Educate patients about benefits and limitations."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Antibiotic Resistance and Treatment Landscape by Region",
+      "content": "Region | Antibiotic Resistance Rate (%) | Public Awareness Level | Healthcare Providers Trained | Research Funding Allocated ($ million) | Clinical Trial Progress | Adoption Rate of Alternatives (%)\nNorth | 50 | Low | 500 | 10 | Phase 1 | 5\nSouth | 40 | Medium | 700 | 15 | Phase 2 | 10\nEast | 30 | High | 300 | 8 | Phase 1 | 7\nWest | 45 | Low | 600 | 12 | Phase 2 | 6\nCentral | 35 | Medium | 400 | 5 | Phase 1 | 8"
+    },
+    "exhibit_answer": "North Region: High resistance rate (50%) with low public awareness. Significant need for awareness campaigns. South Region: Lower resistance rate (40%) with medium awareness. Highest number of providers trained (700) and advanced clinical trials. East Region: Lowest resistance rate (30%) with highest public awareness. Fewer providers trained. West Region: High resistance rate (45%) with low awareness. Needs significant improvement. Central Region: Moderate resistance rate (35%) with medium awareness. Lowest research funding. The data indicates that regions with higher public awareness and more trained healthcare providers tend to have lower antibiotic resistance rates.",
+    "math_prompt": "The ministry has allocated a budget of $50 million for the initial phase of the strategy. The budget is divided as follows: 40% for updating prescription guidelines, 30% for public awareness campaigns, and 30% for research into alternative treatments. Calculate the amount allocated to each component. Additionally, if the public awareness campaign aims to reach 10 million people, what is the cost per person reached?",
+    "math_answer": "Step 1: Amount for Prescription Guidelines = $50 million * 40% = $20 million\nStep 2: Amount for Public Awareness Campaigns = $50 million * 30% = $15 million\nStep 3: Amount for Research = $50 million * 30% = $15 million\nStep 4: Cost per Person = $15 million / 10 million people = $1.50\n\nThe allocation ensures each component is adequately funded. The cost per person for the awareness campaign is $1.50, indicating the campaign can reach a large audience effectively.",
+    "creative_prompt": "Propose a multi-stakeholder approach to enhance the effectiveness of the national strategy to combat antibiotic resistance.",
+    "creative_answer": [
+      "International Organizations: Partner with WHO and global health organizations for expertise, funding, and global surveillance systems.",
+      "Local Communities: Engage community leaders and influencers at the grassroots level. Organize workshops and educational programs. Establish local health committees.",
+      "Private Sector: Collaborate with pharmaceutical companies to develop alternative treatments. Partner with tech companies for digital education platforms. Encourage corporate social responsibility initiatives."
+    ],
+    "final_suggestion": "To effectively address antibiotic resistance, the ministry should adopt a multi-faceted strategy that includes updating prescription guidelines, launching targeted public awareness campaigns, and exploring alternative treatments. Engaging various stakeholders, including international organizations, local communities, and the private sector, will ensure a comprehensive approach. Regular monitoring and evaluation will be crucial to measure impact and make necessary adjustments."
+  }
+}

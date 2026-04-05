@@ -1,0 +1,85 @@
+{
+  "id": "case60",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "medical-tourism",
+  "topic": "destination-strategy",
+  "subtopic": "cosmetic-surgery-tourism",
+  "difficulty": "Medium",
+  "style": "General",
+  "tags": [
+    "medical-tourism",
+    "healthcare",
+    "government-strategy",
+    "cosmetic-surgery",
+    "branding"
+  ],
+  "title": "Expanding Medical Tourism in Southeast Asia",
+  "summary": "Position a Southeast Asian country as a top medical tourism destination for cosmetic surgery and specialized procedures.",
+  "prompt": "Your client is the government of a Southeast Asian country aiming to position itself as a top destination for medical tourism, particularly focusing on cosmetic surgery and specialized procedures. The government seeks to boost its healthcare sector's revenue and international reputation by attracting foreign patients. They have hired your consulting company to devise a strategic plan to achieve this goal within the next three years.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the current strengths and weaknesses of the country's healthcare system?",
+        "answer": "The country has a few renowned hospitals with advanced technology and skilled professionals. However, there are gaps in infrastructure, international accreditation, and marketing efforts."
+      },
+      {
+        "question": "What is the current market size and growth rate of medical tourism in the region?",
+        "answer": "The global medical tourism market is growing at a CAGR of 14%, with the Southeast Asian region witnessing significant growth due to lower costs and high-quality services."
+      },
+      {
+        "question": "What are the key competitors and their strategies?",
+        "answer": "Key competitors include Thailand, Singapore, and Malaysia. They have invested heavily in marketing, international accreditation, partnerships with global insurance companies, and comprehensive medical tourism packages."
+      },
+      {
+        "question": "What are the primary target markets?",
+        "answer": "Primary target markets include the USA, Europe, Australia, and the Middle East, where there is high demand for affordable and high-quality medical procedures."
+      },
+      {
+        "question": "What are the existing policies and regulations regarding medical tourism?",
+        "answer": "The government has supportive policies including tax incentives for healthcare providers, but needs more streamlined visa processes and better international marketing efforts."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Market Analysis and Positioning",
+        "points": [
+          "Target Market Identification: Identify and analyze demographics and preferences of potential medical tourists.",
+          "Competitive Benchmarking: Evaluate strengths and weaknesses of key competitors.",
+          "Value Proposition: Develop a unique value proposition highlighting the country's strengths."
+        ]
+      },
+      {
+        "title": "Infrastructure and Accreditation",
+        "points": [
+          "Healthcare Infrastructure Improvement: Assess and upgrade facilities to meet international standards.",
+          "Accreditation and Certification: Obtain international accreditations (e.g., JCI) for key hospitals.",
+          "Technology and Equipment Investment: Invest in latest medical technology and equipment."
+        ]
+      },
+      {
+        "title": "Marketing and Partnerships",
+        "points": [
+          "International Marketing Campaigns: Develop targeted campaigns to promote the country as a top destination.",
+          "Strategic Partnerships: Form partnerships with global insurance companies, travel agencies, and international healthcare providers.",
+          "Patient Experience Enhancement: Create comprehensive packages including travel, accommodation, and post-operative care."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Medical Tourism Competitive Comparison",
+      "content": "Variable | Country A | Thailand | Singapore | Malaysia\nNumber of Accredited Hospitals | 10 | 50 | 30 | 20\nAverage Cost of Procedures | $3,000 | $4,000 | $5,000 | $3,500\nAnnual Medical Tourists | 50,000 | 2,000,000 | 1,000,000 | 800,000\nMarketing Budget (USD) | $2M | $20M | $15M | $10M\nPartnerships with Insurers | 5 | 20 | 15 | 10\nPatient Satisfaction Rate | 85% | 90% | 95% | 88%"
+    },
+    "exhibit_answer": "Fewer accredited hospitals (10) compared to competitors indicates need for more certifications. Competitive pricing ($3,000) is an advantage. Currently attracts far fewer tourists (50,000) \u2014 significant growth opportunity. Marketing budget ($2M) is substantially lower than competitors. Limited insurer partnerships (5) indicate expansion opportunity. Decent satisfaction rate (85%) but room for improvement.",
+    "math_prompt": "Calculate the potential revenue increase if the country increases annual medical tourists by 20% each year for three years. Current tourists: 50,000. Average revenue per tourist: $3,000.",
+    "math_answer": "1. Current Revenue: 50,000 * $3,000 = $150,000,000\n2. Year 1: 60,000 tourists * $3,000 = $180,000,000\n3. Year 2: 72,000 tourists * $3,000 = $216,000,000\n4. Year 3: 86,400 tourists * $3,000 = $259,200,000\n5. Revenue Increase: $259,200,000 - $150,000,000 = $109,200,000\n\nA $109.2M revenue increase over three years demonstrates the significant financial benefits of strategic medical tourism growth.",
+    "creative_prompt": "What innovative strategies can differentiate the country's medical tourism offerings?",
+    "creative_answer": [
+      "Telemedicine and Virtual Consultations: Develop a robust telemedicine platform for pre- and post-operative consultations ensuring continuity of care.",
+      "Customized Wellness Packages: Combine medical treatments with wellness retreats, spa services, and cultural experiences.",
+      "Medical Tourism Accreditation Program: Establish a national accreditation program specifically for medical tourism providers.",
+      "Patient Ambassadors Program: Launch a program where satisfied international patients share experiences through testimonials and social media."
+    ],
+    "final_suggestion": "Focus on enhancing healthcare infrastructure, obtaining international accreditations, and investing in targeted marketing campaigns. Forming strategic partnerships and offering innovative services will help differentiate the country's offerings and attract more international patients. These strategies can significantly boost medical tourism revenue and international reputation within three years."
+  }
+}

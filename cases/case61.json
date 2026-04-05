@@ -1,0 +1,85 @@
+{
+  "id": "case61",
+  "content_type": "case",
+  "category": "operations",
+  "industry": "environment",
+  "topic": "air-quality-management",
+  "subtopic": "ai-monitoring-system",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "environment",
+    "ai",
+    "air-pollution",
+    "monitoring",
+    "urban-policy"
+  ],
+  "title": "AI-Powered Air Pollution Monitoring for a Megacity",
+  "summary": "Deploy an AI-powered emissions monitoring system to track air quality and enforce regulations in a major megacity.",
+  "prompt": "A major megacity facing severe air pollution issues is seeking to deploy an AI-powered monitoring system to monitor emissions and enforce regulations in real-time. The city government has tasked a consulting team with evaluating the deployment of sensors, developing policy frameworks, and implementing the necessary technological infrastructure. The goal is to significantly reduce air pollution levels and improve public health outcomes.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the primary sources of air pollution in the city?",
+        "answer": "The main sources include vehicle emissions, industrial outputs, construction dust, and residential heating."
+      },
+      {
+        "question": "What is the current state of air quality monitoring in the city?",
+        "answer": "The city has a limited number of stationary air quality monitoring stations that provide data with delays and limited coverage."
+      },
+      {
+        "question": "What budget has the city allocated for this initiative?",
+        "answer": "The city has allocated $50 million for the initial deployment of sensors and technological infrastructure, with additional funds available for ongoing maintenance and upgrades."
+      },
+      {
+        "question": "Are there any existing regulations or policies regarding air pollution control?",
+        "answer": "Yes, there are existing regulations, but enforcement is weak due to the lack of real-time data and monitoring capabilities."
+      },
+      {
+        "question": "What are the key health impacts of air pollution in the city?",
+        "answer": "The city faces high rates of respiratory diseases, cardiovascular issues, and premature deaths linked to poor air quality."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Sensor Deployment",
+        "points": [
+          "Geographic Coverage: Identify high-priority areas based on pollution sources and population density. Deploy sensors in a grid pattern. Consider mobile sensors on public transportation.",
+          "Sensor Types: Use a mix of stationary and mobile sensors for different pollutants (PM2.5, NOx, SO2). Implement IoT-enabled sensors for real-time data transmission.",
+          "Data Integration: Develop a centralized data platform. Use cloud computing for scalable storage and processing. Integrate with existing city infrastructure."
+        ]
+      },
+      {
+        "title": "Policy Frameworks",
+        "points": [
+          "Regulatory Measures: Update emissions standards for vehicles and industries. Implement stricter penalties for non-compliance. Introduce incentives for cleaner technologies.",
+          "Public Awareness: Launch campaigns on health impacts. Provide real-time air quality updates through apps. Encourage community participation.",
+          "Collaboration and Partnerships: Partner with academic institutions, private sector companies, and international organizations."
+        ]
+      },
+      {
+        "title": "Technological Implementation",
+        "points": [
+          "AI and Machine Learning: Develop algorithms to predict pollution trends and identify hotspots. Use machine learning for anomaly detection and early warning systems.",
+          "Infrastructure and Maintenance: Ensure robust network connectivity. Set up dedicated maintenance teams. Plan for regular upgrades and scaling.",
+          "Data Security and Privacy: Implement strong cybersecurity measures. Ensure compliance with privacy regulations. Develop protocols for data sharing and access control."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Sensor Deployment Plan Across City Areas",
+      "content": "Area | Number of Sensors | Pollutants Monitored | Estimated Cost (USD)\nDowntown | 50 | PM2.5, NOx, SO2 | 5,000,000\nIndustrial | 30 | PM2.5, NOx, SO2, CO | 3,000,000\nResidential | 40 | PM2.5, NOx | 4,000,000\nHighways | 20 | PM2.5, NOx | 2,000,000\nParks | 10 | PM2.5 | 1,000,000\nMobile Units | 20 | PM2.5, NOx | 2,000,000\nTotal | 170 | - | 17,000,000"
+    },
+    "exhibit_answer": "Comprehensive Coverage: The plan ensures coverage across downtown, industrial zones, residential areas, highways, and parks. Pollutant Monitoring: Different pollutants are monitored based on area characteristics. Cost Allocation: The $17 million deployment cost is within the $50 million budget. Mobile Units: Enhance flexibility and dynamic data collection in high-traffic areas. Resource Allocation: Distribution is balanced between high-pollution areas and public spaces. Scalability: The plan allows for future scaling and integration with additional technologies.",
+    "math_prompt": "Calculate the annual maintenance cost for the sensor network if each sensor costs $500 annually. Additionally, determine the percentage of the total allocated budget used for deployment and maintenance in the first year.",
+    "math_answer": "1. Total Number of Sensors: 170\n2. Annual Maintenance Cost per Sensor: $500\n3. Total Annual Maintenance Cost: 170 * $500 = $85,000\n4. Deployment Cost: $17,000,000\n5. Total First-Year Cost: $17,000,000 + $85,000 = $17,085,000\n6. Total Allocated Budget: $50,000,000\n7. Percentage of Budget Used: ($17,085,000 / $50,000,000) * 100 = 34.17%\n\nThe city uses 34.17% of its budget in the first year, leaving room for additional investments in technology, policy enforcement, and public awareness.",
+    "creative_prompt": "Propose a strategy to engage the local community in the air quality monitoring initiative.",
+    "creative_answer": [
+      "Community Workshops: Educate residents on air quality importance and how to use monitoring tools.",
+      "Citizen Science Programs: Encourage residents to participate in data collection using low-cost sensors.",
+      "Incentive Programs: Offer incentives for communities that actively participate, such as tax rebates or public recognition.",
+      "Public Awareness Campaigns: Launch campaigns using social media and local news. Use real-time data displays in public spaces."
+    ],
+    "final_suggestion": "To effectively reduce air pollution, a comprehensive approach involving sensor deployment, policy frameworks, and technological implementation is essential. Engaging the community and leveraging AI-powered monitoring will provide real-time data for informed decision-making and enforcement. Regular reviews and updates will ensure the system remains effective."
+  }
+}

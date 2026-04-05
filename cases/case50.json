@@ -1,0 +1,85 @@
+{
+  "id": "case50",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "healthcare",
+  "topic": "maternal-health",
+  "subtopic": "rural-healthcare-access",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "public-health",
+    "maternal-mortality",
+    "rural-healthcare",
+    "access",
+    "developing-country"
+  ],
+  "title": "Reducing Maternal Mortality in Remote Regions",
+  "summary": "Design targeted healthcare interventions to lower high maternal mortality rates in rural areas with limited medical access.",
+  "prompt": "The government of Country X is facing a significant challenge with high maternal mortality rates in its remote regions. Despite various efforts, the maternal mortality rate remains alarmingly high, particularly in rural areas where access to healthcare services is limited. The government is now seeking a comprehensive strategy to reduce maternal mortality by improving healthcare access and quality in these remote regions. The goal is to ensure that every pregnant woman has access to timely and adequate medical care, thereby reducing the risk of complications during pregnancy and childbirth.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the current maternal mortality rates in rural versus urban areas?",
+        "answer": "The maternal mortality rate in rural areas is 300 deaths per 100,000 live births, compared to 50 deaths per 100,000 live births in urban areas."
+      },
+      {
+        "question": "What specific healthcare services are lacking in the rural regions?",
+        "answer": "Rural regions lack skilled birth attendants, emergency obstetric care, prenatal and postnatal care, and basic health education."
+      },
+      {
+        "question": "What is the current infrastructure for healthcare in these rural areas?",
+        "answer": "The infrastructure is minimal, with few clinics that are often under-equipped and under-staffed. Many villages do not have any healthcare facilities within a reasonable distance."
+      },
+      {
+        "question": "What budget has the government allocated for this initiative?",
+        "answer": "The government has allocated $50 million for the next five years to improve rural healthcare access."
+      },
+      {
+        "question": "Are there any existing partnerships with NGOs or international organizations?",
+        "answer": "Yes, there are partnerships with several NGOs and international organizations focused on maternal and child health, but coordination and resource allocation have been inconsistent."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Infrastructure Improvement",
+        "points": [
+          "Facility Expansion and Upgrades: Build new facilities in underserved areas. Upgrade existing facilities with essential equipment. Ensure reliable power and water supply.",
+          "Mobile Health Clinics: Deploy mobile units to reach remote areas. Equip with necessary supplies and trained staff.",
+          "Telemedicine: Implement services to connect rural patients with specialists. Provide training and equipment."
+        ]
+      },
+      {
+        "title": "Workforce Development",
+        "points": [
+          "Training Programs: Develop programs for local midwives and healthcare workers. Partner with medical schools for rotations.",
+          "Incentives for Healthcare Workers: Provide financial incentives and housing for rural workers. Introduce career advancement opportunities.",
+          "Community Health Workers: Train community health workers for basic care and education. Integrate into the formal healthcare system."
+        ]
+      },
+      {
+        "title": "Health Education and Outreach",
+        "points": [
+          "Public Health Campaigns: Launch campaigns on prenatal and postnatal care. Use local media and community meetings.",
+          "Community Engagement: Involve community leaders. Establish women's health groups. Conduct regular health fairs.",
+          "Partnerships with NGOs: Strengthen partnerships to leverage resources. Coordinate efforts to avoid duplication."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Urban vs. Rural Healthcare Comparison",
+      "content": "Variable | Urban Areas | Rural Areas\nMaternal Mortality Rate (per 100,000 live births) | 50 | 300\nNumber of Healthcare Facilities | 150 | 30\nNumber of Skilled Birth Attendants | 500 | 50\nAverage Distance to Nearest Facility (km) | 5 | 25\nPercentage of Women Receiving Prenatal Care | 90% | 40%\nBudget Allocation for Healthcare | $200 million | $50 million"
+    },
+    "exhibit_answer": "Rural areas have 6x higher maternal mortality (300 vs. 50). Far fewer healthcare facilities (30 vs. 150) and skilled birth attendants (50 vs. 500). Women travel 5x the distance (25 km vs. 5 km). Only 40% receive prenatal care vs. 90% in urban areas. Budget allocation is significantly lower ($50M vs. $200M), suggesting a need for reallocation.",
+    "math_prompt": "The government has allocated $50 million over five years. The plan includes:\n20 new facilities at $1M each\n200 skilled birth attendants trained at $10,000 each\n10 mobile clinics at $500,000 each\n$5M on health education\n$3M on telemedicine infrastructure\nCalculate remaining budget and propose how to utilize it.",
+    "math_answer": "1. New facilities: 20 * $1M = $20M\n2. Training: 200 * $10,000 = $2M\n3. Mobile clinics: 10 * $500,000 = $5M\n4. Health education: $5M\n5. Telemedicine: $3M\n6. Total expenditure: $20M + $2M + $5M + $5M + $3M = $35M\n7. Remaining budget: $50M - $35M = $15M\n\nThe remaining $15 million could be used for financial incentives for healthcare workers, additional medical equipment, and community health worker programs.",
+    "creative_prompt": "Design a comprehensive community engagement strategy for the maternal health initiative in rural areas.",
+    "creative_answer": [
+      "Cultural Sensitivity and Inclusivity: Engage local community leaders and elders. Respect cultural practices while promoting health education. Use local languages and culturally appropriate materials.",
+      "Women's Empowerment: Establish women's health groups. Train local women as community health workers. Encourage male involvement.",
+      "Economic Incentives: Provide financial incentives for prenatal and postnatal check-ups. Offer transportation vouchers. Develop income-generating activities for women.",
+      "Collaborative Partnerships: Partner with local NGOs, religious organizations, and schools. Coordinate with international organizations. Monitor and evaluate impact."
+    ],
+    "final_suggestion": "To effectively reduce maternal mortality in rural areas, adopt a multi-faceted approach including infrastructure improvement, workforce development, and community engagement. Address specific healthcare needs and involve local communities. Continuous monitoring and adaptive strategies will be essential for long-term success."
+  }
+}

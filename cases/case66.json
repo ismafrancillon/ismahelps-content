@@ -1,0 +1,87 @@
+{
+  "id": "case66",
+  "content_type": "case",
+  "category": "digital-transformation",
+  "industry": "public-sector",
+  "topic": "digital-identity",
+  "subtopic": "national-id-system",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "digital-transformation",
+    "digital-id",
+    "government",
+    "security",
+    "public-services"
+  ],
+  "title": "Launching a National Digital ID System",
+  "summary": "Plan the implementation of a unified digital ID system for seamless access to healthcare, banking, and public services.",
+  "prompt": "A country is planning to introduce a national digital ID system aimed at providing seamless access to various public services, including healthcare, banking, and voting. The government believes that a unified digital ID system will enhance service delivery, improve security, and streamline operations across different sectors. However, there are significant challenges to address, such as ensuring data privacy, achieving widespread adoption, integrating with existing systems, and managing the costs associated with the implementation. As a consultant, you have been engaged to develop a comprehensive strategy for deploying this national digital ID system.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of digital infrastructure?",
+        "answer": "The country has moderately developed digital infrastructure with widespread internet access in urban areas but limited connectivity in rural regions. Existing systems for healthcare, banking, and voting are partially digitized but not integrated."
+      },
+      {
+        "question": "What are the key concerns of stakeholders?",
+        "answer": "Key concerns include data privacy and security, potential misuse of personal information, the cost of implementation, and ensuring equitable access for all citizens."
+      },
+      {
+        "question": "What is the budget allocated for implementation?",
+        "answer": "The government has allocated $500 million for the initial phase, including system development, infrastructure upgrades, and a public awareness campaign."
+      },
+      {
+        "question": "Are there existing digital ID systems that can serve as models?",
+        "answer": "Yes, countries like Estonia and India have successfully implemented digital ID systems (e.g., Estonia's e-Residency and India's Aadhaar)."
+      },
+      {
+        "question": "What is the timeline for the rollout?",
+        "answer": "The government aims to roll out within three years, with pilot projects in selected regions during the first year."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Assessment of Current Infrastructure",
+        "points": [
+          "Evaluate existing digital infrastructure and identify gaps.",
+          "Assess current systems in healthcare, banking, and voting for compatibility.",
+          "Analyze internet penetration and digital literacy across regions."
+        ]
+      },
+      {
+        "title": "System Design and Integration",
+        "points": [
+          "Design a robust and secure digital ID architecture.",
+          "Develop integration plans for existing systems.",
+          "Ensure interoperability with international standards."
+        ]
+      },
+      {
+        "title": "Implementation and Rollout Strategy",
+        "points": [
+          "Develop a phased implementation plan starting with pilot projects.",
+          "Establish a project management office for oversight.",
+          "Monitor and evaluate progress, making adjustments as needed."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Digital ID Integration Readiness by Sector",
+      "content": "Sector | Current State of Digitization | Internet Penetration | Integration Readiness | Key Challenges\nHealthcare | Partially Digitized | Urban: 85%, Rural: 40% | Moderate | Data privacy, interoperability\nBanking | Mostly Digitized | Urban: 90%, Rural: 50% | High | Security, cost of upgrades\nVoting | Limited Digitization | Urban: 80%, Rural: 35% | Low | Trust in system, ensuring accessibility"
+    },
+    "exhibit_answer": "Urban areas have high internet penetration, suitable for initial pilots. Rural areas need infrastructure upgrades. Healthcare and banking are moderately to highly digitized but need privacy and security focus. Voting has limited digitization and low readiness, requiring significant investment in trust-building. A phased approach starting with urban areas and expanding to rural regions can manage challenges effectively.",
+    "math_prompt": "The budget is $500M divided into: system development (40%), infrastructure upgrades (35%), public awareness (25%). Calculate allocation per category and cost per person for 80% population coverage (population: 50 million).",
+    "math_answer": "1. System Development: 40% of $500M = $200M\n2. Infrastructure Upgrades: 35% of $500M = $175M\n3. Public Awareness: 25% of $500M = $125M\n4. Target Population: 80% of 50M = 40M people\n5. Cost per Person: $500M / 40M = $12.50\n\nSignificant resources are dedicated to development and infrastructure, crucial for success. The $12.50 cost per person helps assess financial feasibility.",
+    "creative_prompt": "What innovative strategies can ensure widespread adoption and trust, especially in rural areas with limited digital literacy?",
+    "creative_answer": [
+      "Community Outreach Programs: Establish local centers in rural areas for hands-on assistance and training.",
+      "Partnership with Local Leaders: Engage community leaders and influencers to promote benefits.",
+      "Mobile Registration Units: Deploy mobile units to remote areas for on-site registration.",
+      "Incentives for Early Adoption: Offer discounts on public services for early registrants.",
+      "Telecom Collaborations: Partner with telecom companies for affordable internet packages.",
+      "Localized Content: Develop educational materials in local languages and dialects."
+    ],
+    "final_suggestion": "Take a holistic approach addressing both technical and social aspects. Prioritize stakeholder engagement, robust system design, and phased rollout. Regularly monitor progress and adapt strategies based on feedback and evolving needs."
+  }
+}

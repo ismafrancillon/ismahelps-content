@@ -1,0 +1,43 @@
+{
+  "id": "case25",
+  "content_type": "case",
+  "category": "profitability",
+  "industry": "media",
+  "topic": "revenue-diversification",
+  "subtopic": "ai-content-monetization",
+  "difficulty": "Medium",
+  "style": "General",
+  "tags": ["profitability", "media", "ai-content", "revenue-streams", "monetization"],
+  "title": "Monetizing AI-Generated Content for a Media Company",
+  "summary": "Explore new AI-powered revenue streams for a major media company facing declining traditional advertising income.",
+  "prompt": "A large media company is experiencing a decline in traditional ad revenue due to shifts in consumer behavior and the rise of ad-blocking technologies. They are exploring ways to leverage AI-generated content, such as news summaries or personalized entertainment, to create new revenue streams. The objective is to assess the potential of AI-generated content to drive revenue growth and develop a strategic plan for implementation.",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What is the current revenue breakdown for the media company?", "answer": "The current revenue is primarily derived from traditional advertising (60%), subscriptions (25%), and one-time purchases (15%)."},
+      {"question": "What types of AI-generated content are being considered?", "answer": "The company is considering news summaries, personalized entertainment recommendations, and automated content creation for social media."},
+      {"question": "What is the target audience for the AI-generated content?", "answer": "The target audience includes individual viewers, advertisers, and potential subscribers interested in personalized content."},
+      {"question": "What are the current challenges faced by the company in terms of ad revenue?", "answer": "The main challenges include increased use of ad-blockers, a shift to online streaming, and competition from digital platforms like Netflix and Hulu."},
+      {"question": "What are the company's existing technological capabilities for AI implementation?", "answer": "The company has a basic AI infrastructure in place, with capabilities in data analytics and machine learning but requires further investment to scale AI-generated content."}
+    ],
+    "framework": [
+      {"title": "Market Analysis", "points": ["Consumer Trends: Analyze changes in media consumption habits, including the shift to digital platforms and the use of ad-blockers.", "Competitive Landscape: Evaluate the strategies of competitors like Netflix and Hulu in leveraging AI for content creation and personalization.", "Customer Segments: Identify and segment target audiences for AI-generated content, including individual viewers and advertisers."]},
+      {"title": "Revenue Generation Opportunities", "points": ["Subscription Models: Explore the potential for AI-generated personalized content to enhance subscription offerings.", "Ad Revenue Models: Assess how personalized AI-generated content can attract advertisers by offering targeted ad placements.", "Content Licensing: Consider licensing AI-generated content to other media platforms or third-party distributors."]},
+      {"title": "Implementation Strategy", "points": ["Technology Investment: Determine the necessary investments in AI infrastructure and talent acquisition.", "Content Creation Process: Develop a streamlined process for creating and distributing AI-generated content.", "Marketing and Sales: Create a marketing strategy to promote AI-generated content to both consumers and advertisers."]}
+    ],
+    "exhibit": {
+      "title": "Revenue Potential from AI-Generated Content (in $ Millions)",
+      "content": "Revenue Source | Amount ($M)\nTraditional Ad Revenue | 150\nAI-Generated Ad Revenue | 50\nSubscription Revenue | 75\nAI-Generated Subscription Revenue | 30\nOne-Time Purchases | 25\nAI-Generated Content Licensing | 20"
+    },
+    "exhibit_answer": "Traditional Ad Revenue: The current major revenue source but declining due to ad-blockers. AI-Generated Ad Revenue: Potential to capture a new market segment by offering personalized ad placements. Subscription Revenue: Existing revenue from subscriptions can be enhanced through AI-generated personalized content. AI-Generated Subscription Revenue: Additional revenue from new subscribers attracted by personalized content offerings. One-Time Purchases: Stable but limited growth potential. AI-Generated Content Licensing: New revenue stream from licensing AI-generated content to other platforms.",
+    "math_prompt": "Calculate the projected increase in overall revenue if AI-generated content successfully captures 10% of the traditional ad revenue market, increases subscription revenue by 20%, and adds an additional $20 million from content licensing.",
+    "math_answer": "Traditional Ad Revenue: $150 million * 10% = $15 million\nSubscription Revenue Increase: $75 million * 20% = $15 million\nContent Licensing: $20 million\nTotal Projected Increase: $15 million + $15 million + $20 million = $50 million",
+    "creative_prompt": "Develop a strategic plan to integrate AI-generated content into the company's existing media offerings while ensuring minimal disruption to current operations.",
+    "creative_answer": [
+      "Phase 1: Pilot Program: Launch a pilot program for AI-generated news summaries and personalized entertainment recommendations.",
+      "Phase 2: Technology Integration: Invest in AI infrastructure and talent to scale content creation capabilities.",
+      "Phase 3: Marketing Campaign: Promote the new AI-generated content to existing subscribers and potential new customers through targeted marketing campaigns.",
+      "Phase 4: Feedback Loop: Implement a feedback loop to continuously improve AI-generated content based on user engagement and preferences."
+    ],
+    "final_suggestion": "To effectively monetize AI-generated content, the media company should focus on understanding consumer preferences, investing in AI technology, and creating a seamless integration plan that enhances the overall user experience. Regularly assessing the performance and making data-driven adjustments will be key to sustaining growth and capturing new revenue streams."
+  }
+}

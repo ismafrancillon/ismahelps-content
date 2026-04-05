@@ -1,0 +1,86 @@
+{
+  "id": "case43",
+  "content_type": "case",
+  "category": "operations",
+  "industry": "transportation",
+  "topic": "fleet-electrification",
+  "subtopic": "electric-bus-transition",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "transportation",
+    "electrification",
+    "public-transit",
+    "sustainability",
+    "infrastructure"
+  ],
+  "title": "Electrifying Public Transportation in a Growing Economy",
+  "summary": "Plan a five-year transition from diesel to electric buses for a middle-income country's public transit system.",
+  "prompt": "Your client is the Department of Transportation (DoT) of a middle-income country that is experiencing rapid urbanization and economic growth. The government has set an ambitious goal to transition the public transportation system from diesel-powered buses to electric buses within the next five years. The DoT has employed your consulting firm to assess the feasibility of this transition, identify the key challenges and opportunities, and recommend a strategic plan to achieve this goal. Specifically, the DoT is interested in understanding the financial, operational, and environmental implications of this transition, as well as the necessary infrastructure investments and policy changes required to support the electrification of public transportation.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of the public transportation system?",
+        "answer": "The current system primarily consists of diesel-powered buses that are aging and increasingly costly to maintain. The system is heavily utilized, particularly in urban areas, and there is growing demand for more efficient and environmentally friendly options."
+      },
+      {
+        "question": "What is the budget allocated for this transition?",
+        "answer": "The government has allocated a budget of $500 million for the initial phase, including purchasing new electric buses, upgrading infrastructure, and implementing policy changes."
+      },
+      {
+        "question": "What are the key environmental goals associated with this transition?",
+        "answer": "The key goals include reducing carbon emissions by 30%, improving air quality in urban areas, and decreasing reliance on imported diesel fuel."
+      },
+      {
+        "question": "What infrastructure upgrades are necessary to support electric buses?",
+        "answer": "Necessary upgrades include installing charging stations, upgrading the electrical grid to handle increased demand, and setting up maintenance facilities specifically for electric buses."
+      },
+      {
+        "question": "What are the expected challenges in implementing this transition?",
+        "answer": "Expected challenges include the high upfront cost of electric buses, potential resistance from current bus operators, the need for extensive training for maintenance staff, and ensuring a reliable supply of electricity for charging stations."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Financial Analysis",
+        "points": [
+          "Cost of Electric Buses vs. Diesel Buses: Compare upfront costs, maintenance costs, and fuel costs.",
+          "Funding and Financing Options: Explore government funding, public-private partnerships, and international grants or loans.",
+          "Return on Investment (ROI): Calculate expected ROI based on savings from reduced fuel and maintenance costs."
+        ]
+      },
+      {
+        "title": "Operational Strategy",
+        "points": [
+          "Fleet Management: Develop a phased approach for replacing diesel buses, considering routes, utilization rates, and bus lifespan.",
+          "Infrastructure Development: Plan for charging stations, grid upgrades, and maintenance facilities.",
+          "Training and Workforce Development: Create training programs for drivers and maintenance staff."
+        ]
+      },
+      {
+        "title": "Environmental Impact",
+        "points": [
+          "Emission Reductions: Estimate the reduction in carbon emissions and improvement in air quality.",
+          "Energy Consumption: Analyze increase in electricity demand and potential renewable energy sources.",
+          "Public Health Benefits: Assess potential health benefits from reduced air pollution."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Comparison of Renewable Energy Options for Public Transit",
+      "content": "Project | Number of Units | Capacity per Unit (MW) | Capacity Factor | CAPEX per Unit ($M) | Useful Service Years | Total Capacity (MW) | Total Energy Output (MWh/year)\nSolar Plant | 1750 | 0.4 | 25% | 0.5 | 15 | 700 | 1,533,000\nWind Farm (Offshore) | 22 | 8 | 50% | 20 | 15 | 176 | 876,000\nWind Farm (Onshore) | 44 | 8 | 25% | 8 | 15 | 352 | 876,000\nGas Power Plant | 1 | 200 | 50% | 320 | 15 | 200 | 1,533,000"
+    },
+    "exhibit_answer": "The solar plant requires the highest number of units (1750). Offshore wind farms offer higher energy output per unit with a 50% capacity factor. CAPEX for offshore wind is significantly higher ($20M per unit) vs. onshore ($8M). The gas power plant provides high capacity but is not renewable. Onshore wind farms provide a balanced option with moderate CAPEX and substantial energy output.",
+    "math_prompt": "Calculate the total cost savings over a 10-year period if the government replaces 1,000 diesel buses with electric buses. Assume:\nDiesel bus purchase: $300,000; Electric bus purchase: $500,000\nDiesel annual maintenance: $20,000; Electric annual maintenance: $10,000\nDiesel annual fuel: $30,000; Electric annual electricity: $15,000\nCharging infrastructure per bus: $50,000; Government subsidies per electric bus: $100,000",
+    "math_answer": "1. Initial Purchase: Diesel: 1,000 * $300K = $300M; Electric: 1,000 * $500K = $500M\n2. Maintenance (10 years): Diesel: 1,000 * $20K * 10 = $200M; Electric: 1,000 * $10K * 10 = $100M\n3. Fuel/Electricity (10 years): Diesel: 1,000 * $30K * 10 = $300M; Electric: 1,000 * $15K * 10 = $150M\n4. Charging Infrastructure: 1,000 * $50K = $50M\n5. Government Subsidies: 1,000 * $100K = $100M\n6. Total Diesel: $300M + $200M + $300M = $800M\n7. Total Electric: $500M + $100M + $150M + $50M - $100M = $700M\n8. Total Savings: $800M - $700M = $100M",
+    "creative_prompt": "What innovative strategies can the Department of Transportation implement to encourage public adoption and support for the transition to electric buses?",
+    "creative_answer": [
+      "Public Awareness Campaigns: Launch comprehensive campaigns about environmental and health benefits.",
+      "Incentives for Ridership: Offer discounted fares or loyalty programs for electric bus users.",
+      "Partnerships with Private Sector: Collaborate with tech companies to provide free Wi-Fi and amenities.",
+      "Community Engagement: Involve local communities in planning and decision-making.",
+      "Showcase Success Stories: Highlight successful transitions from other cities or countries."
+    ],
+    "final_suggestion": "The DoT should prioritize the transition to electric buses by focusing on financial viability, operational efficiency, and environmental benefits. Strategic planning, stakeholder engagement, and continuous monitoring will be essential to achieve the government's ambitious goals for sustainable public transportation."
+  }
+}

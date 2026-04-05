@@ -1,0 +1,85 @@
+{
+  "id": "case45",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "energy",
+  "topic": "grid-modernization",
+  "subtopic": "renewable-integration",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "energy",
+    "renewable",
+    "power-grid",
+    "infrastructure",
+    "government-policy"
+  ],
+  "title": "Modernizing a Power Grid for Renewable Energy",
+  "summary": "Evaluate Germany's strategy to modernize its power grid for renewable energy integration after phasing out nuclear power.",
+  "prompt": "The German government has committed to phasing out all nuclear power by 2021 and transitioning to renewable energy sources to meet its ambitious environmental goals. The government aims to cut greenhouse-gas emissions by 40% by 2020 and 80% by 2050. Additionally, it plans to ensure that renewable energy sources contribute 80% of Germany's energy by 2050 and reduce energy consumption by 20% by 2020 and 50% by 2050. Bremen, a city in northwestern Germany with a population of 640,000, is a major cultural and economic hub, home to numerous multinational companies and manufacturing centers. The mayor of Bremen has been tasked with developing a new energy strategy to secure 700,000 MWh of energy per year using renewable sources. The local project team has identified several options, and the mayor has asked for a review and recommendation on the most viable project.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current energy mix in Bremen?",
+        "answer": "Currently, Bremen's energy mix includes 20% from renewable sources, 30% from coal, 25% from natural gas, and 25% from nuclear power."
+      },
+      {
+        "question": "What is the budget allocated for the initial investment?",
+        "answer": "The local budget for initial investments in renewable energy projects is \u20ac1 billion."
+      },
+      {
+        "question": "Are there any specific environmental regulations or constraints?",
+        "answer": "Yes, there are stringent regulations aimed at minimizing impact on local wildlife and ecosystems, especially for offshore wind farms."
+      },
+      {
+        "question": "What are the expected timelines for project completion?",
+        "answer": "The expected timeline is within 5 years."
+      },
+      {
+        "question": "Are there any existing partnerships with renewable energy companies?",
+        "answer": "Yes, there are existing partnerships with several European renewable energy companies, including Siemens and Vestas."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Energy Demand Analysis",
+        "points": [
+          "Current Energy Consumption: Analyze current patterns including peak and off-peak usage.",
+          "Future Energy Needs: Project future needs based on population growth and industrial expansion.",
+          "Energy Efficiency Measures: Evaluate potential measures to reduce overall consumption."
+        ]
+      },
+      {
+        "title": "Renewable Energy Options",
+        "points": [
+          "Solar Power: Assess feasibility including land availability, solar irradiation, and potential output.",
+          "Wind Power: Evaluate both onshore and offshore farms, considering wind speeds, capacity factors, and environmental impact.",
+          "Hydropower and Biomass: Explore potential including resource availability and technological feasibility."
+        ]
+      },
+      {
+        "title": "Financial and Operational Analysis",
+        "points": [
+          "CAPEX and OPEX: Analyze capital and operational expenditure for each option.",
+          "Return on Investment: Calculate expected ROI considering initial investment, operational costs, and revenue.",
+          "Risk Assessment: Identify and assess technological, environmental, and regulatory risks."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Comparison of Renewable Energy Options for Bremen",
+      "content": "Project | Number of Units | Capacity per Unit (MW) | Capacity Factor | CAPEX per Unit ($M) | Useful Service Years | Total Capacity (MW) | Total Energy Output (MWh/year)\nSolar Plant | 1750 | 0.4 | 25% | 0.5 | 15 | 700 | 1,533,000\nWind Farm (Offshore) | 22 | 8 | 50% | 20 | 15 | 176 | 876,000\nWind Farm (Onshore) | 44 | 8 | 25% | 8 | 15 | 352 | 876,000\nGas Power Plant | 1 | 200 | 50% | 320 | 15 | 200 | 1,533,000"
+    },
+    "exhibit_answer": "Solar requires the most units (1750). Offshore wind offers higher output per unit at 50% capacity factor but at significantly higher CAPEX ($20M/unit). Onshore wind provides a balanced option with moderate CAPEX ($8M/unit). Gas plant is not renewable. Onshore wind is the most viable option balancing cost and output.",
+    "math_prompt": "Calculate the total initial investment required for each renewable energy option to secure 700,000 MWh of energy per year.",
+    "math_answer": "Step 1: Units needed:\nSolar: 700,000 / (0.4 * 8760 * 0.25) = 1750 units\nOffshore Wind: 700,000 / (8 * 8760 * 0.50) = 22 units\nOnshore Wind: 700,000 / (8 * 8760 * 0.25) = 44 units\n\nStep 2: Total CAPEX:\nSolar: 1750 * $0.5M = $875M\nOffshore Wind: 22 * $20M = $440M\nOnshore Wind: 44 * $8M = $352M\n\nOnshore wind requires the lowest investment ($352M), making it the most cost-effective option.",
+    "creative_prompt": "How can Bremen leverage technological advancements and partnerships to enhance the efficiency and sustainability of its renewable energy projects?",
+    "creative_answer": [
+      "Smart Grid Technology: Integrate smart grids to manage energy distribution more effectively, reducing transmission losses.",
+      "Energy Storage Solutions: Implement batteries and pumped hydro storage to store excess energy for reliable supply during low generation periods.",
+      "Partnerships with Research Institutions: Foster innovation and adoption of cutting-edge technologies.",
+      "Advanced Analytics: Use data analytics to optimize energy production and distribution."
+    ],
+    "final_suggestion": "Bremen should prioritize onshore wind farms to meet its energy requirements. This offers moderate investment costs and substantial energy output. Leveraging technological advancements and strategic partnerships will enhance efficiency and sustainability, ensuring a reliable and environmentally friendly energy supply."
+  }
+}

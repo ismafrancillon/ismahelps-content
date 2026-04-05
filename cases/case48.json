@@ -1,0 +1,83 @@
+{
+  "id": "case48",
+  "content_type": "case",
+  "category": "operations",
+  "industry": "infrastructure",
+  "topic": "flood-prevention",
+  "subtopic": "coastal-engineering",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "infrastructure",
+    "flood-prevention",
+    "climate-change",
+    "coastal",
+    "engineering"
+  ],
+  "title": "Engineering Flood Prevention for a Coastal Country",
+  "summary": "Evaluate and recommend comprehensive flood prevention engineering solutions for a low-lying country facing climate-driven flooding.",
+  "prompt": "A low-lying country is experiencing frequent flooding due to climate change, resulting in significant economic and social disruptions. The government has tasked a consulting team with evaluating and recommending comprehensive flood prevention solutions. The team must assess the feasibility and impact of three primary solutions: constructing seawalls, enhancing drainage systems, and implementing sustainable urban planning. The goal is to develop a strategic plan that minimizes flood risk, optimizes resource allocation, and promotes long-term sustainability for the region.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of existing flood prevention infrastructure?",
+        "answer": "The current infrastructure is outdated and insufficient, with minimal maintenance. Existing seawalls are low and deteriorating, drainage systems are clogged and undersized, and urban planning does not account for climate resilience."
+      },
+      {
+        "question": "What is the budget allocated for flood prevention projects?",
+        "answer": "The government has allocated $1 billion for the initial phase, with potential for additional funding based on project success and international aid."
+      },
+      {
+        "question": "What are the key areas most affected by flooding?",
+        "answer": "Coastal urban centers and agricultural regions are most affected. Flooding has led to significant property damage, loss of crops, displacement of communities, and adverse effects on local businesses and tourism."
+      },
+      {
+        "question": "What are the environmental considerations and regulations?",
+        "answer": "Regulations require flood prevention measures must not harm local ecosystems, particularly wetlands and marine habitats. Sustainable practices and materials are encouraged."
+      },
+      {
+        "question": "What is the timeline for implementation?",
+        "answer": "The government aims to have the initial phase implemented within five years, with ongoing assessments."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Assessment of Seawalls",
+        "points": [
+          "Evaluate current condition and height of existing seawalls.",
+          "Determine required height and strength for projected sea-level rise and storm surges.",
+          "Analyze construction costs and environmental impact on coastal ecosystems."
+        ]
+      },
+      {
+        "title": "Enhancement of Drainage Systems",
+        "points": [
+          "Assess capacity and condition of current drainage systems.",
+          "Identify key areas prone to flooding due to inadequate drainage.",
+          "Explore sustainable drainage solutions such as green infrastructure and permeable surfaces."
+        ]
+      },
+      {
+        "title": "Sustainable Urban Planning",
+        "points": [
+          "Integrate flood resilience into urban planning and zoning regulations.",
+          "Promote development of green spaces and wetlands to absorb floodwaters.",
+          "Encourage use of flood-resistant building materials and designs. Implement community preparedness programs."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Comparison of Flood Prevention Solutions",
+      "content": "Solution | Initial Cost | Maintenance Cost/Year | Implementation Timeline | Environmental Impact | Effectiveness (Flood Risk Reduction) | Long-term Sustainability | Community Support\nSeawalls | $500M | $10M | 3 years | High (potential harm to marine life) | 80% | Medium | Medium\nDrainage Systems | $300M | $5M | 2 years | Medium (disruption during construction) | 70% | High | High\nSustainable Urban Planning | $200M | $2M | 5 years | Low (promotes biodiversity) | 60% | High | High"
+    },
+    "exhibit_answer": "Seawalls provide highest effectiveness (80%) but at greatest cost and environmental impact. Drainage systems offer 70% effectiveness with high sustainability and community support. Sustainable urban planning has lowest cost and environmental impact but takes longest to implement. A combined approach is recommended.",
+    "math_prompt": "Calculate the total cost of implementing all three solutions over 10 years, including initial and maintenance costs. Determine the overall reduction in flood risk.\nSeawalls: $500M initial, $10M/year maintenance, 80% effectiveness\nDrainage: $300M initial, $5M/year maintenance, 70% effectiveness\nUrban Planning: $200M initial, $2M/year maintenance, 60% effectiveness",
+    "math_answer": "Step 1: Total initial cost: $500M + $300M + $200M = $1 billion\nStep 2: Total maintenance over 10 years: ($10M + $5M + $2M) * 10 = $170M\nStep 3: Overall cost: $1B + $170M = $1.17 billion\nStep 4: Combined effectiveness: 80% * 70% * 60% = 33.6% (accounting for overlapping effectiveness)\n\nTotal cost of $1.17 billion over 10 years results in 33.6% combined flood risk reduction.",
+    "creative_prompt": "How can the government engage local communities and stakeholders in the implementation of flood prevention solutions?",
+    "creative_answer": [
+      "Community Engagement: Conduct public consultations and workshops. Establish community advisory boards. Develop educational campaigns about flood risks.",
+      "Stakeholder Involvement: Partner with local businesses for resources and expertise. Collaborate with environmental organizations for sustainable practices. Engage academic institutions for research and innovation."
+    ],
+    "final_suggestion": "A comprehensive and integrated approach combining seawalls, enhanced drainage systems, and sustainable urban planning is necessary. Engaging local communities and stakeholders throughout the process will ensure success and sustainability. This strategic plan protects the region from immediate flood threats and lays the foundation for a sustainable future."
+  }
+}

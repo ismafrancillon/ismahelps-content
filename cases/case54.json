@@ -1,0 +1,84 @@
+{
+  "id": "case54",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "public-sector",
+  "topic": "ubi-design",
+  "subtopic": "pilot-program",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "public-policy",
+    "ubi",
+    "automation",
+    "pilot-design",
+    "social-impact"
+  ],
+  "title": "Designing a Universal Basic Income Pilot Program",
+  "summary": "Design and evaluate a UBI pilot to test feasibility, economic impact, and social outcomes before nationwide rollout.",
+  "prompt": "A developed country is considering a Universal Basic Income (UBI) program to address the increasing job losses caused by automation. The government wants to design a pilot program to test the feasibility, economic impact, and social outcomes of UBI before a nationwide rollout. The pilot will need to account for various factors including economic sustainability, social acceptance, and measurable outcomes. The government has tasked a consulting firm to develop a comprehensive plan for this pilot program.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the budget allocated for the UBI pilot program?",
+        "answer": "The government has allocated $500 million for the UBI pilot program."
+      },
+      {
+        "question": "How long will the pilot program run?",
+        "answer": "The pilot program will run for a duration of two years."
+      },
+      {
+        "question": "What criteria will be used to select participants?",
+        "answer": "Participants will be selected based on a mix of demographic factors including age, income level, employment status, and geographic location to ensure a representative sample."
+      },
+      {
+        "question": "What are the key metrics for measuring success?",
+        "answer": "Key metrics include employment rates, income levels, health outcomes, educational attainment, and overall economic activity in the pilot regions."
+      },
+      {
+        "question": "What are the expected economic and social outcomes?",
+        "answer": "Expected outcomes include reduced poverty levels, increased economic stability for participants, improved mental and physical health, and potential stimulation of local economies."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Economic Analysis",
+        "points": [
+          "Budget Allocation and Management: Assess sufficiency of $500M. Breakdown into administrative expenses, direct payments, and contingency.",
+          "Economic Impact Assessment: Project short-term and long-term effects on local economies. Analyze changes in spending, savings, and investment.",
+          "Sustainability Analysis: Long-term financial sustainability. Potential funding sources including taxation and public-private partnerships."
+        ]
+      },
+      {
+        "title": "Social Impact Analysis",
+        "points": [
+          "Participant Selection: Develop comprehensive selection framework ensuring diversity. Address ethical considerations.",
+          "Impact on Employment: Analyze how UBI affects job-seeking behavior and productivity. Assess impact on entrepreneurship.",
+          "Health and Well-being: Evaluate impact on physical and mental health outcomes. Analyze changes in healthcare utilization."
+        ]
+      },
+      {
+        "title": "Implementation and Monitoring",
+        "points": [
+          "Pilot Program Design: Detailed rollout plan with timelines and stakeholder engagement. Selection of pilot sites.",
+          "Monitoring and Evaluation: Establish KPIs for continuous monitoring. Regular reporting and feedback loops.",
+          "Stakeholder Engagement: Strategies for securing buy-in from government agencies, local authorities, and community organizations."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Economic and Social Metrics of UBI Pilot Program",
+      "content": "Metric | Baseline (Pre-Pilot) | Year 1 | Year 2 | Target Outcome\nEmployment Rate | 92% | 90% | 88% | 90%\nAverage Household Income | $50,000 | $52,000 | $54,000 | $55,000\nHealth Expenditure | $4,000 per capita | $3,800 | $3,600 | $3,500\nEducational Attainment | 85% high school grad | 86% | 87% | 90%\nLocal Economic Activity | $1 billion | $1.1B | $1.2B | $1.3B\nPoverty Rate | 10% | 8% | 6% | 5%"
+    },
+    "exhibit_answer": "Employment Rate: Slight decline may indicate a transition period for exploring new opportunities. Average Household Income: Steady increase suggests UBI provides financial stability. Health Expenditure: Reduction indicates improved health outcomes and preventive care. Educational Attainment: Gradual improvement suggests UBI reduces financial barriers to education. Local Economic Activity: Significant increase indicates UBI stimulates consumer spending. Poverty Rate: Sharp decline suggests UBI effectively lifts individuals out of poverty.",
+    "math_prompt": "The program provides $1,000/month to 10,000 participants for 2 years. Administrative costs are 10% of UBI payments. A 5% contingency fund is set aside from the total $500M budget. Calculate total costs and determine if the budget is sufficient.",
+    "math_answer": "Step 1: Total UBI payments = $1,000 * 10,000 * 24 = $240,000,000\nStep 2: Administrative costs = $240,000,000 * 10% = $24,000,000\nStep 3: Contingency fund = $500,000,000 * 5% = $25,000,000\nStep 4: Total cost = $240M + $24M + $25M = $289,000,000\nStep 5: Surplus = $500M - $289M = $211,000,000\n\nThe $500M budget is more than sufficient, leaving a $211M surplus for additional enhancements or scaling.",
+    "creative_prompt": "How would you design a communication strategy to ensure public support and stakeholder buy-in for the UBI pilot?",
+    "creative_answer": [
+      "Public Awareness Campaign: Launch a nationwide campaign using various media channels highlighting benefits and objectives. Use success stories and testimonials.",
+      "Stakeholder Engagement: Organize town hall meetings and public forums. Collaborate with local governments, NGOs, and community organizations.",
+      "Transparent Reporting: Provide regular updates and transparent reporting. Publish detailed reports on a dedicated website. Create feedback mechanisms for participants and the public."
+    ],
+    "final_suggestion": "Focus on comprehensive analysis of economic and social impacts, detailed planning for implementation and monitoring, and a robust communication strategy. Consider potential challenges and develop contingency plans. By taking a holistic approach, you can design a successful UBI pilot program that provides valuable insights for a broader rollout."
+  }
+}

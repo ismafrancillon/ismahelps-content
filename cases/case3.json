@@ -1,0 +1,80 @@
+{
+  "id": "case3",
+  "content_type": "case",
+  "category": "customer-retention",
+  "industry": "grocery-retail",
+  "topic": "loyalty-program-design",
+  "subtopic": "program-redesign",
+  "difficulty": "Medium",
+  "style": "BCG",
+  "tags": ["loyalty-program", "customer-retention", "grocery", "consumer-engagement", "redesign"],
+  "title": "Revamping a Grocery Retailer's Loyalty Program",
+  "summary": "Redesign a failed loyalty program for a Canadian grocery retailer to boost engagement and repeat purchases.",
+  "prompt": "A leading Canadian grocery retailer, which we will refer to as \"CanadaCo,\" is looking to redesign its loyalty program after a previous version failed to gain traction. The previous program offered points for purchases that could be redeemed for discounts on future purchases. However, the program did not significantly increase customer retention or spending. CanadaCo is now seeking innovative ways to revamp its loyalty program to better engage customers, increase repeat purchases, and differentiate itself from competitors.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What were the key features of the previous loyalty program?",
+        "answer": "The previous loyalty program allowed customers to accumulate points for every dollar spent, which could be redeemed for discounts on future purchases."
+      },
+      {
+        "question": "Why did the previous loyalty program fail to gain traction?",
+        "answer": "The program did not offer sufficient incentives for customers to change their shopping behavior and primarily rewarded customers who would have shopped at CanadaCo regardless."
+      },
+      {
+        "question": "Who are CanadaCo's main competitors, and what loyalty programs do they offer?",
+        "answer": "CanadaCo's main competitors include large grocery chains like USCo, which offers a tiered loyalty program with exclusive discounts, and other regional players with similar points-based systems."
+      },
+      {
+        "question": "What are the primary goals CanadaCo wants to achieve with the new loyalty program?",
+        "answer": "CanadaCo aims to increase customer retention, boost average transaction value, and enhance customer engagement and satisfaction."
+      },
+      {
+        "question": "What data does CanadaCo have on customer purchasing behavior and preferences?",
+        "answer": "CanadaCo has detailed transaction data, customer demographics, and feedback from previous loyalty program participants."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Customer Segmentation and Targeting",
+        "points": [
+          "Identify Key Customer Segments: Analyze customer data to segment customers based on demographics, purchasing behavior, and preferences.",
+          "Tailored Rewards: Design rewards that cater to the specific needs and preferences of each segment (e.g., families, young professionals, health-conscious shoppers).",
+          "Personalized Offers: Use data analytics to create personalized offers and promotions that resonate with each customer segment."
+        ]
+      },
+      {
+        "title": "Program Structure and Incentives",
+        "points": [
+          "Tiered Rewards System: Implement a tiered rewards system that offers increasing benefits as customers spend more (e.g., silver, gold, platinum tiers).",
+          "Exclusive Benefits: Offer exclusive benefits such as early access to sales, special discounts, and members-only events.",
+          "Partnerships: Partner with other businesses to provide additional rewards (e.g., discounts on fuel, travel, or entertainment)."
+        ]
+      },
+      {
+        "title": "Engagement and Communication",
+        "points": [
+          "Omnichannel Experience: Ensure the loyalty program is accessible and engaging across all channels (e.g., in-store, online, mobile app).",
+          "Regular Communication: Use email, SMS, and app notifications to keep customers informed about their points balance, upcoming promotions, and personalized offers.",
+          "Feedback Mechanism: Implement a feedback mechanism to continuously gather customer input and improve the program."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Customer Segmentation Analysis",
+      "content": "Segment | % of Customers | Avg. Monthly Spend | Key Preferences | Example Rewards\nFamilies | 40% | $500 | Bulk purchases, discounts | Bulk purchase discounts, family events\nYoung Professionals | 25% | $300 | Convenience, quality | Express checkout, premium products\nHealth-Conscious | 20% | $400 | Organic, healthy options | Discounts on organic products\nSeniors | 15% | $250 | Value, accessibility | Senior discounts, delivery services"
+    },
+    "exhibit_answer": "Key Insights: 1. Families: Represent the largest segment, with high average spend. They value bulk discounts and family-oriented events. 2. Young Professionals: Seek convenience and quality, making them ideal candidates for premium product promotions and express checkout services. 3. Health-Conscious Shoppers: Willing to spend more on organic and healthy options. Target them with discounts on these products. 4. Seniors: Value affordability and accessibility. Offer senior discounts and delivery services to cater to their needs. 5. Personalization: Tailoring rewards and communication to each segment can significantly enhance engagement and satisfaction. 6. Partnerships: Collaborating with other businesses can provide additional value to customers and differentiate CanadaCo's loyalty program.",
+    "math_prompt": "Calculate the Expected Increase in Customer Lifetime Value (CLV). CanadaCo aims to implement a new tiered loyalty program. Assume the following:\nCurrent average monthly spend per customer is $350.\nThe new loyalty program is expected to increase average monthly spend by 10% for silver members, 20% for gold members, and 30% for platinum members.\n50% of customers are expected to reach silver status, 30% gold status, and 20% platinum status.\nThe average customer lifespan is 5 years.\nCalculate the expected increase in Customer Lifetime Value (CLV) due to the new loyalty program.",
+    "math_answer": "Step-by-Step Solution:\n1. Calculate the new average monthly spend for each tier:\nSilver: $350 * 1.10 = $385\nGold: $350 * 1.20 = $420\nPlatinum: $350 * 1.30 = $455\n\n2. Calculate the weighted average monthly spend:\nWeighted Average = (0.50 * $385) + (0.30 * $420) + (0.20 * $455) = $403.50\n\n3. Calculate the increase in average monthly spend:\nIncrease = $403.50 - $350 = $53.50\n\n4. Calculate the increase in annual spend:\nIncrease in Annual Spend = $53.50 * 12 = $642\n\n5. Calculate the increase in Customer Lifetime Value (CLV):\nIncrease in CLV = $642 * 5 = $3,210\n\n6. Expected increase in CLV:\nThe new loyalty program is expected to increase the CLV by $3,210 per customer.",
+    "creative_prompt": "How can CanadaCo differentiate its loyalty program from competitors in a way that adds unique value to customers?",
+    "creative_answer": [
+      "Experiential Rewards: Offer unique experiences such as cooking classes with celebrity chefs, exclusive access to new product launches, or VIP events.",
+      "Sustainability Initiatives: Integrate eco-friendly rewards, such as points for using reusable bags or purchasing sustainable products, and donate a portion of points to environmental causes.",
+      "Community Engagement: Create a community platform where members can share recipes, participate in challenges, and earn points for community involvement.",
+      "Health and Wellness Programs: Partner with fitness and wellness brands to offer discounts on gym memberships, health screenings, and wellness products.",
+      "Technology Integration: Use advanced analytics and AI to provide hyper-personalized offers and real-time rewards based on customer behavior and preferences."
+    ],
+    "final_suggestion": "To successfully revamp its loyalty program, CanadaCo should focus on understanding its customer segments and tailoring rewards to meet their specific needs. Implementing a tiered rewards system, enhancing engagement through personalized communication, and differentiating the program with unique value propositions will be key to increasing customer retention and satisfaction. Continuous feedback and data analysis will be essential to refine the program and ensure its long-term success."
+  }
+}

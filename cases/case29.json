@@ -1,0 +1,40 @@
+{
+  "id": "case29",
+  "content_type": "case",
+  "category": "mergers-and-acquisitions",
+  "industry": "consumer-goods",
+  "topic": "portfolio-optimization",
+  "subtopic": "divest-invest-merge",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": ["m&a", "portfolio-optimization", "consumer-goods", "private-equity", "divestiture"],
+  "title": "Optimizing a PE Firm's Consumer Goods Portfolio",
+  "summary": "Decide which consumer brands to divest, invest in, or merge to maximize a PE firm's long-term portfolio value.",
+  "prompt": "Our client, a private equity firm, owns multiple consumer brands in the consumer goods sector. They are seeking to optimize their portfolio to maximize long-term returns. Specifically, the firm needs to decide which brands to divest, invest in, or merge. The objective is to enhance the overall value of their holdings by making strategic decisions based on market trends, brand performance, and potential for growth.",
+  "sections": {
+    "clarifying_questions": [
+      {"question": "What is the primary goal of the private equity firm?", "answer": "The primary goal is to maximize long-term returns by optimizing their portfolio of consumer brands through strategic divestments, investments, and mergers."},
+      {"question": "What criteria does the firm use to evaluate the performance of its brands?", "answer": "Criteria include revenue growth, profitability, market share, brand strength, and alignment with market trends."},
+      {"question": "Are there any specific market trends or consumer behavior changes that the firm should consider?", "answer": "Yes, trends such as increasing demand for sustainable products, digital transformation, and shifts in consumer preferences towards health and wellness."},
+      {"question": "What is the current financial health of each brand in the portfolio?", "answer": "Financial health varies; some brands are highly profitable with strong growth potential, while others are underperforming or facing declining market share."},
+      {"question": "What are the potential synergies if the firm decides to merge some of its brands?", "answer": "Potential synergies include cost savings from economies of scale, expanded product offerings, and enhanced market presence."}
+    ],
+    "framework": [
+      {"title": "Market Analysis", "points": ["Market Trends: Identify current and emerging trends in the consumer goods sector, including increasing demand for sustainable and eco-friendly products, growth in e-commerce and digital channels, and rising consumer interest in health and wellness.", "Competitive Landscape: Analyze the competitive environment for each brand. Identify key competitors and their market positioning. Assess potential threats and opportunities.", "Consumer Preferences: Understand changes in consumer behavior and preferences. Conduct surveys and focus groups. Analyze social media and online reviews."]},
+      {"title": "Financial Performance", "points": ["Revenue and Profitability: Evaluate the financial performance of each brand. Analyze historical revenue and profit margins. Project future financial performance based on market trends.", "Cost Structure: Examine the cost structure and identify areas for improvement. Assess fixed and variable costs. Identify opportunities for cost reduction.", "Return on Investment (ROI): Calculate the ROI for each brand. Compare ROI across brands to identify high-performing and underperforming brands."]},
+      {"title": "Strategic Fit", "points": ["Brand Synergies: Identify potential synergies between brands. Evaluate opportunities for cross-brand promotions and product bundling. Assess potential cost savings from shared resources and capabilities.", "Growth Potential: Assess the growth potential of each brand. Identify brands with high growth potential in emerging markets. Evaluate potential for product line extensions and new market entry.", "Divestment Opportunities: Identify brands that are not aligned with the firm's strategic goals. Evaluate potential buyers and market conditions for divestment. Assess the impact of divestment on the overall portfolio."]}
+    ],
+    "exhibit": {
+      "title": "Financial Performance and Market Positioning of Portfolio Brands",
+      "content": "Brand | Revenue ($M) | Profit Margin (%) | Market Share (%) | Growth Rate (%) | Strategic Fit Score (1-10)\nBrand A | 150 | 12 | 8 | 5 | 8\nBrand B | 200 | 15 | 10 | 7 | 9\nBrand C | 100 | 8 | 5 | 3 | 6\nBrand D | 250 | 18 | 12 | 10 | 10\nBrand E | 80 | 5 | 3 | 2 | 4"
+    },
+    "exhibit_answer": "Key insights from the exhibit: 1. Brand D shows the highest revenue and profit margin, indicating strong financial performance and market position. 2. Brand E has the lowest revenue and profit margin, suggesting it may be a candidate for divestment. 3. Brand B has a high strategic fit score and growth rate, making it a potential candidate for further investment. 4. Brand A and Brand C have moderate financial performance and strategic fit scores, indicating potential for improvement or consolidation. 5. Market Share: Brands D and B have the highest market shares, indicating strong competitive positions. 6. Growth Rates: Brand D shows the highest growth rate, suggesting strong future potential.",
+    "math_prompt": "Calculate the expected increase in overall portfolio revenue if the firm invests an additional $10M in Brand B, resulting in a 20% increase in its revenue. Assume no changes in the revenue of other brands.",
+    "math_answer": "1. Current Revenue of Brand B: $200M\n2. Projected Increase in Revenue: 20%\nIncrease = $200M * 20% = $40M\n3. New Revenue of Brand B: $200M + $40M = $240M\n4. Overall Portfolio Revenue Increase: $40M\n\nStep-by-Step Solution:\n1. Identify the current revenue of Brand B: $200M.\n2. Calculate the increase in revenue: 20% of $200M = $40M.\n3. Add the increase to the current revenue: $200M + $40M = $240M.\n4. The overall portfolio revenue increases by $40M.",
+    "creative_prompt": "Given the current market trends and the financial performance of the brands, propose a strategic initiative that the private equity firm could implement to enhance the value of its consumer goods portfolio.",
+    "creative_answer": [
+      "Launch a sustainability-focused product line across all brands. This initiative would capitalize on the growing consumer demand for eco-friendly products. The firm could invest in sustainable sourcing, eco-friendly packaging, and marketing campaigns highlighting the environmental benefits of the products. Additionally, the firm could establish partnerships with environmental organizations to enhance brand credibility and appeal to environmentally conscious consumers. This initiative would not only drive revenue growth but also improve brand image and loyalty."
+    ],
+    "final_suggestion": "To effectively solve this case, interviewees should focus on a comprehensive analysis of market trends, financial performance, and strategic fit. They should use the provided data to identify high-performing brands for further investment, underperforming brands for divestment, and potential synergies for mergers. By presenting a well-structured and data-driven recommendation, interviewees can demonstrate their ability to optimize the portfolio and maximize long-term returns for the private equity firm."
+  }
+}

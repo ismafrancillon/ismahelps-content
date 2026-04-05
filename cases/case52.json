@@ -1,0 +1,95 @@
+{
+  "id": "case52",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "cybersecurity",
+  "topic": "risk-management",
+  "subtopic": "critical-infrastructure-protection",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "cybersecurity",
+    "critical-infrastructure",
+    "risk-management",
+    "government",
+    "strategy"
+  ],
+  "title": "Strengthening Cybersecurity for Critical Infrastructure",
+  "summary": "Develop a comprehensive national cybersecurity strategy to protect critical infrastructure including power grids, hospitals, and banks.",
+  "prompt": "A national government is deeply concerned about the rising cyber threats targeting its critical infrastructure, including power grids, hospitals, and financial institutions. These sectors are vital for national security and economic stability, and any disruption can have severe consequences. The government seeks a comprehensive strategy to enhance cybersecurity measures, prevent potential attacks, and ensure rapid response and recovery in case of a breach. The consultant's task is to develop a robust cybersecurity framework, identify key vulnerabilities, and recommend actionable steps to mitigate risks.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the current cybersecurity measures in place for each sector?",
+        "answer": "The current measures include basic firewalls, antivirus software, and periodic security audits. However, there is a lack of advanced threat detection systems, real-time monitoring, and incident response protocols."
+      },
+      {
+        "question": "Have there been any recent cyber incidents or breaches? If so, what were the impacts?",
+        "answer": "Yes, recent incidents include a ransomware attack on a major hospital, a phishing scam targeting a financial institution, and a malware infection in the power grid control systems. These caused operational disruptions, financial losses, and compromised sensitive data."
+      },
+      {
+        "question": "What is the budget allocated for enhancing cybersecurity?",
+        "answer": "The government has allocated a budget of $500 million for a comprehensive cybersecurity overhaul, including technology upgrades, personnel training, and incident response planning."
+      },
+      {
+        "question": "Are there any regulatory or compliance requirements?",
+        "answer": "Yes, the strategy must comply with national cybersecurity regulations, international standards (such as ISO/IEC 27001), and sector-specific guidelines (such as NERC CIP for power grids and HIPAA for hospitals)."
+      },
+      {
+        "question": "What is the timeline for implementing the proposed measures?",
+        "answer": "The government aims to implement the proposed measures within the next 24 months, with periodic reviews and updates."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Assessment of Current Cybersecurity Posture",
+        "points": [
+          "Evaluate existing cybersecurity infrastructure in power grids, hospitals, and financial institutions.",
+          "Identify gaps and weaknesses in current systems.",
+          "Conduct a risk assessment to prioritize vulnerabilities based on potential impact and likelihood."
+        ]
+      },
+      {
+        "title": "Development of Comprehensive Cybersecurity Strategy",
+        "points": [
+          "Define clear objectives and goals for the cybersecurity program.",
+          "Develop policies and procedures for threat detection, incident response, and recovery.",
+          "Implement advanced technologies such as AI-driven threat detection, real-time monitoring, and encryption."
+        ]
+      },
+      {
+        "title": "Implementation and Training",
+        "points": [
+          "Roll out new cybersecurity measures across all sectors.",
+          "Conduct training programs for staff on best practices and protocols.",
+          "Establish continuous monitoring and improvement processes."
+        ]
+      },
+      {
+        "title": "Regulatory Compliance and Governance",
+        "points": [
+          "Ensure all measures comply with relevant regulations and standards.",
+          "Establish a governance framework to oversee the cybersecurity program.",
+          "Conduct regular audits and reviews for ongoing compliance and effectiveness."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Cybersecurity Posture Assessment by Sector",
+      "content": "Sector | Key Vulnerabilities | Current Measures | Proposed Enhancements\nPower Grids | Outdated control systems, lack of real-time monitoring | Basic firewalls, periodic audits | AI-driven threat detection, real-time monitoring, encryption\nHospitals | Ransomware attacks, phishing scams | Antivirus software, basic firewalls | Advanced threat detection, staff training, incident response planning\nFinancial Institutions | Data breaches, phishing scams | Firewalls, security audits | Real-time monitoring, encryption, continuous training"
+    },
+    "exhibit_answer": "Power Grids: Outdated control systems and lack of real-time monitoring are significant vulnerabilities. Proposed enhancements include AI-driven threat detection and encryption. Hospitals: Ransomware and phishing are major concerns. Advanced threat detection and staff training are crucial. Financial Institutions: Data breaches and phishing are prevalent. Real-time monitoring and encryption are recommended. Overall, current measures are basic and insufficient. The $500 million budget should be strategically utilized to address the most critical vulnerabilities first.",
+    "math_prompt": "The government has allocated $500 million for cybersecurity. The cost breakdown is: AI-driven threat detection ($150M), real-time monitoring ($100M), encryption ($50M), staff training ($50M), incident response planning ($50M), compliance audits ($50M). Calculate the remaining budget and if 20% of the remainder is allocated for continuous improvement, how much is that?",
+    "math_answer": "Step 1: Total cost of enhancements:\n$150M + $100M + $50M + $50M + $50M + $50M = $450M\n\nStep 2: Remaining budget:\n$500M - $450M = $50M\n\nStep 3: Continuous improvement allocation:\n20% of $50M = $10M\n\nThe remaining $50M ensures funds for continuous improvement, with $10M specifically allocated for adapting to new threats.",
+    "creative_prompt": "Propose a long-term strategy for maintaining and continuously improving cybersecurity measures for critical infrastructure.",
+    "creative_answer": [
+      "Continuous Monitoring and Threat Intelligence: Establish a dedicated cybersecurity operations center (CSOC) with real-time monitoring and international collaboration on threat intelligence.",
+      "Regular Audits and Assessments: Conduct regular cybersecurity audits with a risk management framework prioritizing vulnerabilities.",
+      "Advanced Technologies and Automation: Invest in machine learning and AI for automated threat detection and predictive analytics.",
+      "Training and Awareness Programs: Continuously educate staff with regular phishing simulations and cybersecurity drills.",
+      "Policy and Governance: Develop comprehensive cybersecurity policies with an oversight committee for major initiatives.",
+      "Innovation and Research: Partner with academic institutions and fund research on new cybersecurity techniques."
+    ],
+    "final_suggestion": "Take a holistic approach encompassing assessment, strategy development, implementation, and continuous improvement. Focus on leveraging advanced technologies, enhancing staff capabilities, and ensuring compliance with regulatory standards. Regularly review and update the cybersecurity framework to adapt to new threats and maintain a robust defense posture."
+  }
+}

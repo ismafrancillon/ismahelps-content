@@ -1,0 +1,87 @@
+{
+  "id": "case35",
+  "content_type": "case",
+  "category": "market-entry",
+  "industry": "medical-devices",
+  "topic": "local-manufacturing",
+  "subtopic": "import-substitution",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "market-entry",
+    "medical-devices",
+    "manufacturing",
+    "developing-country",
+    "industrial-policy"
+  ],
+  "title": "Building Local Medical Device Manufacturing Capacity",
+  "summary": "Develop a national strategy for a developing country to reduce reliance on imported medical devices through local production.",
+  "prompt": "A developing country's government aims to reduce its reliance on imported medical devices by promoting local manufacturing. The government has identified this as a strategic priority to improve healthcare access, create jobs, and foster economic growth. They seek to develop a comprehensive national strategy that includes policy incentives, infrastructure investments, and partnerships with private sector players. The government has approached your consulting firm to help design this strategy. Your task is to analyze the current landscape, identify key opportunities and challenges, and propose actionable recommendations to establish a robust local medical device manufacturing industry.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What specific types of medical devices are currently being imported, and which ones are prioritized for local manufacturing?",
+        "answer": "Currently, the country imports diagnostic imaging equipment, surgical instruments, and patient monitoring systems. The priority for local manufacturing includes basic surgical instruments, diagnostic kits, and low-cost patient monitoring devices."
+      },
+      {
+        "question": "What are the existing capabilities of the local manufacturing sector?",
+        "answer": "The local manufacturing sector has moderate capability, primarily focused on low-tech medical supplies such as bandages and syringes. There is limited experience with high-tech devices and the sector lacks advanced manufacturing technologies and skilled labor."
+      },
+      {
+        "question": "What policy incentives is the government considering?",
+        "answer": "The government is considering tax incentives, subsidies for R&D, grants for technology acquisition, and streamlined regulatory approval processes."
+      },
+      {
+        "question": "What is the current state of infrastructure relevant to medical device manufacturing?",
+        "answer": "The infrastructure is underdeveloped, with inadequate power supply, limited access to clean water, and insufficient transportation networks. However, there are plans to invest in industrial parks and special economic zones."
+      },
+      {
+        "question": "What potential partnerships with private sector players are being considered?",
+        "answer": "Potential partnerships include collaborations with multinational medical device companies for technology transfer, joint ventures with local firms, and partnerships with academic institutions for R&D."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Market Analysis",
+        "points": [
+          "Demand Assessment: Evaluate current and projected demand for medical devices. Identify key segments with highest growth potential.",
+          "Competitive Landscape: Analyze existing players including domestic and international companies.",
+          "Regulatory Environment: Review the regulatory framework governing medical device manufacturing and importation."
+        ]
+      },
+      {
+        "title": "Capability Assessment",
+        "points": [
+          "Manufacturing Capabilities: Assess current technology, expertise, and production capacity of local firms.",
+          "Supply Chain Analysis: Evaluate the existing supply chain for raw materials, components, and distribution.",
+          "Human Capital: Analyze the availability of skilled labor and training programs. Identify gaps."
+        ]
+      },
+      {
+        "title": "Strategic Recommendations",
+        "points": [
+          "Policy Incentives: Propose specific measures such as tax breaks, subsidies, and grants.",
+          "Infrastructure Development: Recommend investments in industrial parks, transportation networks, and utilities.",
+          "Partnership Strategies: Identify potential partners and propose strategies for technology transfer, joint ventures, and public-private partnerships."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Medical Device Market and Manufacturing Assessment",
+      "content": "Variable | Current State | Target State | Key Actions Required\nMedical Device Demand | $500 million annually | $750 million annually | Increase healthcare access and affordability\nLocal Manufacturing Capacity | 20% of market demand | 60% of market demand | Invest in technology and training\nRegulatory Approval Time | 12 months | 6 months | Streamline regulatory processes\nSkilled Labor Availability | 5,000 workers | 15,000 workers | Expand training programs\nInfrastructure Investment | $100 million | $300 million | Develop industrial parks and utilities\nForeign Direct Investment | $50 million annually | $150 million annually | Offer tax incentives and subsidies"
+    },
+    "exhibit_answer": "Medical Device Demand: Current demand is $500 million, expected to grow to $750 million, indicating significant market opportunity. Local Manufacturing Capacity: Currently 20%, target is 60% by investing in technology and training. Regulatory Approval Time: Streamlining from 12 to 6 months would make the market more attractive. Skilled Labor: Expanding from 5,000 to 15,000 workers is essential for scaling. Infrastructure Investment: Increasing from $100M to $300M needed for industrial parks and utilities. Foreign Direct Investment: Increasing from $50M to $150M annually through incentives will support growth.",
+    "math_prompt": "The government aims to increase local manufacturing capacity from 20% to 60% of market demand over the next five years. Assuming the current market demand is $500 million annually, and it is expected to grow at a CAGR of 8%, calculate the additional manufacturing capacity required each year. Also, estimate the total investment needed if the cost of increasing capacity is $10 million per percentage point.",
+    "math_answer": "Step 1: Calculate market demand for each year:\nYear 1: $500M * 1.08 = $540M\nYear 2: $540M * 1.08 = $583.2M\nYear 3: $583.2M * 1.08 = $629.86M\nYear 4: $629.86M * 1.08 = $680.24M\nYear 5: $680.24M * 1.08 = $734.66M\n\nStep 2: Calculate additional capacity required each year (60% target vs 20% current).\n\nStep 3: Total investment needed = approximately $131.41 million based on the percentage point increases required across the five-year period at $10 million per percentage point.",
+    "creative_prompt": "Propose a strategy for the government to attract leading global medical device companies to establish manufacturing facilities in the country.",
+    "creative_answer": [
+      "Incentive Packages: Offer tax holidays, reduced tariffs on imported machinery, and grants for R&D.",
+      "Public-Private Partnerships: Establish partnerships to leverage government resources and private sector expertise.",
+      "Technology Transfer Agreements: Encourage technology transfer where global companies share manufacturing technologies in exchange for market access.",
+      "Regulatory Support: Streamline regulatory processes for quick and efficient approval of new facilities and products.",
+      "Infrastructure Development: Invest in world-class industrial parks with state-of-the-art facilities and efficient logistics.",
+      "Skilled Workforce Development: Partner with educational institutions to develop specialized training programs."
+    ],
+    "final_suggestion": "Developing a national strategy for medical device manufacturing requires a comprehensive approach that addresses market demand, manufacturing capabilities, regulatory environment, and infrastructure development. By leveraging policy incentives, strategic partnerships, and targeted investments, the government can reduce reliance on imported medical devices and foster a thriving local manufacturing sector."
+  }
+}

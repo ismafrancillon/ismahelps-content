@@ -1,0 +1,87 @@
+{
+  "id": "case32",
+  "content_type": "case",
+  "category": "public-policy",
+  "industry": "water-infrastructure",
+  "topic": "access-expansion",
+  "subtopic": "clean-water-initiative",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "public-policy",
+    "clean-water",
+    "ngo",
+    "rural-development",
+    "infrastructure"
+  ],
+  "title": "Expanding Clean Water Access in Rural Africa",
+  "summary": "Evaluate technology, logistics, and community adoption strategies for an NGO improving rural water access in Africa.",
+  "prompt": "An international NGO is partnering with the government of a developing country in Africa to improve access to clean drinking water in rural areas. The team must evaluate various technological solutions, logistics, and community adoption strategies to ensure the success of this initiative. The goal is to identify the most cost-effective and sustainable method to provide clean water, considering the unique challenges faced by rural communities.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What is the current state of water infrastructure in the targeted rural areas?",
+        "answer": "The current water infrastructure in rural areas is minimal. Most communities rely on natural water sources such as rivers and wells, which are often contaminated. There is no centralized water treatment or distribution system."
+      },
+      {
+        "question": "What are the primary health issues caused by the lack of clean water in these areas?",
+        "answer": "The primary health issues include waterborne diseases such as cholera, diarrhea, and typhoid. These diseases are prevalent due to the consumption of contaminated water."
+      },
+      {
+        "question": "What is the budget allocated for this project by the NGO and the government?",
+        "answer": "The combined budget allocated for the project is $5 million, which includes funds for technology implementation, logistics, and community education programs."
+      },
+      {
+        "question": "Are there any existing local organizations or community groups that can assist with the project?",
+        "answer": "Yes, there are several local community groups and health workers who can assist with the project. They have a good understanding of the local context and can help with community engagement and education."
+      },
+      {
+        "question": "What is the timeline for the implementation of this project?",
+        "answer": "The project is planned to be implemented over a period of three years, with the first year focused on planning and pilot testing, and the remaining two years on full-scale implementation and monitoring."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Technological Solutions",
+        "points": [
+          "Desalination: Pros \u2014 reliable source from seawater. Cons \u2014 high initial and operational costs, requires significant energy.",
+          "Boreholes and Wells: Pros \u2014 relatively lower cost, consistent supply if maintained. Cons \u2014 risk of contamination, requires regular maintenance.",
+          "Filtration Systems: Pros \u2014 can be implemented at household or community level, relatively low cost. Cons \u2014 requires regular replacement of filters, may not remove all contaminants."
+        ]
+      },
+      {
+        "title": "Logistics",
+        "points": [
+          "Transportation of Equipment: Identify the most efficient and cost-effective means of transporting equipment to remote areas.",
+          "Installation and Maintenance: Develop a plan for installation and regular maintenance, including training local technicians.",
+          "Supply Chain Management: Ensure a steady supply of necessary materials to avoid disruptions."
+        ]
+      },
+      {
+        "title": "Community Adoption Strategies",
+        "points": [
+          "Education and Awareness: Conduct community workshops to educate residents on the importance of clean water and proper hygiene.",
+          "Engagement with Local Leaders: Involve local leaders in the project to gain community trust and support.",
+          "Incentive Programs: Develop incentive programs to encourage adoption of clean water practices."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Comparison of Clean Water Technologies",
+      "content": "Technology | Initial Cost ($) | Annual Maintenance Cost ($) | Implementation Time (Months) | Expected Impact (Households Served)\nDesalination | 2,000,000 | 500,000 | 12 | 10,000\nBoreholes/Wells | 500,000 | 100,000 | 6 | 20,000\nFiltration | 300,000 | 50,000 | 3 | 15,000"
+    },
+    "exhibit_answer": "1. Desalination: High initial and maintenance costs, but can serve a significant number of households. Suitable for areas near the coast. 2. Boreholes/Wells: Lower initial and maintenance costs, quicker implementation time, and can serve more households. Requires regular maintenance to prevent contamination. 3. Filtration Systems: Lowest initial and maintenance costs, quickest implementation time, suitable for household-level implementation. 4. Cost-Effectiveness: Boreholes/Wells appear to be the most cost-effective solution in terms of households served per dollar spent. 5. Scalability: Filtration systems can be easily scaled up or down based on community size. 6. Sustainability: Boreholes/Wells and Filtration systems are more sustainable due to lower operational costs.",
+    "math_prompt": "Calculate the total cost of implementing boreholes/wells in 50 rural villages, considering both initial and annual maintenance costs over a three-year period. Assume each village requires one borehole and serves 400 households. Additionally, calculate the cost per household served over the three years.",
+    "math_answer": "1. Initial Cost Calculation:\nInitial cost per borehole = $500,000\nNumber of villages = 50\nTotal initial cost = $500,000 * 50 = $25,000,000\n\n2. Annual Maintenance Cost Calculation:\nAnnual maintenance cost per borehole = $100,000\nTotal annual maintenance cost for 50 boreholes = $100,000 * 50 = $5,000,000\nTotal maintenance cost over three years = $5,000,000 * 3 = $15,000,000\n\n3. Total Cost Calculation:\nTotal cost over three years = $25,000,000 + $15,000,000 = $40,000,000\n\n4. Cost per Household Calculation:\nTotal households served = 50 * 400 = 20,000 households\nCost per household over three years = $40,000,000 / 20,000 = $2,000",
+    "creative_prompt": "How would you design a community engagement program to ensure the successful adoption and long-term sustainability of the clean water project in rural areas?",
+    "creative_answer": [
+      "Stakeholder Involvement: Engage local leaders, health workers, and community groups from the outset to build trust and ensure community buy-in.",
+      "Educational Workshops: Conduct regular workshops to educate residents on the importance of clean water, proper hygiene, and maintenance of the water systems.",
+      "Incentive Programs: Offer incentives such as free water containers or filters to households that actively participate in the program.",
+      "Feedback Mechanism: Establish a feedback mechanism where community members can report issues, provide suggestions, and receive updates.",
+      "Local Employment: Train and employ local residents as technicians and educators to maintain the water systems and conduct community outreach.",
+      "Monitoring and Evaluation: Implement a robust monitoring and evaluation system to track impact, address challenges, and make necessary adjustments."
+    ],
+    "final_suggestion": "To ensure the success of the clean water project, it is essential to choose the most cost-effective and sustainable technological solution, such as boreholes/wells. Equally important is the implementation of a comprehensive community engagement program that involves local stakeholders, provides education, offers incentives, and ensures ongoing maintenance and monitoring."
+  }
+}

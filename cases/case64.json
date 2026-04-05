@@ -1,0 +1,95 @@
+{
+  "id": "case64",
+  "content_type": "case",
+  "category": "growth-strategy",
+  "industry": "manufacturing",
+  "topic": "economic-transformation",
+  "subtopic": "industrial-city-revival",
+  "difficulty": "Hard",
+  "style": "McKinsey",
+  "tags": [
+    "economic-transformation",
+    "manufacturing",
+    "job-creation",
+    "urban-revival",
+    "automation"
+  ],
+  "title": "Revitalizing a Declining Manufacturing Hub",
+  "summary": "Develop economic transformation strategies for a declining industrial city facing significant job losses from automation and offshoring.",
+  "prompt": "A once-thriving industrial city in a developed economy is experiencing significant job losses due to automation and offshoring. The city's economy, heavily reliant on manufacturing, is struggling, and the local government is seeking strategies to transform and revitalize the economic landscape. The consulting team is tasked with developing a comprehensive plan to stimulate economic growth, attract new industries, and create sustainable employment opportunities. The plan should consider leveraging existing infrastructure, workforce skills, and potential new sectors for investment.",
+  "sections": {
+    "clarifying_questions": [
+      {
+        "question": "What are the key industries currently present in the city?",
+        "answer": "The city primarily relies on automotive manufacturing, steel production, and machinery manufacturing."
+      },
+      {
+        "question": "What is the current unemployment rate, and how has it changed?",
+        "answer": "The current unemployment rate is 12%, up from 6% five years ago."
+      },
+      {
+        "question": "What are the existing infrastructure and resources?",
+        "answer": "The city has a well-developed transportation network, including highways, railways, and a port. It also has several industrial parks and a skilled manufacturing workforce."
+      },
+      {
+        "question": "Are there any initiatives or incentives currently in place?",
+        "answer": "Yes, the local government offers tax incentives, grants for innovation, and subsidies for green energy projects."
+      },
+      {
+        "question": "What are the main challenges in implementing economic transformation?",
+        "answer": "The main challenges include resistance to change from the local community, limited financial resources, and competition from other cities for new investments."
+      }
+    ],
+    "framework": [
+      {
+        "title": "Industry Diversification",
+        "points": [
+          "Identify Potential Growth Sectors: Assess technology, renewable energy, and healthcare as complementary sectors.",
+          "Leverage Existing Skills: Utilize the skilled manufacturing workforce through targeted retraining programs.",
+          "Encourage Startups and SMEs: Develop incubators and accelerators to foster innovation."
+        ]
+      },
+      {
+        "title": "Infrastructure Development",
+        "points": [
+          "Upgrade Transportation Networks: Enhance logistical capabilities to attract new businesses.",
+          "Develop Smart City Initiatives: Implement technologies to improve efficiency and attract tech companies.",
+          "Promote Green Energy Projects: Invest in renewable energy infrastructure as a hub for green technology."
+        ]
+      },
+      {
+        "title": "Workforce Development",
+        "points": [
+          "Reskilling and Upskilling Programs: Provide training to help workers transition to new industries.",
+          "Partnerships with Educational Institutions: Align curricula with emerging industry needs.",
+          "Attract and Retain Talent: Create a vibrant living environment with affordable housing and cultural amenities."
+        ]
+      },
+      {
+        "title": "Economic Incentives and Policy Support",
+        "points": [
+          "Tax Incentives and Grants: Offer attractive financial incentives for investing businesses.",
+          "Public-Private Partnerships: Co-invest in infrastructure and development projects.",
+          "Regulatory Support: Streamline regulations for businesses navigating bureaucratic processes."
+        ]
+      }
+    ],
+    "exhibit": {
+      "title": "Economic Indicators and Potential Growth Sectors",
+      "content": "Indicator | Current Value | 5-Year Trend | Potential Sector Impact\nUnemployment Rate | 12% | +6% | Technology, Healthcare\nManufacturing Jobs | 30,000 | -40% | Renewable Energy\nAverage Salary | $45,000 | -10% | Technology\nInfrastructure Investment | $500M | +20% | All Sectors\nWorkforce with Tech Skills | 15% | +5% | Technology, Healthcare\nTax Incentives Available | $50M | +10% | All Sectors"
+    },
+    "exhibit_answer": "High Unemployment: Doubled in five years, indicating significant economic downturn. Manufacturing Job Decline: 40% reduction highlights automation and offshoring impact. Stagnant Salaries: 10% decrease suggests reduced spending power. Increased Infrastructure Investment: 20% increase shows proactive government measures. Growing Tech Skills: 5% increase indicates potential for technology sector growth. Available Tax Incentives: $50M provides foundation for attracting new businesses.",
+    "math_prompt": "The city plans to invest $200M in infrastructure improvements over five years. If the average annual ROI is 8%, calculate the total economic impact. Also estimate jobs created if each $1M investment generates 50 jobs.",
+    "math_answer": "1. Annual ROI: $200M * 8% = $16M\n2. Total ROI Over Five Years: $16M * 5 = $80M\n3. Total Economic Impact: $200M + $80M = $280M\n4. Jobs Created: $200M * 50 jobs/$1M = 10,000 jobs\n\nThe $280M economic impact and 10,000 new jobs can significantly reduce unemployment and stimulate growth.",
+    "creative_prompt": "Propose a strategic initiative to position the city as a leader in renewable energy.",
+    "creative_answer": [
+      "Establish a 'Green Innovation Hub' focused on renewable energy R&D and manufacturing.",
+      "Public-Private Partnerships: Collaborate with leading renewable energy companies and academic institutions.",
+      "Incentives and Grants: Provide financial support to attract renewable energy startups.",
+      "Infrastructure Support: Invest in solar farms, wind turbines, and smart grids.",
+      "Workforce Training: Develop specialized programs for renewable energy technologies.",
+      "Marketing and Branding: Promote the city as a 'Green Innovation Hub' to attract global investment."
+    ],
+    "final_suggestion": "Revitalizing the city requires a multi-faceted approach including industry diversification, infrastructure development, workforce training, and economic incentives. Leveraging existing assets and investing in new growth sectors like technology and renewable energy can stimulate growth and create sustainable employment."
+  }
+}
