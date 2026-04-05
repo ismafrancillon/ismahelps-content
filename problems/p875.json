@@ -1,0 +1,32 @@
+{
+  "id": "p875",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Efficient Capital Markets",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "efficient-frontier",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Efficient Capital Markets: The efficient market hypothesis implies that it is impossible to...",
+  "summary": "Evaluate the efficient market hypothesis and its investment implications.",
+  "prompt": "The efficient market hypothesis implies that it is impossible to achieve excess returns consistently through stock picking.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The efficient market hypothesis posits that all known information is already reflected in stock prices, making it difficult for investors to consistently achieve returns greater than the market average without assuming additional risk."
+}

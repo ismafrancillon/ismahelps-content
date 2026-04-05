@@ -1,0 +1,33 @@
+{
+  "id": "p870",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: In a perfect market, the value of a levered firm...",
+  "summary": "Calculate the present value of a future amount using discounting.",
+  "prompt": "In a perfect market, the value of a levered firm is equal to the value of an unlevered firm plus the present value of the tax shield.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This statement is true. The value of a levered firm includes the tax shield benefits associated with debt, which means that the overall value of the firm increases with leverage due to tax advantages."
+}

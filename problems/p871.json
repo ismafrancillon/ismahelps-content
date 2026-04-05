@@ -1,0 +1,33 @@
+{
+  "id": "p871",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Options, Futures, and Corporate Finance",
+  "subtopic": "Options",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "systematic-risk",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Options: The capital asset pricing model (CAPM) is used to determine...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "The capital asset pricing model (CAPM) is used to determine the expected return of an asset based on its systematic risk.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "CAPM provides a formula that links the expected return of an asset to its risk as measured by beta, which quantifies the asset's volatility relative to the market. This model is fundamental in finance for estimating the required return on equity."
+}

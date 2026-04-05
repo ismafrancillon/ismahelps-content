@@ -1,0 +1,33 @@
+{
+  "id": "p876",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: The Modigliani-Miller Proposition I states that a firm's value is...",
+  "summary": "Evaluate MM Proposition I: capital structure does not affect firm value without taxes.",
+  "prompt": "The Modigliani-Miller Proposition I states that a firm's value is unaffected by its capital structure in a world without taxes.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Modigliani and Miller's Proposition I asserts that in an ideal scenario without taxes, the total value of a firm remains constant regardless of its debt-to-equity ratio. This is based on the assumption that investors can replicate the firm's leverage through personal borrowing and lending. As such, the decision on capital structure does not influence the overall value derived from the firm's assets."
+}

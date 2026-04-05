@@ -1,0 +1,32 @@
+{
+  "id": "p867",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-capital",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: A firm's capital structure is irrelevant in a perfectly competitive...",
+  "summary": "Calculate the IRR by finding the discount rate that sets NPV equal to zero.",
+  "prompt": "A firm's capital structure is irrelevant in a perfectly competitive market with no taxes.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "In a perfectly competitive market, the Modigliani-Miller theorem suggests that the capital structure does not affect the firm's overall value because the market is efficient. Investors can create their leverage, meaning the firm's financing decisions won't alter the total value created from its assets."
+}

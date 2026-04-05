@@ -1,0 +1,32 @@
+{
+  "id": "p869",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporate Financing Decisions: An efficient market is one where prices reflect all available...",
+  "summary": "Evaluate the efficient market hypothesis and its investment implications.",
+  "prompt": "An efficient market is one where prices reflect all available information, making it impossible to consistently achieve above-average returns.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "In an efficient market, all relevant information is already incorporated into stock prices, which means that no investor can consistently achieve above-average returns without assuming additional risk."
+}

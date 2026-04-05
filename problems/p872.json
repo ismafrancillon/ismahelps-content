@@ -1,0 +1,33 @@
+{
+  "id": "p872",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Financial Planning and Short-Term Finance",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "systematic-risk",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Financial Planning and Short-Term Finance: The capital asset pricing model (CAPM) suggests that the expected...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "The capital asset pricing model (CAPM) suggests that the expected return on a risky asset is a function of its systematic risk, measured by beta.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "CAPM articulates that the expected return on an asset depends on its beta, which measures its risk relative to the market, and the risk-free rate, plus a risk premium based on market return expectations."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p866",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Income Statement",
+  "subtopic": "Cash Flow Modeling",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "cash-flows",
+    "revenues",
+    "expenses",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cash Flow Modeling: The net operating income (NOI) is calculated before deducting mortgage...",
+  "summary": "Calculate NOI by subtracting operating expenses from rental income.",
+  "prompt": "The net operating income (NOI) is calculated before deducting mortgage payments.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "NOI is a key performance indicator for real estate investments, calculated by subtracting operating expenses from rental income. It does not include mortgage payments, making it a useful measure of property profitability."
+}

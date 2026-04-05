@@ -1,0 +1,32 @@
+{
+  "id": "p877",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: The Modigliani-Miller theorem states that in a perfect market, capital...",
+  "summary": "Assess the Modigliani-Miller theorem that capital structure is irrelevant in perfect markets.",
+  "prompt": "The Modigliani-Miller theorem states that in a perfect market, capital structure does not affect a firm's value.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The Modigliani-Miller theorem suggests that a firm's value is determined by its underlying assets and is independent of how it finances those assets. This principle holds under the assumption of perfect markets without taxes or bankruptcy costs. Market imperfections introduce considerations for capital structure."
+}

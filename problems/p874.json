@@ -1,0 +1,33 @@
+{
+  "id": "p874",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Dividend Policy",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "dividend-discount-model",
+    "growth-rate",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Dividend Policy: The dividend policy of a firm is irrelevant to its...",
+  "summary": "Calculate the IRR by finding the discount rate that sets NPV equal to zero.",
+  "prompt": "The dividend policy of a firm is irrelevant to its value in an efficient market.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "According to the dividend irrelevance theory proposed by Modigliani and Miller, in perfect markets, the dividend policy does not affect the firm's value because investors can create their cash flow through selling shares. Thus, they argue that the firm's overall value is determined by its investment decisions, not how it distributes dividends."
+}

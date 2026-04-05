@@ -1,0 +1,32 @@
+{
+  "id": "p861",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Introduction to Real Estate",
+  "subtopic": "Real Estate Functions",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "real-estate",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Real Estate Functions: Real estate is defined as property that can be owned...",
+  "summary": "Evaluate the definition of real estate as tangible property affixed to land.",
+  "prompt": "Real estate is defined as property that can be owned or possessed and is always a physical asset.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True. Real estate consists of tangible assets that are permanently affixed to land. It includes raw land, improvements to land (utilities, roads), and improvements on land (structures). Understanding the definition of real estate is crucial for students studying finance as it underpins various real estate transactions and investments. The classification of real estate into different types (residential, commercial) is essential for market analysis and investment strategies."
+}

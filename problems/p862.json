@@ -1,0 +1,32 @@
+{
+  "id": "p862",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Introduction to Real Estate",
+  "subtopic": "Residential Real Estate",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "residential",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Residential Real Estate: Residential property includes both single-family...",
+  "summary": "Evaluate whether residential property classifications include both single-family homes and multifamily apartments.",
+  "prompt": "Residential property includes both single-family homes and multifamily apartments.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Residential real estate is characterized by the types of properties available. Single-family homes are standalone units, while multifamily apartments consist of multiple units within one or more buildings. This classification is crucial for understanding market dynamics and investment strategies in real estate."
+}

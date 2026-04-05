@@ -1,0 +1,32 @@
+{
+  "id": "p863",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Functions",
+  "subtopic": "Building and Operating",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Building and Operating: The cash flow from a property can be significantly influenced...",
+  "summary": "Assess how effective property management influences property cash flow.",
+  "prompt": "The cash flow from a property can be significantly influenced by effective property management and tenant relations.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True. Effective property management and strong tenant relations can greatly influence a property's cash flow. Good management practices, such as timely maintenance, effective rent collection, and addressing tenant concerns, can enhance tenant satisfaction and retention, leading to stable and increased cash flows. This concept is vital for finance students to understand, as it directly relates to the operational performance of real estate investments and overall investment success."
+}

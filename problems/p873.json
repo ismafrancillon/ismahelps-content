@@ -1,0 +1,33 @@
+{
+  "id": "p873",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "debt-to-equity",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: The cost of equity rises as a firm takes on...",
+  "summary": "Evaluate how increasing leverage raises the cost of equity due to higher risk.",
+  "prompt": "The cost of equity rises as a firm takes on more debt.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "As a firm increases its leverage, the risk to equity holders also increases, leading to a higher required return on equity. This reflects the higher risk associated with the potential for financial distress and increased variability in returns."
+}

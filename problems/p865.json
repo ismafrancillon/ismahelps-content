@@ -1,0 +1,32 @@
+{
+  "id": "p865",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Income Approach: The income approach to real estate valuation primarily considers the...",
+  "summary": "Apply the income approach to real estate valuation.",
+  "prompt": "The income approach to real estate valuation primarily considers the current market value of the property based on its potential rental income.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True. The income approach to valuation is a common method used in real estate to assess a property's value based on its ability to generate income. This approach typically involves calculating the Net Operating Income (NOI) and applying a capitalization rate (cap rate) to determine the property's value. It is essential for investors to understand this approach as it directly impacts investment decisions and pricing strategies."
+}

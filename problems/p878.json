@@ -1,0 +1,33 @@
+{
+  "id": "p878",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Long-Term Financing",
+  "subtopic": "Long-Term Debt",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "wacc",
+    "cost-of-equity",
+    "cost-of-debt",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Long-Term Debt: The weighted average cost of capital (WACC) takes into account...",
+  "summary": "Evaluate WACC as a composite measure of equity and after-tax debt costs.",
+  "prompt": "The weighted average cost of capital (WACC) takes into account the cost of equity and the cost of debt.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "WACC is a crucial measure that reflects the average rate a company is expected to pay to finance its assets, weighted by the proportion of equity and debt in its capital structure. It combines both the cost of equity and the after-tax cost of debt."
+}

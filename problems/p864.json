@@ -1,0 +1,33 @@
+{
+  "id": "p864",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Loan Underwriting",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "financial-ratios",
+    "solvency",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Loan Underwriting: The debt service coverage ratio (DSCR) is calculated by dividing...",
+  "summary": "Calculate NOI by subtracting operating expenses from rental income.",
+  "prompt": "The debt service coverage ratio (DSCR) is calculated by dividing the net operating income (NOI) by the total debt service.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "True. The Debt Service Coverage Ratio (DSCR) is a financial metric used to assess a property’s ability to generate enough income to cover its debt obligations. It is calculated by dividing the Net Operating Income (NOI) by the total debt service. A DSCR greater than 1 indicates that the property generates sufficient income to cover its debt payments, while a DSCR less than 1 indicates a potential shortfall. This metric is critical for investors and lenders in evaluating the financial viability of a property."
+}

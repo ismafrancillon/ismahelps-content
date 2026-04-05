@@ -1,0 +1,32 @@
+{
+  "id": "p868",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: According to the tax shield approach, the value of a...",
+  "summary": "Calculate the present value of a future amount using discounting.",
+  "prompt": "According to the tax shield approach, the value of a levered firm is increased by the present value of the expected tax savings from interest payments.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The tax shield approach highlights that interest payments are tax-deductible, thus creating an additional value through tax savings, which increases the value of the firm."
+}

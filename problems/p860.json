@@ -1,0 +1,32 @@
+{
+  "id": "p860",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Equity and Capital Structure",
+  "subtopic": "REITs",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "shareholders",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "REITs: Real estate investment trusts (REITs) are required to distribute a...",
+  "summary": "Evaluate the REIT requirement to distribute at least 90% of taxable income.",
+  "prompt": "Real estate investment trusts (REITs) are required to distribute a significant portion of their annual profits to shareholders.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "REITs must distribute at least 90% of their taxable income to maintain their tax-exempt status. This requirement makes them an attractive investment for those seeking income."
+}
