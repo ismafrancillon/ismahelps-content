@@ -1,0 +1,40 @@
+{
+  "id": "p364",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Cost of Carry",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Carry: A stock index futures contract is priced at 1200 If...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A stock index futures contract is priced at 1,200. If the cost of carry is 50 points, what is the spot price of the underlying index?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$1,188"
+    },
+    {
+      "id": "B",
+      "text": "$2,500"
+    },
+    {
+      "id": "C",
+      "text": "$1,250"
+    },
+    {
+      "id": "D",
+      "text": "$1,000"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Futures Price = 1,200<br>Cost of Carry = 50 points<br><br>**Step 2: Calculate Spot Price**<br>Spot Price = Futures Price + Cost of Carry = 1,200 + 50 = 1,250.<br><br>**Step 3: Conclusion**<br>The spot price of the underlying index is 1,250."
+}

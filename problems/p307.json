@@ -1,0 +1,40 @@
+{
+  "id": "p307",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Types of Financial Statements",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "cash-flow-statement",
+    "financial-statements",
+    "liquidity",
+    "conceptual"
+  ],
+  "title": "Types of Financial Statements: Which of the following best describes the purpose of a...",
+  "summary": "Identify the purpose of the statement of cash flows in reporting cash activities.",
+  "prompt": "Which of the following best describes the purpose of a statement of cash flows?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "B",
+      "text": "Proportion of debt financing"
+    },
+    {
+      "id": "C",
+      "text": "The statement of cash flows is designed to provide information about cash"
+    },
+    {
+      "id": "D",
+      "text": "Measures long-term solvency"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The statement of cash flows is designed to provide information about cash inflows and outflows within an organization over a specific period of time. This statement categorizes cash flows into operating, investing, and financing activities, which helps stakeholders assess the company's liquidity, financial flexibility, and overall financial health. Understanding cash flows is essential for evaluating a company's ability to meet its obligations and fund its operations."
+}

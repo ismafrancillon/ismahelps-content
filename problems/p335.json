@@ -1,0 +1,40 @@
+{
+  "id": "p335",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "decision-making",
+    "internal-reporting",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: Identify one key role of managerial accounting within an organization....",
+  "summary": "Identify a primary purpose of managerial accounting in aiding management decision-making.",
+  "prompt": "Identify one key role of managerial accounting within an organization.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Follows GAAP/IFRS"
+    },
+    {
+      "id": "B",
+      "text": "Must publish quarterly"
+    },
+    {
+      "id": "C",
+      "text": "One key role of managerial accounting is to assist management in"
+    },
+    {
+      "id": "D",
+      "text": "Not required to follow standards"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "One key role of managerial accounting is to assist management in decision-making by providing relevant and timely information to internal users (Page 51)."
+}

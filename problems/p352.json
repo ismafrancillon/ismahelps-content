@@ -1,0 +1,41 @@
+{
+  "id": "p352",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Earnings Manipulation",
+  "subtopic": "Managed Earnings Phenomenon",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "earnings",
+    "income-statement",
+    "accounting-principles",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Managed Earnings Phenomenon: Which of the following statements is TRUE regarding managed earnings?...",
+  "summary": "Analyze an investment analysis concept related to Managed Earnings Phenomenon.",
+  "prompt": "Which of the following statements is true regarding managed earnings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "B",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "C",
+      "text": "Managed earnings often involve aggressive accounting techniques that can"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic value of the option"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Managed earnings often involve aggressive accounting techniques that can distort the true financial health of a firm. Companies may engage in practices such as earnings smoothing or using accounting loopholes to present a more favorable financial picture. This manipulation can mislead investors and analysts about the firm's actual performance, potentially affecting stock prices and investment decisions. It is crucial for stakeholders to critically analyze earnings reports to identify any signs of manipulation."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p338",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "financial-vs-managerial",
+    "comparison",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: What is the primary distinction of managerial accounting compared to...",
+  "summary": "Identify the primary distinction of managerial accounting as serving internal decision-making needs.",
+  "prompt": "What is the primary distinction of managerial accounting compared to financial accounting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "For internal decision-making"
+    },
+    {
+      "id": "B",
+      "text": "For external stakeholders"
+    },
+    {
+      "id": "C",
+      "text": "The primary distinction of managerial accounting lies in its focus on internal"
+    },
+    {
+      "id": "D",
+      "text": "Must publish quarterly"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The primary distinction of managerial accounting lies in its focus on internal decision-making rather than external reporting. While financial accounting is bound by GAAP and primarily serves external users, managerial accounting is tailored for internal management (Page 9)."
+}

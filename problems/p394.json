@@ -1,0 +1,41 @@
+{
+  "id": "p394",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Discounted Cash Flow",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Discounted Cash Flow: If the required rate of return is 0.12 and an...",
+  "summary": "Analyze a real estate finance concept related to Discounted Cash Flow.",
+  "prompt": "If the required rate of return is 12% and an investor wants to invest in a property with expected cash flows of $50,000 each year for five years, what is the maximum price they should pay for the property?",
+  "options": [
+    {
+      "id": "A",
+      "text": "11%"
+    },
+    {
+      "id": "B",
+      "text": "14%"
+    },
+    {
+      "id": "C",
+      "text": "12%"
+    },
+    {
+      "id": "D",
+      "text": "10%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Cash Flows**: Annual Cash Flow = $50,000; Rate = 12% (0.12); N = 5 years. **Step 2: Calculate Present Value of Cash Flows**: PV = PMT × [(1 - (1 + r)^-n) / r]. **Step 3: Solve**: PV = $50,000 × [(1 - (1 + 0.12)^-5) / 0.12] = $50,000 × 3.6048 ≈ $180,240. Thus, the maximum price they should pay is approximately $180,240, rounding to $180,000."
+}

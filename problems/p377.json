@@ -1,0 +1,41 @@
+{
+  "id": "p377",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "options",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Derivative Instruments: Which of the following best...",
+  "summary": "Describe a call option as providing the right to purchase at a specified price.",
+  "prompt": "Which of the following best describes a call option?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "B",
+      "text": "Option premium"
+    },
+    {
+      "id": "C",
+      "text": "A call option gives the holder the right to purchase the underlying asset at a"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic value of the option"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A call option gives the holder the right to purchase the underlying asset at a specified price before the option expires. [[24]]"
+}

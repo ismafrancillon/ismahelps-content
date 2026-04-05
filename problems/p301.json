@@ -1,0 +1,40 @@
+{
+  "id": "p301",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "SML / CML",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation"
+  ],
+  "title": "SML / CML: The ABC company has a beta of 0.8 and an...",
+  "summary": "Determine whether a security is correctly priced, overpriced, or underpriced using the SML and CAPM.",
+  "prompt": "The ABC company has a beta of 0.8 and an expected return of 9%. The market risk premium is 7% and the risk-free rate is 2 percent. Which of the following statements is correct? A) This asset is correctly priced according to the CAPM because its return lies on the security market line. B) This asset is overpriced according to the CAPM because its return lies above the security market line. C) This asset is underpriced according to the CAPM because its return lies above the security market line. D) This asset is overpriced.",
+  "options": [
+    {
+      "id": "A",
+      "text": "This asset is correctly priced according to the CAPM because its return lies on the security market line"
+    },
+    {
+      "id": "B",
+      "text": "This asset is overpriced according to the CAPM because its return lies above the security market line"
+    },
+    {
+      "id": "C",
+      "text": "This asset is underpriced according to the CAPM"
+    },
+    {
+      "id": "D",
+      "text": "This asset is overpriced"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "To find the correct statement regarding the ABC company’s asset, we need to apply the Capital Asset Pricing Model (CAPM) formula to determine if the asset is correctly priced, overpriced, or underpriced. ### Step-by-Step Solution: 1. **Define the Variables:** - Beta (\\(\\beta\\)): 0.8 - Expected Return (\\(E(R_i)\\)): 9% or 0.09 - Market Risk Premium (\\(E(R_m) - R_f\\)): 7% or 0.07 - Risk-Free Rate (\\(R_f\\)): 2% or 0.02 2. **Calculate the Required Return using CAPM:** The CAPM formula is: \\[ E(R_i) = R_f + \\beta \\times (E(R_m) - R_f) \\] Plugging in the values: \\[ E(R_i) = 0.02 + 0.8 \\times 0.07 \\] \\[ E(R_i) = 0.02 + 0.056 = 0.076 \\text{ or } 7.6\\% \\] 3. **Compare the Expected Return to the Required Return:** - The calculated required return is 7.6%. - The given expected return is 9%. Since the expected return (9%) is higher than the required return (7.6%), this means the asset provides a higher return than what is required for its risk level. According to CAPM, this indicates that the asset is underpriced because investors are getting a higher return than what is justified by the risk. ### Final Answer: C) This asset is underpriced according to the CAPM because its return lies above the security market line. ### Explanation: In the context of CAPM, an asset is considered underpriced if its expected return is higher than the required return calculated using the CAPM formula. This indicates that the asset offers a better return for the given level of risk, making it an attractive investment. The security market line (SML) represents the expected return of an asset at different levels of risk (beta). If an asset's return is above this line, it is underpriced, as it offers more return for the same level of risk."
+}

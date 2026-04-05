@@ -1,0 +1,41 @@
+{
+  "id": "p373",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Put-Call Parity",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "put-option",
+    "call-option",
+    "option-pricing",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Put-Call Parity: In the context of options, what is meant by \"put-call...",
+  "summary": "Analyze put option properties, pricing, or payoff structure.",
+  "prompt": "In the context of options, what is meant by \"put-call parity\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "B",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "C",
+      "text": "Put-call parity is a financial principle that defines the relationship between"
+    },
+    {
+      "id": "D",
+      "text": "Option premium"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Put-call parity is a financial principle that defines the relationship between the price of European call and put options with the same strike price and expiration date. It ensures that arbitrage opportunities do not exist in an efficient market."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p379",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "call-option",
+    "put-option",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Derivative Instruments: Which of the following is NOT a type of option?...",
+  "summary": "Identify which instruments are classified as options versus other derivative types.",
+  "prompt": "Which of the following is NOT a type of option?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It never legally existed"
+    },
+    {
+      "id": "B",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "C",
+      "text": "A forward contract is a different type of derivative that obligates the buyer"
+    },
+    {
+      "id": "D",
+      "text": "Daily settlement of gains/losses"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A forward contract is a different type of derivative that obligates the buyer to purchase an asset at a predetermined future date. It is not an option type. [[24]]"
+}

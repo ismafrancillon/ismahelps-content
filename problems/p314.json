@@ -1,0 +1,40 @@
+{
+  "id": "p314",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Forms of Business Ownership",
+  "subtopic": "Shareholders and Directors",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "governance",
+    "fiduciary-duty",
+    "conceptual"
+  ],
+  "title": "Shareholders and Directors: To whom does the fiduciary duty of a director of...",
+  "summary": "Identify to whom the fiduciary duty of a corporate director extends.",
+  "prompt": "To whom does the fiduciary duty of a director of a corporation extend?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Subject to corporate income tax"
+    },
+    {
+      "id": "B",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "C",
+      "text": "The fiduciary duty of a director extends to the corporation itself, meaning"
+    },
+    {
+      "id": "D",
+      "text": "Owners have unlimited liability"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The fiduciary duty of a director extends to the corporation itself, meaning that directors must act in the best interests of the corporation and its overall health rather than focusing solely on the interests of shareholders or other stakeholders. This principle helps ensure the corporation's long-term sustainability."
+}

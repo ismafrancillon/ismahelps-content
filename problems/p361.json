@@ -1,0 +1,41 @@
+{
+  "id": "p361",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "LBOs and PE",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "corporation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "LBOs and PE: Which of the following is a key characteristic of a...",
+  "summary": "Identify debt as the key characteristic and primary financing source in leveraged buyouts.",
+  "prompt": "Which of the following is a key characteristic of a leveraged buyout (LBO)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A formal tender offer to shareholders"
+    },
+    {
+      "id": "B",
+      "text": "An informal overture to management"
+    },
+    {
+      "id": "C",
+      "text": "An LBO is characterized by the acquisition of a company primarily financed"
+    },
+    {
+      "id": "D",
+      "text": "Financial distress probability increases"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "An LBO is characterized by the acquisition of a company primarily financed through debt, allowing the buyer to leverage the target's assets to fund the purchase."
+}

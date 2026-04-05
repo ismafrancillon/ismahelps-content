@@ -1,0 +1,40 @@
+{
+  "id": "p309",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Sales Revenue, Receivables, and Cash Management",
+  "subtopic": "Bank Reconciliation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "bank-reconciliation",
+    "cash-management",
+    "internal-controls",
+    "conceptual"
+  ],
+  "title": "Bank Reconciliation: Which of the following statements about bank reconciliation is true?...",
+  "summary": "Evaluate the purpose of bank reconciliation in identifying discrepancies between records.",
+  "prompt": "Which of the following statements about bank reconciliation is true?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "B",
+      "text": "The strike price"
+    },
+    {
+      "id": "C",
+      "text": "Bank reconciliation is a process that matches the cash balance in the company's"
+    },
+    {
+      "id": "D",
+      "text": "Option premium"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Bank reconciliation is a process that matches the cash balance in the company's accounting records to the cash balance reported by the bank. This is essential for identifying discrepancies between the two records, which may arise from timing differences, bank fees, or errors. Performing bank reconciliations regularly helps ensure the accuracy of financial statements and provides insight into cash management practices. This process is typically conducted monthly rather than annually to maintain accurate records."
+}

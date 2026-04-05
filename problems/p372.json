@@ -1,0 +1,40 @@
+{
+  "id": "p372",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: If the futures price of an asset is higher than...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "If the futures price of an asset is higher than the spot price, what does this indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily margin requirement"
+    },
+    {
+      "id": "B",
+      "text": "Difference between spot and futures prices"
+    },
+    {
+      "id": "C",
+      "text": "A futures price higher than the spot price indicates that the market expects"
+    },
+    {
+      "id": "D",
+      "text": "Total cost of holding (storage + financing)"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A futures price higher than the spot price indicates that the market expects the asset price to rise in the future. [[24]]"
+}

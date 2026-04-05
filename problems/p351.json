@@ -1,0 +1,41 @@
+{
+  "id": "p351",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-capital",
+    "discounted-cash-flow",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: Which of the following best describes the role of the...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "Which of the following best describes the role of the Weighted Average Cost of Capital (WACC) in firm valuation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "B",
+      "text": "Price-to-Earnings (P/E) ratio"
+    },
+    {
+      "id": "C",
+      "text": "The WACC reflects the expected return on all sources of capital, including"
+    },
+    {
+      "id": "D",
+      "text": "Free Cash Flow to Equity (FCFE)"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The WACC reflects the expected return on all sources of capital, including equity and debt. It is a critical input in valuation models, as it is used to discount future cash flows to determine the present value of a firm. A proper understanding of WACC helps investors assess the risks associated with their investments, ensuring that they receive adequate compensation for the risk taken. WACC takes into account the proportions of debt and equity financing, as well as their respective costs."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p317",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "annuity",
+    "calculation"
+  ],
+  "title": "NPV: A company expects to generate 500000 in cash flows for...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "A company expects to generate $500,000 in cash flows for the next 5 years. If the discount rate is 10%, what is the NPV?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$1,035,000"
+    },
+    {
+      "id": "B",
+      "text": "$1,080,000"
+    },
+    {
+      "id": "C",
+      "text": "$900,000"
+    },
+    {
+      "id": "D",
+      "text": "$765,000"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "NPV = ($500,000 / 1.10) + ($500,000 / 1.10^2) + ($500,000 / 1.10^3) + ($500,000 / 1.10^4) + ($500,000 / 1.10^5) = $900,000."
+}

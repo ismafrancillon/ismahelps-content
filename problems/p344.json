@@ -1,0 +1,41 @@
+{
+  "id": "p344",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "market-risk-premium",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: If the beta of a stock is 1.5 and the...",
+  "summary": "Calculate the expected return using CAPM with beta, risk-free rate, and market return.",
+  "prompt": "If the beta of a stock is 1.5 and the risk-free rate is 3%, with a market return of 8%, what is the expected return using the Capital Asset Pricing Model (CAPM)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "13.5%"
+    },
+    {
+      "id": "B",
+      "text": "7.5%"
+    },
+    {
+      "id": "C",
+      "text": "10.5%"
+    },
+    {
+      "id": "D",
+      "text": "21%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Expected Return = Risk-Free Rate + Beta × (Market Return - Risk-Free Rate) = 3% + 1.5 × (8% - 3%) = 3% + 1.5 × 5% = 3% + 7.5% = 10.5%. This calculation is essential for determining the risk-adjusted expected return on an investment."
+}

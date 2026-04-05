@@ -1,0 +1,41 @@
+{
+  "id": "p329",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Equity",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "beta",
+    "risk",
+    "conceptual"
+  ],
+  "title": "Cost of Equity: What happens to the cost of equity when the firm's...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "What happens to the cost of equity when the firm's beta increases?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Total risk of the investment"
+    },
+    {
+      "id": "B",
+      "text": "Firm value decreases due to higher risk"
+    },
+    {
+      "id": "C",
+      "text": "An increase in the firm's beta indicates a higher level of risk relative to the"
+    },
+    {
+      "id": "D",
+      "text": "Optimal level minimizes WACC"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "An increase in the firm's beta indicates a higher level of risk relative to the market, which leads to a higher expected return required by investors, thus increasing the cost of equity."
+}

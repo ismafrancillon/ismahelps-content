@@ -1,0 +1,40 @@
+{
+  "id": "p334",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Contribution Margin Analysis",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "contribution-margin-ratio",
+    "cvp",
+    "profitability",
+    "calculation"
+  ],
+  "title": "Contribution Margin Analysis: Calculate the contribution margin ratio if the total sales are...",
+  "summary": "Calculate the contribution margin ratio as the proportion of sales remaining after variable costs.",
+  "prompt": "Calculate the contribution margin ratio if the total sales are $500,000 and variable costs are $300,000.",
+  "options": [
+    {
+      "id": "A",
+      "text": "46%"
+    },
+    {
+      "id": "B",
+      "text": "43%"
+    },
+    {
+      "id": "C",
+      "text": "40%"
+    },
+    {
+      "id": "D",
+      "text": "41%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Contribution Margin Ratio = (Sales - Variable Costs) / Sales = ($500,000 - $300,000) / $500,000 = 0.40 or 40%. This ratio aids in assessing profitability (Page 47)."
+}

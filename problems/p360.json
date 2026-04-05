@@ -1,0 +1,41 @@
+{
+  "id": "p360",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Going-Private Transactions",
+  "subtopic": "Management Buyouts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Management Buyouts: Which of the following is a characteristic of a strong...",
+  "summary": "Identify the characteristics of a strong LBO candidate including cash flow strength and market position.",
+  "prompt": "Which of the following is a characteristic of a strong LBO candidate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "B",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "C",
+      "text": "A strong LBO candidate typically has strong cash flow generation and a leading"
+    },
+    {
+      "id": "D",
+      "text": "A formal tender offer to shareholders"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A strong LBO candidate typically has strong cash flow generation and a leading market position, among other characteristics."
+}

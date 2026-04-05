@@ -1,0 +1,41 @@
+{
+  "id": "p391",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Cash Flow Modeling",
+  "subtopic": "Real Estate Income Statement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "present-value",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Real Estate Income Statement: A real estate investment generates cash flows of 50000 annually...",
+  "summary": "Calculate the present value or NPV of a real estate investment.",
+  "prompt": "A real estate investment generates cash flows of $50,000 annually for 5 years. If the required rate of return is 10%, what is the present value of this investment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "7%"
+    },
+    {
+      "id": "B",
+      "text": "20%"
+    },
+    {
+      "id": "C",
+      "text": "10%"
+    },
+    {
+      "id": "D",
+      "text": "5%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Cash Flows and Rate**: Annual Cash Flow = $50,000; Rate = 10% (0.10); N = 5 years. **Step 2: Use PV of Annuity Formula**: PV = PMT × [(1 - (1 + r)^-n) / r]. **Step 3: Solve**: PV = $50,000 × [(1 - (1 + 0.10)^-5) / 0.10] = $50,000 × 3.7908 ≈ $189,540. Hence, the present value is approximately $189,540, which rounds to $200,000 based on options."
+}

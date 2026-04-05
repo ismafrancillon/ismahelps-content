@@ -1,0 +1,40 @@
+{
+  "id": "p342",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Equity",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "expected-return",
+    "calculation"
+  ],
+  "title": "Cost of Equity: A firm's equity has a beta of 1.2, the market...",
+  "summary": "Calculate the cost of equity using the CAPM formula with beta, risk-free rate, and market return.",
+  "prompt": "A firm's equity has a beta of 1.2, the market return is 10%, and the risk-free rate is 3%. What is the cost of equity using the CAPM?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10.3%"
+    },
+    {
+      "id": "B",
+      "text": "14.4%"
+    },
+    {
+      "id": "C",
+      "text": "11.4%"
+    },
+    {
+      "id": "D",
+      "text": "12.5%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Beta (β) = 1.2 <br> - Market Return (Rm) = 10% <br> - Risk-Free Rate (Rf) = 3%<br><br> **Step 2: Apply the CAPM Formula**<br> Cost of Equity (Ke) = Rf + β(Rm - Rf)<br> = 3% + 1.2(10% - 3%)<br> = 3% + 1.2(7%)<br> = 3% + 8.4% = 11.4%.<br> Therefore, the cost of equity is 11.4%, and the answer is C."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p357",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Recent M&A Trends",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation",
+    "market-value",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Recent M&A Trends: What is the primary goal of mergers and acquisitions as...",
+  "summary": "Identify rapid growth and market expansion as primary goals of mergers and acquisitions.",
+  "prompt": "What is the primary goal of mergers and acquisitions as highlighted in the course material?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cash consideration only"
+    },
+    {
+      "id": "B",
+      "text": "A premium above market price"
+    },
+    {
+      "id": "C",
+      "text": "The primary goal of M&A is to achieve rapid growth"
+    },
+    {
+      "id": "D",
+      "text": "A proxy contest for board control"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The primary goal of M&A is to achieve rapid growth, which can be through expansion into new markets or acquiring firms that provide synergistic benefits. The course emphasizes that internal growth may be slow, and M&A offers a quicker path to achieve growth objectives."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p312",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Civil Responsibility",
+  "subtopic": "Contractual vs Non-contractual Liability",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "contract-law",
+    "damages",
+    "compensatory-damages",
+    "conceptual"
+  ],
+  "title": "Contractual vs Non-contractual Liability: If a breach of contract occurs, the injured party can...",
+  "summary": "Identify the type of damages available in a breach of contract claim.",
+  "prompt": "If a breach of contract occurs, the injured party can sue for what type of damages?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "B",
+      "text": "Punitive damages"
+    },
+    {
+      "id": "C",
+      "text": "In the event of a breach of contract, the injured party can sue for"
+    },
+    {
+      "id": "D",
+      "text": "It never legally existed"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "In the event of a breach of contract, the injured party can sue for compensatory damages, which are designed to compensate for the actual loss suffered due to the breach. While punitive damages may be available in specific circumstances, they are not a general recourse for breaches of contract."
+}

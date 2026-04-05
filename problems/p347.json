@@ -1,0 +1,41 @@
+{
+  "id": "p347",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Equity",
+  "subtopic": "Leverage",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "return-on-equity",
+    "capital-structure",
+    "debt-to-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Leverage: What is the impact of financial leverage on a firm's...",
+  "summary": "Assess how financial leverage amplifies ROE when returns exceed debt costs.",
+  "prompt": "What is the impact of financial leverage on a firm's return on equity (ROE)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Firm value decreases due to higher risk"
+    },
+    {
+      "id": "B",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "C",
+      "text": "Financial leverage can increase a firm's return on equity (ROE) if the firm"
+    },
+    {
+      "id": "D",
+      "text": "Increasing debt (if return > cost)"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Financial leverage can increase a firm's return on equity (ROE) if the firm invests in projects that yield returns greater than the after-tax cost of debt. This amplifying effect occurs because the firm is using borrowed funds to generate additional earnings, enhancing the returns to equity holders. This relationship is detailed in the materials, particularly on pages 25 and 26."
+}

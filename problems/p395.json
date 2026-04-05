@@ -1,0 +1,40 @@
+{
+  "id": "p395",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Cash Flow Modeling",
+  "subtopic": "Expense Participation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Expense Participation: In which scenario is it most beneficial to utilize expense...",
+  "summary": "Identify when expense participation benefits landlords in commercial leases.",
+  "prompt": "In which scenario is it most beneficial to utilize expense participation in commercial leases?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mezzanine financing"
+    },
+    {
+      "id": "B",
+      "text": "Mortgage financing"
+    },
+    {
+      "id": "C",
+      "text": "Expense participation is particularly beneficial in rising rental markets,"
+    },
+    {
+      "id": "D",
+      "text": "It increases total assets"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Expense participation is particularly beneficial in rising rental markets, where landlords can pass on certain operating expenses to tenants, thereby protecting their income from rising costs. This arrangement allows property owners to maintain profitability while ensuring that tenants contribute to the overall operational costs, thereby enhancing cash flow stability during periods of increasing expenses and market growth."
+}

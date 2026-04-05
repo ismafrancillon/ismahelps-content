@@ -1,0 +1,41 @@
+{
+  "id": "p348",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "DCF",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "discounted-cash-flow",
+    "present-value",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "DCF: What is the primary purpose of the Discounted Cash Flow...",
+  "summary": "Apply DCF analysis to estimate present value of expected future cash flows.",
+  "prompt": "What is the primary purpose of the Discounted Cash Flow (DCF) model in investment analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Asset-based valuation"
+    },
+    {
+      "id": "B",
+      "text": "EV/EBITDA multiples"
+    },
+    {
+      "id": "C",
+      "text": "The DCF model is used to estimate the present value of expected future cash"
+    },
+    {
+      "id": "D",
+      "text": "Precedent transaction analysis"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The DCF model is used to estimate the present value of expected future cash flows from an investment by discounting them back to their present value. The formula incorporates the time value of money, allowing analysts to assess whether an investment is worthwhile by comparing the present value to the cost of the investment. The model is fundamental in finance as it ties the value of an asset directly to its ability to generate future cash flows. This aligns with the principle that the value of an asset is derived from the present value of its future cash flows, as indicated in FINA410 materials on page 10."
+}

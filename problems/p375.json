@@ -1,0 +1,40 @@
+{
+  "id": "p375",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Basic Principles of Hedging: What is the primary benefit of using options for hedging?...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "What is the primary benefit of using options for hedging?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A swap agreement"
+    },
+    {
+      "id": "B",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "C",
+      "text": "Options provide a way to hedge by limiting potential losses while still"
+    },
+    {
+      "id": "D",
+      "text": "No hedging is needed"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Options provide a way to hedge by limiting potential losses while still allowing for gains if the underlying asset performs favorably. This characteristic makes them a valuable tool for risk management in finance."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "p304",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Cash Flow Estimation",
+  "subtopic": "Operating Cash Flow",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "operating-cash-flow",
+    "capital-budgeting",
+    "opportunity-cost",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Operating Cash Flow: Which of the following statements is most correct? A) Since...",
+  "summary": "Identify correct statements about depreciation's effect on cash flows and the role of opportunity costs.",
+  "prompt": "Which of the following statements is most correct? A) Since depreciation is not a cash expense, it does not affect operating cash flows. B) Contingent projects are evaluated independently and should be accepted independently C) Corporations should include opportunity costs when making investment decisions. D) Corporations should include sunk costs when making investment decisions. E) All the statements are false.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Since depreciation is not a cash expense, it does not affect operating cash flows"
+    },
+    {
+      "id": "B",
+      "text": "Contingent projects are evaluated independently and should be accepted independently"
+    },
+    {
+      "id": "C",
+      "text": "Corporations should include opportunity costs when making investment decisions"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    },
+    {
+      "id": "E",
+      "text": "All the statements are false"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Which of the following statements is most correct? A) Since depreciation is not a cash expense, it does not affect operating cash flows. B) Contingent projects are evaluated independently and should be accepted independently. C) Corporations should include opportunity costs when making investment decisions. D) Corporations should include sunk costs when making investment decisions. E) All the statements are false. ### Answer: The most correct statement is: C) Corporations should include opportunity costs when making investment decisions. ### Explanation: 1. **Depreciation and Operating Cash Flows**: - Depreciation is a non-cash expense, but it affects operating cash flows because it reduces taxable income, thereby reducing taxes paid, which increases operating cash flows. - Therefore, statement A is incorrect. 2. **Contingent Projects**: - Contingent projects are not evaluated independently. They are dependent on the acceptance of other projects. - Thus, statement B is incorrect. 3. **Opportunity Costs**: - Opportunity costs represent the benefits a company misses out on when choosing one alternative over another. These should be included in investment decisions to ensure the most profitable use of resources. - Hence, statement C is correct. 4. **Sunk Costs**: - Sunk costs are costs that have already been incurred and cannot be recovered. These should not influence current investment decisions as they do not affect future cash flows. - Therefore, statement D is incorrect. 5. **All Statements Being False**: - Since statement C is correct, statement E is incorrect. Thus, the correct answer is C."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p349",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Terminal Value",
+  "subtopic": "Stable Growth",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "terminal-value",
+    "discounted-cash-flow",
+    "growth-rate",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Stable Growth: When valuing a stable growth firm, what must the growth...",
+  "summary": "Assess that a stable growth firm's growth rate must not exceed the economy's growth rate.",
+  "prompt": "When valuing a stable growth firm, what must the growth rate be relative to the overall economy?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Guarantee future performance"
+    },
+    {
+      "id": "B",
+      "text": "Free Cash Flow to Equity (FCFE)"
+    },
+    {
+      "id": "C",
+      "text": "When valuing a stable growth firm, the growth rate used in the DCF model must"
+    },
+    {
+      "id": "D",
+      "text": "Increase financial leverage"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "When valuing a stable growth firm, the growth rate used in the DCF model must be less than the growth rate of the economy to ensure sustainability. This condition prevents unrealistic expectations about a firm's ability to maintain growth indefinitely, as outlined in the materials on pages 48 and 49."
+}

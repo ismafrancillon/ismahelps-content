@@ -1,0 +1,40 @@
+{
+  "id": "p366",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Types of Orders and Trading Strategies",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Types of Orders and Trading Strategies: A trader enters a short futures position. If the market...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A trader enters a short futures position. If the market price rises, what is the potential outcome?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Expected profit from holding"
+    },
+    {
+      "id": "B",
+      "text": "Only the storage cost"
+    },
+    {
+      "id": "C",
+      "text": "If the market price rises, the trader in a short futures position will incur"
+    },
+    {
+      "id": "D",
+      "text": "Total cost of holding (storage + financing)"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "If the market price rises, the trader in a short futures position will incur losses, which can be unlimited if the price keeps rising."
+}

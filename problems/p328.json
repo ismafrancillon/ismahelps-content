@@ -1,0 +1,40 @@
+{
+  "id": "p328",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "capital-budgeting",
+    "investment-analysis",
+    "calculation"
+  ],
+  "title": "IRR: The Majestic Mulch and Compost Company is analyzing a proposed...",
+  "summary": "Calculate the internal rate of return by finding the discount rate that sets NPV to zero.",
+  "prompt": "The Majestic Mulch and Compost Company is analyzing a proposed project with an initial cost of $50,000 and estimated cash flows of $15,000 per year for 5 years. What is the project’s IRR?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NPV and IRR always agree"
+    },
+    {
+      "id": "B",
+      "text": "Choose the highest NPV project"
+    },
+    {
+      "id": "C",
+      "text": "The IRR is the rate that makes NPV = 0"
+    },
+    {
+      "id": "D",
+      "text": "Reject because NPV is negative"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The IRR is the rate that makes NPV = 0. When calculated, it is approximately 15%."
+}

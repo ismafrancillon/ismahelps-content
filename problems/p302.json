@@ -1,0 +1,41 @@
+{
+  "id": "p302",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Dividend Discount Model: Which of the following statement regarding the DDM is correct?...",
+  "summary": "Identify the correct statement about the DDM's growth rate assumptions and applicability.",
+  "prompt": "Which of the following statement regarding the DDM is correct? A) The constant growth rate equals to ROE * dividend payout ratio B) The constant growth rate equals the dividend yield. C) The DDM cannot be used to value firms who do not pay any dividends. D) The DDM cannot be applied to firms with negative earnings.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The constant growth rate equals to ROE * dividend payout ratio"
+    },
+    {
+      "id": "B",
+      "text": "The constant growth rate equals the dividend yield"
+    },
+    {
+      "id": "C",
+      "text": "The DDM cannot be used to value firms who do not pay any dividends"
+    },
+    {
+      "id": "D",
+      "text": "The DDM cannot be applied to firms with negative earnings"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "To answer the question \"Which of the following statements regarding the DDM is correct?\" we need to evaluate each option based on the principles of the Dividend Discount Model (DDM). ### Final Answer: C) The DDM cannot be used to value firms who do not pay any dividends. ### Explanation: 1. **Evaluate Option A:** - Statement: \"The constant growth rate equals ROE * dividend payout ratio.\" - Analysis: This statement is incorrect. The constant growth rate in the DDM is typically derived from the historical growth rate of dividends or earnings, not directly from ROE and dividend payout ratio. The growth rate is usually calculated using the formula: \\( g = ROE \\times (1 - \\text{dividend payout ratio}) \\), which is known as the retention growth model. Therefore, this statement is not accurate. 2. **Evaluate Option B:** - Statement: \"The constant growth rate equals the dividend yield.\" - Analysis: This statement is incorrect. The constant growth rate in the DDM refers to the rate at which dividends are expected to grow over time, while the dividend yield is the annual dividend payment divided by the current stock price. These two metrics are different and should not be confused. Therefore, this statement is not accurate. 3. **Evaluate Option C:** - Statement: \"The DDM cannot be used to value firms who do not pay any dividends.\" - Analysis: This statement is correct. The Dividend Discount Model relies on the assumption that a firm pays dividends, as it values a stock based on the present value of all expected future dividend payments. If a firm does not pay any dividends, the DDM cannot be applied because there are no dividend payments to discount and value. Therefore, this statement is accurate. 4. **Evaluate Option D:** - Statement: \"The DDM cannot be applied to firms with negative earnings.\" - Analysis: This statement is incorrect. The DDM can still be applied to firms with negative earnings as long as they are paying dividends. The model focuses on the dividends paid rather than the earnings directly. Therefore, this statement is not accurate. ### Conclusion: Based on the above analysis, the correct statement regarding the DDM is option C: \"The DDM cannot be used to value firms who do not pay any dividends.\""
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p339",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Cost Analysis",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "cost-analysis",
+    "relevant-costs",
+    "decision-making",
+    "conceptual"
+  ],
+  "title": "Cost Analysis: What type of costs does managerial accounting help to analyze...",
+  "summary": "Identify the types of costs analyzed in managerial accounting for decision-making.",
+  "prompt": "What type of costs does managerial accounting help to analyze for better decision-making?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Must publish quarterly"
+    },
+    {
+      "id": "B",
+      "text": "For external stakeholders"
+    },
+    {
+      "id": "C",
+      "text": "Managerial accounting focuses on analyzing relevant costs that will affect"
+    },
+    {
+      "id": "D",
+      "text": "True"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Managerial accounting focuses on analyzing relevant costs that will affect future decisions, rather than historical or sunk costs (Page 51)."
+}

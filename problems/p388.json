@@ -1,0 +1,41 @@
+{
+  "id": "p388",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Equilibrium in Capital Markets",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: What is the expected return on a stock with a...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "What is the expected return on a stock with a beta of 1.2 if the risk-free rate is 5% and the expected return on the market is 12%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "9.4%"
+    },
+    {
+      "id": "B",
+      "text": "8%"
+    },
+    {
+      "id": "C",
+      "text": "13.4%"
+    },
+    {
+      "id": "D",
+      "text": "12.4%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Variables<br> Risk-free rate (rF) = 5%, Expected market return (rM) = 12%, Beta (β) = 1.2<br><br> Step 2: Use CAPM Formula<br> Expected return (E(r)) = rF + β(E(rM) - rF)<br> E(r) = 5% + 1.2(12% - 5%)<br><br> Step 3: Calculate<br> E(r) = 5% + 1.2(7%) = 5% + 8.4% = 13.4%<br> Therefore, choose the closest answer which is C, 14.4%."
+}

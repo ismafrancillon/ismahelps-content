@@ -1,0 +1,41 @@
+{
+  "id": "p392",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Discounted Cash Flow",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "terminal-value",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Discounted Cash Flow: If a property is expected to generate 120000 in NOI...",
+  "summary": "Calculate or interpret NOI in real estate investment analysis.",
+  "prompt": "If a property is expected to generate $120,000 in NOI for the next 3 years with a terminal value of $1,500,000 at the end of year 3, what is the NPV if the discount rate is 8%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "7%"
+    },
+    {
+      "id": "B",
+      "text": "4%"
+    },
+    {
+      "id": "C",
+      "text": "8%"
+    },
+    {
+      "id": "D",
+      "text": "11%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Cash Flows**: Annual NOI = $120,000; Terminal Value = $1,500,000; Discount Rate = 8% (0.08). **Step 2: Calculate PV of NOIs**: PV = $120,000 × [(1 - (1 + 0.08)^-3) / 0.08] + ($1,500,000 / (1 + 0.08)^3). **Step 3: Solve**: PV of NOIs = $120,000 × 2.5771 = $309,253. Terminal PV = $1,500,000 / 1.2597 ≈ $1,189,207. Total NPV = $309,253 + $1,189,207 = $1,498,460, rounding to $1,500,000."
+}

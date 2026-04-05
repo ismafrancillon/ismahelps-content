@@ -1,0 +1,40 @@
+{
+  "id": "p337",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "decision-making",
+    "operations",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: Managerial accounting focuses on providing information for which of the...",
+  "summary": "Identify the activities and information managerial accounting primarily supports.",
+  "prompt": "Managerial accounting focuses on providing information for which of the following activities?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "B",
+      "text": "Not required to follow standards"
+    },
+    {
+      "id": "C",
+      "text": "Managerial accounting primarily focuses on providing information that helps"
+    },
+    {
+      "id": "D",
+      "text": "Proportion of debt financing"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Managerial accounting primarily focuses on providing information that helps management in decision-making processes, which is critical for effective management and operational efficiency (Page 9)."
+}

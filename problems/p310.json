@@ -1,0 +1,40 @@
+{
+  "id": "p310",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Forms of Business Ownership",
+  "subtopic": "Corporation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "business-law",
+    "compliance",
+    "short-answer"
+  ],
+  "title": "Corporation: A corporation must file its annual registration form with which...",
+  "summary": "Identify the governmental bodies with which a corporation must file annual registration.",
+  "prompt": "A corporation must file its annual registration form with which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It never legally existed"
+    },
+    {
+      "id": "B",
+      "text": "Injunctive relief"
+    },
+    {
+      "id": "C",
+      "text": "A federally incorporated corporation must file an annual registration form with"
+    },
+    {
+      "id": "D",
+      "text": "Owners have unlimited liability"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A federally incorporated corporation must file an annual registration form with both the federal government and the provincial government of the province in which it operates. This requirement is essential to maintain the corporation's good standing and ensure compliance with legal obligations."
+}

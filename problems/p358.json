@@ -1,0 +1,41 @@
+{
+  "id": "p358",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Going-Private Transactions",
+  "subtopic": "Management Buyouts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "corporation",
+    "governance",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Management Buyouts: What is the primary motivation for a management buyout (MBO)?...",
+  "summary": "Identify the primary motivation for management buyouts as gaining private control of the company.",
+  "prompt": "What is the primary motivation for a management buyout (MBO)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An informal overture to management"
+    },
+    {
+      "id": "B",
+      "text": "A discount on their shares"
+    },
+    {
+      "id": "C",
+      "text": "The primary motivation for an MBO is often for managers to gain control of the"
+    },
+    {
+      "id": "D",
+      "text": "A premium above market price"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The primary motivation for an MBO is often for managers to gain control of the company or its division, allowing them to operate it privately."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p387",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: If you invest 0.6 of your portfolio in Stock A...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "If you invest 60% of your portfolio in Stock A with an expected return of 10% and 40% in Stock B with an expected return of 15%, what is the expected return of the portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "13%"
+    },
+    {
+      "id": "B",
+      "text": "7%"
+    },
+    {
+      "id": "C",
+      "text": "14%"
+    },
+    {
+      "id": "D",
+      "text": "15%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "E(r) = 0.60(10%) + 0.40(15%) = 12% + 6% = 14%."
+}

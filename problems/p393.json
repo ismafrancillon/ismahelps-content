@@ -1,0 +1,40 @@
+{
+  "id": "p393",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Cost Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "depreciation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost Approach: If a property’s selling price is 2500000 and the purchase...",
+  "summary": "Calculate capital gain by comparing selling price to adjusted basis after depreciation.",
+  "prompt": "If a property’s selling price is $2,500,000 and the purchase price was $2,000,000, what is the capital gain if the depreciation taken was $300,000?",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "$1,500,000"
+    },
+    {
+      "id": "C",
+      "text": "$2,000,000"
+    },
+    {
+      "id": "D",
+      "text": "Cannot be determined from the given information"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Key Variables**: Selling Price = $2,500,000; Purchase Price = $2,000,000; Depreciation = $300,000. **Step 2: Calculate Adjusted Basis**: Adjusted Basis = Purchase Price - Depreciation = $2,000,000 - $300,000 = $1,700,000. **Step 3: Calculate Capital Gain**: Capital Gain = Selling Price - Adjusted Basis = $2,500,000 - $1,700,000 = $800,000. Thus, the capital gain is $800,000."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p369",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Call: If a company issues a call option with a strike...",
+  "summary": "Determine whether a call option is out-of-the-money when strike exceeds market price.",
+  "prompt": "If a company issues a call option with a strike price above the current market price, the option is considered:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "B",
+      "text": "Option premium"
+    },
+    {
+      "id": "C",
+      "text": "A call option is out-of-the-money if the strike price is above the current"
+    },
+    {
+      "id": "D",
+      "text": "Risk-free interest rate"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A call option is out-of-the-money if the strike price is above the current market price, meaning it would not be exercised. [[24]]"
+}

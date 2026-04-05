@@ -1,0 +1,40 @@
+{
+  "id": "p315",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Non-Competition Clause",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "employment-law",
+    "non-compete",
+    "restrictive-covenants",
+    "conceptual"
+  ],
+  "title": "Non-Competition Clause: What is the required duration for a non-competition clause to...",
+  "summary": "Evaluate the requirements for a non-competition clause to be valid regarding scope and duration.",
+  "prompt": "What is the required duration for a non-competition clause to be valid?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "B",
+      "text": "Bond trades at par"
+    },
+    {
+      "id": "C",
+      "text": "A non-competition clause must be reasonable in its duration, geographical area,"
+    },
+    {
+      "id": "D",
+      "text": "Measures operational efficiency"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A non-competition clause must be reasonable in its duration, geographical area, and type of employment to protect the legitimate interests of the employer. This ensures that the clause is not overly restrictive and allows employees to seek future employment opportunities after leaving the company."
+}

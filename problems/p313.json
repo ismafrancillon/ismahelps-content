@@ -1,0 +1,40 @@
+{
+  "id": "p313",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Litigation and Lawsuits",
+  "subtopic": "Prescription",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "prescription",
+    "statute-of-limitations",
+    "contract-law",
+    "conceptual"
+  ],
+  "title": "Prescription: In Quebec, what is the general prescription period for initiating...",
+  "summary": "Determine the prescription period for initiating a breach of contract lawsuit in Quebec.",
+  "prompt": "In Quebec, what is the general prescription period for initiating a breach of contract lawsuit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Nominal damages"
+    },
+    {
+      "id": "B",
+      "text": "Valid but unenforceable"
+    },
+    {
+      "id": "C",
+      "text": "In Quebec, the general prescription period for initiating a breach of contract"
+    },
+    {
+      "id": "D",
+      "text": "It never legally existed"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "In Quebec, the general prescription period for initiating a breach of contract lawsuit is three years from the time the offense occurred. This limitation period emphasizes the importance of timely legal recourse to protect the rights of creditors and maintain order in contractual relationships."
+}

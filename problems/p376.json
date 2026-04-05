@@ -1,0 +1,41 @@
+{
+  "id": "p376",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Call: What is the primary purpose...",
+  "summary": "Identify the purpose of a call option as the right to buy at a specified price.",
+  "prompt": "What is the primary purpose of a call option?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The strike price"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "C",
+      "text": "The primary purpose of a call option is to give the holder the right, but not"
+    },
+    {
+      "id": "D",
+      "text": "Price of the underlying asset"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The primary purpose of a call option is to give the holder the right, but not the obligation, to buy an underlying asset at a specified strike price before the option expires. This is a fundamental concept in options trading."
+}

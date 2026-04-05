@@ -1,0 +1,41 @@
+{
+  "id": "p330",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Risk Analysis Measures",
+  "subtopic": "Monte Carlo Simulation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "monte-carlo-simulation",
+    "risk-analysis",
+    "probability",
+    "modeling",
+    "conceptual"
+  ],
+  "title": "Monte Carlo Simulation: What is the primary goal of using Monte Carlo simulations...",
+  "summary": "Explain how Monte Carlo simulations model potential outcomes under uncertainty.",
+  "prompt": "What is the primary goal of using Monte Carlo simulations in risk analysis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "B",
+      "text": "Option premium"
+    },
+    {
+      "id": "C",
+      "text": "Monte Carlo simulations are utilized to model a range of potential outcomes by"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic value of the option"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Monte Carlo simulations are utilized to model a range of potential outcomes by incorporating randomness and variability in inputs, allowing for a better understanding of the risks involved."
+}

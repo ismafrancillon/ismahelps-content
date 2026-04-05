@@ -1,0 +1,41 @@
+{
+  "id": "p346",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Capitalizing Expenses",
+  "subtopic": "Capitalization",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "depreciation",
+    "amortization",
+    "accounting-principles",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capitalization: In the context of investment analysis, what does the term...",
+  "summary": "Define capitalization as treating certain costs as capital expenses rather than operating expenses.",
+  "prompt": "In the context of investment analysis, what does the term \"capitalization\" typically refer to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It only affects the balance sheet"
+    },
+    {
+      "id": "B",
+      "text": "It reduces total liabilities"
+    },
+    {
+      "id": "C",
+      "text": "Capitalization in investment analysis typically refers to the treatment of"
+    },
+    {
+      "id": "D",
+      "text": "Dividend Discount Model (DDM)"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Capitalization in investment analysis typically refers to the treatment of certain costs as capital expenses rather than as operating expenses. This process affects how a firm accounts for investments, such as R&D or advertising, and can significantly impact financial statements and valuation. This concept is discussed in the materials, particularly on pages 3 and 4."
+}

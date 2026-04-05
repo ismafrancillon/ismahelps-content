@@ -1,0 +1,40 @@
+{
+  "id": "p398",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Residential Real Estate",
+  "subtopic": "Multifamily Dwellings",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "residential",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Multifamily Dwellings: Which type of residential property is typically classified as having...",
+  "summary": "Identify the classification of low-rise residential properties based on building height criteria.",
+  "prompt": "Which type of residential property is typically classified as having fewer than four floors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "REITs"
+    },
+    {
+      "id": "B",
+      "text": "Option premium"
+    },
+    {
+      "id": "C",
+      "text": "Residential properties are categorized based on their height"
+    },
+    {
+      "id": "D",
+      "text": "Compares market to book value"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Residential properties are categorized based on their height. Low-rise properties consist of fewer than four floors, making them distinct from mid-rise and high-rise buildings. In the U.S., this classification often includes garden apartments, which are low-rise structures grouped around shared amenities. Understanding these classifications assists investors in assessing market demands and operational management strategies for different property types."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p368",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Interest Rate Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "interest-rates",
+    "hedging",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Basic Principles of Hedging: How do interest rate futures...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "How do interest rate futures contracts primarily function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Total cost of holding (storage + financing)"
+    },
+    {
+      "id": "B",
+      "text": "Difference between spot and futures prices"
+    },
+    {
+      "id": "C",
+      "text": "Interest rate futures can be used for both speculation and hedging"
+    },
+    {
+      "id": "D",
+      "text": "Daily margin requirement"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Interest rate futures can be used for both speculation and hedging. They allow market participants to lock in interest rates or benefit from expected changes in interest rates, making them versatile tools for managing interest rate risk."
+}

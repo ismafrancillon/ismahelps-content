@@ -1,0 +1,40 @@
+{
+  "id": "p321",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Payback Period Rule",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "payback-period",
+    "capital-budgeting",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "Payback Period Rule: A project requires an upfront investment of 100000 and is...",
+  "summary": "Calculate the payback period by dividing the initial investment by annual cash inflows.",
+  "prompt": "A project requires an upfront investment of $100,000 and is expected to generate $30,000 annually for 5 years. What is the payback period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4.33"
+    },
+    {
+      "id": "B",
+      "text": "2.83"
+    },
+    {
+      "id": "C",
+      "text": "3.33"
+    },
+    {
+      "id": "D",
+      "text": "3.83"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Payback Period = Initial Investment / Annual Cash Flow. Thus, $100,000 / $30,000 = 3.33 years, indicating the payback period is approximately 4 years."
+}

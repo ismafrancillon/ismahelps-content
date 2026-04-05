@@ -1,0 +1,41 @@
+{
+  "id": "p389",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "diversification",
+    "portfolio",
+    "systematic-risk",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "CAPM: Why is diversification an essential...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "Why is diversification an essential strategy in portfolio management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "B",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "C",
+      "text": "Diversification is a fundamental strategy in portfolio management as it allows"
+    },
+    {
+      "id": "D",
+      "text": "Minimizes risk for a given return"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Diversification is a fundamental strategy in portfolio management as it allows investors to reduce the overall risk of their portfolio without sacrificing expected returns. By spreading investments across different asset classes or securities that are not perfectly correlated, investors can mitigate the impact of poor performance by any single investment, thereby stabilizing returns."
+}

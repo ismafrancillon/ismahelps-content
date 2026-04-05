@@ -1,0 +1,41 @@
+{
+  "id": "p382",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "risk-return",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: If an investor has a utility function defined as U...",
+  "summary": "Analyze a portfolio management concept related to Active Management and Performance Measurement.",
+  "prompt": "If an investor has a utility function defined as U = E(r) - 0.5Aσ², what does the variable A represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Equal to the weighted average return"
+    },
+    {
+      "id": "B",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "C",
+      "text": "In the utility function, A represents the investor's risk aversion coefficient,"
+    },
+    {
+      "id": "D",
+      "text": "Portfolio with highest Sharpe ratio"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "In the utility function, A represents the investor's risk aversion coefficient, indicating how much risk they are willing to accept for a given level of expected return."
+}

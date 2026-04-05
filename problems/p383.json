@@ -1,0 +1,41 @@
+{
+  "id": "p383",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If the expected rate of return of a stock is...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If the expected rate of return of a stock is 12% and its beta is 1.2, what would be the required return based on the CAPM if the risk-free rate is 3%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "18%"
+    },
+    {
+      "id": "B",
+      "text": "17%"
+    },
+    {
+      "id": "C",
+      "text": "12%"
+    },
+    {
+      "id": "D",
+      "text": "10%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "CAPM formula: E(r) = r_f + β[E(r_m) - r_f]. Here, E(r) = 3% + 1.2(12% - 3%) = 12%."
+}

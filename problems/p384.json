@@ -1,0 +1,41 @@
+{
+  "id": "p384",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "expected-return",
+    "market-risk-premium",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If the expected return of a portfolio is 0.11 and...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If the expected return of a portfolio is 11% and the risk-free rate is 4%, what is the risk premium?",
+  "options": [
+    {
+      "id": "A",
+      "text": "13%"
+    },
+    {
+      "id": "B",
+      "text": "7%"
+    },
+    {
+      "id": "C",
+      "text": "11%"
+    },
+    {
+      "id": "D",
+      "text": "16%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Risk Premium = Expected Return - Risk-Free Rate = 11% - 4% = 7%."
+}

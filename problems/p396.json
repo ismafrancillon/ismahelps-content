@@ -1,0 +1,40 @@
+{
+  "id": "p396",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Functions",
+  "subtopic": "Lease, Acquire or Develop Facilities",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "contracts",
+    "contract-law",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Lease, Acquire or Develop Facilities: What is the typical purpose of a lease in commercial...",
+  "summary": "Describe the purpose of commercial leases in defining tenant-landlord obligations.",
+  "prompt": "What is the typical purpose of a lease in commercial real estate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Mezzanine financing"
+    },
+    {
+      "id": "B",
+      "text": "Equity partners"
+    },
+    {
+      "id": "C",
+      "text": "The primary purpose of a lease in commercial real estate is to establish the"
+    },
+    {
+      "id": "D",
+      "text": "Punitive damages"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The primary purpose of a lease in commercial real estate is to establish the rights and responsibilities of the tenant and landlord, including the terms of occupancy, rent payment schedules, and maintenance obligations. Leases are crucial legal documents that protect both parties' interests and define the operational framework for the property, thus contributing to the overall investment strategy."
+}

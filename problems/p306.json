@@ -1,0 +1,40 @@
+{
+  "id": "p306",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Adjustments and Quality of Earnings",
+  "subtopic": "Adjusting Entries",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "adjusting-entries",
+    "accrual-accounting",
+    "financial-statements",
+    "conceptual"
+  ],
+  "title": "Adjusting Entries: What is the primary purpose of adjusting entries in the...",
+  "summary": "Explain the purpose of adjusting entries in reflecting true financial position.",
+  "prompt": "What is the primary purpose of adjusting entries in the accounting system?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "B",
+      "text": "It reduces total liabilities"
+    },
+    {
+      "id": "C",
+      "text": "The primary purpose of adjusting entries is to ensure that financial statements"
+    },
+    {
+      "id": "D",
+      "text": "It increases total assets"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The primary purpose of adjusting entries is to ensure that financial statements reflect the true financial position of the company at the end of the accounting period. Adjusting entries are necessary to account for revenues earned and expenses incurred that have not yet been recorded in the accounts. This ensures that the financial statements adhere to the accrual basis of accounting, which matches revenues with the expenses incurred to generate them, providing a more accurate representation of financial performance."
+}

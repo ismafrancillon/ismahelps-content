@@ -1,0 +1,40 @@
+{
+  "id": "p371",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Factors Affecting Option Prices",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "option-pricing",
+    "options",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Factors Affecting Option Prices: If the current price of a stock is 50 and...",
+  "summary": "Calculate the delta of a European option using the Black-Scholes model parameters.",
+  "prompt": "If the current price of a stock is $50 and the implied volatility is 30%, what is the delta of a European call option with a strike price of $55 and 6 months to expiration?",
+  "options": [
+    {
+      "id": "A",
+      "text": "27%"
+    },
+    {
+      "id": "B",
+      "text": "31%"
+    },
+    {
+      "id": "C",
+      "text": "30%"
+    },
+    {
+      "id": "D",
+      "text": "28%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Current Stock Price (S) = $50<br>Strike Price (K) = $55<br>Time to Maturity (T) = 0.5 years<br>Implied Volatility (σ) = 30%<br><br>**Step 2: Use Black-Scholes Formula**<br>Delta of European call option can be calculated using:<br>Δ = N(d1), where d1 = [ln(S/K) + (r + σ²/2)T] / (σ√T).<br><br>After calculation, Δ ≈ 0.30.<br><br>**Step 3: Conclusion**<br>Delta of the option is approximately 0.30."
+}

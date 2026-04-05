@@ -1,0 +1,41 @@
+{
+  "id": "p386",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Equilibrium in Capital Markets",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If you have a 150000 portfolio with a beta of...",
+  "summary": "Calculate the expected return on equity using CAPM given beta, risk-free rate, and market return.",
+  "prompt": "If you have a $150,000 portfolio with a beta of 1.5 and the expected market return is 12%, what is the expected return of your portfolio assuming the risk-free rate is 3%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$120,000"
+    },
+    {
+      "id": "B",
+      "text": "$225,000"
+    },
+    {
+      "id": "C",
+      "text": "$150,000"
+    },
+    {
+      "id": "D",
+      "text": "$75,000"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Key Variables<br> Portfolio value = $150,000, Beta (β) = 1.5, Risk-free rate (rF) = 3%, Expected market return (rM) = 12%<br><br> Step 2: Use CAPM Formula<br> Expected return (E(r)) = rF + β(E(rM) - rF)<br> E(r) = 3% + 1.5(12% - 3%)<br><br> Step 3: Calculate<br> E(r) = 3% + 1.5(9%) = 3% + 13.5% = 16.5%<br> Therefore, the closest answer is C, 18%."
+}

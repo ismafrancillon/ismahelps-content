@@ -1,0 +1,41 @@
+{
+  "id": "p362",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Antitakeover Measures",
+  "subtopic": "Preventive Antitakeover Measures",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "governance",
+    "corporation",
+    "shareholders",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Preventive Antitakeover Measures: Which of the following is NOT a preventive antitakeover measure?...",
+  "summary": "Distinguish preventive antitakeover measures from active defense tactics in hostile takeover situations.",
+  "prompt": "Which of the following is NOT a preventive antitakeover measure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An informal overture to management"
+    },
+    {
+      "id": "B",
+      "text": "A proxy contest for board control"
+    },
+    {
+      "id": "C",
+      "text": "Hostile bids are not a preventive measure"
+    },
+    {
+      "id": "D",
+      "text": "A discount on their shares"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Hostile bids are not a preventive measure; they are an active defense tactic used after a takeover attempt has been made. Preventive measures include poison pills and staggered boards."
+}

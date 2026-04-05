@@ -1,0 +1,41 @@
+{
+  "id": "p345",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "dividend-discount-model",
+    "cost-of-equity",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: If the current stock price of a firm is $120,...",
+  "summary": "Calculate the cost of equity or expected return using the CAPM formula.",
+  "prompt": "If the current stock price of a firm is $120, the expected dividend next year is $6, and the growth rate is 4%, what is the expected return according to the Gordon Growth Model?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5%"
+    },
+    {
+      "id": "B",
+      "text": "14%"
+    },
+    {
+      "id": "C",
+      "text": "9%"
+    },
+    {
+      "id": "D",
+      "text": "4%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Cost of Equity = D1 / P0 + g = $6 / $120 + 0.04 = 0.05 + 0.04 = 0.09 or 9%. This expected return reflects the total return anticipated from the equity investment."
+}

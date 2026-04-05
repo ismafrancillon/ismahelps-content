@@ -1,0 +1,41 @@
+{
+  "id": "p400",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-debt",
+    "cost-of-equity",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capital Structure: A firm should prefer debt financing over equity financing because...",
+  "summary": "Evaluate whether debt financing always increases firm value or may cause distress.",
+  "prompt": "A firm should prefer debt financing over equity financing because it is always cheaper.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "B",
+      "text": "Cost of equity increases"
+    },
+    {
+      "id": "C",
+      "text": "Debt can be cheaper due to tax benefits (interest is tax-deductible), but it"
+    },
+    {
+      "id": "D",
+      "text": "Financial distress probability increases"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Debt can be cheaper due to tax benefits (interest is tax-deductible), but it also increases financial risk. The optimal capital structure balances debt and equity to minimize the overall cost of capital while managing risk."
+}

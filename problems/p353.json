@@ -1,0 +1,40 @@
+{
+  "id": "p353",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "History of Mergers",
+  "subtopic": "Merger Waves",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "industry-analysis",
+    "competition",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Merger Waves: During which merger wave did hostile takeovers become a prominent...",
+  "summary": "Identify the merger wave during which hostile takeovers became a prominent corporate strategy.",
+  "prompt": "During which merger wave did hostile takeovers become a prominent method of corporate expansion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A discount on their shares"
+    },
+    {
+      "id": "B",
+      "text": "A proxy contest for board control"
+    },
+    {
+      "id": "C",
+      "text": "The fourth merger wave is noted for the surge in hostile takeovers, marking a"
+    },
+    {
+      "id": "D",
+      "text": "Same share price as before"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The fourth merger wave is noted for the surge in hostile takeovers, marking a shift in corporate strategy and tactics during that period, which included many high-profile acquisitions."
+}

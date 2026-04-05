@@ -1,0 +1,40 @@
+{
+  "id": "p336",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Sales Revenue",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "sales-revenue",
+    "budgeting",
+    "forecasting",
+    "calculation"
+  ],
+  "title": "Sales Revenue: If a company expects to sell 10000 units and the...",
+  "summary": "Calculate expected total sales revenue from projected unit sales and selling price per unit.",
+  "prompt": "If a company expects to sell 10,000 units and the selling price is $20 per unit, what is the expected total sales revenue?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$120,000"
+    },
+    {
+      "id": "B",
+      "text": "$150,000"
+    },
+    {
+      "id": "C",
+      "text": "$200,000"
+    },
+    {
+      "id": "D",
+      "text": "$400,000"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Total Sales Revenue = Selling Price * Quantity Sold = $20 * 10,000 = $200,000. This is crucial for budgeting and forecasting purposes (Page 47)."
+}

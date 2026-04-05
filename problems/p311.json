@@ -1,0 +1,40 @@
+{
+  "id": "p311",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Litigation and Lawsuits",
+  "subtopic": "Prescription",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "prescription",
+    "statute-of-limitations",
+    "contract-law",
+    "conceptual"
+  ],
+  "title": "Prescription: How many years does a creditor in Quebec have to...",
+  "summary": "Determine the prescription period for initiating a breach of contract lawsuit in Quebec.",
+  "prompt": "How many years does a creditor in Quebec have to initiate a breach of contract lawsuit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "B",
+      "text": "Nominal damages"
+    },
+    {
+      "id": "C",
+      "text": "Three years or less from the time the offense occurred"
+    },
+    {
+      "id": "D",
+      "text": "It never legally existed"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "In Quebec, the general rule for prescription (limitation period) for breach of contract is three years or less from the time the offense occurred. This means that a creditor must initiate a lawsuit within this timeframe; otherwise, the right to sue may be lost. Understanding this limitation is crucial for both creditors and debtors in managing their legal rights."
+}

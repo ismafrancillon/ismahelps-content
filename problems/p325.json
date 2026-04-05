@@ -1,0 +1,40 @@
+{
+  "id": "p325",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Payback Period Rule",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "payback-period",
+    "capital-budgeting",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "Payback Period Rule: If a firm has a cash outflow of 75000 and...",
+  "summary": "Calculate the payback period by dividing the initial investment by annual cash inflows.",
+  "prompt": "If a firm has a cash outflow of $75,000 and cash inflows of $30,000 for 4 years, what is the payback period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5"
+    },
+    {
+      "id": "B",
+      "text": "2.25"
+    },
+    {
+      "id": "C",
+      "text": "2.50"
+    },
+    {
+      "id": "D",
+      "text": "3"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Payback Period = Initial Investment / Annual Cash Flow. Thus, $75,000 / $30,000 = 2.5 years, indicating it will take approximately 3 years to recover the investment."
+}

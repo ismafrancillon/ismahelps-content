@@ -1,0 +1,45 @@
+{
+  "id": "p305",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-market-hypothesis",
+    "weak-form",
+    "market-efficiency",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: Which of the following statements is most correct? A. Semi...",
+  "summary": "Identify the most correct statement distinguishing weak, semi-strong, and strong forms of efficiency.",
+  "prompt": "Which of the following statements is most correct? A. Semi strong-form market efficiency implies that all private and public information is rapidly incorporated into stock prices. B. Market efficiency implies that all stocks should have the same expected return. C. Weak-form market efficiency implies that recent trends in stock prices would be of no use in selecting stocks. D. All of the above. E. None of the above.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Semi strong-form market efficiency implies that all private and public information is rapidly incorporated into stock prices"
+    },
+    {
+      "id": "B",
+      "text": "Market efficiency implies that all stocks should have the same expected return"
+    },
+    {
+      "id": "C",
+      "text": "Weak-form market efficiency implies that recent trends in stock prices would be"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    },
+    {
+      "id": "E",
+      "text": "None of the above"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Based on the provided context and constraints, the correct answer is C. Here is the step-by-step reasoning: 1. **Statement Analysis**: - **A. Semi strong-form market efficiency implies that all private and public information is rapidly incorporated into stock prices.** - This statement is incorrect because semi-strong form efficiency implies that all public information is incorporated into stock prices, not private information. - **B. Market efficiency implies that all stocks should have the same expected return.** - This statement is incorrect because market efficiency does not imply that all stocks should have the same expected return. It implies that stocks with similar risk characteristics should have similar expected returns. - **C. Weak-form market efficiency implies that recent trends in stock prices would be of no use in selecting stocks.** - This statement is correct. Weak-form efficiency states that past price and volume data are of no use in predicting future stock prices, meaning recent trends in stock prices would be of no use in selecting stocks. - **D. All of the above.** - This statement is incorrect because not all of the above statements are correct. 2. **Conclusion**: - Based on the analysis, the statement that is most correct is C: Weak-form market efficiency implies that recent trends in stock prices would be of no use in selecting stocks. Therefore, the final answer is C."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p341",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "gaap",
+    "characteristics",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: Which of the following is NOT a characteristic of managerial...",
+  "summary": "Identify which attribute is not characteristic of managerial accounting, such as GAAP adherence.",
+  "prompt": "Which of the following is NOT a characteristic of managerial accounting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Follows GAAP/IFRS"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    },
+    {
+      "id": "C",
+      "text": "Managerial accounting does not adhere to GAAP"
+    },
+    {
+      "id": "D",
+      "text": "For internal decision-making"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Managerial accounting does not adhere to GAAP, as it is primarily designed for internal users and does not require the same level of standardization as financial accounting (Page 9)."
+}

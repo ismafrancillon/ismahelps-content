@@ -1,0 +1,40 @@
+{
+  "id": "p333",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Break-even Analysis",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "break-even-analysis",
+    "cvp",
+    "fixed-costs",
+    "calculation"
+  ],
+  "title": "Break-even Analysis: Calculate the break-even point in units if fixed costs are...",
+  "summary": "Calculate the break-even point in units by dividing fixed costs by the contribution margin per unit.",
+  "prompt": "Calculate the break-even point in units if fixed costs are $100,000 and the contribution margin per unit is $25.",
+  "options": [
+    {
+      "id": "A",
+      "text": "4800"
+    },
+    {
+      "id": "B",
+      "text": "2800"
+    },
+    {
+      "id": "C",
+      "text": "4000"
+    },
+    {
+      "id": "D",
+      "text": "3000"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Break-even Point in Units = Fixed Costs / Contribution Margin per Unit = $100,000 / $25 = 4,000 units. This calculation is vital for assessing how many units need to be sold to cover all costs (Page 47)."
+}

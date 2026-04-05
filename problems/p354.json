@@ -1,0 +1,40 @@
+{
+  "id": "p354",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Strategy",
+  "subtopic": "Other Economic Motives",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "market-value",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Other Economic Motives: Following a merger, what is a common effect on the...",
+  "summary": "Evaluate the common impact of mergers on acquiring firm shareholder returns based on empirical evidence.",
+  "prompt": "Following a merger, what is a common effect on the acquiring firm's shareholder value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A discount on their shares"
+    },
+    {
+      "id": "B",
+      "text": "Significant debt financing"
+    },
+    {
+      "id": "C",
+      "text": "Research indicates that acquiring firms often experience zero or negative"
+    },
+    {
+      "id": "D",
+      "text": "A premium above market price"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Research indicates that acquiring firms often experience zero or negative returns following mergers, indicating skepticism in the market about the anticipated benefits of the transaction."
+}

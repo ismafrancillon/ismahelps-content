@@ -1,0 +1,41 @@
+{
+  "id": "p359",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Types of Mergers",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "industry-analysis",
+    "competition",
+    "corporation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Types of Mergers: Which of the following best...",
+  "summary": "Define a horizontal merger as the combination of two competitors operating in the same industry.",
+  "prompt": "Which of the following best defines a horizontal merger?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stock in the acquiring company"
+    },
+    {
+      "id": "B",
+      "text": "Enforce tax compliance"
+    },
+    {
+      "id": "C",
+      "text": "A horizontal merger occurs when two competitors combine"
+    },
+    {
+      "id": "D",
+      "text": "A proxy contest for board control"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A horizontal merger occurs when two competitors combine, which can potentially lead to increased market power. Such mergers may be scrutinized for antitrust issues."
+}

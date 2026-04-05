@@ -1,0 +1,40 @@
+{
+  "id": "p370",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Futures",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Futures: If a trader enters a long position in a futures...",
+  "summary": "Define a long futures position as reflecting an expectation of rising asset prices.",
+  "prompt": "If a trader enters a long position in a futures contract, what does that mean?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Option premium"
+    },
+    {
+      "id": "B",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "C",
+      "text": "A long position in a futures contract indicates that the trader expects the"
+    },
+    {
+      "id": "D",
+      "text": "Time to expiration"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A long position in a futures contract indicates that the trader expects the price of the underlying asset to rise, benefiting from the price increase."
+}

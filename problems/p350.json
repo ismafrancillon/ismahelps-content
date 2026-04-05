@@ -1,0 +1,41 @@
+{
+  "id": "p350",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Earnings Manipulation",
+  "subtopic": "Clean Surplus Accounting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "accounting-principles",
+    "net-income",
+    "retained-earnings",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Clean Surplus Accounting: Which of the following best describes the concept of \"clean...",
+  "summary": "Define clean surplus accounting requiring all non-owner equity changes to flow through income.",
+  "prompt": "Which of the following best describes the concept of \"clean surplus accounting\"?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "B",
+      "text": "It reduces net income"
+    },
+    {
+      "id": "C",
+      "text": "Clean surplus accounting is an accounting method that ensures all changes in"
+    },
+    {
+      "id": "D",
+      "text": "It only affects the balance sheet"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Clean surplus accounting is an accounting method that ensures all changes in equity—except for those resulting from transactions with owners (like dividends or stock issues)—are reflected in net income. This method is crucial for accurately assessing a firm's performance and for the residual income model, where net income is used to calculate the value of equity. This principle is emphasized in the provided materials, particularly on pages 40 and 41."
+}

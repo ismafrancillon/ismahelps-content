@@ -1,0 +1,41 @@
+{
+  "id": "p356",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Marketability of the Stock",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "market-value",
+    "valuation",
+    "stock-valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Marketability of the Stock: What is one of the primary risks associated with an...",
+  "summary": "Identify the risks of using overvalued stock as currency in acquisition transactions.",
+  "prompt": "What is one of the primary risks associated with an overvalued stock being used in an acquisition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Comparable company analysis"
+    },
+    {
+      "id": "B",
+      "text": "Price-to-Earnings (P/E) ratio"
+    },
+    {
+      "id": "C",
+      "text": "Using an overvalued stock as currency in acquisitions can lead to significant"
+    },
+    {
+      "id": "D",
+      "text": "A proxy contest for board control"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Using an overvalued stock as currency in acquisitions can lead to significant financial instability if market corrections occur, resulting in losses for the acquirer."
+}

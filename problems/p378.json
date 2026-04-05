@@ -1,0 +1,40 @@
+{
+  "id": "p378",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Basis Risk: Which of the following best describes the concept of basis...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Which of the following best describes the concept of basis risk in hedging?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily settlement of gains/losses"
+    },
+    {
+      "id": "B",
+      "text": "Injunctive relief"
+    },
+    {
+      "id": "C",
+      "text": "Basis risk refers to the risk that the difference between the spot price and"
+    },
+    {
+      "id": "D",
+      "text": "A swap agreement"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Basis risk refers to the risk that the difference between the spot price and the futures price may change. This can affect the effectiveness of a hedge, especially when hedging with futures contracts that may not perfectly correlate with the underlying asset's price movement."
+}

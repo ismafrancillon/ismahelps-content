@@ -1,0 +1,41 @@
+{
+  "id": "p374",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "american-option",
+    "european-option",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Call: What distinguishes American options from...",
+  "summary": "Distinguish American from European options based on exercise timing flexibility.",
+  "prompt": "What distinguishes American options from European options?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An options contract for downside protection"
+    },
+    {
+      "id": "B",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "C",
+      "text": "American options allow the holder to exercise the option at any time prior to"
+    },
+    {
+      "id": "D",
+      "text": "Measures profitability"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "American options allow the holder to exercise the option at any time prior to expiration, offering more flexibility than European options, which can only be exercised at expiration. This can influence their pricing and hedging strategies significantly."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p308",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Temporary vs. Permanent Accounts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "temporary-accounts",
+    "closing-entries",
+    "accounting-cycle",
+    "conceptual"
+  ],
+  "title": "Temporary vs. Permanent Accounts: Which of the following is a temporary account that must...",
+  "summary": "Assess whether temporary accounts are closed to zero at the end of each accounting period.",
+  "prompt": "Which of the following is a temporary account that must be closed at the end of an accounting period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Finance internal growth and new projects"
+    },
+    {
+      "id": "B",
+      "text": "Always distributed as dividends"
+    },
+    {
+      "id": "C",
+      "text": "Temporary accounts, such as Sales Revenue, must be closed at the end of an"
+    },
+    {
+      "id": "D",
+      "text": "It increases operating income"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Temporary accounts, such as Sales Revenue, must be closed at the end of an accounting period to reset their balances to zero for the next period. This is done to accurately reflect the income and expenses for the new accounting period. Permanent accounts, such as Retained Earnings, accumulate balances over time and are not closed. Understanding which accounts are temporary and which are permanent is essential for proper financial reporting and accounting practices."
+}

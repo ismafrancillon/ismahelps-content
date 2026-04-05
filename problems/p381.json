@@ -1,0 +1,40 @@
+{
+  "id": "p381",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: An investor holds a portfolio with 0.6 in Stock A...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "An investor holds a portfolio with 60% in Stock A and 40% in Stock B. If Stock A has an expected return of 8% and Stock B has an expected return of 12%, what is the expected return of the portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "11.9%"
+    },
+    {
+      "id": "B",
+      "text": "6.8%"
+    },
+    {
+      "id": "C",
+      "text": "10.8%"
+    },
+    {
+      "id": "D",
+      "text": "7.8%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "E(r) = 0.6(8%) + 0.4(12%) = 4.8% + 4.8% = 10.8%."
+}

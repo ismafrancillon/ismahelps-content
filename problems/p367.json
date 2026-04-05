@@ -1,0 +1,40 @@
+{
+  "id": "p367",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "options",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Basis Risk: Calculate the effective price received by a company that hedges...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Calculate the effective price received by a company that hedges its commodity sale. If the spot price is $53 and the futures price is $64, what is the price received? (Assume the futures position is closed out.)",
+  "options": [
+    {
+      "id": "A",
+      "text": "Only the storage cost"
+    },
+    {
+      "id": "B",
+      "text": "Natural hedging through operations"
+    },
+    {
+      "id": "C",
+      "text": "The effective price received by the company is $53 (spot price) + ($64 - $54)"
+    },
+    {
+      "id": "D",
+      "text": "A forward contract to lock in the exchange rate"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The effective price received by the company is $53 (spot price) + ($64 - $54) (gain on the futures position), totaling $63."
+}

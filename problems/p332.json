@@ -1,0 +1,40 @@
+{
+  "id": "p332",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Contribution Margin Analysis",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "contribution-margin",
+    "target-profit",
+    "cvp",
+    "calculation"
+  ],
+  "title": "Contribution Margin Analysis: A company incurs a variable cost of 40 per unit...",
+  "summary": "Calculate the units required to achieve a target profit using the contribution margin approach.",
+  "prompt": "A company incurs a variable cost of $40 per unit and sells the product for $100. If the fixed costs are $200,000, how many units must be sold to achieve a profit of $50,000?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$3,125"
+    },
+    {
+      "id": "B",
+      "text": "$5,938"
+    },
+    {
+      "id": "C",
+      "text": "$6,250"
+    },
+    {
+      "id": "D",
+      "text": "$6,875"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Units to be sold = (Fixed Costs + Desired Profit) / Contribution Margin per Unit = ($200,000 + $50,000) / ($100 - $40) = 6,250 units. This calculation is crucial for financial planning (Page 47)."
+}

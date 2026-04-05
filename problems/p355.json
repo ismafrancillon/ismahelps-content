@@ -1,0 +1,40 @@
+{
+  "id": "p355",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Merger Consideration",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "market-value",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Merger Consideration: In what scenario would a company most likely use a...",
+  "summary": "Identify scenarios where a company would most likely use cash as merger consideration.",
+  "prompt": "In what scenario would a company most likely use a cash transaction in an acquisition?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A premium above market price"
+    },
+    {
+      "id": "B",
+      "text": "Stock in the acquiring company"
+    },
+    {
+      "id": "C",
+      "text": "Companies with strong cash reserves are more likely to utilize cash"
+    },
+    {
+      "id": "D",
+      "text": "A proxy contest for board control"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Companies with strong cash reserves are more likely to utilize cash transactions because it allows for immediate realization of gains and can simplify the acquisition process."
+}

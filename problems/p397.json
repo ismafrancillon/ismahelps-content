@@ -1,0 +1,41 @@
+{
+  "id": "p397",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Capitalization Rate",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "cash-flows",
+    "discount-rate",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capitalization Rate: Which of the following accurately describes the impact of cap...",
+  "summary": "Assess the inverse relationship between cap rates and property valuations.",
+  "prompt": "Which of the following accurately describes the impact of cap rates on property valuation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Commercial bank loans"
+    },
+    {
+      "id": "B",
+      "text": "Residual Income Model"
+    },
+    {
+      "id": "C",
+      "text": "Cap rates have a direct correlation with property valuation"
+    },
+    {
+      "id": "D",
+      "text": "Option premium"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Cap rates have a direct correlation with property valuation. A lower cap rate typically indicates a higher property value, as it suggests that the property generates a lower return relative to its price, reflecting strong demand and stability. Conversely, a higher cap rate indicates a lower property value, suggesting increased risk or lower demand. Understanding the relationship between cap rates and property values is essential for making informed investment decisions."
+}

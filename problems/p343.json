@@ -1,0 +1,41 @@
+{
+  "id": "p343",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-equity",
+    "cost-of-debt",
+    "capital-structure",
+    "calculation"
+  ],
+  "title": "Cost of Capital: If a firm has a cost of equity of 0.12...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "If a firm has a cost of equity of 12% and a debt ratio of 30%, calculate the Weighted Average Cost of Capital (WACC) if the cost of debt is 6%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "11.7%"
+    },
+    {
+      "id": "B",
+      "text": "6.2%"
+    },
+    {
+      "id": "C",
+      "text": "10.2%"
+    },
+    {
+      "id": "D",
+      "text": "8.7%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Cost of Equity (Ke) = 12% <br> - Cost of Debt (Kd) = 6% <br> - Debt Ratio = 30% (D/V) <br> Therefore, Equity Ratio = 1 - Debt Ratio = 70% (E/V)<br><br> **Step 2: Apply the WACC Formula**<br> WACC = (E/V)*Ke + (D/V)*Kd*(1 - Tax Rate)<br> Since no tax rate is given, we will assume it as 0 for simplicity.<br> = (0.70 * 12%) + (0.30 * 6%)<br> = 0.084 + 0.018 = 0.102 or 10.2%.<br><br> Therefore, the WACC is 10.2%, and the answer is C."
+}

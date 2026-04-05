@@ -1,0 +1,40 @@
+{
+  "id": "p322",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Debt",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "cost-of-debt",
+    "capital-structure",
+    "leverage",
+    "conceptual"
+  ],
+  "title": "Cost of Debt: If a company has a debt-to-equity ratio of 0.5, what...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "If a company has a debt-to-equity ratio of 0.5, what does this imply about its capital structure?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "B",
+      "text": "Proportion of debt financing"
+    },
+    {
+      "id": "C",
+      "text": "A debt-to-equity ratio of 0"
+    },
+    {
+      "id": "D",
+      "text": "Measures ability to meet short-term obligations"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A debt-to-equity ratio of 0.5 indicates that for every dollar of equity, the company has 50 cents of debt, implying that it has more equity than debt."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p363",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "portfolio-beta",
+    "portfolio",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Basic Principles of Hedging: A company has a portfolio that is worth 10 million...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A company has a portfolio that is worth $10 million with a beta of 1.5. If the futures price for the index is 1,000, how many futures contracts should the company sell to completely hedge its portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$9"
+    },
+    {
+      "id": "B",
+      "text": "$7"
+    },
+    {
+      "id": "C",
+      "text": "$10"
+    },
+    {
+      "id": "D",
+      "text": "$5"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Portfolio Value = $10 million<br>Beta = 1.5<br>Futures Price = 1,000<br><br>**Step 2: Calculate Hedge**<br>Number of Contracts = (Portfolio Value * Beta) / Futures Price = ($10,000,000 * 1.5) / 1,000 = 15 contracts.<br><br>**Step 3: Conclusion**<br>The company should sell 15 futures contracts to completely hedge its portfolio."
+}

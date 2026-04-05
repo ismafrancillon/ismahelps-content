@@ -1,0 +1,41 @@
+{
+  "id": "p380",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: A fund has an expected return of 0.1 and a...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "A fund has an expected return of 10% and a standard deviation of 20%. An investor wants to decrease the risk of the portfolio by investing in T-bills with a return of 5%. What proportion should be invested in T-bills to achieve a portfolio return of 8%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calculated using weights and standard deviations"
+    },
+    {
+      "id": "B",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "C",
+      "text": "Using the formula for expected return, E(r) = w_f * r_f + w_p * r_p, solve for"
+    },
+    {
+      "id": "D",
+      "text": "Depends on correlation between assets"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Using the formula for expected return, E(r) = w_f * r_f + w_p * r_p, solve for the proportion in T-bills."
+}

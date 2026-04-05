@@ -1,0 +1,40 @@
+{
+  "id": "p365",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Interest Rates",
+  "subtopic": "Types of Interest Rates",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "expected-return",
+    "interest-rates",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Types of Interest Rates: A stock pays a dividend yield of 0.04 and is...",
+  "summary": "Calculate expected total return from a bond futures contract considering coupon and interest.",
+  "prompt": "A stock pays a dividend yield of 4% and is currently priced at $100. If the stock's price is expected to rise to $105, what would be the expected total return?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5%"
+    },
+    {
+      "id": "B",
+      "text": "7%"
+    },
+    {
+      "id": "C",
+      "text": "9%"
+    },
+    {
+      "id": "D",
+      "text": "6%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Total return = (Future Price - Current Price + Dividends) / Current Price = (105 - 100 + 4) / 100 = 9%. [[24]]"
+}

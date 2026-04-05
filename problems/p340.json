@@ -1,0 +1,40 @@
+{
+  "id": "p340",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "planning",
+    "control",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: Which of the following is a purpose of managerial accounting?...",
+  "summary": "Identify a primary purpose of managerial accounting in aiding management decision-making.",
+  "prompt": "Which of the following is a purpose of managerial accounting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "Reports generated as needed"
+    },
+    {
+      "id": "C",
+      "text": "The purpose of managerial accounting includes assisting in budgeting and"
+    },
+    {
+      "id": "D",
+      "text": "For internal decision-making"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "The purpose of managerial accounting includes assisting in budgeting and planning activities for the organization (Page 9)."
+}

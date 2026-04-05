@@ -1,0 +1,39 @@
+{
+  "id": "p316",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Principles of Contract Law",
+  "subtopic": "Gratuitous Contracts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "contract-law",
+    "gratuitous-contract",
+    "conceptual"
+  ],
+  "title": "Gratuitous Contracts: Which of the following is an example of a gratuitous...",
+  "summary": "Identify an example of a gratuitous contract where one party provides benefit without compensation.",
+  "prompt": "Which of the following is an example of a gratuitous contract?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It never legally existed"
+    },
+    {
+      "id": "B",
+      "text": "Punitive damages"
+    },
+    {
+      "id": "C",
+      "text": "A gratuitous contract is one where one party undertakes an obligation that"
+    },
+    {
+      "id": "D",
+      "text": "Voidable at one party's option"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "A gratuitous contract is one where one party undertakes an obligation that benefits the other party without receiving anything in return. An example of this is donating to charity, where the donor provides funds or items without expecting any form of compensation. This type of contract highlights altruism in legal agreements."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p324",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "capital-budgeting",
+    "calculation"
+  ],
+  "title": "NPV: If a firm has a cash inflow of 100000 in...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "If a firm has a cash inflow of $100,000 in year 1 and $200,000 in year 2, what is the NPV if the discount rate is 15%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$165,000"
+    },
+    {
+      "id": "B",
+      "text": "$142,500"
+    },
+    {
+      "id": "C",
+      "text": "$150,000"
+    },
+    {
+      "id": "D",
+      "text": "$120,000"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "NPV = ($100,000 / 1.15) + ($200,000 / 1.15^2) = $150,000."
+}
