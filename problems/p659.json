@@ -1,0 +1,33 @@
+{
+  "id": "p659",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Alternative Inventory Costing Methods",
+  "subtopic": "Absorption Costing",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "absorption-costing",
+    "inventory-valuation",
+    "fixed-overhead",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Absorption Costing: Absorption costing treats fixed manufacturing overhead as an expense in...",
+  "summary": "Evaluate how absorption costing treats fixed overhead as inventory cost rather than a period expense.",
+  "prompt": "Absorption costing treats fixed manufacturing overhead as an expense in the period incurred.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Under absorption costing, fixed manufacturing overhead is included in the cost of inventory and only expensed when the inventory is sold, affecting profit reporting based on inventory levels."
+}

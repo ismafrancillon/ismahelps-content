@@ -1,0 +1,32 @@
+{
+  "id": "p671",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFE",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cash-flows",
+    "net-income",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "FCFE: Dividends are the only cash flows that equity investors receive...",
+  "summary": "Evaluate whether dividends are the sole cash flow equity investors receive from a firm.",
+  "prompt": "Dividends are the only cash flows that equity investors receive from a firm.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While dividends are a common form of cash flow distribution to equity holders, firms may also return capital via stock buybacks. This makes it essential to consider total cash returned to shareholders, which includes both dividends and buybacks. Hence, dividends do not represent the entirety of cash flows to equity investors."
+}

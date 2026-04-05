@@ -1,0 +1,33 @@
+{
+  "id": "p668",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Cost Concepts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "users",
+    "internal-vs-external",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Managerial Cost Concepts: The primary users of managerial accounting reports are external stakeholders....",
+  "summary": "Identify the primary users of managerial accounting as internal managers and executives.",
+  "prompt": "The primary users of managerial accounting reports are external stakeholders.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Managerial accounting primarily serves internal users such as managers and department heads, whereas financial accounting focuses on external users like investors and creditors. This distinction is crucial for understanding the purpose of different accounting reports."
+}

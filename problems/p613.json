@@ -1,0 +1,24 @@
+{
+  "id": "p613",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "portfolio-beta",
+    "portfolio",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Basic Principles of Hedging: A company has a portfolio worth 1 million with a...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A company has a portfolio worth $1 million with a beta of 1.5 and wishes to hedge against market risk using futures contracts on a stock index currently valued at 2,000. Calculate the number of futures contracts needed to achieve a beta of 1.0 for the portfolio, assuming each futures contract is on $250 times the index.",
+  "options": [],
+  "correct_option": "75 contracts.",
+  "answer_text": "75 contracts.",
+  "answer_format": "text",
+  "solution": "**Step 1: Define Key Variables** - Portfolio value = $1,000,000, Current index value = 2,000, Futures contract size = $250. <br> **Step 2: Calculate Portfolio Beta** - Current portfolio beta = 1.5. Target beta = 1.0. <br> **Step 3: Calculate Required Hedge** - Required hedge = (Portfolio Value × (Current Beta - Target Beta)) / (Contract Size × Current Index Value) = (1,000,000 × (1.5 - 1)) / (250 × 2,000) = 75 contracts."
+}

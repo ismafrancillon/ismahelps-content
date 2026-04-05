@@ -1,0 +1,24 @@
+{
+  "id": "p620",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Risk and Return",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "variance",
+    "calculation"
+  ],
+  "title": "Risk and Return: A portfolio consists of Stock A and Stock B. Stock...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "A portfolio consists of Stock A and Stock B. Stock A has an expected return of 12% and a standard deviation of 20%. Stock B has an expected return of 8% and a standard deviation of 10%. If the correlation coefficient between Stock A and Stock B is 0.5, calculate the expected return and the standard deviation of the portfolio if the weights of Stock A and Stock B are 60% and 40% respectively.",
+  "options": [],
+  "correct_option": "Expected Return: 10.4%, Standard Deviation: 14.82%",
+  "answer_text": "Expected Return: 10.4%, Standard Deviation: 14.82%",
+  "answer_format": "text",
+  "solution": "**Step 1: Calculate the expected return of the portfolio (E(Rp))**<br> E(Rp) = wA * E(RA) + wB * E(RB) <br> E(Rp) = 0.6 * 0.12 + 0.4 * 0.08 = 0.104 or 10.4% <br> **Step 2: Calculate the variance of the portfolio (σ^2p)**<br> σ^2p = wA^2 * σA^2 + wB^2 * σB^2 + 2 * wA * wB * Cov(RA, RB)<br> Cov(RA, RB) = ρ * σA * σB = 0.5 * 0.20 * 0.10 = 0.01 <br> σ^2p = (0.6^2 * 0.20^2) + (0.4^2 * 0.10^2) + 2 * (0.6) * (0.4) * (0.01) = 0.0220 <br> **Step 3: Calculate the standard deviation of the portfolio (σp)**<br> σp = √σ^2p = √0.0220 = 0.1482 or 14.82%."
+}

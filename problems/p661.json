@@ -1,0 +1,33 @@
+{
+  "id": "p661",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Budgeting",
+  "subtopic": "Budgeting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "budgeting",
+    "planning",
+    "performance-measurement",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Budgeting: Budgeting is not necessary for...",
+  "summary": "Evaluate budgeting as a critical tool for planning, controlling, and benchmarking performance.",
+  "prompt": "Budgeting is not necessary for effective managerial decision-making.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Budgeting is a critical process for planning and controlling operations, providing benchmarks against which actual performance can be measured. It significantly influences managerial decisions."
+}

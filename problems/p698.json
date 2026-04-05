@@ -1,0 +1,32 @@
+{
+  "id": "p698",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Derivative Instruments: An option gives the holder the obligation to buy the...",
+  "summary": "Evaluate the characteristics and classification of derivative instruments.",
+  "prompt": "An option gives the holder the obligation to buy the underlying asset at a specified price.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "An option provides the holder with the right, but not the obligation, to purchase the underlying asset at a specified price. This is a fundamental difference between options and futures contracts. [[24]]"
+}

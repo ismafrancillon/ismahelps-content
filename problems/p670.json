@@ -1,0 +1,33 @@
+{
+  "id": "p670",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "Capital Expenses",
+  "question_type": "true_false",
+  "difficulty": "Hard",
+  "tags": [
+    "capital-expenditures",
+    "operating-income",
+    "accounting",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Expenses: A firm’s operating income must...",
+  "summary": "Analyze earnings measurement or manipulation concepts in financial analysis.",
+  "prompt": "A firm’s operating income must include its capital expenditures.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Operating income should reflect revenues minus operating expenses only, excluding capital expenditures. Capital expenditures are accounted for separately and are capitalized, meaning they are recorded as assets and depreciated over time. This distinction is fundamental to understanding a firm's profitability."
+}

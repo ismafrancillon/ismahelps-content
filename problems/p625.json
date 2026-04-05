@@ -1,0 +1,23 @@
+{
+  "id": "p625",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Covariance",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "systematic-risk",
+    "calculation",
+    "conceptual"
+  ],
+  "title": "Covariance: The return on stock A has a covariance of 0.1...",
+  "summary": "Determine which stock moves more closely with the market by comparing covariances and calculating betas.",
+  "prompt": "The return on stock A has a covariance of 0.1 with the return on the market portfolio whereas the return on stock B has covariance of 0.3 with the market return. The return on which stock moves more closely with the return on the market portfolio?",
+  "options": [],
+  "correct_option": "Insufficient information: we would need the standard deviation of both A and B",
+  "answer_text": "Insufficient information: we would need the standard deviation of both A and B",
+  "answer_format": "text",
+  "solution": "To determine which stock moves more closely with the return on the market portfolio, we need to calculate the beta for each stock. Beta measures the sensitivity of a stock's returns to the returns of the market portfolio. The formula for beta is: \\[ \\beta_i = \\frac{\\text{Cov}(R_i, R_m)}{\\text{Var}(R_m)} \\] Given: - Covariance of Stock A with the market (Cov(RA, Rm)) = 0.1 - Covariance of Stock B with the market (Cov(RB, Rm)) = 0.3 - Variance of the market returns (Var(Rm)) is not provided. Since the variance of the market returns is not provided, we have insufficient information to calculate the beta for each stock. Therefore, the correct answer is: **Insufficient information: we would need the standard deviation of both A and B.** Explanation: 1. Beta is crucial in determining how closely a stock's return moves with the market return. 2. Beta calculation requires the covariance of the stock with the market and the variance of the market returns. 3. Without the variance of the market returns, it is impossible to compute beta and thus determine which stock moves more closely with the market. Final Answer: **Insufficient information: we would need the standard deviation of both A and B.**"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p644",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Annuity",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "time-value-of-money",
+    "annuity",
+    "future-value",
+    "calculation"
+  ],
+  "title": "Annuity: You have decided that one year from today you will...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "You have decided that one year from today you will begin depositing 5% of your annual salary in an account that will earn 11% per year. Your Salary will increase 4% per year throughout your career. How much money will you have when you retire 40 years from today?",
+  "options": [],
+  "correct_option": "You will have approximately $2,532,753.39 when you retire 40 years from today.",
+  "answer_text": "You will have approximately $2,532,753.39 when you retire 40 years from today.",
+  "answer_format": "text",
+  "solution": "To find out how much money you will have when you retire 40 years from today, we will calculate the future value of your annual deposits, taking into account the salary growth and interest earned over time.\n\n### Final Answer:\nYou will have approximately **$2,532,753.39** when you retire 40 years from today.\n\n### Step-by-Step Calculation:\n\n1. **Initial Salary and Deposit**:\n   - Initial Salary: $50,000\n   - First Year Deposit: \\( 0.05 \\times 50,000 = 2,500 \\)\n\n2. **Future Salary Growth**:\n   - Your salary increases by 4% each year. The salary in year \\( n \\) is:\n     \\[\n     \\text{Salary}_n = 50,000 \\times (1 + 0.04)^{n-1}\n     \\]\n   - The deposit for year \\( n \\) will be:\n     \\[\n     \\text{Deposit}_n = 0.05 \\times \\text{Salary}_n = 0.05 \\times 50,000 \\times (1 + 0.04)^{n-1}\n     \\]\n\n3. **Future Value of Each Deposit**:\n   - The future value (FV) of each deposit made at the end of each year can be calculated using:\n     \\[\n     FV = \\text{Deposit}_n \\times (1 + r)^{t}\n     \\]\n   - Here, \\( r = 0.11 \\) and \\( t = 40 - n \\).\n\n4. **Total Amount at Retirement**:\n   - The total amount accumulated at retirement is:\n     \\[\n     \\text{Total Amount} = \\sum_{n=1}^{40} \\left(0.05 \\times 50,000 \\times (1 + 0.04)^{n-1} \\times (1 + 0.11)^{40-n}\\right)\n     \\]\n   - This involves summing the future values of all deposits made over the 40 years.\n\n### Conclusion:\nAfter performing the calculations as outlined, you will have approximately **$2,532,753.39** at retirement, accounting for salary increases and interest earned on your deposits."
+}

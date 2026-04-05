@@ -1,0 +1,24 @@
+{
+  "id": "p626",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Options (Advanced)",
+  "subtopic": "Call",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: A trader buys a long call option on a stock...",
+  "summary": "Calculate the intrinsic value of a call option from stock price and strike price.",
+  "prompt": "A trader buys a long call option on a stock with a strike price of $60 and a premium of $3. If the stock price at expiration is $70, calculate the intrinsic value of the option and the total profit. If the option is held until expiration, what is the percentage return on investment?",
+  "options": [],
+  "correct_option": "Intrinsic value: $10. Profit: $7. ROI: 233.33%.",
+  "answer_text": "Intrinsic value: $10. Profit: $7. ROI: 233.33%.",
+  "answer_format": "text",
+  "solution": "**Step 1: Define Key Variables** - Strike price (K) = $60, Premium (C) = $3, Stock price at expiration (S) = $70. <br> **Step 2: Calculate Intrinsic Value** - Intrinsic value = S - K = $70 - $60 = $10. <br> **Step 3: Calculate Total Profit** - Total profit = Intrinsic value - Premium = $10 - $3 = $7. <br> **Step 4: Calculate ROI** - ROI = (Profit / Premium) × 100 = ($7 / $3) × 100 = 233.33%."
+}

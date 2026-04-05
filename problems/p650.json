@@ -1,0 +1,33 @@
+{
+  "id": "p650",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Forms of Business Ownership",
+  "subtopic": "Shareholders and Directors",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "governance",
+    "fiduciary-duty",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Shareholders and Directors: The directors of a corporation have no fiduciary duty to...",
+  "summary": "Identify to whom the fiduciary duty of a corporate director extends.",
+  "prompt": "The directors of a corporation have no fiduciary duty to the shareholders.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Directors of a corporation have a fiduciary duty to act in the best interests of the corporation, which inherently includes the interests of the shareholders. This duty requires them to prioritize the corporation's welfare over their own interests."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p639",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Options (Advanced)",
+  "subtopic": "Put",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "put-option",
+    "option-payoff",
+    "hedging",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Put: An investor wants to hedge a long position in 1000...",
+  "summary": "Calculate the profit or loss from a put option position at expiration.",
+  "prompt": "An investor wants to hedge a long position in 1,000 shares of a stock currently trading at $40 using put options with a strike price of $38, which cost $2 each. What is the total cost of the hedge and the maximum potential loss if the stock price drops to $30?",
+  "options": [],
+  "correct_option": "Total cost of hedge: $2,000. Max loss: $10,000.",
+  "answer_text": "Total cost of hedge: $2,000. Max loss: $10,000.",
+  "answer_format": "text",
+  "solution": "**Step 1: Define Key Variables** - Shares = 1,000, Current stock price = $40, Put option strike = $38, Option cost = $2. <br> **Step 2: Calculate Total Cost of Hedge** - Total cost = Number of puts needed × Cost per put = 1,000 × $2 = $2,000. <br> **Step 3: Calculate Maximum Potential Loss** - If stock drops to $30, loss per share = $40 - $30 = $10. Total loss without hedge = $10,000. With the hedge, the loss is limited as the put option will mitigate some losses."
+}

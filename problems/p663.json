@@ -1,0 +1,33 @@
+{
+  "id": "p663",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Job-Order Cost Accounting",
+  "subtopic": "Job-Order Cost Accounting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "job-order-costing",
+    "manufacturing-costs",
+    "accounting",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Job-Order Cost Accounting: In job-order costing, manufacturing costs are first accumulated in a...",
+  "summary": "Assess whether job-order costing uses one or multiple accounts for cost accumulation.",
+  "prompt": "In job-order costing, manufacturing costs are first accumulated in a single account.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "In job-order costing, manufacturing costs are accumulated in multiple accounts: Raw Materials Inventory, Factory Labour, and Manufacturing Overhead, before being assigned to Work in Process Inventory."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p614",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "beta",
+    "capm",
+    "calculation"
+  ],
+  "title": "Active Management and Performance Measurement: A mutual fund has a return of 0.1 with a...",
+  "summary": "Calculate the alpha of a security under CAPM by comparing its actual return to the CAPM-predicted expected return.",
+  "prompt": "A mutual fund has a return of 10% with a beta of 1.2. The expected market return is 15% and the risk-free rate is 4%. Calculate the alpha of the mutual fund and determine if the fund is outperforming the market.",
+  "options": [],
+  "correct_option": "Alpha: -0.6%; Fund is underperforming",
+  "answer_text": "Alpha: -0.6%; Fund is underperforming",
+  "answer_format": "text",
+  "solution": "**Step 1: Calculate the expected return using CAPM**<br> E(R) = r_f + β[E(R_m) - r_f] <br> E(R) = 0.04 + 1.2 * (0.15 - 0.04) = 0.148 or 14.8% <br> **Step 2: Calculate alpha**<br> Alpha = Actual Return - Expected Return = 0.10 - 0.148 = -0.048 or -4.8% <br> Since alpha is negative, the fund is underperforming the market."
+}

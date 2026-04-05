@@ -1,0 +1,32 @@
+{
+  "id": "p691",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basis Risk: A perfect hedge always results in locking in the current...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A perfect hedge always results in locking in the current spot price of an asset for future transactions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. A perfect hedge can minimize risk but does not guarantee that the current spot price will be locked in for future transactions. There are scenarios in which market conditions change, which can impact the effectiveness of hedges. For example, forward contracts may not align perfectly with future spot prices due to fluctuations in market conditions. This is an important consideration in risk management strategies."
+}

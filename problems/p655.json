@@ -1,0 +1,33 @@
+{
+  "id": "p655",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Non-Current Liabilities",
+  "subtopic": "Interest Expense Calculations",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "interest-expense",
+    "accrual-accounting",
+    "recognition",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Interest Expense Calculations: Interest expense is recorded when cash interest payments are made....",
+  "summary": "Assess whether interest expense is recognized when incurred or when cash is paid.",
+  "prompt": "Interest expense is recorded when cash interest payments are made.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Interest expense should be recognized in the period it is incurred, regardless of the timing of cash payments. This aligns with the accrual basis of accounting, which is emphasized in the course materials."
+}

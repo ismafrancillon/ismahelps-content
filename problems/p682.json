@@ -1,0 +1,32 @@
+{
+  "id": "p682",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Professionals",
+  "subtopic": "Merger Professionals",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "governance",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Merger Professionals: Investment bankers primarily assist in the sell-side of mergers and...",
+  "summary": "Evaluate whether investment bankers work solely on the sell-side or on both sides of M&A transactions.",
+  "prompt": "Investment bankers primarily assist in the sell-side of mergers and acquisitions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Investment bankers can work on both the sell-side and buy-side of transactions. On the buy-side, they assist buyers in developing proposals and structuring deals. Conversely, on the sell-side, they help sellers by screening potential buyers and preparing the company for sale, demonstrating their versatility in M&A processes."
+}

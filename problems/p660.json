@@ -1,0 +1,33 @@
+{
+  "id": "p660",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Activity-Based Costing (ABC)",
+  "subtopic": "Activity Cost Pools",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "activity-based-costing",
+    "overhead-allocation",
+    "cost-drivers",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Activity Cost Pools: Activity-based costing (ABC) assigns overhead costs to products based on...",
+  "summary": "Evaluate a managerial accounting concept related to Activity Cost Pools.",
+  "prompt": "Activity-based costing (ABC) assigns overhead costs to products based on a single activity cost pool.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "ABC allocates overhead to multiple activity cost pools and uses cost drivers to assign these costs to products, providing a more accurate representation of costs than traditional costing methods."
+}

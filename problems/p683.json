@@ -1,0 +1,33 @@
+{
+  "id": "p683",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Recent M&A Trends",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "market-value",
+    "valuation",
+    "shareholders",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Recent M&A Trends: Mergers are always beneficial for shareholders of the acquiring firm....",
+  "summary": "Assess whether mergers are always beneficial for acquiring firm shareholders based on empirical evidence.",
+  "prompt": "Mergers are always beneficial for shareholders of the acquiring firm.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Mergers can lead to overpayment, poor performance, and negative returns for acquiring firm shareholders. Studies show that acquiring firms often experience negative returns following M&A announcements."
+}

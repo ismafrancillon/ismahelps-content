@@ -1,0 +1,32 @@
+{
+  "id": "p695",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Specification of Futures",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Specification of Futures: A trader who buys a futures contract is obligated to...",
+  "summary": "Assess whether a short or long futures position creates an obligation to sell or buy.",
+  "prompt": "A trader who buys a futures contract is obligated to sell the underlying asset at the contract's expiration date.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. When a trader buys a futures contract, they are obligated to purchase the underlying asset at the contract's expiration date, not sell it. The seller of the futures contract is the one obligated to deliver the asset. Understanding the obligations associated with futures contracts is crucial for those engaging in futures trading and risk management. The obligations of futures contracts are discussed in the \"Specification of Futures Contracts\" section from Document 9 on Page 17."
+}

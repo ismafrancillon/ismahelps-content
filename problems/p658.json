@@ -1,0 +1,33 @@
+{
+  "id": "p658",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Balance Scorecard Approach",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "balanced-scorecard",
+    "performance-measurement",
+    "management-accounting",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Balance Scorecard Approach: A balanced scorecard is used solely for financial measures in...",
+  "summary": "Evaluate a managerial accounting concept related to Balance Scorecard Approach.",
+  "prompt": "A balanced scorecard is used solely for financial measures in evaluating a company’s operations.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "A balanced scorecard evaluates both financial and non-financial measures to provide a comprehensive view of a company’s performance. This approach integrates various operational aspects, making it a valuable tool for management."
+}

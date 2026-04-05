@@ -1,0 +1,24 @@
+{
+  "id": "p637",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "EANPV",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "decision-rule",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "EANPV: Company XYZ is lost between three projects: A, B, and...",
+  "summary": "Compare mutually exclusive projects with different lifespans using NPV or equivalent annual NPV analysis.",
+  "prompt": "Company XYZ is lost between three projects: A, B, and C. A requires an initial investment of $10,000 and generates $7,000 for the coming two years. B requires $15,000 and generates $6,500 for the coming three years. C requires an initial investment of $20,000 and generates $6,000 for the coming 6 years. A, B, and C are mutually exclusive. Which project should XYZ take if its discount rate is 14%?",
+  "options": [],
+  "correct_option": "Project A should be selected EANPV A : 926.74 EANPV B : 39.024 EANPV C : 856.85",
+  "answer_text": "Project A should be selected EANPV A : 926.74 EANPV B : 39.024 EANPV C : 856.85",
+  "answer_format": "text",
+  "solution": "To determine which project Company XYZ should take, we need to calculate the Net Present Value (NPV) of each project at the given discount rate of 14%. The project with the highest NPV should be selected. ### Project A: - Initial Investment: $10,000 - Cash Flows: $7,000 for 2 years - Discount Rate: 14% \\[ \\text{NPV}_A = -10,000 + \\frac{7,000}{(1+0.14)^1} + \\frac{7,000}{(1+0.14)^2} \\] \\[ \\text{NPV}_A = -10,000 + \\frac{7,000}{1.14} + \\frac{7,000}{1.2996} \\] \\[ \\text{NPV}_A = -10,000 + 6,140.35 + 5,384.62 \\] \\[ \\text{NPV}_A = 1,524.97 \\] ### Project B: - Initial Investment: $15,000 - Cash Flows: $6,500 for 3 years - Discount Rate: 14% \\[ \\text{NPV}_B = -15,000 + \\frac{6,500}{(1+0.14)^1} + \\frac{6,500}{(1+0.14)^2} + \\frac{6,500}{(1+0.14)^3} \\] \\[ \\text{NPV}_B = -15,000 + \\frac{6,500}{1.14} + \\frac{6,500}{1.2996} + \\frac{6,500}{1.4815} \\] \\[ \\text{NPV}_B = -15,000 + 5,701.75 + 5,001.54 + 4,387.79 \\] \\[ \\text{NPV}_B = 91.08 \\] ### Project C: - Initial Investment: $20,000 - Cash Flows: $6,000 for 6 years - Discount Rate: 14% \\[ \\text{NPV}_C = -20,000 + \\frac{6,000}{(1+0.14)^1} + \\frac{6,000}{(1+0.14)^2} + \\frac{6,000}{(1+0.14)^3} + \\frac{6,000}{(1+0.14)^4} + \\frac{6,000}{(1+0.14)^5} + \\frac{6,000}{(1+0.14)^6} \\] \\[ \\text{NPV}_C = -20,000 + \\frac{6,000}{1.14} + \\frac{6,000}{1.2996} + \\frac{6,000}{1.4815} + \\frac{6,000}{1.6889} + \\frac{6,000}{1.9230} + \\frac{6,000}{2.1871} \\] \\[ \\text{NPV}_C = -20,000 + 5,263.16 + 4,615.38 + 4,050.42 + 3,553.89 + 3,120.61 + 2,745.27 \\] \\[ \\text{NPV}_C = 352.73 \\] ### Conclusion: - NPV of Project A: $1,524.97 - NPV of Project B: $91.08 - NPV of Project C: $352.73 Since Project A has the highest NPV, Company XYZ should select Project A."
+}

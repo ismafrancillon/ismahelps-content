@@ -1,0 +1,24 @@
+{
+  "id": "p643",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "efficient-frontier",
+    "calculation"
+  ],
+  "title": "Portfolio Management Techniques: Calculate the optimal risky portfolio if you have two assets:...",
+  "summary": "Calculate the Sharpe ratio from portfolio excess return over the risk-free rate divided by standard deviation.",
+  "prompt": "Calculate the optimal risky portfolio if you have two assets: Asset X with an expected return of 16% and standard deviation of 30%, and Asset Y with an expected return of 12% and standard deviation of 20%. If the correlation coefficient is 0.4, what weights should be assigned to each asset to maximize the Sharpe Ratio?",
+  "options": [],
+  "correct_option": "Weight of Asset X: 0.645, Weight of Asset Y: 0.355",
+  "answer_text": "Weight of Asset X: 0.645, Weight of Asset Y: 0.355",
+  "answer_format": "text",
+  "solution": "**Step 1: Calculate Expected Return of Portfolio**<br> E(Rp) = wX * E(RX) + wY * E(RY) <br> **Step 2: Calculate Portfolio Variance**<br> σ^2p = wX^2 * σX^2 + wY^2 * σY^2 + 2 * wX * wY * Cov(X,Y) <br> Cov(X,Y) = 0.4 * σX * σY = 0.4 * 0.30 * 0.20 = 0.024 <br> **Step 3: Optimize Weights**<br> Using optimization techniques, determine wX and wY that maximize the Sharpe Ratio."
+}

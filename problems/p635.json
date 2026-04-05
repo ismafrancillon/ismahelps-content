@@ -1,0 +1,24 @@
+{
+  "id": "p635",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Futures (Advanced)",
+  "subtopic": "Specification of Futures",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Specification of Futures: A trader holds a long position in 10 futures contracts...",
+  "summary": "Calculate the profit or loss from a futures position based on entry and exit prices.",
+  "prompt": "A trader holds a long position in 10 futures contracts for crude oil, with each contract covering 1,000 barrels at a price of $70 per barrel. If on the expiration date, the price rises to $75 per barrel, what is the total profit from the futures position? Additionally, if the trader had initially paid a margin of $5,000 per contract and incurred a maintenance margin call when the price fell to $68, calculate the total loss incurred due to the margin call before the position was closed.",
+  "options": [],
+  "correct_option": "Profit: $5,000. Loss: $2,000.",
+  "answer_text": "Profit: $5,000. Loss: $2,000.",
+  "answer_format": "text",
+  "solution": "**Step 1: Define Key Variables** - Number of contracts = 10, contract size = 1,000 barrels, initial price = $70, final price = $75. <br> **Step 2: Calculate Profit** - Profit = Number of contracts × Contract size × (Final price - Initial price) = 10 × 1,000 × ($75 - $70) = $5,000. <br> **Step 3: Margin Call Calculation** - Initial margin = $5,000, Maintenance margin = $4,000. Price at margin call = $68. <br> Loss = (Initial price - Price at margin call) × Contract size × Number of contracts = ($70 - $68) × 10 × 1,000 = $2,000. <br> Therefore, total loss = $2,000 before closing position."
+}

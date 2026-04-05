@@ -1,0 +1,23 @@
+{
+  "id": "p629",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Crossover Rate",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "discounted-cash-flow",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "Crossover Rate: Nike has the following cash flows for two mutually exclusive...",
+  "summary": "Determine the crossover rate where two mutually exclusive projects have equal NPVs.",
+  "prompt": "Nike has the following cash flows for two mutually exclusive projects: You have also estimated that the IRR of project A is 15.86% and the IRR of project B is 14.1%. The payback period of Project A is 2 years, while the payback period of project B is 3.2 years. When is Project B more lucrative than Project A? That is, over what range of discount rate (k) does Project B have a higher NPV than Project A?",
+  "options": [],
+  "correct_option": "Nike should accept project A if “K” is between 10.064% and 15.86%, and project B if “K” is between 0.00% and 10.064%.",
+  "answer_text": "Nike should accept project A if “K” is between 10.064% and 15.86%, and project B if “K” is between 0.00% and 10.064%.",
+  "answer_format": "text",
+  "solution": "### Final Answer: Accept Project A if the discount rate (k) is between 10.064% and 15.86%. Accept Project B if the discount rate (k) is between 0.00% and 10.064%. ### Explanation: To determine when Project B is more lucrative than Project A, we need to analyze the range of discount rates (k) where Project B has a higher Net Present Value (NPV) than Project A. This involves comparing the Internal Rate of Return (IRR) of both projects and calculating the crossover rate. #### Given Data: - **IRR of Project A**: 15.86% - **IRR of Project B**: 14.1% - **Payback Period of Project A**: 2 years - **Payback Period of Project B**: 3.2 years #### Steps: 1. **Calculate the Crossover Rate**: - The crossover rate is the discount rate at which the NPVs of both projects are equal. - This rate is found by setting the NPVs of both projects equal and solving for the discount rate. 2. **Analyze the IRR and Discount Rates**: - Project A has a higher IRR (15.86%) compared to Project B (14.1%). - Therefore, Project A will be preferred if the discount rate is closer to its IRR. - Project B will be preferred if the discount rate is lower and closer to its IRR. 3. **Determine the Range of Discount Rates**: - Accept Project A if the discount rate (k) is between 10.064% and 15.86%. - Accept Project B if the discount rate (k) is between 0.00% and 10.064%. #### Conclusion: Project B is more lucrative than Project A when the discount rate (k) is in the range of 0.00% to 10.064%. In this range, Project B will have a higher NPV compared to Project A."
+}

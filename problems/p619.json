@@ -1,0 +1,24 @@
+{
+  "id": "p619",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Risk and Return",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "variance",
+    "multi-step"
+  ],
+  "title": "Risk and Return: An investor has 1000000 to invest in a portfolio consisting...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "An investor has $1,000,000 to invest in a portfolio consisting of 40% in Stock A, 30% in Stock B, and 30% in Stock C. If Stock A has an expected return of 10% with a standard deviation of 15%, Stock B has an expected return of 15% with a standard deviation of 20%, and Stock C has an expected return of 12% with a standard deviation of 18%, how much will the investor earn in returns and what will be the total risk of the portfolio? Assume the correlation coefficients between stocks are A-B: 0.3, A-C: 0.2, B-C: 0.4.",
+  "options": [],
+  "correct_option": "Expected Return: $130,000; Total Risk: 16.48%",
+  "answer_text": "Expected Return: $130,000; Total Risk: 16.48%",
+  "answer_format": "text",
+  "solution": "**Step 1: Calculate Portfolio Expected Return** <br> E(Rp) = wA * E(RA) + wB * E(RB) + wC * E(RC) <br> **Step 2: Calculate Portfolio Variance** <br> σ^2p = wA^2 * σA^2 + wB^2 * σB^2 + wC^2 * σC^2 + 2 * (wA*wB*Cov(A,B) + wA*wC*Cov(A,C) + wB*wC*Cov(B,C)) <br> **Step 3: Calculate Returns and Risk** <br> Finalize by calculating E(Rp) and σp based on the weights and variances."
+}

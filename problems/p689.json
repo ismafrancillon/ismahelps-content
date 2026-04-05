@@ -1,0 +1,33 @@
+{
+  "id": "p689",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Legal Framework",
+  "subtopic": "Antitrust Laws",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "industry-analysis",
+    "competition",
+    "corporation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Antitrust Laws: The primary goal of the antitrust laws during a merger...",
+  "summary": "Identify the primary objective of antitrust laws as preventing monopolies and maintaining competition.",
+  "prompt": "The primary goal of the antitrust laws during a merger is to enhance market competition.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The primary goal of antitrust laws is to prevent monopolistic practices and ensure fair competition in the market."
+}

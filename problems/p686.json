@@ -1,0 +1,33 @@
+{
+  "id": "p686",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Corporate Governance",
+  "subtopic": "Mergers of Equals",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "governance",
+    "shareholders",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Mergers of Equals: The market generally reacts positively...",
+  "summary": "Assess the typical market reaction to announcements of mergers of equals.",
+  "prompt": "The market generally reacts positively to mergers of equals.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The market often reacts skeptically to mergers of equals, as they can lead to complications regarding control and management integration."
+}

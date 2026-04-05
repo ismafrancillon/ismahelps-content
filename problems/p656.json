@@ -1,0 +1,33 @@
+{
+  "id": "p656",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Sales Revenue, Receivables, and Cash Management",
+  "subtopic": "Bad Debt Expense",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "bad-debt-expense",
+    "allowance-method",
+    "receivables",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Bad Debt Expense: Bad debt expense is estimated based on actual uncollectible accounts...",
+  "summary": "Evaluate methods for estimating bad debt expense such as aging of accounts receivable.",
+  "prompt": "Bad debt expense is estimated based on actual uncollectible accounts from previous years.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Bad debt expense is typically estimated using methods such as the aging of accounts receivable, rather than relying solely on actual write-offs from previous periods. This method helps to predict future uncollectibles more accurately."
+}

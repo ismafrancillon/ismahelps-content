@@ -1,0 +1,33 @@
+{
+  "id": "p694",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Call: A trader who buys a call option believes the price...",
+  "summary": "Analyze call option properties, pricing, or payoff structure.",
+  "prompt": "A trader who buys a call option believes the price of the underlying asset will fall.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. A trader who buys a call option believes that the price of the underlying asset will rise. Call options give the holder the right to purchase the underlying asset at a specified strike price, and they are advantageous when the price increases. Understanding market expectations and their implications for options strategies is crucial for traders. This concept is discussed in the \"Call (Advanced)\" section from Document 30 on Page 68."
+}

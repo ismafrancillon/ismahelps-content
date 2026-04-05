@@ -1,0 +1,33 @@
+{
+  "id": "p651",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Discounted Cash Flow",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "dcf",
+    "working-capital",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Discounted Cash Flow: The Discounted Cash Flow (DCF) method does not account for...",
+  "summary": "Assess whether the DCF method accounts for changes in working capital in cash flow calculations.",
+  "prompt": "The Discounted Cash Flow (DCF) method does not account for changes in working capital.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The DCF method does take into account changes in working capital as part of cash flow calculations. This ensures that the analysis reflects the company's operational efficiency and liquidity needs."
+}

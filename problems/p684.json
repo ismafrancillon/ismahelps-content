@@ -1,0 +1,32 @@
+{
+  "id": "p684",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Types of Mergers",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "industry-analysis",
+    "corporation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Types of Mergers: Mergers can only be classified into horizontal, vertical, and conglomerate...",
+  "summary": "Evaluate whether mergers are limited to horizontal, vertical, and conglomerate classifications.",
+  "prompt": "Mergers can only be classified into horizontal, vertical, and conglomerate categories.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While mergers are often categorized as horizontal, vertical, or conglomerate, there are additional types and classifications of mergers, such as subsidiary mergers and consolidations. Furthermore, the definitions and contexts of mergers can vary, showing that the classification is not strictly limited to these three categories. This highlights the complexity and variety in M&A classifications."
+}

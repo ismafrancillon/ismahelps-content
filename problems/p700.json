@@ -1,0 +1,32 @@
+{
+  "id": "p700",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basic Principles of Hedging: Hedging is solely for minimizing potential losses and does not...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Hedging is solely for minimizing potential losses and does not allow for any speculative gains.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. While hedging primarily aims to reduce risk and minimize potential losses, it can also allow for speculative gains under certain conditions. Investors may hedge to protect against adverse price movements while still benefiting from favorable price changes. This dual aspect of hedging is essential for understanding how traders manage risk in the markets."
+}

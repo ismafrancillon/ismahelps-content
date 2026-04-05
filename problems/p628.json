@@ -1,0 +1,23 @@
+{
+  "id": "p628",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Depreciation Methods",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "depreciation",
+    "change-in-estimate",
+    "accounting",
+    "calculation"
+  ],
+  "title": "Depreciation Methods: The depreciation expense for a piece of machinery was calculated...",
+  "summary": "Recalculate depreciation expense after a revision in estimated useful life.",
+  "prompt": "The depreciation expense for a piece of machinery was calculated to be $10,000 per year over a 10-year useful life. If the company decides to change its useful life to 15 years after 5 years, what will be the new annual depreciation expense?",
+  "options": [],
+  "correct_option": "New Depreciation Expense = $6,667",
+  "answer_text": "New Depreciation Expense = $6,667",
+  "answer_format": "text",
+  "solution": "Step 1: Calculate total depreciation taken = $10,000 * 5 = $50,000. Step 2: Remaining book value = Purchase Price - Accumulated Depreciation. If the initial purchase was $100,000, new remaining value = $100,000 - $50,000 = $50,000. Step 3: New Annual Depreciation = Remaining Value / New Useful Life = $50,000 / 10 = $5,000."
+}

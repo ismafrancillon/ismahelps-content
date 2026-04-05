@@ -1,0 +1,24 @@
+{
+  "id": "p623",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-pricing",
+    "present-value",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: An investor has a long position in a stock that...",
+  "summary": "Calculate the price of a European call option using the Black-Scholes model.",
+  "prompt": "An investor has a long position in a stock that pays a dividend yield of 4% per annum. If the stock is priced at $100 and the risk-free rate is 5% per annum, calculate the fair value of a European call option with an exercise price of $100 and 1 year until maturity using the Black-Scholes model. Assume the volatility is 20% per annum.",
+  "options": [],
+  "correct_option": "Fair value of call: $10.45.",
+  "answer_text": "Fair value of call: $10.45.",
+  "answer_format": "text",
+  "solution": "**Step 1: Define Key Variables** - Stock price (S) = $100, Strike price (K) = $100, Risk-free rate (r) = 5%, Dividend yield (q) = 4%, Volatility (σ) = 20%, Time (T) = 1 year. <br> **Step 2: Calculate d1 and d2 using Black-Scholes formulas**: <br> d1 = [ln(S/K) + (r - q + (σ²/2))T] / (σ√T) <br> d1 = [ln(100/100) + (0.05 - 0.04 + (0.2²/2)) × 1] / (0.2) <br> d1 = 0.25 <br> d2 = d1 - σ√T = 0.25 - 0.2 = 0.05 <br> **Step 3: Calculate Call Option Price**: Call Price = S e^(-qT) N(d1) - K e^(-rT) N(d2) = 100 e^(-0.04) N(0.25) - 100 e^(-0.05) N(0.05) = $10.45."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p665",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Contribution Margin Analysis",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "contribution-margin",
+    "cvp",
+    "variable-costs",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Contribution Margin Analysis: The contribution margin is the amount of revenue remaining after...",
+  "summary": "Assess whether contribution margin represents revenue remaining after variable or fixed costs.",
+  "prompt": "The contribution margin is the amount of revenue remaining after deducting fixed costs.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The contribution margin represents the revenue remaining after deducting variable costs, not fixed costs, and is crucial for analyzing how sales impact profitability."
+}

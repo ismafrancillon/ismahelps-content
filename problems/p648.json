@@ -1,0 +1,33 @@
+{
+  "id": "p648",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Discrimination",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "discrimination",
+    "burden-of-proof",
+    "employment-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Discrimination: The burden of proof in a discrimination case lies with...",
+  "summary": "Determine whether the burden of proof in a discrimination case lies with the complainant or the accused.",
+  "prompt": "The burden of proof in a discrimination case lies with the accused.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "In discrimination cases, the burden of proof lies with the complainant, who must establish that discrimination occurred. The accused does not need to prove their innocence but rather the complainant must substantiate the claim of discrimination based on the specified grounds."
+}

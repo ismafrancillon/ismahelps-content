@@ -1,0 +1,32 @@
+{
+  "id": "p681",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuing a Transaction",
+  "subtopic": "Merger Consideration",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "market-value",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Merger Consideration: In a merger, if the acquiring company offers to purchase...",
+  "summary": "Distinguish a cash merger from a stock-for-stock exchange based on the form of consideration.",
+  "prompt": "In a merger, if the acquiring company offers to purchase the target solely with cash, the transaction is considered a stock-for-stock exchange.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "A merger that involves solely cash payments does not involve stock and hence is not classified as a stock-for-stock exchange. Such a transaction is straightforwardly a cash merger. The type of payment used in a merger or acquisition can significantly impact its classification and the resulting tax implications."
+}

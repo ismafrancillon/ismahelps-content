@@ -1,0 +1,32 @@
+{
+  "id": "p685",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Strategy",
+  "subtopic": "Other Economic Motives",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Other Economic Motives: The main motivation for mergers and acquisitions is always to...",
+  "summary": "Evaluate whether synergistic gains are the sole motivation for M&A or if other factors also apply.",
+  "prompt": "The main motivation for mergers and acquisitions is always to achieve synergistic gains.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While synergistic gains are a significant motive, firms may also pursue M&A for other reasons such as expansion, financial opportunities, and tax motives. Each merger or acquisition can have multiple motives, and understanding these can provide deeper insights into the reasons behind a specific M&A transaction. Thus, synergy is not the sole reason for M&As."
+}

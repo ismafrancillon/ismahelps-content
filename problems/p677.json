@@ -1,0 +1,32 @@
+{
+  "id": "p677",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Reverse Mergers",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "shareholders",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Reverse Mergers: A reverse merger occurs when a public company acquires a...",
+  "summary": "Assess the definition of a reverse merger and the direction of the acquisition between public and private entities.",
+  "prompt": "A reverse merger occurs when a public company acquires a private company.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "In a reverse merger, a private company merges with an already public company, often an inactive or corporate shell, allowing the private company to go public without undergoing the lengthy process of an initial public offering (IPO). This structure provides enhanced liquidity for equity and is a quicker alternative to traditional IPOs."
+}

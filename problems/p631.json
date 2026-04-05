@@ -1,0 +1,24 @@
+{
+  "id": "p631",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "interpretation",
+    "application"
+  ],
+  "title": "Beta: An asset has a beta of 0.75 and a return...",
+  "summary": "Determine asset pricing status by comparing its actual return to the CAPM-derived expected return.",
+  "prompt": "An asset has a beta of 0.75 and a return of 12%. The expected return on the market portfolio is 15% and the risk-free rate is 4%. Please advise whether the asset is correctly priced, underpriced, or overpriced. Justifications are required.",
+  "options": [],
+  "correct_option": "Overpriced",
+  "answer_text": "Overpriced",
+  "answer_format": "text",
+  "solution": "To determine whether the asset is correctly priced, underpriced, or overpriced, we can use the Capital Asset Pricing Model (CAPM) to calculate the expected return of the asset and compare it to its actual return.\n\n### Step 1: Calculate the Expected Return using CAPM\nThe formula for CAPM is:\n\n\\[\nE(R) = R_f + \\beta (E(R_m) - R_f)\n\\]\n\nWhere:\n- \\(E(R)\\) = Expected return of the asset\n- \\(R_f\\) = Risk-free rate = 4% or 0.04\n- \\(\\beta\\) = Beta of the asset = 0.75\n- \\(E(R_m)\\) = Expected return on the market portfolio = 15% or 0.15\n\n### Step 2: Plug in the Values\nUsing the values provided:\n\n\\[\nE(R) = 0.04 + 0.75 \\times (0.15 - 0.04)\n\\]\n\nCalculating the market risk premium:\n\n\\[\nE(R) = 0.04 + 0.75 \\times 0.11\n\\]\n\\[\nE(R) = 0.04 + 0.0825 = 0.1225 \\text{ or } 12.25\\%\n\\]\n\n### Step 3: Compare Expected Return to Actual Return\n- Actual return of the asset = 12%\n- Expected return from CAPM = 12.25%\n\n### Conclusion\nSince the actual return (12%) is less than the expected return (12.25%), the asset is **overpriced** according to the CAPM because its return lies below the Security Market Line (SML).\n\nThus, the correct answer is:\n**C. This asset is overpriced according to the CAPM because its return lies below the SML.**"
+}

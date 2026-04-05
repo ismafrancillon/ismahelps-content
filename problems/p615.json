@@ -1,0 +1,24 @@
+{
+  "id": "p615",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Options (Advanced)",
+  "subtopic": "Call",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: An investor buys a European call option with a strike...",
+  "summary": "Calculate the breakeven price for a call option as strike price plus premium.",
+  "prompt": "An investor buys a European call option with a strike price of $50 at a premium of $5. Calculate the breakeven stock price at expiration. If the stock price at expiration is $60, what is the profit from the option?",
+  "options": [],
+  "correct_option": "Breakeven: $55. Profit: $5.",
+  "answer_text": "Breakeven: $55. Profit: $5.",
+  "answer_format": "text",
+  "solution": "**Step 1: Define Key Variables** - Strike price (K) = $50, Premium (C) = $5. <br> **Step 2: Calculate Breakeven** - Breakeven Price = K + C = $50 + $5 = $55. <br> **Step 3: Calculate Profit at $60** - Profit = Stock Price at Expiration - Breakeven Price = $60 - $55 = $5. <br> Therefore, the profit from the option is $5."
+}

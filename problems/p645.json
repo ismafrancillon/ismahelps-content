@@ -1,0 +1,33 @@
+{
+  "id": "p645",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Introduction to Law",
+  "subtopic": "Litigation and Lawsuits",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "litigation",
+    "class-action",
+    "plaintiff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Litigation and Lawsuits: A plaintiff in a class action lawsuit must prove their...",
+  "summary": "Assess whether class action plaintiffs must prove individual damages or if collective proof suffices.",
+  "prompt": "A plaintiff in a class action lawsuit must prove their individual damages.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "In a class action lawsuit, proof of one person’s claim can be sufficient to prove the damages suffered by all plaintiffs. This collective approach aims to streamline the legal process and reduce costs for individuals with similar claims against a common defendant."
+}

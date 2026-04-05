@@ -1,0 +1,32 @@
+{
+  "id": "p680",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Legal Framework",
+  "subtopic": "Securities Laws",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "governance",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Securities Laws: In a cash tender offer, the bidder usually must wait...",
+  "summary": "Assess whether a cash tender offer requires SEC approval before submitting materials to shareholders.",
+  "prompt": "In a cash tender offer, the bidder usually must wait for SEC approval before submitting the tender offer materials.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "In a cash tender offer, the bidder submits tender offer materials directly to shareholders, following the requirements of the Williams Act without waiting for SEC approval."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p634",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Valuation Models",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "growth-rate",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuation Models: Calculate the present value of a growing perpetuity where the...",
+  "summary": "Calculate the present value of a growing perpetuity and evaluate against required return.",
+  "prompt": "Calculate the present value of a growing perpetuity where the annual cash flow is $2,000, the growth rate is 5%, and the discount rate is 10%. Should an investor accept this investment if they require a return of at least 8%?",
+  "options": [],
+  "correct_option": "Present Value: $40,000; Investment should be accepted",
+  "answer_text": "Present Value: $40,000; Investment should be accepted",
+  "answer_format": "text",
+  "solution": "**Step 1: Present Value of Growing Perpetuity Formula** <br> PV = C / (r - g) <br> PV = 2000 / (0.10 - 0.05) = $40,000 <br> **Step 2: Compare the return with the required return** <br> Since the investment's present value provides a return greater than the required 8%, it should be accepted."
+}

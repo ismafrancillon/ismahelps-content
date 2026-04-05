@@ -1,0 +1,32 @@
+{
+  "id": "p654",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Investing and Financing Decisions",
+  "subtopic": "Revenue Recognition",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "revenue-recognition",
+    "accrual-accounting",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Revenue Recognition: Revenue is recognized when cash is received, regardless of when...",
+  "summary": "Evaluate whether revenue should be recognized when cash is received or when goods are delivered.",
+  "prompt": "Revenue is recognized when cash is received, regardless of when the goods were delivered.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "According to the revenue recognition principle, revenue should be recognized when goods or services are delivered to customers, not when cash is received. This principle ensures that revenue reflects the actual economic activity of the company during a period."
+}

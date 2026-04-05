@@ -1,0 +1,33 @@
+{
+  "id": "p696",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Put",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "put-option",
+    "call-option",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Put: A trader who expects the price of an asset to...",
+  "summary": "Assess whether a trader expecting a price decline should buy a put option.",
+  "prompt": "A trader who expects the price of an asset to fall would benefit from buying a call option.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. If a trader expects the price of an asset to fall, they would benefit from buying a put option, not a call option. Call options provide the right to buy the underlying asset at a specified strike price, which would not be advantageous if the trader anticipates a decrease in price. Understanding the implications of market expectations on options strategies is crucial for traders. This concept is discussed in the \"Put (Advanced)\" section from Document 12 on Page 22."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p693",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Options",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "time-value-option",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Options: A trader can realize profits from options trading solely based...",
+  "summary": "Assess whether option trading profits can be realized solely from time value without underlying price movement.",
+  "prompt": "A trader can realize profits from options trading solely based on the time value of options.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. While time value is a critical component of options pricing, a trader cannot realize profits solely from time value. Profits are generated based on the movements in the price of the underlying asset relative to the option's strike price, as well as the intrinsic value and time value of the option. Understanding the interplay between these factors is essential for options traders. This concept is discussed in the \"Options (Advanced)\" section from Document 18 on Page 35."
+}

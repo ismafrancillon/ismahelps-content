@@ -1,0 +1,32 @@
+{
+  "id": "p678",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Types of Mergers",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "industry-analysis",
+    "competition",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Types of Mergers: Horizontal mergers involve companies that operate at different levels of...",
+  "summary": "Distinguish horizontal mergers from vertical mergers based on firms' positions in the supply chain.",
+  "prompt": "Horizontal mergers involve companies that operate at different levels of the supply chain.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Horizontal mergers occur between companies in the same industry and at the same stage of production, while vertical mergers occur between companies at different levels of the supply chain."
+}

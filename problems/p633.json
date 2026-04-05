@@ -1,0 +1,23 @@
+{
+  "id": "p633",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "call-option",
+    "application"
+  ],
+  "title": "Payoff: Suppose that the price of a share of stock in...",
+  "summary": "Construct and analyze the payoff diagram of a spread strategy combining long and short options.",
+  "prompt": "Suppose that the price of a share of stock in ABC Corporation is currently trading at $30/share. Consider building a portfolio with the following option positions: • Buy a Call option with a strike price of $25 • Sell two call options each with a strike price of $40 • Buy a call option with a strike price of $55 Draw a payoff diagram of this portfolio",
+  "options": [],
+  "correct_option": "Payoff: $15",
+  "answer_text": "Payoff: $15",
+  "answer_format": "text",
+  "solution": "To solve this problem, we need to draw a payoff diagram for the specified portfolio of options. The portfolio consists of: 1. Buying a call option with a strike price of $25. 2. Selling two call options each with a strike price of $40. 3. Buying a call option with a strike price of $55. Here are the steps to draw the payoff diagram: ### Step 1: Define the Payoff for Each Option - **Buy Call Option at $25**: The payoff is \\( \\max(S - 25, 0) \\), where \\( S \\) is the stock price at expiration. - **Sell Two Call Options at $40**: The payoff is \\( -2 \\times \\max(S - 40, 0) \\). - **Buy Call Option at $55**: The payoff is \\( \\max(S - 55, 0) \\). ### Step 2: Calculate the Combined Payoff at Different Stock Prices Let's calculate the payoff for different stock prices \\( S \\): - **When \\( S < 25 \\)**: - Buy Call at $25: $0 - Sell Two Calls at $40: $0 - Buy Call at $55: $0 - **Total Payoff**: $0 - **When \\( 25 \\leq S < 40 \\)**: - Buy Call at $25: \\( S - 25 \\) - Sell Two Calls at $40: $0 - Buy Call at $55: $0 - **Total Payoff**: \\( S - 25 \\) - **When \\( 40 \\leq S < 55 \\)**: - Buy Call at $25: \\( S - 25 \\) - Sell Two Calls at $40: \\( -2 \\times (S - 40) \\) - Buy Call at $55: $0 - **Total Payoff**: \\( (S - 25) - 2 \\times (S - 40) = S - 25 - 2S + 80 = 55 - S \\) - **When \\( S \\geq 55 \\)**: - Buy Call at $25: \\( S - 25 \\) - Sell Two Calls at $40: \\( -2 \\times (S - 40) \\) - Buy Call at $55: \\( S - 55 \\) - **Total Payoff**: \\( (S - 25) - 2 \\times (S - 40) + (S - 55) = S - 25 - 2S + 80 + S - 55 = 0 \\) ### Step 3: Draw the Payoff Diagram - **Stock Price (S) < $25**: Payoff = $0 - **Stock Price (S) between $25 and $40**: Payoff = \\( S - 25 \\) - **Stock Price (S) between $40 and $55**: Payoff = \\( 55 - S \\) - **Stock Price (S) ≥ $55**: Payoff = $0 The payoff diagram is a piecewise linear graph showing the payoff at different stock prices: ``` Payoff ($) | | / | / \\ | / \\ | / \\ | / \\ |__________________/ \\____________________ | $25 $40 $55 ``` ### Final Answer The payoff diagram for the portfolio is as described above. It shows the payoff increasing linearly from $25 to $40, decreasing linearly from $40 to $55, and remaining flat beyond $55."
+}

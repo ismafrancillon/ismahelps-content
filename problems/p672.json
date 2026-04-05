@@ -1,0 +1,33 @@
+{
+  "id": "p672",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Cost of Debt",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cost-of-debt",
+    "financial-ratios",
+    "solvency",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cost of Debt: The Altman Z-score uses a single financial ratio to determine...",
+  "summary": "Evaluate whether the Altman Z-score uses one or multiple ratios to predict bankruptcy.",
+  "prompt": "The Altman Z-score uses a single financial ratio to determine a firm's likelihood of bankruptcy.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The Altman Z-score is a composite score that uses multiple financial ratios to predict bankruptcy, including working capital, retained earnings, EBIT, total equity, and total liabilities, providing a more comprehensive assessment."
+}

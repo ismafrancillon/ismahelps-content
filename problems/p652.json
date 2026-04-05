@@ -1,0 +1,33 @@
+{
+  "id": "p652",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Adjustments and Quality of Earnings",
+  "subtopic": "Deferred and Accrued Revenues/Expenses",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "deferred-revenue",
+    "liabilities",
+    "revenue-recognition",
+    "accounting",
+    "true-false"
+  ],
+  "title": "Deferred and Accrued Revenues/Expenses: Deferred revenue is classified as an asset on the balance...",
+  "summary": "Assess the correct classification of deferred revenue as a liability on the balance sheet.",
+  "prompt": "Deferred revenue is classified as an asset on the balance sheet.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Deferred revenue is a liability because it represents an obligation to deliver goods or services to customers in the future. Recognizing it as a liability is consistent with the revenue recognition principle, which states that revenue should only be recognized when earned."
+}

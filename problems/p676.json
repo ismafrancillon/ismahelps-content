@@ -1,0 +1,33 @@
+{
+  "id": "p676",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Corporate Governance",
+  "subtopic": "Mergers of Equals",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "governance",
+    "directors",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Mergers of Equals: A merger of equals typically results in equal representation of...",
+  "summary": "Assess whether mergers of equals result in truly equal management representation in practice.",
+  "prompt": "A merger of equals typically results in equal representation of both companies' management in the new entity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "In mergers of equals, while the intention may be for equal representation, often the reality is that one company may dominate in terms of management and decision-making. Studies have shown that the outcomes in terms of shareholder returns can vary significantly depending on how management roles are defined and negotiated during the merger process."
+}

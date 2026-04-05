@@ -1,0 +1,32 @@
+{
+  "id": "p692",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Types of Orders and Trading Strategies",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Types of Orders and Trading Strategies: A short position in a futures contract means the trader...",
+  "summary": "Analyze the obligations created by entering a futures contract.",
+  "prompt": "A short position in a futures contract means the trader is obligated to buy the underlying asset at expiry.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. A short position in a futures contract obligates the trader to sell the underlying asset at expiry, not buy it. In contrast, a long position obligates the trader to buy the asset. Understanding these roles is fundamental in trading futures and managing associated risks."
+}

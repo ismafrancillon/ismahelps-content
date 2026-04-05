@@ -1,0 +1,33 @@
+{
+  "id": "p666",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "reporting-frequency",
+    "comparison",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Managerial Accounting: The frequency of managerial accounting reports is less than that...",
+  "summary": "Assess the reporting frequency of managerial accounting compared to financial accounting.",
+  "prompt": "The frequency of managerial accounting reports is less than that of financial accounting reports.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Managerial accounting reports are generated as frequently as necessary, often more frequently than financial accounting reports, which are typically produced quarterly or annually (Page 9)."
+}

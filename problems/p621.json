@@ -1,0 +1,24 @@
+{
+  "id": "p621",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "efficient-frontier",
+    "calculation"
+  ],
+  "title": "Active Management and Performance Measurement: An investor is considering two funds. Fund A has an...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "An investor is considering two funds. Fund A has an expected return of 10% and a standard deviation of 15%. Fund B has an expected return of 12% and a standard deviation of 20%. If the correlation between Fund A and Fund B is 0.3, what is the expected return and standard deviation of a portfolio that invests 50% in each fund?",
+  "options": [],
+  "correct_option": "Expected Return: 11%, Standard Deviation: 17.07%",
+  "answer_text": "Expected Return: 11%, Standard Deviation: 17.07%",
+  "answer_format": "text",
+  "solution": "**Step 1: Calculate Expected Return**<br> E(Rp) = wA * E(RA) + wB * E(RB) = 0.5 * 0.10 + 0.5 * 0.12 = 0.11 or 11% <br> **Step 2: Calculate Portfolio Variance**<br> Var(Rp) = wA^2 * σA^2 + wB^2 * σB^2 + 2 * wA * wB * Cov(RA, RB) <br> Cov(RA, RB) = 0.3 * σA * σB = 0.3 * 0.15 * 0.20 = 0.009 <br> Var(Rp) = (0.5^2 * 0.15^2) + (0.5^2 * 0.20^2) + 2 * (0.5) * (0.5) * (0.009) = 0.0029 <br> **Step 3: Calculate Standard Deviation**<br> σp = √Var(Rp) = √0.0029 = 0.1707 or 17.07%."
+}

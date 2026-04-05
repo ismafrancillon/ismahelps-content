@@ -1,0 +1,32 @@
+{
+  "id": "p688",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "Control Premiums",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Control Premiums: The presence of other bidders can decrease the control premium...",
+  "summary": "Assess how the presence of competing bidders affects the control premium offered for a target.",
+  "prompt": "The presence of other bidders can decrease the control premium offered by an acquirer.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The presence of other bidders typically increases the control premium due to competitive bidding for the target company."
+}

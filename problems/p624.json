@@ -1,0 +1,24 @@
+{
+  "id": "p624",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Reporting and Interpreting Financial Information",
+  "subtopic": "Ratio Analysis",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "ratio-analysis",
+    "gross-margin",
+    "net-margin",
+    "profitability",
+    "calculation"
+  ],
+  "title": "Ratio Analysis: A company has a gross profit of 150000 and total...",
+  "summary": "Calculate gross profit margin and net profit margin from revenue and expense data.",
+  "prompt": "A company has a gross profit of $150,000 and total sales of $600,000. Calculate the gross profit margin. If the company’s operating expenses total $70,000, calculate the net profit margin.",
+  "options": [],
+  "correct_option": "Gross Profit Margin = 25%; Net Profit Margin = 13.33%",
+  "answer_text": "Gross Profit Margin = 25%; Net Profit Margin = 13.33%",
+  "answer_format": "text",
+  "solution": "Step 1: Gross Profit Margin = Gross Profit / Total Sales = $150,000 / $600,000 = 0.25 or 25%. Step 2: Net Profit = Gross Profit - Operating Expenses = $150,000 - $70,000 = $80,000. Net Profit Margin = Net Profit / Total Sales = $80,000 / $600,000 = 0.1333 or 13.33%."
+}

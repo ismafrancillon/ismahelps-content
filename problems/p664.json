@@ -1,0 +1,33 @@
+{
+  "id": "p664",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "scope",
+    "organizations",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Managerial Accounting: Managerial accounting only applies to...",
+  "summary": "Evaluate whether managerial accounting applies only to for-profit or also to non-profit organizations.",
+  "prompt": "Managerial accounting only applies to for-profit organizations.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Managerial accounting is applicable to all types of organizations, including not-for-profit entities, as it provides essential tools for decision-making and performance evaluation (Page 9)."
+}

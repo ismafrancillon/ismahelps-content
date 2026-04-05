@@ -1,0 +1,33 @@
+{
+  "id": "p657",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Sales Revenue, Receivables, and Cash Management",
+  "subtopic": "Revenue Recognition",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "revenue-recognition",
+    "accrual-accounting",
+    "sales",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Revenue Recognition: Sales revenue is recognized when cash is received, regardless of...",
+  "summary": "Evaluate whether revenue should be recognized when cash is received or when goods are delivered.",
+  "prompt": "Sales revenue is recognized when cash is received, regardless of the delivery of goods.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "According to the revenue recognition principle, sales revenue is recognized when goods are delivered, not when cash is received. This principle is crucial for proper accounting practices."
+}

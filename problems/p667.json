@@ -1,0 +1,32 @@
+{
+  "id": "p667",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "internal-vs-external",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Managerial Accounting: The primary purpose of managerial accounting is to provide information...",
+  "summary": "Identify a primary purpose of managerial accounting in aiding management decision-making.",
+  "prompt": "The primary purpose of managerial accounting is to provide information for external reporting.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The primary purpose of managerial accounting is not for external reporting, but rather to provide internal management with timely and relevant information for decision-making. This distinction is crucial for understanding the role of managerial accounting (Page 9)."
+}

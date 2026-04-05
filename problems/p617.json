@@ -1,0 +1,23 @@
+{
+  "id": "p617",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Reporting and Interpreting Financial Information",
+  "subtopic": "Ratio Analysis",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "ratio-analysis",
+    "current-ratio",
+    "liquidity",
+    "calculation"
+  ],
+  "title": "Ratio Analysis: ABC Corporation has a current ratio of 2.5 and current...",
+  "summary": "Calculate current assets from the current ratio and assess the impact of changes.",
+  "prompt": "ABC Corporation has a current ratio of 2.5 and current liabilities of $100,000. What is the total current assets? If the company expects a decrease in current assets to $200,000, what will be the new current ratio?",
+  "options": [],
+  "correct_option": "Current Assets = $250,000; New Current Ratio = 2.0",
+  "answer_text": "Current Assets = $250,000; New Current Ratio = 2.0",
+  "answer_format": "text",
+  "solution": "Step 1: Current Ratio = Current Assets / Current Liabilities. Hence, Current Assets = Current Ratio * Current Liabilities = 2.5 * $100,000 = $250,000. Step 2: New Current Ratio = New Current Assets / Current Liabilities = $200,000 / $100,000 = 2.0."
+}

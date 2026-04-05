@@ -1,0 +1,32 @@
+{
+  "id": "p697",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Specification of Futures",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Specification of Futures: An investor expects the price of a stock to increase,...",
+  "summary": "Evaluate whether a short futures position aligns with an expectation of rising prices.",
+  "prompt": "An investor expects the price of a stock to increase, so they decide to enter into a short futures position to take advantage of this expectation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. If an investor expects the price of a stock to increase, they would typically enter into a long position in futures, not a short position. A long position would allow them to benefit from rising prices, while a short position would result in losses if the price increases. Understanding the implications of market expectations on futures trading is essential for investors. This concept is elaborated in the \"Specification of Futures Contracts\" section from Document 16 on Page 30."
+}

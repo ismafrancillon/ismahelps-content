@@ -1,0 +1,32 @@
+{
+  "id": "p699",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Trading Venues (Exchanges vs OTC)",
+  "subtopic": "Trading Venues",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Trading Venues: Futures contracts are traded only on exchanges and cannot be...",
+  "summary": "Assess whether futures are traded only on exchanges or also over-the-counter.",
+  "prompt": "Futures contracts are traded only on exchanges and cannot be traded over-the-counter (OTC).",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. Futures contracts can be traded on organized exchanges as well as over-the-counter (OTC). While exchange-traded futures provide standardized contracts with transparent pricing, OTC trading allows for more customized contracts tailored to specific needs. Understanding the distinction between these two trading venues is essential for students in finance, as it impacts liquidity, pricing, and risk management strategies. The differences between trading venues are discussed in the \"Trading Venues (Exchanges vs OTC)\" section from Document 4 on Page 15."
+}

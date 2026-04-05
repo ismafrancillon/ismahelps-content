@@ -1,0 +1,33 @@
+{
+  "id": "p649",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Civil Responsibility",
+  "subtopic": "Limitations of Liability",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "civil-liability",
+    "punitive-damages",
+    "quebec-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Limitations of Liability: The Civil Code of Quebec allows for punitive damages in...",
+  "summary": "Assess whether the Civil Code of Quebec allows punitive damages in all civil liability cases.",
+  "prompt": "The Civil Code of Quebec allows for punitive damages in all civil liability cases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Punitive damages are not generally available under Quebec law unless specified by a particular statute. The Civil Code of Quebec does not create a general right to punitive damages in all cases of civil liability."
+}

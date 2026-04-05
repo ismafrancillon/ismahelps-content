@@ -1,0 +1,33 @@
+{
+  "id": "p690",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Call: A call option gives the holder the obligation to purchase...",
+  "summary": "Distinguish the right granted by a call option from the obligation in futures contracts.",
+  "prompt": "A call option gives the holder the obligation to purchase the underlying asset at a specified price.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "False; a call option grants the holder the right, but not the obligation, to purchase an asset at a specified strike price before or at expiration, unlike futures contracts where there is an obligation to transact."
+}

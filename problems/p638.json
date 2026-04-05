@@ -1,0 +1,24 @@
+{
+  "id": "p638",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Risk and Return",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "risk-return",
+    "calculation"
+  ],
+  "title": "Risk and Return: An investor has a risky portfolio with an expected return...",
+  "summary": "Calculate the Sharpe ratio from portfolio excess return over the risk-free rate divided by standard deviation.",
+  "prompt": "An investor has a risky portfolio with an expected return of 15% and a standard deviation of 25%. The risk-free rate is 5%. What is the investor's Sharpe Ratio? If the investor is considering a new investment with an expected return of 12% and standard deviation of 20%, should they include this new asset in their portfolio?",
+  "options": [],
+  "correct_option": "Sharpe Ratio: 0.4; New investment should not be included",
+  "answer_text": "Sharpe Ratio: 0.4; New investment should not be included",
+  "answer_format": "text",
+  "solution": "**Step 1: Calculate the Sharpe Ratio**<br> Sharpe Ratio = (E(Rp) - r_f) / σp = (0.15 - 0.05) / 0.25 = 0.4 <br> **Step 2: Compare the new investment's Sharpe Ratio with that of the portfolio** <br> Sharpe Ratio of new investment = (0.12 - 0.05) / 0.20 = 0.35 <br> Since the Sharpe Ratio of the current portfolio (0.4) is greater than that of the new investment (0.35), the new asset should not be included."
+}

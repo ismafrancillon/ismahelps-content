@@ -1,0 +1,33 @@
+{
+  "id": "p647",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Introduction to Law",
+  "subtopic": "Private vs Public Law",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "public-law",
+    "private-law",
+    "legal-framework",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Private vs Public Law: Individuals are governed by private law when they are in...",
+  "summary": "Evaluate whether private law governs conflicts between individuals and the government.",
+  "prompt": "Individuals are governed by private law when they are in conflict with the government.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Private law deals with relationships between individuals, not conflicts involving the government acting in an official capacity. Public law governs the relationship between the government and its citizens, including criminal law and regulatory frameworks. Therefore, individuals in conflict with the government are subject to public law."
+}

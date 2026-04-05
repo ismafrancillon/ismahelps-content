@@ -1,0 +1,24 @@
+{
+  "id": "p640",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Stakeholder Relevance",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "accounting-equation",
+    "equity",
+    "dividends",
+    "financial-statements",
+    "calculation"
+  ],
+  "title": "Stakeholder Relevance: Golden Rule Inc. has reported a trial balance with total...",
+  "summary": "Calculate total equity and dividend payments using trial balance data.",
+  "prompt": "Golden Rule Inc. has reported a trial balance with total assets of $484,240 and total liabilities of $303,000. What is the total equity? Additionally, if the company pays a $1 per share dividend to 15,000 shares, what will be the total cash outflow for dividends?",
+  "options": [],
+  "correct_option": "Total Equity = $181,240; Cash Outflow = $15,000",
+  "answer_text": "Total Equity = $181,240; Cash Outflow = $15,000",
+  "answer_format": "text",
+  "solution": "Step 1: Total Equity = Total Assets - Total Liabilities = $484,240 - $303,000 = $181,240. Step 2: Total Dividend Payment = Number of Shares * Dividend per Share = 15,000 * $1 = $15,000. Therefore, the total cash outflow for dividends is $15,000."
+}

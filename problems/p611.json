@@ -1,0 +1,23 @@
+{
+  "id": "p611",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital budgeting",
+  "subtopic": "Payback Period Rule",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "payback-period",
+    "decision-rule",
+    "calculation",
+    "application"
+  ],
+  "title": "Payback Period Rule: Company XYZ is considering project A. Project A requires an...",
+  "summary": "Calculate the payback period by dividing the initial investment by annual cash inflows.",
+  "prompt": "Company XYZ is considering project A. Project A requires an initial investment of $75,000. It generates $35,000 each year for the coming 3 years. What is the payback period and the discounted payback period for this project if the proper discount rate is 18%?",
+  "options": [],
+  "correct_option": "2.14 years and 2.94 years",
+  "answer_text": "2.14 years and 2.94 years",
+  "answer_format": "text",
+  "solution": "To calculate the payback period and the discounted payback period for Project A, we will follow these steps:\n\n### Step 1: Define Cash Flows\n- **Initial Investment**: $75,000\n- **Annual Cash Inflows**: $35,000 for 3 years\n- **Discount Rate**: 18%\n\n### Step 2: Calculate the Payback Period\nThe payback period is the time it takes for the cumulative cash flows to equal the initial investment.\n\n- Year 1: Cumulative Cash Flow = $35,000\n- Year 2: Cumulative Cash Flow = $35,000 + $35,000 = $70,000\n- Year 3: Cumulative Cash Flow = $70,000 + $35,000 = $105,000\n\nThe payback period occurs between Year 2 and Year 3. \n\nTo find the exact point within Year 3:\n\\[\n\\text{Amount needed at the end of Year 2} = 75,000 - 70,000 = 5,000\n\\]\n\\[\n\\text{Fraction of Year 3 needed} = \\frac{5,000}{35,000} \\approx 0.1429 \\text{ years}\n\\]\n\nThus, the payback period is approximately:\n\\[\n\\text{Payback Period} = 2 + 0.1429 \\approx 2.14 \\text{ years}\n\\]\n\n### Step 3: Calculate the Discounted Payback Period\nTo find the discounted payback period, we first need to calculate the present value of each cash inflow.\n\nThe present value (PV) of cash inflows is calculated as follows:\n\n\\[\nPV = \\frac{C}{(1 + r)^t}\n\\]\n\nWhere:\n- \\(C\\) = Cash inflow\n- \\(r\\) = Discount rate (0.18)\n- \\(t\\) = Year\n\nCalculating the present value for each year:\n\n- Year 1: \n\\[\nPV_1 = \\frac{35,000}{(1 + 0.18)^1} \\approx \\frac{35,000}{1.18} \\approx 29,661.02\n\\]\n\n- Year 2:\n\\[\nPV_2 = \\frac{35,000}{(1 + 0.18)^2} \\approx \\frac{35,000}{1.3924} \\approx 25,185.23\n\\]\n\n- Year 3:\n\\[\nPV_3 = \\frac{35,000}{(1 + 0.18)^3} \\approx \\frac{35,000}{1.6436} \\approx 21,319.59\n\\]\n\n### Step 4: Cumulative Present Value\nNow, we calculate the cumulative present value:\n\n- End of Year 1: $29,661.02\n- End of Year 2: $29,661.02 + $25,185.23 = $54,846.25\n- End of Year 3: $54,846.25 + $21,319.59 = $76,165.84\n\nThe cumulative present value exceeds the initial investment in Year 3. To find the exact point:\n\n\\[\n\\text{Amount needed at the end of Year 2} = 75,000 - 54,846.25 = 20,153.75\n\\]\n\n\\[\n\\text{Fraction of Year 3 needed} = \\frac{20,153.75}{21,319.59} \\approx 0.944\n\\]\n\nThus, the discounted payback period is approximately:\n\\[\n\\text{Discounted Payback Period} = 2 + 0.944 \\approx 2.94 \\text{ years}\n\\]\n\n### Final Answer\n- **Payback Period**: Approximately **2.14 years**\n- **Discounted Payback Period**: Approximately **2.94 years**"
+}

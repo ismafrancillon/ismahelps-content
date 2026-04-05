@@ -1,0 +1,33 @@
+{
+  "id": "p669",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Terminal Value",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "terminal-value",
+    "valuation",
+    "assumptions",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Terminal Value: A firm must have a stable growth rate that exceeds...",
+  "summary": "Apply the Gordon Growth Model or Dividend Discount Model for stock valuation.",
+  "prompt": "A firm must have a stable growth rate that exceeds the growth rate of the economy to use the Gordon Growth Model for valuation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The Gordon Growth Model requires that the growth rate must be less than or equal to the growth rate of the economy. If the growth rate exceeds the economy's rate, it is not sustainable in the long run, leading to unrealistic valuations."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p673",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Option Pricing Theory",
+  "subtopic": "Black-Scholes Model",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "option-pricing",
+    "european-option",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Black-Scholes Model: The Black-Scholes model can be used to value options on...",
+  "summary": "Evaluate the Black-Scholes model's assumptions and limitations for option pricing.",
+  "prompt": "The Black-Scholes model can be used to value options on any underlying asset.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The Black-Scholes model is primarily designed for European options on non-dividend-paying stocks. It has specific assumptions that may not hold true for all types of options or underlying assets, particularly those with dividends or American-style options."
+}

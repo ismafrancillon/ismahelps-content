@@ -1,0 +1,33 @@
+{
+  "id": "p662",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Managerial Cost Concepts & Cost Behaviour Analysis",
+  "subtopic": "Variable and Fixed Costs",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cost-behavior",
+    "fixed-costs",
+    "variable-costs",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Variable and Fixed Costs: Fixed costs are costs that vary in total with changes...",
+  "summary": "Assess whether fixed costs remain constant or change with activity level within the relevant range.",
+  "prompt": "Fixed costs are costs that vary in total with changes in the activity level.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Fixed costs remain constant in total regardless of changes in the activity level within the relevant range. Understanding the behavior of fixed and variable costs is critical for budgeting and forecasting."
+}

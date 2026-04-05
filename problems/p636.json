@@ -1,0 +1,24 @@
+{
+  "id": "p636",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Futures (Advanced)",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: A company enters into a 3-month forward contract on 1000...",
+  "summary": "Distinguish futures from forward contracts based on standardization and exchange trading.",
+  "prompt": "A company enters into a 3-month forward contract on 1,000 barrels of oil at a price of $65 per barrel. If the spot price at maturity is $70, what is the profit or loss at maturity from this contract? Additionally, if the company incurs a cost of $500 to enter the contract, what is the net profit or loss?",
+  "options": [],
+  "correct_option": "Profit: $5,000. Net profit: $4,500.",
+  "answer_text": "Profit: $5,000. Net profit: $4,500.",
+  "answer_format": "text",
+  "solution": "**Step 1: Define Key Variables** - Forward price = $65, Spot price at maturity = $70, Barrels = 1,000, Cost of contract = $500. <br> **Step 2: Calculate Profit or Loss from Forward Contract** - Profit = (Spot Price - Forward Price) × Number of Barrels = ($70 - $65) × 1,000 = $5,000. <br> **Step 3: Calculate Net Profit or Loss** - Net profit = Profit - Cost of contract = $5,000 - $500 = $4,500."
+}

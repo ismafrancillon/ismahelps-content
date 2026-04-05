@@ -1,0 +1,24 @@
+{
+  "id": "p616",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Cost of Sales and Inventory Management",
+  "subtopic": "COGS",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "fifo",
+    "cogs",
+    "gross-profit",
+    "inventory-valuation",
+    "calculation"
+  ],
+  "title": "COGS: Miller Corp. has the following data for the quarter: Beginning...",
+  "summary": "Calculate COGS under FIFO by using the oldest inventory costs first and determine gross profit.",
+  "prompt": "Miller Corp. has the following data for the quarter: Beginning Inventory: 112 units @ $72, Purchases: 76 units @ $71, Sales: 121 units. Calculate the cost of goods sold (COGS) using FIFO. What is the gross profit if the selling price per unit is $99?",
+  "options": [],
+  "correct_option": "COGS = $8,258; Gross Profit = $4,000",
+  "answer_text": "COGS = $8,258; Gross Profit = $4,000",
+  "answer_format": "text",
+  "solution": "Step 1: Under FIFO, COGS for the 121 units sold consists of 112 units from beginning inventory ($72) and 9 from the new purchase ($71). Calculation: (112 * $72) + (9 * $71) = $8,064 + $639 = $8,703. Step 2: Total Revenue = 121 units * $99 = $11,979. Step 3: Gross Profit = Revenue - COGS = $11,979 - $8,703 = $3,276."
+}

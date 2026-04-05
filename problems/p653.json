@@ -1,0 +1,33 @@
+{
+  "id": "p653",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Types of Financial Statements",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "financial-statements",
+    "interrelationships",
+    "accounting",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Types of Financial Statements: Each financial statement is prepared...",
+  "summary": "Assess the interrelationship among the primary financial statements.",
+  "prompt": "Each financial statement is prepared independently of the others.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Financial statements are interrelated, and transactions recorded in one statement often affect others. Understanding these relationships is vital for accurate financial reporting, as highlighted throughout the course."
+}

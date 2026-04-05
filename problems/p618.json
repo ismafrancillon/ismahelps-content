@@ -1,0 +1,24 @@
+{
+  "id": "p618",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Adjustments and Quality of Earnings",
+  "subtopic": "Deferred and Accrued Revenues/Expenses",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "deferred-revenue",
+    "accrual-accounting",
+    "journal-entries",
+    "accounting",
+    "calculation"
+  ],
+  "title": "Deferred and Accrued Revenues/Expenses: A real estate company collected 12000 in advance rent for...",
+  "summary": "Prepare journal entries for advance cash collection and monthly recognition of deferred revenue.",
+  "prompt": "A real estate company collected $12,000 in advance rent for six months. Prepare the journal entries for the collection and the recognition of revenue in the first month.",
+  "options": [],
+  "correct_option": "Debit Cash $12,000, Credit Deferred Revenue $12,000; Debit Deferred Revenue $2,000, Credit Rent Revenue $2,000",
+  "answer_text": "Debit Cash $12,000, Credit Deferred Revenue $12,000; Debit Deferred Revenue $2,000, Credit Rent Revenue $2,000",
+  "answer_format": "text",
+  "solution": "Step 1: When cash is collected, the entry will be: Debit Cash $12,000 and Credit Deferred Revenue $12,000. Step 2: Monthly recognition of revenue will be: Debit Deferred Revenue $2,000 and Credit Rent Revenue $2,000, recognizing one month's worth of rent."
+}

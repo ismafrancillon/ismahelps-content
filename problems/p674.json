@@ -1,0 +1,32 @@
+{
+  "id": "p674",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "From Earnings to Cash Flows",
+  "subtopic": "Tax Effect",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "income-statement",
+    "accounting-principles",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Tax Effect: The effective tax rate is always the same as the...",
+  "summary": "Distinguish between effective and marginal tax rates and how they differ for a firm.",
+  "prompt": "The effective tax rate is always the same as the marginal tax rate for a firm.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The effective tax rate is the average rate at which a firm’s pre-tax profits are taxed, while the marginal tax rate is the rate applied to the last dollar of income earned. These rates can differ significantly, especially in firms with tax credits, deductions, or losses carried forward."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p687",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Arbitrage",
+  "subtopic": "Merger Arbitrage",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "market-value",
+    "shareholders",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Merger Arbitrage: The practice of merger arbitrage involves buying and selling shares...",
+  "summary": "Describe merger arbitrage as buying target shares to profit from expected price changes during M&A.",
+  "prompt": "The practice of merger arbitrage involves buying and selling shares of the same target company to lock in profits from anticipated price changes during a merger announcement.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Merger arbitrage involves purchasing shares of a target company expecting a price increase due to a merger announcement, alongside selling shares of the acquiring company to hedge against potential losses. The goal is to capitalize on the price discrepancies that often arise during M&A activity. It is not about trading the same asset in different markets, but about strategically positioning to benefit from the merger process."
+}
