@@ -1,0 +1,41 @@
+{
+  "id": "p53",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Adjusted Present Value Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "growth-rate",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "Adjusted Present Value Approach: Calculate the present value of a growing perpetuity that pays...",
+  "summary": "Calculate the present value of a future cash flow or growing perpetuity at a given discount rate.",
+  "prompt": "Calculate the present value of a growing perpetuity that pays $1,000 annually, growing at 3% with a discount rate of 7%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$25,000"
+    },
+    {
+      "id": "B",
+      "text": "$27,500"
+    },
+    {
+      "id": "C",
+      "text": "$37,500"
+    },
+    {
+      "id": "D",
+      "text": "$20,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Annual Payment (PMT) = $1,000 <br> - Growth Rate (g) = 3% <br> - Discount Rate (r) = 7%<br><br> **Step 2: Apply the Present Value of a Growing Perpetuity Formula**<br> PV = PMT / (r - g)<br> = $1,000 / (0.07 - 0.03)<br> = $1,000 / 0.04 = $25,000.<br> Therefore, the present value is $25,000, and the answer is A."
+}

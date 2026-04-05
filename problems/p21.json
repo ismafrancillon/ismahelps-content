@@ -1,0 +1,40 @@
+{
+  "id": "p21",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Litigation and Lawsuits",
+  "subtopic": "Class Action",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "litigation",
+    "class-action",
+    "plaintiff",
+    "conceptual"
+  ],
+  "title": "Class Action: In a class action lawsuit, how many plaintiffs must demonstrate...",
+  "summary": "Determine the number of plaintiff claims needed for collective proof in a class action lawsuit.",
+  "prompt": "In a class action lawsuit, how many plaintiffs must demonstrate claims against a common defendant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "One person's claim will be sufficient to prove the damages suffered by all"
+    },
+    {
+      "id": "B",
+      "text": "Specific performance"
+    },
+    {
+      "id": "C",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "D",
+      "text": "Injunctive relief"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "In a class action lawsuit, proof of one person's claim will be sufficient to prove the damages suffered by all plaintiffs. This legal mechanism allows individuals with similar claims against a common defendant to consolidate their cases, enhancing efficiency and access to justice."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p61",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "dividend-discount-model",
+    "cost-of-equity",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: If the cost of equity is 0.1 and the expected...",
+  "summary": "Calculate the cost of equity or expected return using the CAPM formula.",
+  "prompt": "If the cost of equity is 10% and the expected growth rate is 5%, what is the implied dividend yield based on the Gordon Growth Model?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10%"
+    },
+    {
+      "id": "B",
+      "text": "5%"
+    },
+    {
+      "id": "C",
+      "text": "9%"
+    },
+    {
+      "id": "D",
+      "text": "7%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Using the Gordon Growth Model, Cost of Equity = Dividend Yield + Growth Rate, so Dividend Yield = Cost of Equity - Growth Rate = 10% - 5% = 5%. This yield reflects the expected return from dividends relative to the current stock price."
+}

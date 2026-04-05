@@ -1,0 +1,40 @@
+{
+  "id": "p19",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Discrimination",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "discrimination",
+    "burden-of-proof",
+    "employment-law",
+    "conceptual"
+  ],
+  "title": "Discrimination: A plaintiff in a discrimination case must demonstrate which of...",
+  "summary": "Identify what a plaintiff must demonstrate in a discrimination case.",
+  "prompt": "A plaintiff in a discrimination case must demonstrate which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "In a discrimination case, the plaintiff must demonstrate the burden of proof to"
+    },
+    {
+      "id": "B",
+      "text": "Each plaintiff must prove individually"
+    },
+    {
+      "id": "C",
+      "text": "It never legally existed"
+    },
+    {
+      "id": "D",
+      "text": "One plaintiff's proof suffices for all"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "In a discrimination case, the plaintiff must demonstrate the burden of proof to establish that discrimination occurred. This involves showing that the accused's actions were discriminatory and not just a result of other factors. The burden is on the complainant to substantiate their claim."
+}

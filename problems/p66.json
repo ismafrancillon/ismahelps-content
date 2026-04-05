@@ -1,0 +1,40 @@
+{
+  "id": "p66",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Takeover Tactics",
+  "subtopic": "Tender Offers",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "governance",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Tender Offers: In a tender offer, what is the significance of the...",
+  "summary": "Explain the material adverse change clause as a protective withdrawal mechanism in tender offers.",
+  "prompt": "In a tender offer, what is the significance of the \"material adverse change\" clause?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The material adverse change clause allows either party to withdraw from the"
+    },
+    {
+      "id": "B",
+      "text": "A premium above market price"
+    },
+    {
+      "id": "C",
+      "text": "An informal overture to management"
+    },
+    {
+      "id": "D",
+      "text": "A discount on their shares"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The material adverse change clause allows either party to withdraw from the deal if significant adverse changes occur that would impact the deal's value, thus providing a protective measure for both sides."
+}

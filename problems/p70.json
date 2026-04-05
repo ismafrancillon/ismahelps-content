@@ -1,0 +1,40 @@
+{
+  "id": "p70",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "application",
+    "short-answer"
+  ],
+  "title": "Derivative Instruments: A company expects to receive 1 million euros in 6...",
+  "summary": "Identify the appropriate derivative to hedge against foreign exchange rate risk.",
+  "prompt": "A company expects to receive 1 million euros in 6 months. What type of derivative contract should it enter to hedge against a potential decrease in the euro's value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company should enter into a forward contract to lock in the current"
+    },
+    {
+      "id": "B",
+      "text": "Option premium"
+    },
+    {
+      "id": "C",
+      "text": "No hedging is needed"
+    },
+    {
+      "id": "D",
+      "text": "Difference between spot and futures prices"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The company should enter into a forward contract to lock in the current exchange rate and hedge against the euro's potential depreciation. [[24]]"
+}

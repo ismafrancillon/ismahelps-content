@@ -1,0 +1,41 @@
+{
+  "id": "p89",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Fixed-Income Securities",
+  "subtopic": "Bond Prices and Yields",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "yield-to-maturity",
+    "coupon-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Bond Prices and Yields: A bond pays a coupon of 60 annually and has...",
+  "summary": "Calculate the yield to maturity of a bond from its coupon, price, and maturity.",
+  "prompt": "A bond pays a coupon of $60 annually and has a current market price of $800. If it matures in 10 years, what is the yield to maturity (YTM)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8.89%"
+    },
+    {
+      "id": "B",
+      "text": "13.34%"
+    },
+    {
+      "id": "C",
+      "text": "13.89%"
+    },
+    {
+      "id": "D",
+      "text": "7.11%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Key Variables<br> Annual coupon payment (C) = $60, Market price (P) = $800, Years to maturity (n) = 10<br><br> Step 2: Use YTM Formula<br> YTM = [C + (F - P) / n] / [(F + P) / 2]<br><br> Step 3: Calculate YTM<br> Assuming a face value (F) of $1,000: YTM = [60 + (1,000 - 800) / 10] / [(1,000 + 800) / 2]<br> YTM = [60 + 20] / 900 = 0.0889 or 8.89%"
+}

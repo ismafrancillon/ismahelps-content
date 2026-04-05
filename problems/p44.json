@@ -1,0 +1,40 @@
+{
+  "id": "p44",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-capital",
+    "capital-structure",
+    "calculation"
+  ],
+  "title": "Cost of Capital: A firm has a debt ratio of 40%, a required...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "A firm has a debt ratio of 40%, a required return on equity of 12%, and a pre-tax cost of debt of 8%. What is the WACC if the tax rate is 25%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "9.2%"
+    },
+    {
+      "id": "B",
+      "text": "5.2%"
+    },
+    {
+      "id": "C",
+      "text": "4.2%"
+    },
+    {
+      "id": "D",
+      "text": "10.6%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Debt Ratio = 40% <br> - Equity Ratio = 60% <br> - Required Return on Equity (Ke) = 12% <br> - Pre-Tax Cost of Debt (Kd) = 8% <br> - Tax Rate (Tc) = 25%<br><br> **Step 2: Apply the WACC Formula**<br> WACC = (E/V)*Ke + (D/V)*Kd*(1-Tc)<br> = (0.60 * 12%) + (0.40 * 8% * (1 - 0.25))<br> = 0.072 + 0.024 = 0.096 or 9.20%.<br> Therefore, the WACC is 9.20% and the answer is A."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p32",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Debt",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "cost-of-debt",
+    "capital-structure",
+    "tax-shield",
+    "valuation",
+    "conceptual"
+  ],
+  "title": "Cost of Debt: What is the impact on the value of a firm...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "What is the impact on the value of a firm if it issues debt instead of equity, assuming all else remains constant?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Issuing debt can increase a firm's value due to the tax shield provided by"
+    },
+    {
+      "id": "B",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "C",
+      "text": "WACC decreases"
+    },
+    {
+      "id": "D",
+      "text": "No effect on firm value"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Issuing debt can increase a firm's value due to the tax shield provided by interest payments, which are tax-deductible, creating a positive effect on the overall value of the firm."
+}

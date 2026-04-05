@@ -1,0 +1,40 @@
+{
+  "id": "p36",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "internal-reporting",
+    "frequency",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: In managerial accounting, reports are typically more detailed and frequent...",
+  "summary": "Assess whether managerial reports are more detailed and frequent than financial accounting reports.",
+  "prompt": "In managerial accounting, reports are typically more detailed and frequent than in financial accounting.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "Follows GAAP/IFRS"
+    },
+    {
+      "id": "C",
+      "text": "False"
+    },
+    {
+      "id": "D",
+      "text": "Must publish quarterly"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "True. Managerial accounting reports can be much more detailed and tailored to specific needs, and they are generated as often as necessary for internal decision-making (Page 9)."
+}

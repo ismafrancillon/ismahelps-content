@@ -1,0 +1,43 @@
+{
+  "id": "p6",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Bond Valuation",
+  "subtopic": "Debt Instruments",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "bond-pricing",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Debt Instruments: Which of the following is false? A) Indentures are debt...",
+  "summary": "Identify incorrect or correct statements about various debt instruments and their characteristics.",
+  "prompt": "Which of the following is false? A) Indentures are debt instruments that are generally unsecured. B) Callable bonds give the issuer the option to “call” or repurchase outstanding bonds at predetermined call prices at specified times. C) Mortgage bonds are debt instruments that are secured by real assets. D) Protective covenants can be positive or negative. E) None of the above.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Indentures are debt instruments that are generally unsecured"
+    },
+    {
+      "id": "B",
+      "text": "Callable bonds give the issuer the option to “call” or repurchase outstanding bonds at predetermined call prices at specified times"
+    },
+    {
+      "id": "C",
+      "text": "Mortgage bonds are debt instruments that are secured by real assets"
+    },
+    {
+      "id": "D",
+      "text": "Protective covenants can be positive or negative"
+    },
+    {
+      "id": "E",
+      "text": "None of the above"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The correct answer is A) Indentures are debt instruments that are generally unsecured. Explanation: Indentures are formal legal agreements, contracts, or documents between a bond issuer and bondholders that outline the terms and conditions of the bond. They are typically secured by collateral, not unsecured. Therefore, the statement \"Indentures are debt instruments that are generally unsecured\" is false. Let's review the other options to confirm they are true: B) Callable bonds give the issuer the option to “call” or repurchase outstanding bonds at predetermined call prices at specified times. - This statement is true. Callable bonds allow the issuer to repurchase the bonds before maturity at specified prices and times. C) Mortgage bonds are debt instruments that are secured by real assets. - This statement is true. Mortgage bonds are secured by real estate or physical assets, providing collateral for the bondholders. D) Protective covenants can be positive or negative. - This statement is true. Protective covenants are clauses in bond indentures that can impose certain restrictions or obligations on the issuer. They can be positive (requiring certain actions) or negative (restricting certain actions). E) None of the above. - Since option A is false, this option is not applicable. Therefore, the correct answer is A."
+}

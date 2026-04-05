@@ -1,0 +1,40 @@
+{
+  "id": "p83",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "call-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: If the call option premium on a stock is 3...",
+  "summary": "Calculate the breakeven price for a call option as strike price plus premium.",
+  "prompt": "If the call option premium on a stock is $3 and the stock price is $50, what is the break-even point for the call option holder?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$50"
+    },
+    {
+      "id": "B",
+      "text": "$58"
+    },
+    {
+      "id": "C",
+      "text": "$42"
+    },
+    {
+      "id": "D",
+      "text": "$57"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Premium = $3<br>Current stock price = $50<br>Break-even point = Strike Price + Premium<br><br>**Step 2: Calculate Break-even Point**<br>Break-even point = $50 + $3 = $53<br><br>**Step 3: Conclusion**<br>Therefore, the break-even point for the call option holder is $53."
+}

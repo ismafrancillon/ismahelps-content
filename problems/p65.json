@@ -1,0 +1,41 @@
+{
+  "id": "p65",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFF",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cash-flows",
+    "valuation",
+    "net-income",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "FCFF: What is the primary purpose of using Free Cash Flow...",
+  "summary": "Explain the purpose of FCFF in estimating total firm value available to all capital providers.",
+  "prompt": "What is the primary purpose of using Free Cash Flow to the Firm (FCFF) in valuation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The primary purpose of using FCFF in valuation is to estimate the total market"
+    },
+    {
+      "id": "B",
+      "text": "Finance internal growth and new projects"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "Proportion of debt financing"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The primary purpose of using FCFF in valuation is to estimate the total market value of a firm by considering all cash flows available to all investors, including equity and debt holders. This approach provides a clearer picture of a firm's financial health and its ability to generate cash for future growth initiatives. In valuation, FCFF is calculated by adjusting net income for non-cash charges, capital expenditures, and changes in working capital. This comprehensive measure allows analysts to evaluate the firm's operational performance effectively."
+}

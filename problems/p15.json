@@ -1,0 +1,40 @@
+{
+  "id": "p15",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Capital Expenditures vs. Expenses",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-expenditures",
+    "asset-valuation",
+    "capitalization",
+    "calculation"
+  ],
+  "title": "Capital Expenditures vs. Expenses: A company purchases land for $200,000, incurs an additional 20000...",
+  "summary": "Determine total capitalized cost including purchase price and acquisition-related expenses.",
+  "prompt": "A company purchases land for $200,000, incurs an additional $20,000 for legal fees, and pays $5,000 for title insurance. What is the total cost of the land recorded on the balance sheet?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$225,000"
+    },
+    {
+      "id": "B",
+      "text": "$236,250"
+    },
+    {
+      "id": "C",
+      "text": "$337,500"
+    },
+    {
+      "id": "D",
+      "text": "$270,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The total cost of land recorded on the balance sheet includes all costs incurred to acquire the land and prepare it for use. Therefore, the calculation is: Cost of Land = Purchase Price + Legal Fees + Title Insurance = $200,000 + $20,000 + $5,000 = $225,000. This comprehensive understanding of capitalizing costs ensures that the asset is accurately represented on the financial statements, reflecting its true economic value. Accurate asset valuation is critical for effective financial management and reporting, impacting investors' and stakeholders' perceptions of the company's worth."
+}

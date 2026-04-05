@@ -1,0 +1,41 @@
+{
+  "id": "p73",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Put",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "put-option",
+    "option-pricing",
+    "european-option",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Put: A European put option has a strike price of 50...",
+  "summary": "Analyze put option properties, pricing, or payoff structure.",
+  "prompt": "A European put option has a strike price of $50 and a current stock price of $45. If the risk-free rate is 2% and volatility is 20%, what is the put option price?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Using the Black-Scholes-Merton formula, we can estimate the price of the"
+    },
+    {
+      "id": "B",
+      "text": "The strike price"
+    },
+    {
+      "id": "C",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "D",
+      "text": "Price of the underlying asset"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Using the Black-Scholes-Merton formula, we can estimate the price of the European put option. The calculations yield a price of approximately $6.50."
+}

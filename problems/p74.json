@@ -1,0 +1,40 @@
+{
+  "id": "p74",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: A trader wants to determine the profit from a long...",
+  "summary": "Distinguish futures from forward contracts based on standardization and exchange trading.",
+  "prompt": "A trader wants to determine the profit from a long forward contract with a delivery price of $100 when the spot price at maturity is $120. What is the profit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$100"
+    },
+    {
+      "id": "B",
+      "text": "$95"
+    },
+    {
+      "id": "C",
+      "text": "$120"
+    },
+    {
+      "id": "D",
+      "text": "$130"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Delivery price = $100<br>Spot price at maturity = $120<br><br>**Step 2: Calculate Profit**<br>Profit = Spot Price - Delivery Price<br>Profit = $120 - $100 = $20<br><br>**Step 3: Conclusion**<br>The profit from the forward contract is $20."
+}

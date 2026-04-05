@@ -1,0 +1,41 @@
+{
+  "id": "p87",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Factors Affecting Option Prices",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "put-option",
+    "intrinsic-value-option",
+    "option-pricing",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Factors Affecting Option Prices: The price of a put option increases as the underlying...",
+  "summary": "Identify key factors affecting option prices: volatility, time, underlying price, and interest rates.",
+  "prompt": "The price of a put option increases as the underlying asset price decreases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The value of a put option increases when the price of the underlying asset"
+    },
+    {
+      "id": "B",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "C",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "D",
+      "text": "Price of the underlying asset"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The value of a put option increases when the price of the underlying asset decreases, as it gives the holder the right to sell at a higher price. [[24]]"
+}

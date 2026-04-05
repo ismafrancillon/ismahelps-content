@@ -1,0 +1,41 @@
+{
+  "id": "p96",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Fixed-Income Securities",
+  "subtopic": "Bond Prices and Yields",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "yield-to-maturity",
+    "coupon-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Bond Prices and Yields: If a bond with a 0.1 coupon is selling at...",
+  "summary": "Calculate the yield to maturity of a bond from its coupon, price, and maturity.",
+  "prompt": "If a bond with a 10% coupon is selling at $950 and has a face value of $1,000, what is the yield to maturity (YTM) of the bond?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10.77%"
+    },
+    {
+      "id": "B",
+      "text": "12.77%"
+    },
+    {
+      "id": "C",
+      "text": "13.46%"
+    },
+    {
+      "id": "D",
+      "text": "9.77%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Cash Flows<br> Coupon payment (C) = 0.10 * 1,000 = $100<br> Face value (F) = $1,000<br><br> Step 2: Use the YTM formula<br> YTM = [C + (F - P) / n] / [(F + P) / 2]<br> Where P = price of the bond, n = years to maturity. Assume n = 10 for this example.<br> YTM = [100 + (1,000 - 950) / 10] / [(1,000 + 950) / 2]<br> YTM = [100 + 5] / 975 = 0.1077 or 10.77%<br><br> Step 3: Finalize the Answer<br> In this case, it falls closest to option A, which is 9.05%."
+}

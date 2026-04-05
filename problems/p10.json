@@ -1,0 +1,44 @@
+{
+  "id": "p10",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "sensitivity-analysis",
+    "conceptual"
+  ],
+  "title": "NPV: If the required rate of return changes from 0.15 to...",
+  "summary": "Determine the discount rate that produces a specified profitability index for a project with perpetual cash flows.",
+  "prompt": "If the required rate of return changes from 15% to 7%, then the following would be true: 1. NPV increases 2. IRR decreases 3. Profitability Index decreases 4. Discounted payback period decreases 5. Wealth of invest decreases Select one: A) 1, 4 B) 1, 2, 4 C) 1, 2, 3, 4, 5 D) 2, 3, 4 E) 1, 2",
+  "options": [
+    {
+      "id": "A",
+      "text": "1, 4"
+    },
+    {
+      "id": "B",
+      "text": "None of the above"
+    },
+    {
+      "id": "C",
+      "text": "1, 2, 3, 4, 5"
+    },
+    {
+      "id": "D",
+      "text": "2, 3, 4"
+    },
+    {
+      "id": "E",
+      "text": "1, 2"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The correct answer is A) 1, 4. **Final Answer:** A) 1, 4 **Explanation:** 1. **Net Present Value (NPV) increases**: - When the required rate of return decreases from 15% to 7%, the discount rate used to calculate the NPV decreases. - A lower discount rate increases the present value of future cash flows, leading to a higher NPV. 2. **Internal Rate of Return (IRR) decreases**: - The IRR is the discount rate that makes the NPV of a project zero. - The IRR itself does not change due to changes in the required rate of return. Therefore, this statement is incorrect. 3. **Profitability Index (PI) decreases**: - PI is calculated as the present value of future cash flows divided by the initial investment. - A lower required rate of return increases the present value of future cash flows, which would increase the PI, not decrease it. Therefore, this statement is incorrect. 4. **Discounted Payback Period decreases**: - The discounted payback period is the time it takes for the discounted cash flows to repay the initial investment. - With a lower required rate of return, future cash flows are discounted less, meaning they accumulate faster, thus reducing the payback period. 5. **Wealth of invest decreases**: - A decrease in the required rate of return generally increases the NPV, which represents an increase in wealth. Therefore, this statement is incorrect. Given the above explanations, only statements 1 and 4 are correct when the required rate of return changes from 15% to 7%. Thus, the correct option is A) 1, 4."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p51",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Adjusted Present Value Approach",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Adjusted Present Value Approach: Calculate the present value of a 10000 cash flow expected...",
+  "summary": "Calculate the present value of a future cash flow or growing perpetuity at a given discount rate.",
+  "prompt": "Calculate the present value of a $10,000 cash flow expected in 5 years if the discount rate is 8%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$6,735"
+    },
+    {
+      "id": "B",
+      "text": "$8,756"
+    },
+    {
+      "id": "C",
+      "text": "$7,409"
+    },
+    {
+      "id": "D",
+      "text": "$4,041"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "PV = CF / (1 + r)^n = $10,000 / (1 + 0.08)^5 = $10,000 / 1.4693 = $6,735. This calculation is essential for determining the current worth of a future cash flow based on a specified discount rate."
+}

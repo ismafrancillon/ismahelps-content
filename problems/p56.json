@@ -1,0 +1,41 @@
+{
+  "id": "p56",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: If a company has a required return of 12%, a...",
+  "summary": "Calculate or evaluate the cost of capital using appropriate financial models.",
+  "prompt": "If a company has a required return of 12%, a growth rate of 3%, and a current dividend of $4, what is the value of the stock using the Gordon Growth Model?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$45.78"
+    },
+    {
+      "id": "B",
+      "text": "$48.07"
+    },
+    {
+      "id": "C",
+      "text": "$68.67"
+    },
+    {
+      "id": "D",
+      "text": "$52.65"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Value = D1 / (k - g) = $4 × (1 + 0.03) / (0.12 - 0.03) = $4.12 / 0.09 = $45.78. This model assumes constant growth, and the calculated value provides insight into the stock's worth based on future dividend payments."
+}

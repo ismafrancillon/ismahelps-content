@@ -1,0 +1,43 @@
+{
+  "id": "p2",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "economics",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: For markets to be in equilibrium, that is, for there...",
+  "summary": "Evaluate statements about the forms and implications of the efficient market hypothesis.",
+  "prompt": "For markets to be in equilibrium, that is, for there to be no strong pressure for prices to depart from their current levels: A. The expected rate of return must be equal to the required rate of return. B. Ex-ante return must equal ex-post return. C. The past realised return must equal the expected rate of return. D. All three A, B, C must hold. E. None of the above statements are correct.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The expected rate of return must be equal to the required rate of return"
+    },
+    {
+      "id": "B",
+      "text": "Ex-ante return must equal ex-post return"
+    },
+    {
+      "id": "C",
+      "text": "None of the above"
+    },
+    {
+      "id": "D",
+      "text": "All three A, B, C must hold"
+    },
+    {
+      "id": "E",
+      "text": "None of the above statements are correct"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The answer to the question \"For markets to be in equilibrium, that is, for there to be no strong pressure for prices to depart from their current levels\" is: A. The expected rate of return must be equal to the required rate of return. ### Explanation: 1. **Definition of Market Equilibrium**: - Market equilibrium occurs when the quantity demanded equals the quantity supplied at a particular price. At this point, there is no incentive for prices to change because there is no excess supply or demand. 2. **Expected Rate of Return vs. Required Rate of Return**: - The expected rate of return is what investors anticipate earning from an investment. - The required rate of return is the minimum return investors expect to compensate for the risk of the investment. - For equilibrium, these two rates must be equal because if the expected return is higher than the required return, investors will buy more of the asset, driving up its price until the returns equalize. Conversely, if the expected return is lower, investors will sell the asset, driving its price down. 3. **Other Options**: - **B. Ex-ante return must equal ex-post return**: This is not necessary for equilibrium. Ex-ante returns are expected returns before the investment period, while ex-post returns are realized returns after the investment period. - **C. The past realized return must equal the expected rate of return**: Past returns do not influence market equilibrium directly. - **D. All three A, B, C must hold**: This is incorrect because only A is necessary for equilibrium. - **E. None of the above statements are correct**: This is incorrect because statement A is correct. Thus, the correct answer is A."
+}

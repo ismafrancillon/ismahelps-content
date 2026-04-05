@@ -1,0 +1,40 @@
+{
+  "id": "p86",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Cost of Carry",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Cost of Carry: The cost of carry refers...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "The cost of carry refers to:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The cost of carry refers to the total cost of holding a position in an asset,"
+    },
+    {
+      "id": "B",
+      "text": "Daily settlement of gains/losses"
+    },
+    {
+      "id": "C",
+      "text": "Only the storage cost"
+    },
+    {
+      "id": "D",
+      "text": "Daily margin requirement"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The cost of carry refers to the total cost of holding a position in an asset, including storage costs and financing costs. [[29]]"
+}

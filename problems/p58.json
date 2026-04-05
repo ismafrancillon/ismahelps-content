@@ -1,0 +1,40 @@
+{
+  "id": "p58",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "From Earnings to Cash Flows",
+  "subtopic": "Tax Effect",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "tax-shield",
+    "after-tax-cost-of-debt",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Tax Effect: If a firm has a marginal tax rate of 0.3...",
+  "summary": "Calculate the tax saving from interest expense using the marginal tax rate.",
+  "prompt": "If a firm has a marginal tax rate of 30% and an interest expense of $1,000, how much tax saving does it generate from this expense?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$300"
+    },
+    {
+      "id": "B",
+      "text": "$285"
+    },
+    {
+      "id": "C",
+      "text": "$180"
+    },
+    {
+      "id": "D",
+      "text": "$600"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The tax saving generated from interest expense can be calculated using the formula: Tax Saving = Interest Expense × Marginal Tax Rate. In this case, it would be $1,000 × 30% = $300. This tax shield is a significant benefit of using debt financing."
+}

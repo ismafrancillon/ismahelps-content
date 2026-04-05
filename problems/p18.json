@@ -1,0 +1,40 @@
+{
+  "id": "p18",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Sales Revenue, Receivables, and Cash Management",
+  "subtopic": "Bad Debt Expense",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "bad-debt-expense",
+    "net-income",
+    "financial-statements",
+    "conceptual"
+  ],
+  "title": "Bad Debt Expense: What is the effect of recording bad debt expense on...",
+  "summary": "Assess the effect of recording bad debt expense on net income.",
+  "prompt": "What is the effect of recording bad debt expense on the income statement?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Recording bad debt expense reduces net income on the income statement"
+    },
+    {
+      "id": "B",
+      "text": "It reduces net income"
+    },
+    {
+      "id": "C",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "D",
+      "text": "It only affects the balance sheet"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Recording bad debt expense reduces net income on the income statement because it is recognized as an expense. This reflects the estimated amount of receivables that are unlikely to be collected, thereby more accurately representing the company’s financial position. The entry reduces the Allowance for Doubtful Accounts, a contra-asset account, which offsets accounts receivable. While this reduces net income, it does not directly impact cash flow at the time of recognition, as the cash has already been recorded when the sale occurred."
+}

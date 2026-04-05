@@ -1,0 +1,41 @@
+{
+  "id": "p63",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Debt",
+  "subtopic": "Yield to Maturity",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "yield-to-maturity",
+    "cost-of-debt",
+    "bond-pricing",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Yield to Maturity: In the context of estimating the cost of debt, what...",
+  "summary": "Analyze an investment analysis concept related to Yield to Maturity.",
+  "prompt": "In the context of estimating the cost of debt, what does YTM stand for?",
+  "options": [
+    {
+      "id": "A",
+      "text": "YTM stands for Yield to Maturity"
+    },
+    {
+      "id": "B",
+      "text": "Duration measures rate sensitivity"
+    },
+    {
+      "id": "C",
+      "text": "Cost of equity increases"
+    },
+    {
+      "id": "D",
+      "text": "Optimal level minimizes WACC"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "YTM stands for Yield to Maturity, which is the total return anticipated on a bond if the bond is held until it matures. It is used to calculate the cost of debt, as it reflects the market's expectations about the future cash flows of the debt instrument. This is important in assessing the overall cost of capital for a firm, as detailed in the course materials on pages 21 and 22."
+}

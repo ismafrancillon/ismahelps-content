@@ -1,0 +1,41 @@
+{
+  "id": "p84",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "option-payoff",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Call: If the current stock price is 50 and the strike...",
+  "summary": "Analyze call option properties, pricing, or payoff structure.",
+  "prompt": "If the current stock price is $50 and the strike price of a call option is $45, the option is considered:",
+  "options": [
+    {
+      "id": "A",
+      "text": "A call option is in-the-money when the current stock price exceeds the strike"
+    },
+    {
+      "id": "B",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "C",
+      "text": "The strike price"
+    },
+    {
+      "id": "D",
+      "text": "Price of the underlying asset"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "A call option is in-the-money when the current stock price exceeds the strike price. [[24]]"
+}

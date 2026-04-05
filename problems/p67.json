@@ -1,0 +1,40 @@
+{
+  "id": "p67",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Merger Strategy",
+  "subtopic": "Hubris Hypothesis of Takeovers",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "governance",
+    "corporation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Hubris Hypothesis of Takeovers: In the context of mergers, what is the Hubris Hypothesis?...",
+  "summary": "Explain the Hubris Hypothesis where managerial overconfidence leads to overpayment in acquisitions.",
+  "prompt": "In the context of mergers, what is the Hubris Hypothesis?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Hubris Hypothesis suggests that managers may overestimate their own"
+    },
+    {
+      "id": "B",
+      "text": "A premium above market price"
+    },
+    {
+      "id": "C",
+      "text": "Discounted Cash Flow (DCF)"
+    },
+    {
+      "id": "D",
+      "text": "Cash consideration only"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The Hubris Hypothesis suggests that managers may overestimate their own valuation capabilities, leading to overpayment in acquisitions. This behavior often results in negative market reactions post-announcement."
+}

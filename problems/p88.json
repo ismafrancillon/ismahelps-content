@@ -1,0 +1,40 @@
+{
+  "id": "p88",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "formula-based",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: What is the formula to calculate the forward price of...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "What is the formula to calculate the forward price of an asset?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The forward price of an asset is calculated using the formula F = S0e^(rT),"
+    },
+    {
+      "id": "B",
+      "text": "Difference between spot and futures prices"
+    },
+    {
+      "id": "C",
+      "text": "Only the storage cost"
+    },
+    {
+      "id": "D",
+      "text": "Total cost of holding (storage + financing)"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The forward price of an asset is calculated using the formula F = S0e^(rT), where S0 is the current price, r is the risk-free interest rate, and T is the time to maturity."
+}

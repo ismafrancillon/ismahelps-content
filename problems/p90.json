@@ -1,0 +1,40 @@
+{
+  "id": "p90",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: A portfolio consists of 0.6 in stock A (expected return...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "A portfolio consists of 60% in stock A (expected return 14%, variance 0.01) and 40% in stock B (expected return 10%, variance 0.0081). What is the expected return of this portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "12.4%"
+    },
+    {
+      "id": "B",
+      "text": "7.4%"
+    },
+    {
+      "id": "C",
+      "text": "18.6%"
+    },
+    {
+      "id": "D",
+      "text": "14.4%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Expected Returns<br> For stock A: E(rA) = 14%<br> For stock B: E(rB) = 10%<br><br>Step 2: Calculate Portfolio Expected Return<br> E(rP) = (0.60 * 0.14) + (0.40 * 0.10)<br> E(rP) = 0.084 + 0.04 = 0.124 or 12.4%<br><br>Step 3: Confirm Calculation<br> The formula used is correct and matches the expected outcomes for a portfolio.<br> Therefore, the expected return of the portfolio is 12.4%."
+}

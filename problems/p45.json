@@ -1,0 +1,40 @@
+{
+  "id": "p45",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "equity-value",
+    "market-value",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Debt Ratios: A firm has a market value of 4000000 and total...",
+  "summary": "Calculate the market value of equity by subtracting total debt from total firm value.",
+  "prompt": "A firm has a market value of $4,000,000 and total debt of $2,000,000. What is the market value of equity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$2,000,000"
+    },
+    {
+      "id": "B",
+      "text": "None of the above"
+    },
+    {
+      "id": "C",
+      "text": "$1,600,000"
+    },
+    {
+      "id": "D",
+      "text": "Cannot be determined from the given information"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Market Value of Equity = Market Value of Firm - Total Debt = $4,000,000 - $2,000,000 = $2,000,000. This metric is key for investors assessing the value attributable to shareholders."
+}

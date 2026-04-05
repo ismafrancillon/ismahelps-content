@@ -1,0 +1,40 @@
+{
+  "id": "p98",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: The expected return of a portfolio composed of 0.7 stock...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "The expected return of a portfolio composed of 70% stock A (E(r) = 10%) and 30% stock B (E(r) = 15%) is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "13%"
+    },
+    {
+      "id": "B",
+      "text": "20%"
+    },
+    {
+      "id": "C",
+      "text": "18%"
+    },
+    {
+      "id": "D",
+      "text": "6%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The expected return is calculated as E(r) = 0.7(10%) + 0.3(15%) = 13%."
+}

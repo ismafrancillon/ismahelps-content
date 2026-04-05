@@ -1,0 +1,41 @@
+{
+  "id": "p52",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Adjusted Present Value Approach",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Adjusted Present Value Approach: Calculate the present value of a cash flow of 50000...",
+  "summary": "Calculate the present value of a future cash flow or growing perpetuity at a given discount rate.",
+  "prompt": "Calculate the present value of a cash flow of $50,000 expected in 4 years if the discount rate is 7%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$38,196"
+    },
+    {
+      "id": "B",
+      "text": "$22,918"
+    },
+    {
+      "id": "C",
+      "text": "$47,745"
+    },
+    {
+      "id": "D",
+      "text": "$19,098"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "PV = CF / (1 + r)^n = $50,000 / (1 + 0.07)^4 = $50,000 / 1.3107961 = $38,196. This calculation illustrates the time value of money, reflecting the present worth of future cash flows."
+}

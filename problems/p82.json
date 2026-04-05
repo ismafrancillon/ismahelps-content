@@ -1,0 +1,41 @@
+{
+  "id": "p82",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "time-value-option",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: If a stock option has a time value of 3...",
+  "summary": "Calculate the intrinsic value of a call option from stock price and strike price.",
+  "prompt": "If a stock option has a time value of $3 and an intrinsic value of $2, what is the option's total value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$2"
+    },
+    {
+      "id": "B",
+      "text": "$4"
+    },
+    {
+      "id": "C",
+      "text": "$3"
+    },
+    {
+      "id": "D",
+      "text": "$1"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The total value of the option is the sum of its intrinsic value and time value: $2 (intrinsic) + $3 (time) = $5. [[24]]"
+}

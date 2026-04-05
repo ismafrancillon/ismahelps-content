@@ -1,0 +1,40 @@
+{
+  "id": "p34",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Budgeting",
+  "subtopic": "Budgeting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "budgeting",
+    "forecasting",
+    "expense-growth",
+    "calculation"
+  ],
+  "title": "Budgeting: If a company has a budget for selling and administrative...",
+  "summary": "Calculate the updated budget after applying a projected percentage increase.",
+  "prompt": "If a company has a budget for selling and administrative expenses of $200,000 and expects a 5% increase, what will the new budget be?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$210,000"
+    },
+    {
+      "id": "B",
+      "text": "$147,000"
+    },
+    {
+      "id": "C",
+      "text": "$178,500"
+    },
+    {
+      "id": "D",
+      "text": "$420,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "New Budget = Current Budget * (1 + Increase Percentage) = $200,000 * (1 + 0.05) = $210,000. This is important for budget forecasting (Page 51)."
+}

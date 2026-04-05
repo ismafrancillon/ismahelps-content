@@ -1,0 +1,41 @@
+{
+  "id": "p8",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Required Rate of Return",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Required Rate of Return: An investor is forming a portfolio by investing 50000 in...",
+  "summary": "Calculate the required return on equity using the CAPM formula given beta, risk-free rate, and market return.",
+  "prompt": "An investor is forming a portfolio by investing $50,000 in stock A that has a beta of 1.50, and $25,000 in stock B that has a beta of 0.90. The return on the market is equal to 6 percent and Treasury bonds have a yield of 4 percent. What is the required rate of return on the investor’s portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6.6%"
+    },
+    {
+      "id": "B",
+      "text": "7.9%"
+    },
+    {
+      "id": "C",
+      "text": "4.9%"
+    },
+    {
+      "id": "D",
+      "text": "8.2%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "To determine the required rate of return on the investor’s portfolio, we need to use the Capital Asset Pricing Model (CAPM) and the weighted average beta of the portfolio. Here are the steps: ### Step 1: Calculate the Portfolio Beta (Bp) First, we need to find the weighted average beta of the portfolio. This is done by calculating the proportion of the total investment in each stock and then multiplying by each stock's beta. - Stock A: $50,000 investment with a beta of 1.50 - Stock B: $25,000 investment with a beta of 0.90 - Total investment: $50,000 + $25,000 = $75,000 The weight of Stock A (WA) and Stock B (WB) in the portfolio are: \\[ WA = \\frac{50,000}{75,000} = 0.67 \\] \\[ WB = \\frac{25,000}{75,000} = 0.33 \\] Now, calculate the portfolio beta (Bp): \\[ Bp = WA \\times \\beta_A + WB \\times \\beta_B \\] \\[ Bp = 0.67 \\times 1.50 + 0.33 \\times 0.90 \\] \\[ Bp = 1.005 + 0.297 \\] \\[ Bp = 1.302 \\] ### Step 2: Apply the CAPM Formula The CAPM formula is used to determine the required rate of return: \\[ K = R_f + Bp \\times (R_m - R_f) \\] Where: - \\( R_f \\) is the risk-free rate (Treasury bonds yield) = 4% - \\( R_m \\) is the return on the market = 6% - \\( Bp \\) is the portfolio beta = 1.302 Plugging in the values: \\[ K = 4\\% + 1.302 \\times (6\\% - 4\\%) \\] \\[ K = 4\\% + 1.302 \\times 2\\% \\] \\[ K = 4\\% + 2.604\\% \\] \\[ K = 6.604\\% \\] ### Final Answer The required rate of return on the investor’s portfolio is approximately **6.6%**. Thus, the correct answer is: A) 6.6% ### Explanation: - The portfolio beta was calculated using the weighted average of the individual stock betas. - The CAPM formula was applied to determine the required rate of return, considering the risk-free rate, market return, and portfolio beta. - The final answer was derived by summing the risk-free rate and the risk premium adjusted by the portfolio beta."
+}

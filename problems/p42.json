@@ -1,0 +1,40 @@
+{
+  "id": "p42",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "capital-budgeting",
+    "discounted-cash-flow",
+    "calculation"
+  ],
+  "title": "Cost of Capital: A company is considering a project that requires an initial...",
+  "summary": "Calculate or evaluate the cost of capital using appropriate financial models.",
+  "prompt": "A company is considering a project that requires an initial investment of $500,000 and is expected to generate cash flows of $150,000 annually for 5 years. What is the project's Net Present Value (NPV) if the discount rate is 8%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8%"
+    },
+    {
+      "id": "B",
+      "text": "11%"
+    },
+    {
+      "id": "C",
+      "text": "4%"
+    },
+    {
+      "id": "D",
+      "text": "6%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Initial Investment = $500,000 <br> - Annual Cash Flow = $150,000 <br> - Project Life = 5 years <br> - Discount Rate = 8%<br><br> **Step 2: Calculate NPV**<br> NPV = Σ (CF / (1 + r)^t) - Initial Investment<br> = ($150,000/(1+0.08)^1) + ($150,000/(1+0.08)^2) + ($150,000/(1+0.08)^3) + ($150,000/(1+0.08)^4) + ($150,000/(1+0.08)^5) - $500,000<br> = $138,888.89 + $128,600.82 + $119,174.97 + $110,557.83 + $102,737.24 - $500,000<br> = $600,000.66 - $500,000 = $100,000.66.<br> Therefore, the project's NPV is approximately $100,000, and the answer is A."
+}

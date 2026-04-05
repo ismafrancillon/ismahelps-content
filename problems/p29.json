@@ -1,0 +1,40 @@
+{
+  "id": "p29",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cash Flow Forecasting",
+  "subtopic": "Present Value",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "discounting",
+    "time-value-of-money",
+    "calculation"
+  ],
+  "title": "Present Value: In a scenario where a firm expects to sell a...",
+  "summary": "Calculate the present value of a future cash flow by discounting at the appropriate rate.",
+  "prompt": "In a scenario where a firm expects to sell a project in five years for a cash inflow of $100,000, what is the present value of this cash flow if the discount rate is 10%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$90,909.09"
+    },
+    {
+      "id": "B",
+      "text": "$68,181.82"
+    },
+    {
+      "id": "C",
+      "text": "$95,454.54"
+    },
+    {
+      "id": "D",
+      "text": "$118,181.82"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "To find the present value (PV), we use the formula: PV = Cash Flow / (1 + r)^t. Here, PV = $100,000 / (1 + 0.10)^5 = $90,909.09. This represents the value of future cash flows discounted back to today’s dollars."
+}

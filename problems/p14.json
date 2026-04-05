@@ -1,0 +1,40 @@
+{
+  "id": "p14",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Types of Financial Statements",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "net-income",
+    "financial-statements",
+    "profitability",
+    "calculation"
+  ],
+  "title": "Types of Financial Statements: A company has total sales of 400000 and total expenses...",
+  "summary": "Calculate net income by subtracting total expenses from total sales.",
+  "prompt": "A company has total sales of $400,000 and total expenses of $300,000. What is the net income?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$100,000"
+    },
+    {
+      "id": "B",
+      "text": "$125,000"
+    },
+    {
+      "id": "C",
+      "text": "$60,000"
+    },
+    {
+      "id": "D",
+      "text": "$70,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify key variables.**<br> Total Sales (TS) = $400,000<br> Total Expenses (TE) = $300,000<br><br>**Step 2: Use the Net Income formula.**<br> Net Income (NI) = TS - TE<br><br>**Step 3: Calculate Net Income.**<br> NI = $400,000 - $300,000 = $100,000. Thus, the net income is $100,000."
+}

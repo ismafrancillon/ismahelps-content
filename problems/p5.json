@@ -1,0 +1,44 @@
+{
+  "id": "p5",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Discounted Payback Period",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "payback-period",
+    "discounted-cash-flow",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Discounted Payback Period: The discounted payback period is longer than the simple payback...",
+  "summary": "Explain why the discounted payback period exceeds the simple payback period due to discounting future cash flows.",
+  "prompt": "The discounted payback period is longer than the simple payback period because: A) The future cash flows are worth less. B) The cut-off dates are different. C) The cash outflows are worth more. D) The PV of cash inflows are worth more. E) Discounted payback is shorter than simple payback.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The future cash flows are worth less"
+    },
+    {
+      "id": "B",
+      "text": "The cut-off dates are different"
+    },
+    {
+      "id": "C",
+      "text": "The cash outflows are worth more"
+    },
+    {
+      "id": "D",
+      "text": "The PV of cash inflows are worth more"
+    },
+    {
+      "id": "E",
+      "text": "Discounted payback is shorter than simple payback"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The discounted payback period is longer than the simple payback period because: A) The future cash flows are worth less. This statement is true. ### Explanation: 1. **Definition of Variables**: - **Discounted Payback Period**: This is the time it takes for the present value of cash inflows to cover the initial investment, considering the time value of money. - **Simple Payback Period**: This is the time it takes for the nominal cash inflows to cover the initial investment, without considering the time value of money. 2. **Concept**: - In the simple payback period, cash flows are not discounted, meaning the future cash flows are considered at their nominal value. - In the discounted payback period, future cash flows are discounted to their present value, which means future cash flows are worth less than their nominal value due to the time value of money. 3. **Formula and Calculation**: - **Simple Payback Period**: \\( \\text{Simple Payback Period} = \\frac{\\text{Initial Investment}}{\\text{Annual Cash Inflows}} \\) - **Discounted Payback Period**: The formula involves discounting each cash inflow to its present value and then summing these values until they equal the initial investment. Given that future cash flows are worth less when discounted, it takes longer for the present value of these cash flows to accumulate to the initial investment amount, hence the discounted payback period is longer. Therefore, the correct statement is: **A) The future cash flows are worth less.**"
+}

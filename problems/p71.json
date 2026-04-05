@@ -1,0 +1,41 @@
+{
+  "id": "p71",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "call-option",
+    "option-pricing",
+    "european-option",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: A European call option on a stock with a current...",
+  "summary": "Analyze call option properties, pricing, or payoff structure.",
+  "prompt": "A European call option on a stock with a current price of $100 has a volatility of 20% and a risk-free rate of 5%. What would be the price of the option if the strike price is $95 and it matures in 6 months?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$8.52"
+    },
+    {
+      "id": "B",
+      "text": "$7.24"
+    },
+    {
+      "id": "C",
+      "text": "$4.26"
+    },
+    {
+      "id": "D",
+      "text": "$5.11"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Current Stock Price (S) = $100<br>Strike Price (K) = $95<br>Time to Maturity (T) = 0.5 years<br>Risk-free Rate (r) = 5%<br>Volatility (σ) = 20%<br><br>**Step 2: Use Black-Scholes Formula**<br>Price of call option can be calculated as:<br>C = S*N(d1) - K*e^(-rT)*N(d2).<br><br>Where d1 and d2 are calculated using the formulas provided. After calculation, C = $8.52.<br><br>**Step 3: Conclusion**<br>The price of the option is $8.52."
+}

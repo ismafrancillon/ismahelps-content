@@ -1,0 +1,40 @@
+{
+  "id": "p30",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Multiples",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation-multiples",
+    "relative-valuation",
+    "comparables",
+    "conceptual"
+  ],
+  "title": "Multiples: In which analysis are multiples...",
+  "summary": "Identify the role of valuation multiples in comparative analysis.",
+  "prompt": "In which analysis are multiples typically used?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Multiples, such as the P/E ratio, are commonly used in valuation to compare a"
+    },
+    {
+      "id": "B",
+      "text": "Asset-based valuation"
+    },
+    {
+      "id": "C",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "D",
+      "text": "Measures ability to meet short-term obligations"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Multiples, such as the P/E ratio, are commonly used in valuation to compare a company's market value to its earnings, providing insight into its relative valuation compared to peers."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p26",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "npv",
+    "capital-budgeting",
+    "net-cash-flow",
+    "calculation"
+  ],
+  "title": "NPV: If a firm has total cash inflows of 500000 and...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "If a firm has total cash inflows of $500,000 and total cash outflows of $300,000 over a project’s lifetime, what is the NPV assuming a discount rate of 10%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$500,000"
+    },
+    {
+      "id": "B",
+      "text": "$450,000"
+    },
+    {
+      "id": "C",
+      "text": "$350,000"
+    },
+    {
+      "id": "D",
+      "text": "$400,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "NPV = Total Cash Inflows - Total Cash Outflows. Here, NPV = $500,000 - $300,000 = $200,000."
+}

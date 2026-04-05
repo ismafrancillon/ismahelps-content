@@ -1,0 +1,40 @@
+{
+  "id": "p75",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Basic Principles of Hedging: An investor wants to hedge against a potential increase in...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "An investor wants to hedge against a potential increase in the price of a commodity. Which futures position should they take?",
+  "options": [
+    {
+      "id": "A",
+      "text": "To hedge against a potential increase in commodity prices, the investor should"
+    },
+    {
+      "id": "B",
+      "text": "A forward contract to lock in the exchange rate"
+    },
+    {
+      "id": "C",
+      "text": "An options contract for downside protection"
+    },
+    {
+      "id": "D",
+      "text": "Only the storage cost"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "To hedge against a potential increase in commodity prices, the investor should take a long futures position to benefit from price increases."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p91",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "beta",
+    "capm",
+    "calculation"
+  ],
+  "title": "Portfolio Management Techniques: A portfolio manager holds two assets, A and B. Asset...",
+  "summary": "Apply the CAPM to calculate expected return from beta, risk-free rate, and market return.",
+  "prompt": "A portfolio manager holds two assets, A and B. Asset A has an expected return of 10% and a beta of 1, while Asset B has an expected return of 14% and a beta of 1.5. If the manager wants to create a portfolio with an expected return of 12%, what weights should be allocated to each asset?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Use the formula for expected return to find the correct allocation of weights"
+    },
+    {
+      "id": "B",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "C",
+      "text": "Slope of the security market line"
+    },
+    {
+      "id": "D",
+      "text": "Calculated using weights and standard deviations"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Use the formula for expected return to find the correct allocation of weights."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p41",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "debt-ratio",
+    "leverage",
+    "financial-analysis",
+    "calculation"
+  ],
+  "title": "Debt Ratios: A company has a total equity of 1500000 and total...",
+  "summary": "Calculate the debt ratio by dividing total liabilities by total assets.",
+  "prompt": "A company has a total equity of $1,500,000 and total assets of $2,000,000. What is the debt ratio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.25"
+    },
+    {
+      "id": "B",
+      "text": "0.50"
+    },
+    {
+      "id": "C",
+      "text": "0.17"
+    },
+    {
+      "id": "D",
+      "text": "0.30"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Debt Ratio = Total Liabilities / Total Assets. Total Liabilities = Total Assets - Total Equity = $2,000,000 - $1,500,000 = $500,000. Debt Ratio = $500,000 / $2,000,000 = 0.25. This ratio indicates the proportion of a company's assets that are financed through debt."
+}

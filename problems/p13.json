@@ -1,0 +1,40 @@
+{
+  "id": "p13",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Cost of Sales and Inventory Management",
+  "subtopic": "Impact of Inventory on Financial Statements",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "inventory-errors",
+    "cogs",
+    "financial-statements",
+    "conceptual"
+  ],
+  "title": "Impact of Inventory on Financial Statements: If the ending inventory is understated, what effect does this...",
+  "summary": "Analyze a financial accounting concept related to Impact of Inventory on Financial Statements.",
+  "prompt": "If the ending inventory is understated, what effect does this have on the cost of goods sold?",
+  "options": [
+    {
+      "id": "A",
+      "text": "cost of goods sold (COGS) is overstated"
+    },
+    {
+      "id": "B",
+      "text": "Total assets are understated"
+    },
+    {
+      "id": "C",
+      "text": "It increases total assets"
+    },
+    {
+      "id": "D",
+      "text": "Gross profit is overstated"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Understating ending inventory leads to an overstatement of cost of goods sold (COGS) because COGS is calculated as Beginning Inventory + Purchases - Ending Inventory. Thus, when ending inventory is lower, the resulting COGS will be higher, which negatively impacts the net income reported in the financial statements. This concept is crucial for accurate financial reporting and analysis."
+}

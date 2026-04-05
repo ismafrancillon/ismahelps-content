@@ -1,0 +1,41 @@
+{
+  "id": "p78",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "present-value",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: Calculate the present value of a bond with a face...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Calculate the present value of a bond with a face value of $1,000 maturing in 5 years at a discount rate of 6%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$747.70"
+    },
+    {
+      "id": "B",
+      "text": "$523.39"
+    },
+    {
+      "id": "C",
+      "text": "$1,495.40"
+    },
+    {
+      "id": "D",
+      "text": "$785.09"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "PV = FV / (1 + r)^n = 1000 / (1 + 0.06)^5 = $747.70. [[29]]"
+}

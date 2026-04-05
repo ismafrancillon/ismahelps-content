@@ -1,0 +1,44 @@
+{
+  "id": "p9",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "NPV: Given the following: Project A: CF0 = -$12,720; CF1 =...",
+  "summary": "Compare mutually exclusive projects by calculating and contrasting their NPVs at the given discount rate.",
+  "prompt": "Given the following: Project A: CF0 = -$12,720; CF1 = $5,650; CF2 = $8,150; CF3 = $14,750 Project B: CF0 = -$15,070; CF1 = $3,930; CF2 = $5,270; CF3 = $14,320; CF4=$12,331. Project A and Project B are mutually exclusive. The appropriate discount rate k=12%. Which project should the firm invest? A) Select Project A because Project A's EANPV is greater than Project B's EANPV. B) Select Project A because Project A's investment term is shorter than Project B's investment term. C) Select Project A because Project A's NPV is greater than Project B's NPV. D) Select Project B because Project B's NPV is greater than Project A's NPV. E) Select Project B because Project B's EANPV is greater than Project A's EANPV.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Select Project A because Project A's EANPV is greater than Project B's EANPV"
+    },
+    {
+      "id": "B",
+      "text": "None of the above"
+    },
+    {
+      "id": "C",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    },
+    {
+      "id": "E",
+      "text": "Insufficient information to determine"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "To determine which project the firm should invest in, we need to calculate the Net Present Value (NPV) for both Project A and Project B using the provided discount rate of 12%. The project with the higher NPV should be selected. ### Step-by-Step Solution: **Step 1: Define Key Variables** - For Project A: - CF0 = -$12,720 - CF1 = $5,650 - CF2 = $8,150 - CF3 = $14,750 - For Project B: - CF0 = -$15,070 - CF1 = $3,930 - CF2 = $5,270 - CF3 = $14,320 - CF4 = $12,331 - Discount rate (k) = 12% **Step 2: Calculate NPV for Project A** \\[ \\text{NPV}_A = \\frac{CF1}{(1+k)^1} + \\frac{CF2}{(1+k)^2} + \\frac{CF3}{(1+k)^3} - CF0 \\] \\[ \\text{NPV}_A = \\frac{5650}{(1+0.12)^1} + \\frac{8150}{(1+0.12)^2} + \\frac{14750}{(1+0.12)^3} - 12720 \\] \\[ \\text{NPV}_A = \\frac{5650}{1.12} + \\frac{8150}{1.2544} + \\frac{14750}{1.404928} - 12720 \\] \\[ \\text{NPV}_A = 5044.64 + 6496.48 + 10502.15 - 12720 \\] \\[ \\text{NPV}_A = 22043.27 - 12720 \\] \\[ \\text{NPV}_A = 9323.27 \\] **Step 3: Calculate NPV for Project B** \\[ \\text{NPV}_B = \\frac{CF1}{(1+k)^1} + \\frac{CF2}{(1+k)^2} + \\frac{CF3}{(1+k)^3} + \\frac{CF4}{(1+k)^4} - CF0 \\] \\[ \\text{NPV}_B = \\frac{3930}{(1+0.12)^1} + \\frac{5270}{(1+0.12)^2} + \\frac{14320}{(1+0.12)^3} + \\frac{12331}{(1+0.12)^4} - 15070 \\] \\[ \\text{NPV}_B = \\frac{3930}{1.12} + \\frac{5270}{1.2544} + \\frac{14320}{1.404928} + \\frac{12331}{1.57352} - 15070 \\] \\[ \\text{NPV}_B = 3508.93 + 4201.91 + 10195.05 + 7838.67 - 15070 \\] \\[ \\text{NPV}_B = 25744.56 - 15070 \\] \\[ \\text{NPV}_B = 10674.56 \\] **Step 4: Compare NPVs** - NPV of Project A = $9323.27 - NPV of Project B = $10674.56 Since Project B has a higher NPV than Project A, the firm should invest in Project B. ### Final Answer D) Select Project B because Project B's NPV is greater than Project A's NPV."
+}

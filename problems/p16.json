@@ -1,0 +1,40 @@
+{
+  "id": "p16",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Depreciation Methods",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "depreciation",
+    "straight-line",
+    "formula",
+    "conceptual"
+  ],
+  "title": "Depreciation Methods: What is the formula for calculating depreciation expense using the...",
+  "summary": "Identify the straight-line depreciation formula: (cost minus residual value) divided by useful life.",
+  "prompt": "What is the formula for calculating depreciation expense using the straight-line method?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Depreciation Expense = (Cost - Residual Value) / Useful Life"
+    },
+    {
+      "id": "B",
+      "text": "It only affects the balance sheet"
+    },
+    {
+      "id": "C",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "D",
+      "text": "It increases total assets"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The straight-line method of depreciation allocates an equal portion of an asset's acquisition cost over its useful life. The formula is: Depreciation Expense = (Cost - Residual Value) / Useful Life. This method is straightforward and commonly used because it provides a consistent expense amount each accounting period, aiding in budgeting and financial forecasting. Understanding this method is essential for accurate financial reporting and asset management."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p37",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Net Income Calculation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "net-income",
+    "profitability",
+    "financial-performance",
+    "calculation"
+  ],
+  "title": "Net Income Calculation: Pro Sports Inc. has fixed costs of 900000 and variable...",
+  "summary": "Calculate net income by subtracting fixed and variable costs from total revenue.",
+  "prompt": "Pro Sports Inc. has fixed costs of $900,000 and variable costs of $1,800,000. If they generate revenue of $3,600,000, what is their net income?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$900,000"
+    },
+    {
+      "id": "B",
+      "text": "$1,080,000"
+    },
+    {
+      "id": "C",
+      "text": "$1,170,000"
+    },
+    {
+      "id": "D",
+      "text": "$945,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Net Income = Revenue - (Fixed Costs + Variable Costs) = $3,600,000 - ($900,000 + $1,800,000) = $900,000. This helps in understanding profitability (Page 47)."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p62",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "WACC",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "wacc",
+    "market-value",
+    "cost-of-capital",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "WACC: In calculating WACC, what does the term \"MV\" refer to?...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "In calculating WACC, what does the term \"MV\" refer to?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The term \"MV\" in WACC calculation stands for Market Value"
+    },
+    {
+      "id": "B",
+      "text": "Cost of equity increases"
+    },
+    {
+      "id": "C",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "D",
+      "text": "Financial distress probability increases"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The term \"MV\" in WACC calculation stands for Market Value. It represents the current market capitalization of a company’s equity and the market value of its debt. This is essential in calculating the weighted average cost of capital, as it reflects the actual cost of financing the firm’s operations. Using market values rather than book values provides a more accurate reflection of the costs faced by investors and is crucial in effective financial analysis, as noted in the materials on page 4."
+}

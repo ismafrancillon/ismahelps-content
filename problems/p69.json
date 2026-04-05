@@ -1,0 +1,41 @@
+{
+  "id": "p69",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "cash-flows",
+    "options",
+    "application",
+    "short-answer"
+  ],
+  "title": "Basic Principles of Hedging: A company anticipates receiving 1 million in foreign currency in...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A company anticipates receiving $1 million in foreign currency in 4 months. Which type of derivative contract would be most suitable for hedging against exchange rate risk?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A forward contract would allow the company to lock in the exchange rate today"
+    },
+    {
+      "id": "B",
+      "text": "Difference between spot and futures prices"
+    },
+    {
+      "id": "C",
+      "text": "Natural hedging through operations"
+    },
+    {
+      "id": "D",
+      "text": "Time to expiration"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "A forward contract would allow the company to lock in the exchange rate today for the future receipt of foreign currency, effectively hedging against exchange rate fluctuations."
+}

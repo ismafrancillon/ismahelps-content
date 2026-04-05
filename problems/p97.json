@@ -1,0 +1,41 @@
+{
+  "id": "p97",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "capm",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: If the expected return of a stock is 0.12 and...",
+  "summary": "Calculate Jensen's alpha by comparing actual return to the CAPM-expected return.",
+  "prompt": "If the expected return of a stock is 12% and the actual return is 15%, what is the Jensen's alpha?",
+  "options": [
+    {
+      "id": "A",
+      "text": "3%"
+    },
+    {
+      "id": "B",
+      "text": "5%"
+    },
+    {
+      "id": "C",
+      "text": "2%"
+    },
+    {
+      "id": "D",
+      "text": "1%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Variables<br> Expected return (E(r)) = 12%, Actual return (r) = 15%<br><br> Step 2: Calculate Jensen's Alpha<br> Alpha = Actual return - Expected return<br><br> Step 3: Calculate Alpha<br> Alpha = 15% - 12% = 3%. Therefore, Jensen's alpha is 3%."
+}

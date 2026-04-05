@@ -1,0 +1,41 @@
+{
+  "id": "p59",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "Earnings Manipulation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "net-income",
+    "income-statement",
+    "earnings",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Earnings Manipulation: If a firm has an EBIT of $1,000,000, interest expenses...",
+  "summary": "Calculate net income from EBIT by subtracting interest expense and applying the tax rate.",
+  "prompt": "If a firm has an EBIT of $1,000,000, interest expenses of $250,000, and a tax rate of 25%, what is the net income before extraordinary items?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$562,500"
+    },
+    {
+      "id": "B",
+      "text": "$731,250"
+    },
+    {
+      "id": "C",
+      "text": "$675,000"
+    },
+    {
+      "id": "D",
+      "text": "$843,750"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Net Income = (EBIT - Interest Expense) × (1 - Tax Rate) = ($1,000,000 - $250,000) × (1 - 0.25) = $750,000 × 0.75 = $562,500. This net income figure is crucial for evaluating the firm’s profitability after accounting for expenses and taxes."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p47",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "terminal-value",
+    "gordon-growth",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Cost of Capital: A firm is expected to grow at a rate of...",
+  "summary": "Calculate the weighted average cost of capital using equity and debt costs with capital structure weights.",
+  "prompt": "A firm is expected to grow at a rate of 6% indefinitely. If its current free cash flow is $150,000, what will be the terminal value in 5 years if the WACC is 9%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$1,860,000"
+    },
+    {
+      "id": "B",
+      "text": "$2,232,000"
+    },
+    {
+      "id": "C",
+      "text": "$2,325,000"
+    },
+    {
+      "id": "D",
+      "text": "$930,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Terminal Value = FCFF × (1 + g) / (WACC - g) = $150,000 × (1 + 0.06) / (0.09 - 0.06) = $150,000 × 1.06 / 0.03 = $1,060,000 / 0.03 = $1,860,000. This calculation is essential for assessing the long-term value of a firm based on its projected cash flows."
+}

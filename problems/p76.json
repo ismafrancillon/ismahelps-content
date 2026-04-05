@@ -1,0 +1,40 @@
+{
+  "id": "p76",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "future-value",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: Calculate the future value when investing 5000 at a 0.05...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Calculate the future value when investing $5,000 at a 5% interest rate compounded annually for 5 years.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$6,382.26"
+    },
+    {
+      "id": "B",
+      "text": "$7,658.71"
+    },
+    {
+      "id": "C",
+      "text": "$4,786.69"
+    },
+    {
+      "id": "D",
+      "text": "$7,977.83"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The future value (FV) can be calculated using the formula FV = PV(1 + r)^n, where PV is the present value, r is the interest rate, and n is the number of periods. So, FV = 5000(1 + 0.05)^5 = $6,382.26."
+}

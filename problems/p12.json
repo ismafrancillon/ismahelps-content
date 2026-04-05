@@ -1,0 +1,45 @@
+{
+  "id": "p12",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "put-option",
+    "option-payoff",
+    "breakeven",
+    "calculation"
+  ],
+  "title": "Payoff: You write one JNJ put with strike price $70, for...",
+  "summary": "Calculate the breakeven price for a written option position using strike price and premium.",
+  "prompt": "You write one JNJ put with strike price $70, for a premium of $5. Ignoring transactions costs, what is the breakeven price of this position? A) $65 B) $75 C) $5 D) $70 E) None of these is correct",
+  "options": [
+    {
+      "id": "A",
+      "text": "$65"
+    },
+    {
+      "id": "B",
+      "text": "$75"
+    },
+    {
+      "id": "C",
+      "text": "$5"
+    },
+    {
+      "id": "D",
+      "text": "$70"
+    },
+    {
+      "id": "E",
+      "text": "None of these is correct"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The breakeven price for writing a put option can be determined using the following formula: \\[ \\text{Breakeven Price} = \\text{Strike Price} - \\text{Premium Received} \\] Given: - Strike Price (\\(S\\)) = $70 - Premium (\\(P\\)) = $5 Step-by-Step Solution: 1. **Determine the Strike Price and Premium**: We have a strike price of $70 and a premium received of $5. 2. **Apply the Breakeven Formula**: Using the formula for breakeven price: \\[ \\text{Breakeven Price} = 70 - 5 \\] 3. **Calculate the Breakeven Price**: \\[ \\text{Breakeven Price} = 65 \\] Final Answer: The breakeven price for this position is \\( \\boxed{65} \\). Explanation: - The breakeven price is the price at which the investor neither makes nor loses money. - By subtracting the premium received from the strike price, we determine the price at which the investor breaks even. - In this case, the breakeven price is $65, meaning if the stock price falls to $65, the investor will neither gain nor lose money from writing the put option."
+}

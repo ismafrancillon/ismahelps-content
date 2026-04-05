@@ -1,0 +1,40 @@
+{
+  "id": "p20",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Principles of Contract Law",
+  "subtopic": "Nullity vs Cancellation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "contract-law",
+    "nullity",
+    "legal-validity",
+    "conceptual"
+  ],
+  "title": "Nullity vs Cancellation: If a contract is null,...",
+  "summary": "Explain the legal consequences when a contract is declared null, including retroactive dissolution.",
+  "prompt": "If a contract is null, what does it mean?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A contract that is null is considered to have never existed and is"
+    },
+    {
+      "id": "B",
+      "text": "Specific performance"
+    },
+    {
+      "id": "C",
+      "text": "Increasing debt (if return > cost)"
+    },
+    {
+      "id": "D",
+      "text": "Injunctive relief"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "A contract that is null is considered to have never existed and is retroactively dissolved as of the date that the contract was originally formed. This means that the parties involved must return any benefits received under the contract."
+}

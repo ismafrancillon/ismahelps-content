@@ -1,0 +1,41 @@
+{
+  "id": "p64",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Adjusting Earnings",
+  "subtopic": "Misclassifications of Earnings",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "income-statement",
+    "depreciation",
+    "accounting-principles",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Misclassifications of Earnings: What is a common misclassification in accounting that can affect...",
+  "summary": "Analyze an investment analysis concept related to Misclassifications of Earnings.",
+  "prompt": "What is a common misclassification in accounting that can affect earnings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A common misclassification in accounting is the treatment of capital expenses,"
+    },
+    {
+      "id": "B",
+      "text": "It reduces net income"
+    },
+    {
+      "id": "C",
+      "text": "It increases total assets"
+    },
+    {
+      "id": "D",
+      "text": "It has no effect on net income"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "A common misclassification in accounting is the treatment of capital expenses, such as R&D, as operating expenses. This can skew the estimation of both operating and net income, leading to inaccurate portrayals of a firm's profitability and financial health. This issue is highlighted in the provided materials, particularly on pages 4 and 5."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p54",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "terminal-value",
+    "cash-flows",
+    "growth-rate",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "Cost of Capital: Calculate the terminal value of a firm expected to generate...",
+  "summary": "Calculate or evaluate the cost of capital using appropriate financial models.",
+  "prompt": "Calculate the terminal value of a firm expected to generate a cash flow of $250,000, growing at 4% indefinitely, with a discount rate of 10%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$4,166,667"
+    },
+    {
+      "id": "B",
+      "text": "$6,250,000"
+    },
+    {
+      "id": "C",
+      "text": "$2,500,000"
+    },
+    {
+      "id": "D",
+      "text": "$3,333,334"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Cash Flow (CF) = $250,000 <br> - Growth Rate (g) = 4% <br> - Discount Rate (r) = 10% <br><br> **Step 2: Apply the Terminal Value Formula**<br> Terminal Value = CF * (1 + g) / (r - g)<br> = $250,000 * (1 + 0.04) / (0.10 - 0.04)<br> = $250,000 * 1.04 / 0.06<br> = $260,000 / 0.06 = $4,333,333.33<br><br> Therefore, the terminal value is $4,166,667, and the answer is A."
+}

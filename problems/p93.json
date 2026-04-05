@@ -1,0 +1,41 @@
+{
+  "id": "p93",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Fixed-Income Securities",
+  "subtopic": "Bond Prices and Yields",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "duration",
+    "yield-to-maturity",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Bond Prices and Yields: Calculate the duration of a bond that pays a coupon...",
+  "summary": "Calculate bond duration by weighting present values of cash flows by their timing.",
+  "prompt": "Calculate the duration of a bond that pays a coupon of $50 annually for 5 years and has a face value of $1,000 maturing in 5 years with a YTM of 6%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$50"
+    },
+    {
+      "id": "B",
+      "text": "$55"
+    },
+    {
+      "id": "C",
+      "text": "$52"
+    },
+    {
+      "id": "D",
+      "text": "$75"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Cash Flows<br> Cash flows: $50 for years 1-5, $1,000 at year 5<br><br> Step 2: Present Value of Cash Flows<br> Calculate the present value of each cash flow:<br> PV = C/(1+r)^t<br> For coupons: PV = $50 / (1.06)^1 + $50/(1.06)^2 + ... + $50/(1.06)^5 + $1,000/(1.06)^5<br><br> Step 3: Calculate Duration<br> Duration = (Σ (t * PV(CF))) / Total PV<br> After calculations, you should find the duration equals approximately 4.31 years."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p99",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Equities",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "dividend-discount-model",
+    "growth-rate",
+    "stock-valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Dividend Discount Model: What is the expected growth rate of dividends if a...",
+  "summary": "Derive the expected growth rate using the Gordon Growth Model from price, dividend, and required return.",
+  "prompt": "What is the expected growth rate of dividends if a stock's current price is $50, dividends are $2 per share, and the required rate of return is 10%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "6%"
+    },
+    {
+      "id": "B",
+      "text": "12%"
+    },
+    {
+      "id": "C",
+      "text": "9%"
+    },
+    {
+      "id": "D",
+      "text": "11%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Variables<br> Current price (P) = $50, Dividends (D) = $2, Required return (k) = 10%<br><br> Step 2: Use Gordon Growth Model<br> P = D / (k - g)<br> Rearranging gives g = k - (D / P)<br><br> Step 3: Calculate Expected Growth Rate<br> g = 0.10 - (2 / 50) = 0.10 - 0.04 = 0.06 or 6%<br> Therefore the expected growth rate of dividends is 5%."
+}

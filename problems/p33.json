@@ -1,0 +1,40 @@
+{
+  "id": "p33",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Contribution Margin Analysis",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "contribution-margin",
+    "cvp",
+    "profitability",
+    "calculation"
+  ],
+  "title": "Contribution Margin Analysis: Calculate the contribution margin if total sales are 100000 and...",
+  "summary": "Calculate or analyze the contribution margin for cost-volume-profit decision-making.",
+  "prompt": "Calculate the contribution margin if total sales are $100,000 and total variable costs are $40,000.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$60,000"
+    },
+    {
+      "id": "B",
+      "text": "$48,000"
+    },
+    {
+      "id": "C",
+      "text": "$36,000"
+    },
+    {
+      "id": "D",
+      "text": "$120,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Contribution margin = Sales - Variable Costs = $100,000 - $40,000 = $60,000. This value is essential in assessing how much revenue is available to cover fixed costs and generate profit (Page 47)."
+}

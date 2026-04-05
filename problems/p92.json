@@ -1,0 +1,41 @@
+{
+  "id": "p92",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "efficient-frontier",
+    "calculation"
+  ],
+  "title": "Portfolio Management Techniques: A portfolio manager is evaluating two stocks. Stock A has...",
+  "summary": "Calculate portfolio expected return as the weighted average of component asset returns.",
+  "prompt": "A portfolio manager is evaluating two stocks. Stock A has an expected return of 12% and a standard deviation of 20%, while Stock B has an expected return of 8% and a standard deviation of 10%. If the correlation coefficient between A and B is 0.1, what is the expected return on the minimum-variance portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The expected return on the minimum-variance portfolio is calculated using the"
+    },
+    {
+      "id": "B",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "C",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "D",
+      "text": "Calculated using weights and standard deviations"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The expected return on the minimum-variance portfolio is calculated using the weights of each stock based on their standard deviations and correlation."
+}

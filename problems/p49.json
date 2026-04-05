@@ -1,0 +1,40 @@
+{
+  "id": "p49",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "terminal-value",
+    "fcff",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Cost of Capital: A firm's FCFF for the next year is projected to...",
+  "summary": "Calculate the weighted average cost of capital using equity and debt costs with capital structure weights.",
+  "prompt": "A firm's FCFF for the next year is projected to be $250,000, and it is expected to grow at a constant rate of 5%. If the firm’s WACC is 10%, what is the terminal value of the firm?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$5,250,000"
+    },
+    {
+      "id": "B",
+      "text": "$4,200,000"
+    },
+    {
+      "id": "C",
+      "text": "$5,512,500"
+    },
+    {
+      "id": "D",
+      "text": "$4,987,500"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Terminal Value = FCFF × (1 + g) / (WACC - g) = $250,000 × (1 + 0.05) / (0.10 - 0.05) = $250,000 × 1.05 / 0.05 = $5,250,000. The terminal value represents the present value of future cash flows beyond the projection period, making it a crucial component of firm valuation."
+}

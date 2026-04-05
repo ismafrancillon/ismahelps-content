@@ -1,0 +1,40 @@
+{
+  "id": "p17",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Non-Current Liabilities",
+  "subtopic": "Interest Expense Calculations",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-interest",
+    "interest-expense",
+    "non-current-liabilities",
+    "calculation"
+  ],
+  "title": "Interest Expense Calculations: Calculate the cumulative interest expense incurred on a 1000000 bond...",
+  "summary": "Calculate cumulative interest expense on a bond over multiple semi-annual periods.",
+  "prompt": "Calculate the cumulative interest expense incurred on a $1,000,000 bond with an annual coupon rate of 5%, paid semi-annually, over 4 years.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$200,000"
+    },
+    {
+      "id": "B",
+      "text": "$160,000"
+    },
+    {
+      "id": "C",
+      "text": "$150,000"
+    },
+    {
+      "id": "D",
+      "text": "$230,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The formula to calculate total interest expense is: Total Interest = Face Value × Coupon Rate × Time. In this case, since the interest is paid semi-annually, the calculation is as follows: $1,000,000 × 5% × 4 = $200,000. Since there are two interest payments per year, this results in a total of $200,000 over 4 years, equating to $100,000 per year. Understanding the cumulative interest expense is vital for cash flow management and assessing the overall cost of debt financing. Accurately reporting this expense is essential for maintaining transparency in financial statements."
+}

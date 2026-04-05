@@ -1,0 +1,40 @@
+{
+  "id": "p50",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Adjusted Present Value Approach",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "discounting",
+    "calculation"
+  ],
+  "title": "Adjusted Present Value Approach: Calculate the present value of 20000 expected in 3 years,...",
+  "summary": "Apply or evaluate the Adjusted Present Value approach for firm valuation.",
+  "prompt": "Calculate the present value of $20,000 expected in 3 years, if the discount rate is 5%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$17,014"
+    },
+    {
+      "id": "B",
+      "text": "$19,566"
+    },
+    {
+      "id": "C",
+      "text": "$13,611"
+    },
+    {
+      "id": "D",
+      "text": "$10,208"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "PV = CF / (1 + r)^n = $20,000 / (1 + 0.05)^3 = $20,000 / 1.157625 = $17,014. This calculation demonstrates the time value of money, reflecting the present worth of future cash flows."
+}

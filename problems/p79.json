@@ -1,0 +1,41 @@
+{
+  "id": "p79",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: Calculate the present value of a future cash flow of...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Calculate the present value of a future cash flow of $1000 to be received in 2 years at a discount rate of 10%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$826.45"
+    },
+    {
+      "id": "B",
+      "text": "$413.23"
+    },
+    {
+      "id": "C",
+      "text": "$702.48"
+    },
+    {
+      "id": "D",
+      "text": "$950.42"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The present value is calculated using PV = FV / (1 + r)^n. Here, PV = 1000 / (1 + 0.10)^2 = $826.45. [[24]]"
+}

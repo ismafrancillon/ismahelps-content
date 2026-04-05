@@ -1,0 +1,45 @@
+{
+  "id": "p11",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "irr",
+    "decision-rule",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "NPV: When the cost of capital is less than IRR for...",
+  "summary": "Evaluate the relationship between NPV and IRR decision rules for independent projects with conventional cash flows.",
+  "prompt": "When the cost of capital is less than IRR for two independent projects, then: (Assume both projects have conventional cash-flows, i.e. one cash outflow at time zero followed by a series of cash inflows) A) The NPV and IRR methods will always result in the same accept and reject decisions. B) The project with the highest equivalent NPV should be chosen. C) The project with the highest IRR should be chosen. D) The project with the highest PI should be chosen. E) All of the above.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The NPV and IRR methods will always result in the same accept and reject"
+    },
+    {
+      "id": "B",
+      "text": "The project with the highest equivalent NPV should be chosen"
+    },
+    {
+      "id": "C",
+      "text": "The project with the highest IRR should be chosen"
+    },
+    {
+      "id": "D",
+      "text": "The project with the highest PI should be chosen"
+    },
+    {
+      "id": "E",
+      "text": "All of the above"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "When the cost of capital is less than the IRR for two independent projects, then: (Assume both projects have conventional cash-flows, i.e., one cash outflow at time zero followed by a series of cash inflows) A) The NPV and IRR methods will always result in the same accept and reject decisions. B) The project with the highest equivalent NPV should be chosen. C) The project with the highest IRR should be chosen. D) The project with the highest PI should be chosen. E) All of the above. **Final Answer:** A) The NPV and IRR methods will always result in the same accept and reject decisions. **Explanation:** 1. **Define Key Concepts:** - **NPV (Net Present Value):** Measures the difference between the present value of cash inflows and outflows over a period of time. - **IRR (Internal Rate of Return):** The discount rate that makes the NPV of all cash flows from a particular project equal to zero. - **Cost of Capital:** The required return necessary to make a capital budgeting project, such as building a new factory, worthwhile. 2. **Understanding the Relationship:** - When the cost of capital is less than the IRR, it implies that the project is expected to generate returns greater than the cost of financing the project. - For independent projects with conventional cash flows, if the IRR is greater than the cost of capital, the NPV will be positive, leading to the same accept/reject decision for both methods. 3. **Conclusion:** - Given that both NPV and IRR methods are used to evaluate the profitability of projects, and under the condition that the cost of capital is less than the IRR, both methods will agree on whether to accept or reject the project. Therefore, the correct answer is A."
+}

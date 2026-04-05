@@ -1,0 +1,39 @@
+{
+  "id": "p4",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "economics",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: Technical analysis, which is defined as the analysis of historical...",
+  "summary": "Identify which form of market efficiency is tested by technical analysis based on historical price data.",
+  "prompt": "Technical analysis, which is defined as the analysis of historical trends of prices, is an important field in finance. Which form of efficiency is this field based on? A. Weak form inefficiency B. Semi-strong form inefficiency C. Strong form inefficiency D. It has nothing to do with efficiency.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Weak form inefficiency"
+    },
+    {
+      "id": "B",
+      "text": "Semi-strong form inefficiency"
+    },
+    {
+      "id": "C",
+      "text": "None of the above"
+    },
+    {
+      "id": "D",
+      "text": "It has nothing to do with efficiency"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The correct answer is A. Weak form inefficiency. Explanation: Technical analysis is based on the premise that historical price and volume data can be used to predict future price movements. This approach assumes that all past trading information is already reflected in stock prices, which aligns with the concept of weak form market efficiency. Weak form efficiency suggests that all past market prices and data are fully incorporated into current stock prices, meaning that it is impossible to achieve consistent excess returns by using historical price information alone. Therefore, technical analysis, which relies heavily on historical data, is most closely associated with weak form inefficiency."
+}

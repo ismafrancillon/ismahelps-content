@@ -1,0 +1,40 @@
+{
+  "id": "p100",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "formula-based",
+    "short-answer"
+  ],
+  "title": "Portfolio Management Techniques: What is the formula for calculating the expected return of...",
+  "summary": "Identify the portfolio expected return formula as the weighted average of asset returns.",
+  "prompt": "What is the formula for calculating the expected return of a portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The expected return of a portfolio is calculated as the weighted average of the"
+    },
+    {
+      "id": "B",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "C",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "D",
+      "text": "Portfolio with highest Sharpe ratio"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The expected return of a portfolio is calculated as the weighted average of the expected returns of the assets in the portfolio."
+}

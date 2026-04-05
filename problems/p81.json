@@ -1,0 +1,40 @@
+{
+  "id": "p81",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Types of Orders and Trading Strategies",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Types of Orders and Trading Strategies: If a company sells a futures contract for crude oil...",
+  "summary": "Calculate the profit or loss from a futures position based on entry and exit prices.",
+  "prompt": "If a company sells a futures contract for crude oil at $70 per barrel and the price drops to $65, what is the profit or loss?",
+  "options": [
+    {
+      "id": "A",
+      "text": "If the company sold the futures at $70 and the price dropped to $65, they"
+    },
+    {
+      "id": "B",
+      "text": "An options contract for downside protection"
+    },
+    {
+      "id": "C",
+      "text": "Compensatory damages"
+    },
+    {
+      "id": "D",
+      "text": "Voidable at one party's option"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "If the company sold the futures at $70 and the price dropped to $65, they profit $5 per barrel since they locked in the higher price."
+}

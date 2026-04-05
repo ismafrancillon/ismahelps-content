@@ -1,0 +1,41 @@
+{
+  "id": "p72",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Put",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "put-option",
+    "intrinsic-value-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Put: A European put option allows the holder to sell the...",
+  "summary": "Calculate the intrinsic value of a put option from strike price and stock price.",
+  "prompt": "A European put option allows the holder to sell the underlying asset at the strike price only at expiration. If the current stock price is $40 and the strike price is $35, what is the intrinsic value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The intrinsic value of a put option is max(0, Strike Price - Stock Price) ="
+    },
+    {
+      "id": "B",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "C",
+      "text": "Discounted Cash Flow (DCF)"
+    },
+    {
+      "id": "D",
+      "text": "Measures operational efficiency"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The intrinsic value of a put option is max(0, Strike Price - Stock Price) = max(0, 35 - 40) = $0. [[24]]"
+}

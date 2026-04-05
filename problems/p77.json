@@ -1,0 +1,41 @@
+{
+  "id": "p77",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Cost of Carry",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Carry: Calculate the futures price if the spot price is $50,...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Calculate the futures price if the spot price is $50, the risk-free interest rate is 5%, and the cost of carry is $2.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$52"
+    },
+    {
+      "id": "B",
+      "text": "$44"
+    },
+    {
+      "id": "C",
+      "text": "$49"
+    },
+    {
+      "id": "D",
+      "text": "$31"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Futures Price = Spot Price + Cost of Carry = $50 + $2 = $52. [[29]]"
+}

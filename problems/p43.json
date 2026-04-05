@@ -1,0 +1,40 @@
+{
+  "id": "p43",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "equity-value",
+    "balance-sheet",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Debt Ratios: A company’s total assets equal 2 million and total liabilities...",
+  "summary": "Calculate equity value by subtracting total liabilities from total assets.",
+  "prompt": "A company’s total assets equal $2 million and total liabilities equal $1 million. What is the equity value of the firm?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$1,000,000"
+    },
+    {
+      "id": "B",
+      "text": "None of the above"
+    },
+    {
+      "id": "C",
+      "text": "$750,000"
+    },
+    {
+      "id": "D",
+      "text": "$850,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Equity Value = Total Assets - Total Liabilities = $2,000,000 - $1,000,000 = $1,000,000. This calculation is fundamental for understanding the net worth of a company."
+}

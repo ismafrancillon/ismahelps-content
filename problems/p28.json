@@ -1,0 +1,40 @@
+{
+  "id": "p28",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Risk Analysis Measures",
+  "subtopic": "Scenario Analysis",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "scenario-analysis",
+    "risk-analysis",
+    "npv-range",
+    "calculation"
+  ],
+  "title": "Scenario Analysis: In a scenario analysis, if the best-case cash flow is...",
+  "summary": "Calculate the range of NPVs under best-case and worst-case cash flow scenarios.",
+  "prompt": "In a scenario analysis, if the best-case cash flow is $500,000 and the worst-case is $100,000, what is the range of possible NPVs if the discount rate is 10%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$363,636"
+    },
+    {
+      "id": "B",
+      "text": "$727,272"
+    },
+    {
+      "id": "C",
+      "text": "$400,000"
+    },
+    {
+      "id": "D",
+      "text": "$327,272"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "NPV in best case = PV of $500,000 in one year = $500,000 / 1.10 = $454,545. NPV in worst case = $100,000 / 1.10 = $90,909. Therefore, the range is $454,545 - $90,909 = $363,636."
+}

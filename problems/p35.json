@@ -1,0 +1,40 @@
+{
+  "id": "p35",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Contribution Margin Analysis",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "contribution-margin",
+    "unit-economics",
+    "cvp",
+    "calculation"
+  ],
+  "title": "Contribution Margin Analysis: If a product sells for 80 and has variable costs...",
+  "summary": "Calculate the contribution margin per unit as selling price minus variable cost per unit.",
+  "prompt": "If a product sells for $80 and has variable costs of $30, what is the contribution margin per unit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$80"
+    },
+    {
+      "id": "B",
+      "text": "$48"
+    },
+    {
+      "id": "C",
+      "text": "$84"
+    },
+    {
+      "id": "D",
+      "text": "$92"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Contribution Margin per Unit = Selling Price - Variable Cost = $80 - $30 = $50. This is essential for understanding how much each unit sold contributes to covering fixed costs (Page 47)."
+}

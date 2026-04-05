@@ -1,0 +1,40 @@
+{
+  "id": "p46",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "equity-value",
+    "balance-sheet",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Debt Ratios: A firm has total assets of 1000000 and total liabilities...",
+  "summary": "Calculate equity value by subtracting total liabilities from total assets.",
+  "prompt": "A firm has total assets of $1,000,000 and total liabilities of $600,000. What is the equity value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$400,000"
+    },
+    {
+      "id": "B",
+      "text": "$320,000"
+    },
+    {
+      "id": "C",
+      "text": "$420,000"
+    },
+    {
+      "id": "D",
+      "text": "$480,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Equity Value = Total Assets - Total Liabilities = $1,000,000 - $600,000 = $400,000. This calculation is fundamental for determining the net worth of the firm."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p40",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-capital",
+    "capital-structure",
+    "calculation"
+  ],
+  "title": "Cost of Capital: A company has a market value of equity of 500000...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "A company has a market value of equity of $500,000 and a market value of debt of $200,000. If the cost of equity is 10% and the cost of debt is 5%, what is the WACC?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8.57%"
+    },
+    {
+      "id": "B",
+      "text": "7.07%"
+    },
+    {
+      "id": "C",
+      "text": "10.28%"
+    },
+    {
+      "id": "D",
+      "text": "5.57%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Market Value of Equity (E) = $500,000 <br> - Market Value of Debt (D) = $200,000 <br> - Cost of Equity (Ke) = 10% <br> - Cost of Debt (Kd) = 5% <br> **Total Value (V) = E + D = $500,000 + $200,000 = $700,000**<br><br> **Step 2: Calculate WACC**<br> WACC = (E/V)*Ke + (D/V)*Kd <br> WACC = (500,000/700,000)*10% + (200,000/700,000)*5% <br> WACC = 0.7143*10% + 0.2857*5% = 7.14% + 1.43% = 8.57%<br> Therefore, the answer is A."
+}

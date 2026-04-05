@@ -1,0 +1,40 @@
+{
+  "id": "p68",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Introduction",
+  "subtopic": "Reverse Mergers",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "shareholders",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Reverse Mergers: Under which circumstances would a merger be classified as a...",
+  "summary": "Identify the conditions under which a merger qualifies as a reverse merger for going public.",
+  "prompt": "Under which circumstances would a merger be classified as a reverse merger?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A reverse merger allows a private company to go public by merging with a public"
+    },
+    {
+      "id": "B",
+      "text": "A formal tender offer to shareholders"
+    },
+    {
+      "id": "C",
+      "text": "Significant debt financing"
+    },
+    {
+      "id": "D",
+      "text": "A premium above market price"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "A reverse merger allows a private company to go public by merging with a public shell, providing a quicker and less costly alternative to an initial public offering (IPO)."
+}

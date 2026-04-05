@@ -1,0 +1,41 @@
+{
+  "id": "p55",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: If a company has a current stock price of 100...",
+  "summary": "Calculate or evaluate the cost of capital using appropriate financial models.",
+  "prompt": "If a company has a current stock price of $100 and is expected to pay a dividend of $4 next year, what is the expected growth rate if the required rate of return is 12%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8%"
+    },
+    {
+      "id": "B",
+      "text": "13%"
+    },
+    {
+      "id": "C",
+      "text": "7%"
+    },
+    {
+      "id": "D",
+      "text": "9%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Rearranging the Gordon Growth Model: g = k - (D1 / P0) = 0.12 - ($4 / $100) = 0.12 - 0.04 = 0.08 or 8%. This expected growth rate indicates how fast the company is anticipated to grow in terms of dividends."
+}

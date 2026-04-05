@@ -1,0 +1,40 @@
+{
+  "id": "p94",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Behavioural Finance and Technical Analysis",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "risk-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Behavioural Finance and Technical Analysis: How does the concept of behavioral finance challenge traditional portfolio...",
+  "summary": "Evaluate how behavioral finance challenges traditional assumptions of investor rationality.",
+  "prompt": "How does the concept of behavioral finance challenge traditional portfolio management theories?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The concept of behavioral finance challenges traditional portfolio management"
+    },
+    {
+      "id": "B",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "C",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "D",
+      "text": "Payback ignores time value of money"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The concept of behavioral finance challenges traditional portfolio management theories by suggesting that investors often act irrationally due to psychological biases and emotional influences. This behavior can lead to market inefficiencies and price anomalies, contradicting the assumption of rational behavior that underpins many traditional financial theories, including the Efficient Market Hypothesis."
+}

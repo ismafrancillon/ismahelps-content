@@ -1,0 +1,44 @@
+{
+  "id": "p7",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Compound Interest",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "time-value-of-money",
+    "future-value",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Compound Interest: An account was opened with 1000 ten years ago. Today,...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "An account was opened with $1,000 ten years ago. Today, the account balance is $1,500. If the account paid interest compounded annually, how much interest on interest was earned? A) $86.20 B) $93.10 C) $102.39 D) $130.28 E) None of the above",
+  "options": [
+    {
+      "id": "A",
+      "text": "$86.20"
+    },
+    {
+      "id": "B",
+      "text": "$93.10"
+    },
+    {
+      "id": "C",
+      "text": "$102.39"
+    },
+    {
+      "id": "D",
+      "text": "$130.28"
+    },
+    {
+      "id": "E",
+      "text": "None of the above"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "To determine the interest on interest earned in the account, we need to follow these steps: ### Step-by-Step Solution: **Step 1: Identify Key Variables** - Initial principal (\\(P\\)): $1,000 - Final balance (\\(A\\)): $1,500 - Number of years (\\(n\\)): 10 **Step 2: Identify Formulas** The formula for compound interest is: \\[ A = P \\times (1 + r)^n \\] Where: - \\(A\\) is the amount of money accumulated after n years, including interest. - \\(P\\) is the principal amount (the initial sum of money). - \\(r\\) is the annual interest rate. - \\(n\\) is the number of years the money is invested or borrowed for. **Step 3: Calculate the Annual Interest Rate (\\(r\\))** We need to solve for \\(r\\) using the compound interest formula: \\[ 1500 = 1000 \\times (1 + r)^{10} \\] \\[ \\frac{1500}{1000} = (1 + r)^{10} \\] \\[ 1.5 = (1 + r)^{10} \\] Taking the 10th root of both sides: \\[ (1.5)^{1/10} = 1 + r \\] \\[ 1 + r \\approx 1.0414 \\] \\[ r \\approx 0.0414 \\] \\[ r \\approx 4.14\\% \\] **Step 4: Calculate the Total Interest Earned** The total interest earned is: \\[ A - P = 1500 - 1000 = 500 \\] **Step 5: Calculate the Interest on Interest** Interest on interest can be calculated by subtracting the simple interest from the total interest earned: - Simple interest (\\(SI\\)): \\( P \\times r \\times n \\) \\[ SI = 1000 \\times 0.0414 \\times 10 \\] \\[ SI = 414 \\] Interest on interest: \\[ Total Interest - Simple Interest = 500 - 414 = 86 \\] ### Final Answer: **A) $86.20** **Explanation:** The interest on interest earned in the account is $86.20. This is derived by calculating the total interest earned over the period, subtracting the simple interest, and isolating the interest that was earned on previous interest payments."
+}

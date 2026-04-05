@@ -1,0 +1,44 @@
+{
+  "id": "p3",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Discounted Payback Period",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "payback-period",
+    "discounted-cash-flow",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Discounted Payback Period: If a project has a discounted payback period within the...",
+  "summary": "Assess the relationship between the discounted payback period and NPV for projects with conventional cash flows.",
+  "prompt": "If a project has a discounted payback period within the acceptable time, and it has conventional cash flows A) It cannot have a negative NPV B) It must be the best alternative available C) It can't possibly fail D) It could still have a negative NPV E) Choices A and C are correct.",
+  "options": [
+    {
+      "id": "A",
+      "text": "It cannot have a negative NPV"
+    },
+    {
+      "id": "B",
+      "text": "It must be the best alternative available"
+    },
+    {
+      "id": "C",
+      "text": "It can't possibly fail"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    },
+    {
+      "id": "E",
+      "text": "Choices A and C are correct"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Based on the question: \"If a project has a discounted payback period within the acceptable time, and it has conventional cash flows A) It cannot have a negative NPV B) It must be the best alternative available C) It can't possibly fail D) It could still have a negative NPV E) Choices A and C are correct.\" The correct answer is A) It cannot have a negative NPV. ### Explanation: 1. **Definition of Discounted Payback Period**: - The discounted payback period is the time it takes for the present value of cash inflows to equal the initial investment. This method incorporates the time value of money by discounting future cash flows. 2. **Conventional Cash Flows**: - Conventional cash flows imply an initial outflow followed by a series of inflows. This pattern ensures that once the discounted payback period is achieved, the project has recouped its initial investment in present value terms. 3. **NPV and Discounted Payback Period Relationship**: - If a project has a discounted payback period within the acceptable time, the present value of cash inflows up to that period equals the initial investment. Any additional inflows beyond this period will result in a positive NPV since they are discounted back to the present value and add to the total value. ### Steps to Determine NPV: 1. **Calculate Present Value of Cash Flows**: - Identify the cash flows for each period and discount them using the project's cost of capital. 2. **Compare with Initial Investment**: - Sum the discounted cash flows and compare them to the initial investment. If the sum of discounted cash flows equals or exceeds the initial investment within the acceptable time, the project will have a positive NPV. 3. **Conclusion**: - Since the discounted payback period ensures the project has recouped its initial investment in present value terms within the acceptable time, the project cannot have a negative NPV. Therefore, option A is correct. ### Final Answer: A) It cannot have a negative NPV"
+}

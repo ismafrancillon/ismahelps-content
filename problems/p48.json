@@ -1,0 +1,39 @@
+{
+  "id": "p48",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Earnings Manipulation",
+  "subtopic": "Managed Earnings Phenomenon",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "operating-leverage",
+    "earnings-volatility",
+    "conceptual"
+  ],
+  "title": "Managed Earnings Phenomenon: A firm with a high operating leverage will have what...",
+  "summary": "Analyze an investment analysis concept related to Managed Earnings Phenomenon.",
+  "prompt": "A firm with a high operating leverage will have what effect on its earnings?",
+  "options": [
+    {
+      "id": "A",
+      "text": "High operating leverage means that a firm has a larger proportion of fixed"
+    },
+    {
+      "id": "B",
+      "text": "Firm value increases due to the tax shield"
+    },
+    {
+      "id": "C",
+      "text": "Follows GAAP/IFRS"
+    },
+    {
+      "id": "D",
+      "text": "Not required to follow standards"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "High operating leverage means that a firm has a larger proportion of fixed costs relative to variable costs. Consequently, changes in sales will have a more significant impact on earnings, making them more volatile. This can be a double-edged sword, as it can magnify both profits and losses."
+}
