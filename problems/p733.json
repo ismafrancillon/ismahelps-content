@@ -1,0 +1,32 @@
+{
+  "id": "p733",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Cost Approach",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "depreciation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cost Approach: The cost approach to property valuation is based on the...",
+  "summary": "Describe the cost approach as valuation based on replacement cost minus depreciation.",
+  "prompt": "The cost approach to property valuation is based on the current market value of similar properties.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The cost approach values a property based on its replacement cost minus depreciation, rather than relying solely on current market values of similar properties. This approach is particularly useful for unique properties."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p760",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Equity",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cost of Equity: The CAPM formula includes the risk-free rate, the equity beta,...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "The CAPM formula includes the risk-free rate, the equity beta, and the expected market return.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The CAPM formula indeed incorporates the risk-free rate, the equity beta, and the expected market return to determine the expected return on equity, essential for calculating the cost of capital in financial analysis."
+}

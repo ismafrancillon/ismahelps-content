@@ -1,0 +1,32 @@
+{
+  "id": "p736",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporate Financing Decisions: According to the pecking-order theory, firms prefer to issue equity...",
+  "summary": "Describe the pecking-order theory's financing preference: retained earnings, then debt, then equity.",
+  "prompt": "According to the pecking-order theory, firms prefer to issue equity over debt.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The pecking-order theory posits that firms prioritize internal financing and will issue debt before considering equity. This is because issuing equity can signal to the market that the firm's stock is overvalued. Therefore, firms will use retained earnings first, then debt, and finally equity as a last resort."
+}

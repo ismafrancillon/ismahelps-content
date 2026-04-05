@@ -1,0 +1,33 @@
+{
+  "id": "p783",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Pricing Strategies",
+  "subtopic": "Target Pricing",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "pricing-strategy",
+    "target-pricing",
+    "market-based",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Target Pricing: Target pricing is based on what customers are willing to...",
+  "summary": "Evaluate target pricing as a strategy based on customer willingness to pay.",
+  "prompt": "Target pricing is based on what customers are willing to pay for a product.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This pricing strategy incorporates market conditions and customer perceptions, ensuring that pricing decisions align with customer expectations and company profitability goals."
+}

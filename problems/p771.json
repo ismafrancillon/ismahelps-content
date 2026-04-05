@@ -1,0 +1,33 @@
+{
+  "id": "p771",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Accounting Equation",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "accounting-equation",
+    "balance-sheet",
+    "fundamentals",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Accounting Equation: The accounting equation states that Assets = Liabilities + Shareholder's...",
+  "summary": "Apply the accounting equation (Assets = Liabilities + Equity) to solve for missing values.",
+  "prompt": "The accounting equation states that Assets = Liabilities + Shareholder's Equity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The accounting equation is fundamental in financial accounting. It establishes a relationship among assets, liabilities, and shareholder’s equity. This equation must always remain balanced after each transaction, as highlighted in the materials. Understanding this equation enables one to account for any transaction effectively."
+}

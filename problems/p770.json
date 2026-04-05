@@ -1,0 +1,32 @@
+{
+  "id": "p770",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Cost of Sales and Inventory Management",
+  "subtopic": "COGS",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cogs",
+    "inventory-accounting",
+    "formula",
+    "true-false"
+  ],
+  "title": "COGS: The cost of goods sold (COGS) is calculated by subtracting...",
+  "summary": "Calculate cost of goods sold using the formula: beginning inventory plus purchases minus ending inventory.",
+  "prompt": "The cost of goods sold (COGS) is calculated by subtracting ending inventory from the cost of goods available for sale.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The formula for calculating COGS is precisely that: COGS = Cost of Goods Available for Sale - Ending Inventory. This calculation is crucial for determining the expenses associated with the goods sold during a period."
+}

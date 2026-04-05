@@ -1,0 +1,33 @@
+{
+  "id": "p756",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Profitability Index",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "profitability-index",
+    "capital-budgeting",
+    "decision-rule",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Profitability Index: A profitability index (PI) of less than 1 indicates that...",
+  "summary": "Assess the implication of a profitability index below one for project acceptance decisions.",
+  "prompt": "A profitability index (PI) of less than 1 indicates that the present value of future cash flows is less than the initial investment.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "A PI less than 1 signifies that the project's NPV is negative, suggesting that the investment will not generate sufficient cash flows to recover the initial cost, making it an unattractive option."
+}

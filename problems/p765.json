@@ -1,0 +1,33 @@
+{
+  "id": "p765",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Payback Period Rule",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "payback-period",
+    "capital-budgeting",
+    "limitations",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Payback Period Rule: The payback period rule ignores cash flows after the payback...",
+  "summary": "Calculate the payback period by dividing the initial investment by annual cash inflows.",
+  "prompt": "The payback period rule ignores cash flows after the payback period, making it a potentially flawed method for capital budgeting.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The payback period is a simple measure that calculates the time needed to recover the initial investment. However, it disregards any cash flows that occur after the payback period, which may lead to the rejection of profitable projects. This flaw highlights the importance of considering all cash flows in decision-making processes."
+}

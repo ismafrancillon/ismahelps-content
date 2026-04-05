@@ -1,0 +1,32 @@
+{
+  "id": "p724",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Loan Underwriting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "financial-ratios",
+    "solvency",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Loan Underwriting: A debt service coverage ratio (DSCR) of less than 1...",
+  "summary": "Assess the implications of a DSCR below one for debt coverage ability.",
+  "prompt": "A debt service coverage ratio (DSCR) of less than 1 indicates that a property is generating enough income to cover its debt payments.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "A DSCR of less than 1 indicates that the property is not generating enough income to cover its debt obligations, which signifies potential financial distress. Understanding DSCR is vital for assessing investment risk."
+}

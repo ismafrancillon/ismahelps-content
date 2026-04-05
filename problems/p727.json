@@ -1,0 +1,32 @@
+{
+  "id": "p727",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Residential Real Estate",
+  "subtopic": "Multifamily Dwellings",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "residential",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Multifamily Dwellings: A multifamily property is a type of commercial real estate...",
+  "summary": "Assess whether multifamily properties are classified as commercial real estate distinct from single-family homes.",
+  "prompt": "A multifamily property is a type of commercial real estate that includes single-family homes.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "False. Multifamily properties refer specifically to residential buildings that accommodate multiple families, such as apartments and condominiums. In contrast, single-family homes are classified as residential real estate but do not fall under the multifamily category. This distinction is critical for understanding property types within the commercial real estate landscape. Multifamily investments can also involve different financing and management strategies compared to single-family investments."
+}

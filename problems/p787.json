@@ -1,0 +1,33 @@
+{
+  "id": "p787",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Adjusting Earnings",
+  "subtopic": "Operating Expenses",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "income-statement",
+    "revenues",
+    "expenses",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Operating Expenses: Operating expenses should be included in the calculation of a...",
+  "summary": "Assess whether operating expenses should be included in operating income calculations.",
+  "prompt": "Operating expenses should be included in the calculation of a firm's operating income.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Operating expenses are essential to calculate operating income accurately. Operating income is determined by subtracting operating expenses from revenues, providing insight into the firm's operational efficiency."
+}

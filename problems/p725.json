@@ -1,0 +1,32 @@
+{
+  "id": "p725",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Residential Real Estate",
+  "subtopic": "Multifamily Dwellings",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "residential",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Multifamily Dwellings: A garden apartment complex is typically classified as a high-rise...",
+  "summary": "Classify garden apartment complexes as low-rise multifamily properties.",
+  "prompt": "A garden apartment complex is typically classified as a high-rise multifamily property.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Garden apartment complexes are classified as low-rise properties, which generally consist of buildings with fewer than four floors. This distinction is important for understanding market segmentation and property valuations."
+}

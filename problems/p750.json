@@ -1,0 +1,33 @@
+{
+  "id": "p750",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Employment Rights",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "employment-law",
+    "workplace-safety",
+    "legal-rights",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Employment Rights: An employee has the right to a safe working environment...",
+  "summary": "Assess whether employers must provide a safe working environment under CCQ 2087.",
+  "prompt": "An employee has the right to a safe working environment as per CCQ 2087.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "According to CCQ 2087, employers are obliged to provide their employees with a safe working environment, both physically and morally. This includes ensuring cleanliness, safety measures, and a workplace free from harassment or intimidation."
+}

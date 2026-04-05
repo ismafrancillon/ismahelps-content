@@ -1,0 +1,32 @@
+{
+  "id": "p709",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Valuing Forward Contracts: The futures price of an asset is typically higher than...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "The futures price of an asset is typically higher than its expected future spot price.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. The futures price is usually aligned closely with the expected future spot price, adjusted for factors like carrying costs and interest rates. In a normal market condition, futures prices are generally expected to converge with spot prices as the delivery date approaches, which is a critical aspect of futures pricing."
+}

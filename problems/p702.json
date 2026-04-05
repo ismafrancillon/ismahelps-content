@@ -1,0 +1,32 @@
+{
+  "id": "p702",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basic Principles of Hedging",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basic Principles of Hedging: Hedging with options is less flexible compared to hedging with...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Hedging with options is less flexible compared to hedging with futures contracts.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. Hedging with options provides greater flexibility than hedging with futures contracts. Options allow the holder to choose whether or not to exercise the contract based on favorable market conditions, while futures contracts obligate the holder to fulfill the terms of the contract. This flexibility makes options a preferred choice for many hedgers."
+}

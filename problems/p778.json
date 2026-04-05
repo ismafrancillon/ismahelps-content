@@ -1,0 +1,33 @@
+{
+  "id": "p778",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Incremental Analysis",
+  "subtopic": "Relevant Costs and Revenues",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "incremental-analysis",
+    "relevant-costs",
+    "decision-making",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Relevant Costs and Revenues: Incremental analysis focuses on costs and revenues that are different...",
+  "summary": "Assess that incremental analysis focuses on costs and revenues that differ between alternatives.",
+  "prompt": "Incremental analysis focuses on costs and revenues that are different between alternative courses of action.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This approach is essential for effective decision-making, allowing management to identify relevant costs and revenues that will vary between different options."
+}

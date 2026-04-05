@@ -1,0 +1,32 @@
+{
+  "id": "p740",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporate Financing Decisions: Financial managers can successfully time the market for issuing stocks...",
+  "summary": "Assess whether financial managers can successfully time the issuance of securities in efficient markets.",
+  "prompt": "Financial managers can successfully time the market for issuing stocks and bonds.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "In an efficient market, it is difficult for financial managers to consistently time the issuance of stocks and bonds because the prices already reflect all available information. Attempts to time the market often lead to missed opportunities and losses."
+}

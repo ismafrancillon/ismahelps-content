@@ -1,0 +1,33 @@
+{
+  "id": "p782",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Managerial Cost Concepts & Cost Behaviour Analysis",
+  "subtopic": "Manufacturing Costs",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "manufacturing-costs",
+    "product-costing",
+    "components",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Manufacturing Costs: Product costs include direct materials, direct labor, and manufacturing overhead....",
+  "summary": "Identify product cost components: direct materials, direct labor, and manufacturing overhead.",
+  "prompt": "Product costs include direct materials, direct labor, and manufacturing overhead.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Product costs are essential for determining the total cost of goods manufactured and include all costs associated with producing goods. Understanding these costs is fundamental in managerial accounting."
+}

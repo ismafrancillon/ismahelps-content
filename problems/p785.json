@@ -1,0 +1,33 @@
+{
+  "id": "p785",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFE",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "fcfe",
+    "free-cash-flow",
+    "equity",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "FCFE: A firm can have a negative free cash flow to...",
+  "summary": "Assess whether heavy reinvestment can result in negative free cash flow to equity.",
+  "prompt": "A firm can have a negative free cash flow to equity (FCFE) if it is heavily reinvesting in growth projects.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "If a firm is reinvesting significantly in capital expenditures and working capital, it can result in negative FCFE, especially if its operating income does not cover these reinvestments. This scenario indicates that the firm is prioritizing growth over immediate returns to shareholders."
+}

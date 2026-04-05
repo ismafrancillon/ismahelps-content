@@ -1,0 +1,33 @@
+{
+  "id": "p791",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFE",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cash-flows",
+    "net-income",
+    "depreciation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "FCFE: The free cash flow to equity (FCFE) is calculated after...",
+  "summary": "Describe how FCFE is derived after accounting for capital expenditures and working capital changes.",
+  "prompt": "The free cash flow to equity (FCFE) is calculated after accounting for capital expenditures and changes in working capital.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The FCFE represents the cash available to equity holders after the company meets its reinvestment needs. To calculate FCFE, start with net income, subtract capital expenditures (CAPEX), and account for changes in working capital (ΔWC). Thus, the calculation is FCFE = Net Income - (CAPEX - Depreciation) - ΔWC. This shows the cash flow that is available for distribution to shareholders."
+}

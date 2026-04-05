@@ -1,0 +1,33 @@
+{
+  "id": "p780",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Cost Concepts",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "managerial-accounting",
+    "performance-evaluation",
+    "decision-making",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Managerial Cost Concepts: Managerial accounting provides tools that help management make decisions and...",
+  "summary": "Evaluate the role of managerial accounting tools in supporting management decisions.",
+  "prompt": "Managerial accounting provides tools that help management make decisions and evaluate the effectiveness of those decisions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Managerial accounting is primarily aimed at providing information to internal users for decision-making purposes. This includes analyzing costs and revenues related to various operational aspects to support strategic choices."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p735",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "growth-rate",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: A firm with high growth opportunities will typically have a...",
+  "summary": "Analyze a concept in theories of finance related to Capital Structure.",
+  "prompt": "A firm with high growth opportunities will typically have a high debt-to-equity ratio.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Firms with high growth opportunities tend to have lower debt-to-equity ratios because they prefer to finance growth using retained earnings or equity rather than increasing debt, which could lead to financial distress."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p708",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Interest Rates",
+  "subtopic": "Yield Curves",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "bond-pricing",
+    "yield-to-maturity",
+    "interest-rates",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Yield Curves: The effective yield on a bond can be calculated using...",
+  "summary": "Evaluate the correct formula for calculating the effective yield on a bond.",
+  "prompt": "The effective yield on a bond can be calculated using the formula: Yield = (Coupon Payment / Price) + Growth Rate.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. The effective yield on a bond is typically calculated using the formula: Yield = (Annual Coupon Payment / Current Market Price) + (Face Value - Current Market Price) / Years to Maturity. The growth rate is not a factor in calculating the effective yield of a bond. Understanding how to calculate yields is essential for investors assessing fixed-income securities. This concept is discussed in the \"Yield Curves\" section from Document 17 on Page 32."
+}

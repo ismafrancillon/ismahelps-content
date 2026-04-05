@@ -1,0 +1,33 @@
+{
+  "id": "p745",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Principles of Contract Law",
+  "subtopic": "Contracts of Adhesion",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "contracts",
+    "contract-law",
+    "adhesion",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Contracts of Adhesion: A contract of adhesion allows one party to dictate terms...",
+  "summary": "Evaluate whether contracts of adhesion allow one party to dictate terms without negotiation.",
+  "prompt": "A contract of adhesion allows one party to dictate terms without negotiation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Contracts of adhesion are agreements where one party sets the terms and the other party must either accept them or refrain from entering into the contract. This lack of negotiation can lead to unfair conditions for the weaker party."
+}

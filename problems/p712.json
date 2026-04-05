@@ -1,0 +1,32 @@
+{
+  "id": "p712",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Forwards (Advanced)",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Forwards (Advanced): The value of a short forward contract is always positive...",
+  "summary": "Distinguish futures from forward contracts based on standardization and exchange features.",
+  "prompt": "The value of a short forward contract is always positive when the spot price increases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. The value of a short forward contract decreases when the spot price increases, as the trader is now obligated to sell at a lower predetermined price compared to the current spot price. This relationship is crucial for understanding the implications of market movements on forward contracts."
+}

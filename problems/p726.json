@@ -1,0 +1,32 @@
+{
+  "id": "p726",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Impact of the Economy on the Real Estate Market",
+  "subtopic": "Economic Influences on Property Types",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "economics",
+    "industry-analysis",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Economic Influences on Property Types: A growing economy typically leads to a decrease in demand...",
+  "summary": "Assess how economic growth affects demand for commercial real estate.",
+  "prompt": "A growing economy typically leads to a decrease in demand for commercial real estate.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "False. A growing economy generally leads to an increase in demand for commercial real estate due to heightened business activity, consumer confidence, and job growth. This increase in demand can lead to higher rents and property values, making it an essential consideration for real estate investors and finance students. Understanding economic indicators and their relationship to real estate demand is crucial for making informed investment decisions and forecasting market trends."
+}

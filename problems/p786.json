@@ -1,0 +1,33 @@
+{
+  "id": "p786",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Fundamental Determinants of Growth",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "sustainable-growth",
+    "roe",
+    "retention-ratio",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Fundamental Determinants of Growth: A firm’s equity reinvestment rate is a function of its...",
+  "summary": "Evaluate the equity reinvestment rate as a function of growth rate and return on equity.",
+  "prompt": "A firm’s equity reinvestment rate is a function of its sustainable growth rate and return on equity (ROE).",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The equity reinvestment rate indicates how much of the firm’s net income is reinvested back into the firm to sustain its growth. It is calculated as the expected growth rate divided by ROE, linking earnings to reinvestment decisions."
+}

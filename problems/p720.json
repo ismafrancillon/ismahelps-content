@@ -1,0 +1,33 @@
+{
+  "id": "p720",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Fixed-Income Securities",
+  "subtopic": "The Term Structure of Interest Rates",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "yield-curve",
+    "interest-rates",
+    "bond-pricing",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "The Term Structure of Interest Rates: The term structure of interest rates is solely determined by...",
+  "summary": "Assess factors determining the term structure of interest rates beyond central bank policy.",
+  "prompt": "The term structure of interest rates is solely determined by the monetary policy of a country’s central bank.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The term structure of interest rates is influenced by various factors, including investor expectations about future interest rates, inflation, economic conditions, and the risk associated with different maturities. While central banks do play a crucial role in shaping interest rates through their monetary policy actions, market forces and expectations also significantly affect the term structure, leading to a more complex relationship than being solely determined by the central bank's policies."
+}

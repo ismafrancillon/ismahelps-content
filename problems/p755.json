@@ -1,0 +1,33 @@
+{
+  "id": "p755",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Introduction to Law",
+  "subtopic": "Introduction to the Quebec Legal System",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "legal-system",
+    "supreme-court",
+    "canadian-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Introduction to the Quebec Legal System: The Supreme Court of Canada hears appeals from all provincial...",
+  "summary": "Evaluate whether the Supreme Court of Canada serves as the final appellate court for all provinces.",
+  "prompt": "The Supreme Court of Canada hears appeals from all provincial courts.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The Supreme Court of Canada is the highest court in Canada and hears appeals from the Courts of Appeal of all provinces. It serves as the final arbiter on legal disputes, ensuring uniformity in the interpretation of Canadian law across the country."
+}

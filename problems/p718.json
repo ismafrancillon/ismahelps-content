@@ -1,0 +1,33 @@
+{
+  "id": "p718",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "expected-return",
+    "risk-free-rate",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "CAPM: If the expected return on a portfolio is greater than...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If the expected return on a portfolio is greater than the risk-free rate, the portfolio is considered to be risk-free.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "A higher expected return does not imply that the portfolio is risk-free; it may still carry significant risk depending on its composition and market conditions."
+}

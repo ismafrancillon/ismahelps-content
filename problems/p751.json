@@ -1,0 +1,33 @@
+{
+  "id": "p751",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Civil Responsibility",
+  "subtopic": "Indirect Liability",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "civil-liability",
+    "indirect-liability",
+    "vicarious-liability",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Indirect Liability: An example of indirect liability...",
+  "summary": "Assess whether vicarious liability qualifies as a form of indirect liability.",
+  "prompt": "An example of indirect liability is vicarious liability.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Vicarious liability refers to the legal responsibility of one party for the negligent actions of another, particularly in an employer-employee relationship where the employer can be held liable for the actions of employees performed within the scope of their work."
+}

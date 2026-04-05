@@ -1,0 +1,33 @@
+{
+  "id": "p767",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Risk Analysis Measures",
+  "subtopic": "Sensitivity Analysis",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "sensitivity-analysis",
+    "risk-analysis",
+    "financial-modeling",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Sensitivity Analysis: The risk analysis measure known as sensitivity analysis examines how...",
+  "summary": "Assess how sensitivity analysis evaluates the impact of changing assumptions on financial outcomes.",
+  "prompt": "The risk analysis measure known as sensitivity analysis examines how different values of an independent variable affect a particular dependent variable under a given set of assumptions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Sensitivity analysis is an essential risk analysis tool that assesses the impact of changes in assumptions on the outcomes of a financial model, helping identify which variables have the most significant effect on project profitability."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p775",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Statement of Cash Flows",
+  "subtopic": "Cash Flows from Operations",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cash-flow-statement",
+    "operating-cash-flow",
+    "indirect-method",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cash Flows from Operations: The direct method of preparing the statement of cash flows...",
+  "summary": "Apply financial ratio analysis to evaluate company performance.",
+  "prompt": "The direct method of preparing the statement of cash flows is less commonly used than the indirect method.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The direct method is often viewed as more complex and less frequently used than the indirect method, which adjusts net income for changes in balance sheet accounts."
+}

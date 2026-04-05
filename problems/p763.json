@@ -1,0 +1,33 @@
+{
+  "id": "p763",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "npv",
+    "capital-budgeting",
+    "decision-rule",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "NPV: The net present value (NPV) approach is superior to other...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "The net present value (NPV) approach is superior to other capital budgeting techniques primarily because it uses cash flows rather than accounting income.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The NPV method emphasizes cash flows, which reflect the actual financial benefits of a project, rather than accounting earnings that may not represent available cash. Cash flows are critical in making informed investment decisions as they can be reinvested, while earnings can be manipulated through accounting practices."
+}

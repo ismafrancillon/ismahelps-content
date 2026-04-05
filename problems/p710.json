@@ -1,0 +1,33 @@
+{
+  "id": "p710",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Factors Affecting Option Prices",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "option-pricing",
+    "intrinsic-value-option",
+    "time-value-option",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Factors Affecting Option Prices: The premium of an option is determined solely by the...",
+  "summary": "Assess whether option value is determined solely by the underlying price or by multiple factors.",
+  "prompt": "The premium of an option is determined solely by the intrinsic value of the option.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. The premium of an option is determined by several factors, including intrinsic value, time value, volatility of the underlying asset, and interest rates. Intrinsic value refers to the difference between the market price of the underlying asset and the strike price of the option, while time value reflects the time remaining until expiration and the uncertainty associated with future price movements. Understanding the components of option pricing is essential for options traders and investors. The factors affecting option prices are covered in the \"Factors Affecting Option Prices\" section from Document 8 on Page 14."
+}

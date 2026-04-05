@@ -1,0 +1,33 @@
+{
+  "id": "p789",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Equity",
+  "subtopic": "Cost of Capital",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "systematic-risk",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cost of Capital: The capital asset pricing model (CAPM) assumes that investors require...",
+  "summary": "Calculate the cost of equity or expected return using the CAPM formula.",
+  "prompt": "The capital asset pricing model (CAPM) assumes that investors require a higher return for taking on additional risk.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "CAPM posits that the expected return on an asset is proportional to its systematic risk, measured by beta. Investors demand higher returns for taking on higher levels of risk, which is reflected in the risk premium component of the CAPM equation."
+}

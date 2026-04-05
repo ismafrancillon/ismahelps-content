@@ -1,0 +1,33 @@
+{
+  "id": "p757",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "npv",
+    "decision-rule",
+    "capital-budgeting",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "NPV: If a project has a positive NPV, it should be...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "If a project has a positive NPV, it should be accepted regardless of its IRR.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The NPV rule states that if the NPV is greater than zero, the project is expected to generate value for the firm and should be accepted. IRR can be misleading, especially for mutually exclusive projects, where the scale of investment may differ."
+}

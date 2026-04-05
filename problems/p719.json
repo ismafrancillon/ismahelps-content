@@ -1,0 +1,32 @@
+{
+  "id": "p719",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Market Timing",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Market Timing: Market timing strategies focus on selecting individual securities based on...",
+  "summary": "Distinguish market timing from security selection in portfolio strategy.",
+  "prompt": "Market timing strategies focus on selecting individual securities based on their past performance.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Market timing strategies involve adjusting portfolio allocations based on predictions of market movements, not merely selecting securities based on historical performance."
+}

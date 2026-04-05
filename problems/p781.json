@@ -1,0 +1,33 @@
+{
+  "id": "p781",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "reporting-frequency",
+    "flexibility",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Managerial Accounting: Managerial accounting reports are issued...",
+  "summary": "Assess the reporting frequency of managerial accounting compared to financial accounting.",
+  "prompt": "Managerial accounting reports are issued as frequently as needed.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Unlike financial accounting, which adheres to a strict reporting schedule (usually quarterly or annually), managerial accounting reports are generated as needed, allowing businesses to respond quickly to internal decision-making needs. This flexibility is a key characteristic of managerial accounting (Page 9)."
+}

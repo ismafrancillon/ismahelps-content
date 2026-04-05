@@ -1,0 +1,33 @@
+{
+  "id": "p721",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "beta",
+    "systematic-risk",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Active Management and Performance Measurement: The Treynor measure evaluates portfolio performance based on total risk...",
+  "summary": "Distinguish the Treynor measure from the Sharpe ratio by its use of beta.",
+  "prompt": "The Treynor measure evaluates portfolio performance based on total risk rather than systematic risk.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The Treynor measure specifically assesses performance in relation to systematic risk (beta), not total risk, making it distinct from the Sharpe ratio."
+}

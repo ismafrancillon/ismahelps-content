@@ -1,0 +1,33 @@
+{
+  "id": "p738",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "shareholders",
+    "corporation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporate Financing Decisions: Common stockholders have the first claim on a company's assets...",
+  "summary": "Evaluate Modigliani-Miller propositions on capital structure and firm value.",
+  "prompt": "Common stockholders have the first claim on a company's assets in the event of liquidation.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Common stockholders are last in line for claims on a company's assets during liquidation. Bondholders and preferred shareholders have priority over common stockholders in the event of liquidation."
+}

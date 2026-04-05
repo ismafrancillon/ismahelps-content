@@ -1,0 +1,32 @@
+{
+  "id": "p777",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Process Cost Accounting",
+  "subtopic": "Equivalent Units of Production",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "process-costing",
+    "equivalent-units",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Equivalent Units of Production: Equivalent units of production measure the work done during a...",
+  "summary": "Calculate equivalent units of production in a process costing system for partially completed inventory.",
+  "prompt": "Equivalent units of production measure the work done during a period expressed in fully completed units.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "This concept is critical in process cost accounting for determining the cost per unit of completed product. It accounts for both completed and partially completed units, ensuring accurate cost allocation."
+}

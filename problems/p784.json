@@ -1,0 +1,33 @@
+{
+  "id": "p784",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "High-Low Method",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cost-behavior",
+    "high-low-method",
+    "mixed-costs",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "High-Low Method: The high-low method is used to determine the fixed and...",
+  "summary": "Apply the high-low method to separate variable and fixed cost components from mixed cost data.",
+  "prompt": "The high-low method is used to determine the fixed and variable components of a mixed cost.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The high-low method is a specific technique used to analyze mixed costs by identifying the highest and lowest activity levels to estimate variable and fixed costs. This method is commonly applied in cost behavior analysis."
+}

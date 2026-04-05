@@ -1,0 +1,34 @@
+{
+  "id": "p768",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Growth Rate and Terminal Value",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "terminal-value",
+    "growth-rate",
+    "dcf",
+    "valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Growth Rate and Terminal Value: The terminal value in DCF analysis represents the cash flows...",
+  "summary": "Assess the role of terminal value in DCF analysis as capturing value beyond the forecast period.",
+  "prompt": "The terminal value in DCF analysis represents the cash flows beyond the projection period.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The terminal value in a DCF analysis is a critical component that estimates the value of a business at the end of the explicit forecast period, accounting for all future cash flows beyond that point."
+}

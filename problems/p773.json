@@ -1,0 +1,33 @@
+{
+  "id": "p773",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Investing and Financing Decisions",
+  "subtopic": "Matching Process",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "matching-principle",
+    "accrual-accounting",
+    "expenses",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Matching Process: The matching principle requires that expenses be recorded when incurred...",
+  "summary": "Evaluate the matching principle linking expense recognition to the period revenues are generated.",
+  "prompt": "The matching principle requires that expenses be recorded when incurred to generate revenue. True or False?",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The matching principle is a fundamental concept in accrual accounting, which states that expenses should be recorded in the same period as the revenues they help generate. This ensures that financial statements accurately reflect a company's profitability during a specific period. By adhering to this principle, companies can provide a clearer picture of their financial performance to stakeholders."
+}

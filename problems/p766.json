@@ -1,0 +1,33 @@
+{
+  "id": "p766",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Multiples",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation-multiples",
+    "pe-ratio",
+    "relative-valuation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Multiples: The Price-Earnings (P/E) ratio is calculated as the current share...",
+  "summary": "Identify the role of valuation multiples in comparative analysis.",
+  "prompt": "The Price-Earnings (P/E) ratio is calculated as the current share price divided by the company's earnings per share (EPS).",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The P/E ratio is a common financial metric used to evaluate a company's valuation by comparing its current share price to its earnings per share, indicating how much investors are willing to pay for each dollar of earnings."
+}

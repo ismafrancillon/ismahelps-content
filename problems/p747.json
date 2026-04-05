@@ -1,0 +1,33 @@
+{
+  "id": "p747",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Forms of Business Ownership",
+  "subtopic": "Corporation",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "legal-entity",
+    "limited-liability",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporation: A corporation is a legal entity that can own property...",
+  "summary": "Identify the primary characteristics of a corporation including legal personhood and limited liability.",
+  "prompt": "A corporation is a legal entity that can own property and enter into contracts.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Corporations are recognized as legal persons under the law, allowing them to own property, enter into contracts, and have similar rights to those of natural persons. This separation provides limited liability to shareholders."
+}

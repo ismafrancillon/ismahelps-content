@@ -1,0 +1,32 @@
+{
+  "id": "p732",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Introduction to Real Estate",
+  "subtopic": "Multifamily Dwellings",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "residential",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Multifamily Dwellings: Multifamily properties can only be...",
+  "summary": "Evaluate whether multifamily properties include low-rise, mid-rise, and high-rise categories.",
+  "prompt": "Multifamily properties can only be classified as high-rise buildings.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Multifamily properties can be classified into three categories: low-rise (fewer than four floors), mid-rise (four to ten floors), and high-rise (over ten floors). This classification helps investors assess the type of investment and its corresponding market demand."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p701",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Basis Risk: Hedging with futures contracts is only effective if the underlying...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Hedging with futures contracts is only effective if the underlying asset and the futures contract are perfectly correlated.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. While perfect correlation between the underlying asset and the futures contract can enhance the effectiveness of hedging, it is not a prerequisite for effective risk management. Even with less than perfect correlation, futures can still provide a meaningful hedge against price fluctuations. The concept of correlation in hedging is important, as it can affect the basis risk, which is the risk that the hedge will not move in perfect opposition to the underlying asset price. This is discussed in the \"Basis Risk\" section from Document 7 on Page 16."
+}

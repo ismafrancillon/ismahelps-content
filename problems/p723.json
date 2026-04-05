@@ -1,0 +1,32 @@
+{
+  "id": "p723",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "diversification",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Portfolio Management Techniques: Using a passive investment strategy means that an investor will...",
+  "summary": "Evaluate whether passive strategies preclude any portfolio adjustments.",
+  "prompt": "Using a passive investment strategy means that an investor will never adjust their portfolio in response to changing market conditions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "A passive investment strategy typically involves a long-term buy-and-hold approach; however, it does not mean that an investor will never adjust their portfolio. Investors may still rebalance their portfolios to maintain desired asset allocations or respond to significant market events or changes in investment goals. The essence of passive management lies in minimizing trading and management costs while achieving market returns, but it still allows for occasional adjustments as necessary."
+}

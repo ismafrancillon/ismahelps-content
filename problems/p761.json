@@ -1,0 +1,33 @@
+{
+  "id": "p761",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Discounted Cash Flow",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "dcf",
+    "valuation-methods",
+    "future-cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Discounted Cash Flow: The Discounted Cash Flow (DCF) method primarily focuses on estimating...",
+  "summary": "Evaluate the DCF method's focus on estimating present value of expected future cash flows.",
+  "prompt": "The Discounted Cash Flow (DCF) method primarily focuses on estimating the value of future cash flows.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The DCF method is a valuation technique used to estimate the value of an investment based on its expected future cash flows. This is achieved by discounting those cash flows back to their present value using a discount rate. Therefore, it is true that the DCF method focuses on future cash flows, making it an essential tool in finance."
+}

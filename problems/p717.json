@@ -1,0 +1,32 @@
+{
+  "id": "p717",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Behavioural Finance and Technical Analysis",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Behavioural Finance and Technical Analysis: Behavioral finance supports the idea that investors are always rational...",
+  "summary": "Evaluate how behavioral finance challenges traditional assumptions of investor rationality.",
+  "prompt": "Behavioral finance supports the idea that investors are always rational and make decisions based solely on available information.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Behavioral finance challenges the notion of investor rationality by highlighting cognitive biases and emotional responses that influence decision-making. Investors may act irrationally due to biases such as overconfidence, loss aversion, and framing effects, leading to decisions that deviate from what traditional finance would predict. This field emphasizes that even in efficient markets, psychology can impact investment behavior and market dynamics."
+}

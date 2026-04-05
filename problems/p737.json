@@ -1,0 +1,32 @@
+{
+  "id": "p737",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: An increase in a firm's debt level will always lead...",
+  "summary": "Assess whether increasing debt always increases or can decrease firm market value.",
+  "prompt": "An increase in a firm's debt level will always lead to an increase in its market value.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While debt can create value through tax shields, excessive debt increases risk and potential bankruptcy costs, which can decrease market value if the firm becomes over-leveraged."
+}

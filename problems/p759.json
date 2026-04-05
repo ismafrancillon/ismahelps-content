@@ -1,0 +1,33 @@
+{
+  "id": "p759",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Mergers and Acquisitions",
+  "subtopic": "Sources of Synergy",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "m&a",
+    "synergies",
+    "value-creation",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Sources of Synergy: In a merger scenario, synergy is defined as the value...",
+  "summary": "Evaluate synergy as the additional value created from combining two companies in a merger.",
+  "prompt": "In a merger scenario, synergy is defined as the value created from the merger that exceeds the sum of the individual firms' values.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Synergy is a key concept in M&A, representing the additional value generated from the combined operations of the merging companies, making the whole greater than the sum of its parts."
+}

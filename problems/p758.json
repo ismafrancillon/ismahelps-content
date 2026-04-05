@@ -1,0 +1,33 @@
+{
+  "id": "p758",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Equity",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "discount-rate",
+    "valuation",
+    "true-false"
+  ],
+  "title": "Cost of Equity: In a DCF analysis, the cost of capital is usually...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "In a DCF analysis, the cost of capital is usually calculated using the Capital Asset Pricing Model (CAPM).",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The cost of capital is often calculated using the CAPM, which helps determine the expected return on equity, considering the risk-free rate, the stock's beta, and the market risk premium. This is a fundamental concept when performing DCF analysis."
+}

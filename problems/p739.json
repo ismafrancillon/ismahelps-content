@@ -1,0 +1,33 @@
+{
+  "id": "p739",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "cost-of-debt",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporate Financing Decisions: Debt financing always increases the value of a firm due...",
+  "summary": "Evaluate how interest deductibility creates a tax shield increasing levered firm value.",
+  "prompt": "Debt financing always increases the value of a firm due to tax shields.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While debt financing can provide tax advantages because interest payments are tax-deductible, it does not always increase a firm's value. Excessive debt can lead to increased financial distress and potential bankruptcy costs, which can offset the benefits of tax shields."
+}

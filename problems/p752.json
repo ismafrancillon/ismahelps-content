@@ -1,0 +1,32 @@
+{
+  "id": "p752",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Introduction to Law",
+  "subtopic": "Definition of Law",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "legal-definition",
+    "sources-of-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Definition of Law: Laws must be in written form to avoid unfairness in...",
+  "summary": "Assess the rationale for requiring laws to be in written form to ensure fairness in application.",
+  "prompt": "Laws must be in written form to avoid unfairness in application.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Laws must be in written form because there is a risk of unfairness in application otherwise. This is crucial for maintaining order and ensuring fair treatment in society. Written laws provide clarity and allow individuals to understand their rights and responsibilities. Without written laws, enforcement can become arbitrary, leading to potential abuse of power."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p716",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "risk-return",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Active Management and Performance Measurement: An investor's risk aversion coefficient of A=4 suggests that the...",
+  "summary": "Interpret the risk aversion coefficient in the investor utility function.",
+  "prompt": "An investor's risk aversion coefficient of A=4 suggests that the investor is relatively risk-seeking.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "A higher risk aversion coefficient (A>1) indicates that the investor is risk-averse, preferring safer investments to the higher potential returns of riskier assets."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p741",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "debt-to-equity",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: If a firm increases its debt, the expected return on...",
+  "summary": "Assess how increasing debt affects expected return on equity under Modigliani-Miller.",
+  "prompt": "If a firm increases its debt, the expected return on equity will decrease as per the Modigliani-Miller theorem.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "According to Modigliani-Miller, increasing debt increases the financial risk to equity holders, which typically raises the expected return on equity due to the increased risk premium demanded by investors."
+}

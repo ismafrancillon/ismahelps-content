@@ -1,0 +1,32 @@
+{
+  "id": "p731",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Equity and Capital Structure",
+  "subtopic": "Forms of Equity Investment",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "risk-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Forms of Equity Investment: Equity investments in real estate always involve high risk and...",
+  "summary": "Evaluate the risk-return profile of equity investments in real estate.",
+  "prompt": "Equity investments in real estate always involve high risk and low returns.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While equity investments carry risks, they can also yield high returns, particularly in favorable market conditions. Understanding the balance of risk and reward is crucial for investors."
+}

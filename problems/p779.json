@@ -1,0 +1,33 @@
+{
+  "id": "p779",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "internal-users",
+    "decision-making",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Managerial Accounting: Managerial accounting primarily serves internal...",
+  "summary": "Identify the primary users of managerial accounting as internal managers and executives.",
+  "prompt": "Managerial accounting primarily serves internal users of financial information.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Managerial accounting is distinct from financial accounting in that it focuses on providing information primarily to internal users like managers and executives. This internal focus allows for tailored financial data that aids in decision-making and performance evaluation. As stated in the notes, the distinguishing features of managerial accounting include its primary users being internal (Page 9)."
+}

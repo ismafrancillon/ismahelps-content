@@ -1,0 +1,33 @@
+{
+  "id": "p753",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Introduction to Law",
+  "subtopic": "Civil vs Common Law",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "civil-law",
+    "common-law",
+    "quebec-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Civil vs Common Law: The Civil Code is codified into one rule book in...",
+  "summary": "Evaluate whether the Civil Code of Quebec is codified into a single comprehensive rule book.",
+  "prompt": "The Civil Code is codified into one rule book in Quebec.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The Civil Code in Quebec is a comprehensive codification of laws dealing with matters of civil law, including obligations, property, and family law. It serves as the primary source of private legal rules in Quebec, guiding civil-related legal matters. This codification contrasts with the common law system used in other provinces in Canada."
+}

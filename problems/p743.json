@@ -1,0 +1,33 @@
+{
+  "id": "p743",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "cost-of-debt",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporate Financing Decisions: The pecking order theory states that firms prefer to finance...",
+  "summary": "Describe the pecking-order theory's financing preference: retained earnings, then debt, then equity.",
+  "prompt": "The pecking order theory states that firms prefer to finance new investments first with debt, then with equity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The pecking order theory suggests that firms prefer to finance new investments first with retained earnings, then with debt, and lastly with equity, to avoid dilution and transaction costs."
+}

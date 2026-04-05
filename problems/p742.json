@@ -1,0 +1,32 @@
+{
+  "id": "p742",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Structure",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Capital Structure: The capital structure of a firm has no impact on...",
+  "summary": "Analyze capital structure concepts and their impact on firm value.",
+  "prompt": "The capital structure of a firm has no impact on its cost of equity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The capital structure affects the cost of equity by altering the risk profile of equity holders. More debt increases financial risk, which typically raises the cost of equity as investors demand higher returns."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p715",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Active Management and Performance Measurement: Active management of a portfolio always results in higher returns...",
+  "summary": "Assess whether active portfolio management consistently outperforms passive strategies after costs.",
+  "prompt": "Active management of a portfolio always results in higher returns compared to passive management.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While active management aims to outperform passive strategies through selective security investment and market timing, empirical evidence suggests that many active managers fail to consistently achieve higher returns than market indices. The higher fees associated with active management can further erode returns, leading to the conclusion that passive strategies, which typically involve lower costs, may offer better long-term performance for the average investor. Thus, active management does not guarantee superior returns."
+}

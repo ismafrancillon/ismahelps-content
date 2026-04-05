@@ -1,0 +1,32 @@
+{
+  "id": "p772",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Investing and Financing Decisions",
+  "subtopic": "Cash Basis Accounting",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cash-basis-accounting",
+    "revenue-recognition",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cash Basis Accounting: Revenue is recognized when cash is received in cash basis...",
+  "summary": "Apply cash basis accounting principles where revenue and expenses are recognized upon cash exchange.",
+  "prompt": "Revenue is recognized when cash is received in cash basis accounting. True or False?",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "In cash basis accounting, revenue is recognized only when cash is received, which means that transactions are recorded only when cash changes hands. This approach is simpler but may not accurately reflect a company's financial status, as it does not account for receivables or payables. Understanding this principle is crucial for distinguishing between cash and accrual accounting methods."
+}

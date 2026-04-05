@@ -1,0 +1,32 @@
+{
+  "id": "p769",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Adjustments and Quality of Earnings",
+  "subtopic": "Temporary vs. Permanent Accounts",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "temporary-accounts",
+    "closing-entries",
+    "accounting-cycle",
+    "true-false"
+  ],
+  "title": "Temporary vs. Permanent Accounts: Temporary accounts are reset to zero at the end of...",
+  "summary": "Assess whether temporary accounts are closed to zero at the end of each accounting period.",
+  "prompt": "Temporary accounts are reset to zero at the end of each accounting period.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Temporary accounts, such as revenues and expenses, are closed at the end of the accounting period, and their balances are transferred to the retained earnings account. This process ensures that they start with a zero balance in the next accounting period."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p706",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Options on Stock Indices and Currencies",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Options on Stock Indices and Currencies: Options on stock indices are typically less liquid than options...",
+  "summary": "Assess the relative liquidity of options on stock indices compared to individual stock options.",
+  "prompt": "Options on stock indices are typically less liquid than options on individual stocks.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. Options on stock indices are generally more liquid than options on individual stocks. Index options attract more trading volume because they allow investors to hedge or speculate on the overall market movement rather than on individual stock performance, leading to greater liquidity. This liquidity aspect is important for traders looking to enter or exit positions efficiently in the market."
+}

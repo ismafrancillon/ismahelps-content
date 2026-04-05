@@ -1,0 +1,32 @@
+{
+  "id": "p722",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Portfolio Management Techniques",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Portfolio Management Techniques: The Treynor-Black model suggests that investors should invest all their...",
+  "summary": "Evaluate the Treynor-Black model for mixing active and passive portfolio strategies.",
+  "prompt": "The Treynor-Black model suggests that investors should invest all their capital in the active portfolio that has the highest alpha.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The Treynor-Black model advocates for a mixed strategy, where investors combine an active portfolio with a passive market index fund. The model emphasizes the importance of diversification and suggests that the proportion invested in the active portfolio should be based on its alpha relative to the overall portfolio's risk and expected return. It does not advocate for investing all capital in a single active portfolio, as this would expose the investor to unnecessary risk."
+}

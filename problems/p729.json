@@ -1,0 +1,32 @@
+{
+  "id": "p729",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Comparable Sales Approach",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation",
+    "market-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Comparable Sales Approach: A property’s value is determined solely by its location and...",
+  "summary": "Analyze a real estate finance concept related to Comparable Sales Approach.",
+  "prompt": "A property’s value is determined solely by its location and physical characteristics, ignoring market conditions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "False. While location and physical characteristics are critical factors in determining a property's value, market conditions, including supply and demand dynamics, economic trends, and interest rates, also play a vital role. Understanding the interplay between these factors is essential for real estate investors and professionals, as it impacts valuation, investment strategies, and market analysis. These concepts are central to developing accurate property valuations and investment decisions."
+}

@@ -1,0 +1,32 @@
+{
+  "id": "p704",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Interest Rates",
+  "subtopic": "Types of Interest Rates",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "interest-rates",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Types of Interest Rates: If an investor expects interest rates to fall, they should...",
+  "summary": "Assess whether selling futures is appropriate when expecting interest rates to fall.",
+  "prompt": "If an investor expects interest rates to fall, they should consider selling short-term futures contracts.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. If an investor expects interest rates to fall, they would typically consider buying short-term futures contracts to benefit from the potential price appreciation of the underlying assets. Selling short-term futures would not align with the expectation of falling interest rates. Understanding the relationship between interest rates and futures pricing is crucial for effective trading strategies. This concept is discussed in the \"Interest Rates\" section from Document 22 on Page 45."
+}

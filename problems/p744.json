@@ -1,0 +1,33 @@
+{
+  "id": "p744",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Forms of Business Ownership",
+  "subtopic": "Corporation",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "business-law",
+    "compliance",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Corporation: A company must file an annual registration form with the...",
+  "summary": "Identify the governmental bodies with which a corporation must file annual registration.",
+  "prompt": "A company must file an annual registration form with the provincial government if incorporated federally.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "A federally incorporated company must file an annual registration form with both the federal government and the province in which it operates. This requirement ensures that the company remains in good standing and complies with regulations."
+}

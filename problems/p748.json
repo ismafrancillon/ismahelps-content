@@ -1,0 +1,33 @@
+{
+  "id": "p748",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Principles of Contract Law",
+  "subtopic": "Definition of Contracts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "contracts",
+    "mandate",
+    "agency-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Definition of Contracts: A mandate can be both...",
+  "summary": "Evaluate whether a mandate can be both gratuitous and onerous under civil law.",
+  "prompt": "A mandate can be both gratuitous and onerous.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "A mandate can be either gratuitous, where the mandatary performs the task without payment, or onerous, where the mandatary is compensated for their services. This flexibility allows for various arrangements in business and personal dealings."
+}

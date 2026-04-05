@@ -1,0 +1,33 @@
+{
+  "id": "p754",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Ethics",
+  "subtopic": "Defining Ethics",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "ethics",
+    "separation-of-powers",
+    "government-structure",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Defining Ethics: The principle of separation of powers involves the division of...",
+  "summary": "Evaluate the principle of separation of powers dividing legislative, executive, and judicial functions.",
+  "prompt": "The principle of separation of powers involves the division of legislative, executive, and judicial functions.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The principle of separation of powers ensures that no one branch of government becomes too powerful by dividing responsibilities among the legislative, executive, and judicial branches. This structure promotes checks and balances within the government system."
+}

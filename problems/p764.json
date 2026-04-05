@@ -1,0 +1,34 @@
+{
+  "id": "p764",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Mergers and Acquisitions",
+  "subtopic": "NPV",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "m&a",
+    "merger-analysis",
+    "npv",
+    "synergies",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "NPV: The NPV of a merger can be calculated by subtracting...",
+  "summary": "Assess merger value creation using NPV analysis comparing synergies to acquisition costs.",
+  "prompt": "The NPV of a merger can be calculated by subtracting the price paid for the target from the combined value of the acquirer and target.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The NPV of a merger represents the additional value created for the acquirer by combining with the target, calculated as the difference between the synergy created and the price paid for the target."
+}

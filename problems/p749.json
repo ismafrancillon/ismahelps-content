@@ -1,0 +1,33 @@
+{
+  "id": "p749",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Non-Competition Clause",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "contracts",
+    "non-compete",
+    "employment-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Non-Competition Clause: A non-competition clause must be reasonable in terms of time,...",
+  "summary": "Evaluate the requirements for a non-competition clause to be valid regarding scope and duration.",
+  "prompt": "A non-competition clause must be reasonable in terms of time, place, and type of employment.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "According to CCQ 2089, non-competition clauses must be limited in scope to protect the legitimate interests of the employer. They should be reasonable in terms of duration and geographical area, ensuring that the employee is not unduly restricted in their future employment opportunities."
+}

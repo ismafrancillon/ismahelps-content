@@ -1,0 +1,32 @@
+{
+  "id": "p730",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "REIT and Housing Finance",
+  "subtopic": "REIT Qualifications",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "shareholders",
+    "revenues",
+    "true-false"
+  ],
+  "title": "REIT Qualifications: A real estate company must pay at least 0.9 of...",
+  "summary": "Evaluate the REIT requirement to distribute at least 90% of taxable income.",
+  "prompt": "A real estate company must pay at least 90% of its taxable income to qualify as a REIT.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "False. To qualify as a Real Estate Investment Trust (REIT), a company must distribute at least 90% of its taxable income as dividends to shareholders. This requirement allows REITs to avoid corporate taxes, incentivizing investment in real estate. Students must understand the REIT structure as it informs investment strategies and tax implications for real estate portfolios. Understanding these regulations is essential for anyone involved in real estate finance or investment."
+}

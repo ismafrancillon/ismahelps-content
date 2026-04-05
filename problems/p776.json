@@ -1,0 +1,33 @@
+{
+  "id": "p776",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Statement of Cash Flows",
+  "subtopic": "Cash Flows from Operations",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "cash-flow-statement",
+    "financial-statements",
+    "liquidity",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cash Flows from Operations: The statement of cash flows provides information on a company's...",
+  "summary": "Apply financial ratio analysis to evaluate company performance.",
+  "prompt": "The statement of cash flows provides information on a company's cash inflows and outflows.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The statement of cash flows is essential for understanding how a company manages its cash, detailing the cash generated and used in operating, investing, and financing activities."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p705",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Factors Affecting Option Prices",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "call-option",
+    "option-pricing",
+    "interest-rates",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Factors Affecting Option Prices: In an increasing interest rate environment, the price of call...",
+  "summary": "Identify key factors affecting option prices: volatility, time, underlying price, and interest rates.",
+  "prompt": "In an increasing interest rate environment, the price of call options generally tends to rise.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. In an increasing interest rate environment, the price of call options generally tends to decrease. Higher interest rates increase the cost of carry for holding the underlying asset, which can lead to lower call option premiums. Understanding the relationship between interest rates and option pricing is critical for traders and investors in options markets. This concept is discussed in the \"Call (Advanced)\" section from Document 15 on Page 29."
+}

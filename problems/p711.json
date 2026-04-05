@@ -1,0 +1,32 @@
+{
+  "id": "p711",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Derivative Instruments",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "hedging",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Derivative Instruments: The primary purpose of options is to hedge against price...",
+  "summary": "Evaluate whether derivatives primarily serve hedging, speculation, or both.",
+  "prompt": "The primary purpose of options is to hedge against price movements in the underlying asset.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "While options can be used for hedging, they are also commonly used for speculation, allowing traders to profit from expected price movements without the obligation to buy or sell the underlying asset. [[24]]"
+}

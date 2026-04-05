@@ -1,0 +1,33 @@
+{
+  "id": "p714",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Equilibrium in Capital Markets",
+  "subtopic": "Market Efficiency",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "diversification",
+    "systematic-risk",
+    "unsystematic-risk",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Market Efficiency: A well-diversified portfolio can eliminate systematic risk, leaving only unsystematic...",
+  "summary": "Evaluate whether diversification can eliminate unsystematic risk in a portfolio.",
+  "prompt": "A well-diversified portfolio can eliminate systematic risk, leaving only unsystematic risk.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "Systematic risk, also known as market risk, cannot be eliminated through diversification as it affects all securities within the market. While unsystematic risk, which is specific to individual securities, can be mitigated by holding a diversified portfolio, systematic risk remains present regardless of the number of assets in the portfolio. Thus, investors must accept some level of systematic risk in any investment."
+}

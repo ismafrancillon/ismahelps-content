@@ -1,0 +1,33 @@
+{
+  "id": "p790",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Fundamental Determinants of Growth",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "return-on-equity",
+    "cost-of-equity",
+    "growth-rate",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Fundamental Determinants of Growth: The excess return of a firm is calculated as the...",
+  "summary": "Calculate excess return as the difference between ROE and the cost of equity.",
+  "prompt": "The excess return of a firm is calculated as the difference between its return on equity (ROE) and the cost of equity.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Excess return represents the additional return that a firm generates over its cost of equity. It is calculated as ROE minus the cost of equity, indicating how well a firm is performing relative to its expected return."
+}

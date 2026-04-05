@@ -1,0 +1,33 @@
+{
+  "id": "p762",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "irr",
+    "capital-budgeting",
+    "discount-rate",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "IRR: The internal rate of return (IRR) is the discount rate...",
+  "summary": "Evaluate or calculate the internal rate of return for project decision-making.",
+  "prompt": "The internal rate of return (IRR) is the discount rate that makes the NPV of a project equal to zero.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "The IRR represents the rate of growth a project is expected to generate. By finding the rate at which the present value of cash inflows equals the initial investment, decision-makers can evaluate the project's profitability and compare it to the required rate of return."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "p774",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Depreciation Methods",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "depreciation",
+    "long-lived-assets",
+    "carrying-value",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Depreciation Methods: Depreciation expense reduces the carrying amount of an asset over...",
+  "summary": "Assess how depreciation expense reduces the carrying amount of an asset over its useful life.",
+  "prompt": "Depreciation expense reduces the carrying amount of an asset over its useful life.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "Depreciation expense systematically allocates the cost of a tangible asset over its useful life, reducing the asset's carrying amount on the balance sheet. This principle is essential in accounting for long-lived assets."
+}

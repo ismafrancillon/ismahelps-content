@@ -1,0 +1,32 @@
+{
+  "id": "p734",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "true_false",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "cash-flows",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Income Approach: The income approach to property valuation is based solely on...",
+  "summary": "Calculate the future value of a property based on an annual appreciation rate.",
+  "prompt": "The income approach to property valuation is based solely on the expected future price appreciation of the property.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "The income approach focuses on the cash flow potential of a property, specifically the net operating income generated over time, rather than just price appreciation. This is essential for investment analysis."
+}

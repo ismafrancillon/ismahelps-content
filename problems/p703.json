@@ -1,0 +1,32 @@
+{
+  "id": "p703",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Cross Hedging",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Cross Hedging: If a company hedges its foreign exchange risk with a...",
+  "summary": "Distinguish futures from forward contracts based on standardization and exchange trading.",
+  "prompt": "If a company hedges its foreign exchange risk with a forward contract, it is guaranteed to eliminate all currency risk.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "0",
+  "answer_text": "FALSE",
+  "answer_format": "boolean",
+  "solution": "This statement is false. While forward contracts can effectively lock in exchange rates and mitigate currency risk, they do not guarantee the elimination of all risks associated with foreign exchange transactions. Factors such as counterparty risk and changes in market conditions can still introduce risks. Understanding the limitations of hedging instruments is essential for effective risk management. This concept is discussed in the \"Cross Hedging\" section from Document 33 on Page 76."
+}

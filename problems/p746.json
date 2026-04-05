@@ -1,0 +1,33 @@
+{
+  "id": "p746",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Principles of Contract Law",
+  "subtopic": "Definition of Contracts",
+  "question_type": "true_false",
+  "difficulty": "Easy",
+  "tags": [
+    "contracts",
+    "mandate",
+    "agency-law",
+    "conceptual",
+    "true-false"
+  ],
+  "title": "Definition of Contracts: A contract of mandate allows the agent to represent the...",
+  "summary": "Assess whether a mandate contract grants an agent authority to represent the principal.",
+  "prompt": "A contract of mandate allows the agent to represent the principal in deals with third parties.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    }
+  ],
+  "correct_option": "True",
+  "answer_text": "TRUE",
+  "answer_format": "boolean",
+  "solution": "A mandate is a contract of representation where the mandator empowers the mandatory to act on their behalf in dealings with third parties. This grants the mandatary the authority to bind the mandator to agreements."
+}
