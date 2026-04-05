@@ -1,0 +1,16 @@
+{
+  "id": "v28",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Pricing Stocks",
+  "tags": [
+    "capm",
+    "security-market-line",
+    "stock-pricing"
+  ],
+  "title": "How to price stocks with the Security Market Line (SML)",
+  "summary": "Price individual stocks using the security market line relationship between beta and expected return in CAPM.",
+  "thumbnail": "https://i.ytimg.com/vi/Achd1BTt0Fw/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=Achd1BTt0Fw"
+}

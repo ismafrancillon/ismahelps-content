@@ -1,0 +1,16 @@
+{
+  "id": "v21",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Cash Flow Estimation",
+  "subtopic": "Operating Cash Flows",
+  "tags": [
+    "cash-flow-estimation",
+    "operating-cash-flows",
+    "depreciation"
+  ],
+  "title": "Explaining operating cash flows",
+  "summary": "Understand how to derive operating cash flows from revenue, costs, depreciation, and taxes for project evaluation.",
+  "thumbnail": "https://i.ytimg.com/vi/b6NiAwz_dis/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=b6NiAwz_dis"
+}

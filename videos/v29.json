@@ -1,0 +1,16 @@
+{
+  "id": "v29",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "CAPM Graphs",
+  "tags": [
+    "capm",
+    "security-market-line",
+    "capm-graphs"
+  ],
+  "title": "Explaining CAPM graphs for beginners (SML, CML, CAL, etc.)",
+  "summary": "Visual guide to key CAPM graphs including the SML, CML, and CAL with intuitive explanations for beginners.",
+  "thumbnail": "https://i.ytimg.com/vi/M0r1eQuvwX8/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=M0r1eQuvwX8"
+}

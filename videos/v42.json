@@ -1,0 +1,18 @@
+{
+  "id": "v42",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "portfolio",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate the beta of individual stocks in a portfolio (JP Morgan example)",
+  "summary": "Compute portfolio beta with JP Morgan as a component, illustrating weighted average beta across holdings.",
+  "thumbnail": "https://i.ytimg.com/vi/Y_Pte9LH4Go/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=Y_Pte9LH4Go"
+}

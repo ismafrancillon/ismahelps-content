@@ -1,0 +1,18 @@
+{
+  "id": "v40",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "portfolio",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate the beta of individual stocks in a portfolio (Tesla example)",
+  "summary": "Walk through portfolio beta computation using a Tesla-based example with weighted systematic risk contributions.",
+  "thumbnail": "https://i.ytimg.com/vi/6LaxTzQ8qNY/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=6LaxTzQ8qNY"
+}

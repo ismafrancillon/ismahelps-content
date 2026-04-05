@@ -1,0 +1,18 @@
+{
+  "id": "v60",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff Diagram",
+  "tags": [
+    "options",
+    "payoff-diagram",
+    "call-options",
+    "put-options",
+    "option-pricing"
+  ],
+  "title": "How to price options using payoff diagrams (Sell 1 Call & Buy 3 Puts)",
+  "summary": "Draw the payoff diagram for selling one call and buying three puts to assess risk and reward profiles.",
+  "thumbnail": "https://i.ytimg.com/vi/pkXiEqF_qc8/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=pkXiEqF_qc8"
+}

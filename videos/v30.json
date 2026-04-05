@@ -1,0 +1,17 @@
+{
+  "id": "v30",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "SML",
+  "tags": [
+    "capm",
+    "security-market-line",
+    "expected-return",
+    "theory"
+  ],
+  "title": "Explaining the Security Market Line (SML)",
+  "summary": "Understand the security market line as a graphical representation of CAPM linking beta to expected return.",
+  "thumbnail": "https://i.ytimg.com/vi/-UDNsfs72vM/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=-UDNsfs72vM"
+}

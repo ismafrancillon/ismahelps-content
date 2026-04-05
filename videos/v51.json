@@ -1,0 +1,17 @@
+{
+  "id": "v51",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Pricing Stocks",
+  "tags": [
+    "capm",
+    "stock-pricing",
+    "mispricing",
+    "expected-return"
+  ],
+  "title": "How to price stocks according to CAPM (Underpriced, Overpriced, or Fairly-Priced)",
+  "summary": "Classify stocks as underpriced, overpriced, or fairly priced by comparing expected returns to the CAPM benchmark.",
+  "thumbnail": "https://i.ytimg.com/vi/gSYqHwmsUN0/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=gSYqHwmsUN0"
+}

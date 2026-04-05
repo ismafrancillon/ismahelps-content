@@ -1,0 +1,18 @@
+{
+  "id": "v93",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Ex-ante",
+  "tags": [
+    "portfolio-theory",
+    "portfolio-risk",
+    "ex-ante",
+    "capm",
+    "calculation"
+  ],
+  "title": "How to calculate ex-ante returns and risk",
+  "summary": "Compute expected returns and risk using ex-ante probability-weighted scenarios before actual outcomes are observed.",
+  "thumbnail": "https://i.ytimg.com/vi/F8vij_RG7cM/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=F8vij_RG7cM"
+}

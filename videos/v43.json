@@ -1,0 +1,18 @@
+{
+  "id": "v43",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "portfolio",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate the new beta of a portfolio",
+  "summary": "Determine the new beta of a portfolio after adding or removing assets by recalculating weighted contributions.",
+  "thumbnail": "https://i.ytimg.com/vi/F_6Wc36kxCs/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=F_6Wc36kxCs"
+}

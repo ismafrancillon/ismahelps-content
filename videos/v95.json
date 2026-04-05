@@ -1,0 +1,17 @@
+{
+  "id": "v95",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Stock Portfolio",
+  "tags": [
+    "portfolio-theory",
+    "efficient-frontier",
+    "capm",
+    "portfolio-construction"
+  ],
+  "title": "How to build a stock portfolio by using the Efficient Frontier, CAL, and SML",
+  "summary": "Construct an optimal stock portfolio using the efficient frontier, capital allocation line, and security market line.",
+  "thumbnail": "https://i.ytimg.com/vi/HXBE7TFEjPo/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=HXBE7TFEjPo"
+}

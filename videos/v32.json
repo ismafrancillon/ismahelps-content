@@ -1,0 +1,17 @@
+{
+  "id": "v32",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "SML",
+  "tags": [
+    "capm",
+    "security-market-line",
+    "asset-pricing",
+    "theory"
+  ],
+  "title": "Explaining the security market line (SML)",
+  "summary": "Detailed walkthrough of the security market line concept, its slope, intercept, and use in asset pricing.",
+  "thumbnail": "https://i.ytimg.com/vi/0Ox0C2xWDfk/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=0Ox0C2xWDfk"
+}

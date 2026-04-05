@@ -1,0 +1,16 @@
+{
+  "id": "v67",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Principal over Interest",
+  "tags": [
+    "time-value-of-money",
+    "principal-interest",
+    "calculation"
+  ],
+  "title": "How to calculate principal over interest using TVM",
+  "summary": "Separate loan payments into principal and interest components using time value of money amortization logic.",
+  "thumbnail": "https://i.ytimg.com/vi/KFp4aY-kyzY/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=KFp4aY-kyzY"
+}

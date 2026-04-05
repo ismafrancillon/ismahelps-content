@@ -1,0 +1,16 @@
+{
+  "id": "v22",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Cash Flow Estimation",
+  "subtopic": "Net Working Capital (NWC)",
+  "tags": [
+    "cash-flow-estimation",
+    "net-working-capital",
+    "nwc-recapture"
+  ],
+  "title": "Explaining net working capital (NWC), Change in NWC, and NWC Recapture",
+  "summary": "Explain net working capital, its period-over-period changes, and how NWC recapture affects terminal cash flows.",
+  "thumbnail": "https://i.ytimg.com/vi/iEjfYBm00W4/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=iEjfYBm00W4"
+}

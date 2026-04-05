@@ -1,0 +1,17 @@
+{
+  "id": "v36",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate returns per unit of Beta",
+  "summary": "Compute the return earned per unit of systematic risk (beta) to compare the efficiency of different assets.",
+  "thumbnail": "https://i.ytimg.com/vi/XATtdT5KhKc/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=XATtdT5KhKc"
+}

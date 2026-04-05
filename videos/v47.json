@@ -1,0 +1,16 @@
+{
+  "id": "v47",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Pricing Stocks",
+  "tags": [
+    "capm",
+    "stock-pricing",
+    "calculation"
+  ],
+  "title": "How to solve for the price of an asset using CAPM",
+  "summary": "Use CAPM to determine the fair price of an asset based on its expected return, beta, and market conditions.",
+  "thumbnail": "https://i.ytimg.com/vi/_89Hy4RZNdw/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=_89Hy4RZNdw"
+}

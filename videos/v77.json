@@ -1,0 +1,16 @@
+{
+  "id": "v77",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Effective Rates",
+  "tags": [
+    "time-value-of-money",
+    "effective-rates",
+    "quoted-rates"
+  ],
+  "title": "Understanding quoted and effective rates",
+  "summary": "Understand the difference between quoted (nominal) and effective interest rates and why compounding frequency matters.",
+  "thumbnail": "https://i.ytimg.com/vi/GdkAY6x-J3c/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=GdkAY6x-J3c"
+}

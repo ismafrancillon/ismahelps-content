@@ -1,0 +1,17 @@
+{
+  "id": "v97",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Diversification",
+  "tags": [
+    "portfolio-theory",
+    "diversification",
+    "risk-reduction",
+    "unsystematic-risk"
+  ],
+  "title": "Portfolio diversification explained",
+  "summary": "Conceptual explanation of portfolio diversification showing how combining assets with low correlation reduces overall investment risk.",
+  "thumbnail": "https://i.ytimg.com/vi/ODT_mTY5vSc/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=ODT_mTY5vSc"
+}

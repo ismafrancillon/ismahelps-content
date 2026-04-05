@@ -1,0 +1,18 @@
+{
+  "id": "v45",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "portfolio",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate a portfolio's Beta using CAPM",
+  "summary": "Use CAPM inputs to compute a portfolio's aggregate beta and link it to expected return on the portfolio.",
+  "thumbnail": "https://i.ytimg.com/vi/9SvQw9kiWk0/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=9SvQw9kiWk0"
+}

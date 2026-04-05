@@ -1,0 +1,18 @@
+{
+  "id": "v58",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff Diagram",
+  "tags": [
+    "options",
+    "payoff-diagram",
+    "call-options",
+    "put-options",
+    "option-pricing"
+  ],
+  "title": "How to price options using payoff diagrams (Buy 1 Call & 1 Put and Sell 1 Call & 1 Put)",
+  "summary": "Analyze a combined payoff diagram from buying and selling both a call and a put at different strike prices.",
+  "thumbnail": "https://i.ytimg.com/vi/MZmUqfqaiiw/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=MZmUqfqaiiw"
+}

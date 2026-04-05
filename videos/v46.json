@@ -1,0 +1,18 @@
+{
+  "id": "v46",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "portfolio",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate the beta of a portfolio of stocks",
+  "summary": "Step-by-step calculation of portfolio beta from individual stock betas and their respective investment weights.",
+  "thumbnail": "https://i.ytimg.com/vi/tU-RvvPY440/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=tU-RvvPY440"
+}

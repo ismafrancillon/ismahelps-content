@@ -1,0 +1,17 @@
+{
+  "id": "v55",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff Diagram",
+  "tags": [
+    "options",
+    "payoff-diagram",
+    "put-options",
+    "option-pricing"
+  ],
+  "title": "How to price options using payoff diagrams (Buy 1 Put & Sell 2 Puts)",
+  "summary": "Construct a payoff diagram combining buying one put and selling two puts to analyze net option profit.",
+  "thumbnail": "https://i.ytimg.com/vi/ddDEZ_Fll8M/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=ddDEZ_Fll8M"
+}

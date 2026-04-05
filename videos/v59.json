@@ -1,0 +1,18 @@
+{
+  "id": "v59",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff Diagram",
+  "tags": [
+    "options",
+    "payoff-diagram",
+    "call-options",
+    "put-options",
+    "option-pricing"
+  ],
+  "title": "How to price options using payoff diagrams (Buy 1 Call & Buy 1 Put)",
+  "summary": "Construct and interpret a straddle payoff diagram by combining a long call and a long put on the same asset.",
+  "thumbnail": "https://i.ytimg.com/vi/NLXFtq7z004/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=NLXFtq7z004"
+}

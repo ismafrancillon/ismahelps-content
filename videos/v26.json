@@ -1,0 +1,16 @@
+{
+  "id": "v26",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "calculation"
+  ],
+  "title": "How to solve for Beta using CAPM",
+  "summary": "Rearrange the CAPM formula to isolate and solve for beta given expected return, risk-free rate, and market premium.",
+  "thumbnail": "https://i.ytimg.com/vi/4T9DktqfP9U/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=4T9DktqfP9U"
+}

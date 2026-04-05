@@ -1,0 +1,17 @@
+{
+  "id": "v61",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff Diagram",
+  "tags": [
+    "options",
+    "payoff-diagram",
+    "call-options",
+    "option-pricing"
+  ],
+  "title": "How to price options using payoff diagrams (Buy 1 Call & Sell 1 Call)",
+  "summary": "Visualize the payoff from buying one call and selling one call at different strikes using diagram analysis.",
+  "thumbnail": "https://i.ytimg.com/vi/wwlFVxtPxeo/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=wwlFVxtPxeo"
+}

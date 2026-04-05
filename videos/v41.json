@@ -1,0 +1,18 @@
+{
+  "id": "v41",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "tags": [
+    "capm",
+    "beta",
+    "portfolio",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate the beta of individual stocks in a portfolio (PepsiCo example)",
+  "summary": "Calculate portfolio beta using PepsiCo stock data to demonstrate how individual betas aggregate in a portfolio.",
+  "thumbnail": "https://i.ytimg.com/vi/S4Uta1ES_SI/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=S4Uta1ES_SI"
+}

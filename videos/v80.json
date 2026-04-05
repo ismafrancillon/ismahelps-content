@@ -1,0 +1,16 @@
+{
+  "id": "v80",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Effective Rates",
+  "tags": [
+    "time-value-of-money",
+    "effective-rates",
+    "quoted-rates"
+  ],
+  "title": "How to convert Quoted Rates to Effective Rates",
+  "summary": "Practice converting quoted nominal rates to effective annual rates using the compounding frequency adjustment formula step by step.",
+  "thumbnail": "https://i.ytimg.com/vi/ReC4T0eZALc/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=ReC4T0eZALc"
+}

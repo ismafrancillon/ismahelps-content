@@ -1,0 +1,17 @@
+{
+  "id": "v19",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Weighted Average Cost of Capital (WACC)",
+  "subtopic": "Cost of Equity",
+  "tags": [
+    "wacc",
+    "cost-of-capital",
+    "cost-of-equity",
+    "calculation"
+  ],
+  "title": "How to solve for missing cost of equity or debt in the weighted average cost of capital (WACC)",
+  "summary": "Rearrange the WACC formula to isolate and solve for a missing cost of equity or cost of debt component.",
+  "thumbnail": "https://i.ytimg.com/vi/3mjMuYoPWCQ/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=3mjMuYoPWCQ"
+}

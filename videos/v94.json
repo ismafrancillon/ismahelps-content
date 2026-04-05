@@ -1,0 +1,18 @@
+{
+  "id": "v94",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Ex-post",
+  "tags": [
+    "portfolio-theory",
+    "portfolio-risk",
+    "ex-post",
+    "standard-deviation",
+    "capm"
+  ],
+  "title": "How to calculate ex-post risk (standard deviation of returns)",
+  "summary": "Calculate ex-post risk by computing the standard deviation of historical returns from realized performance data.",
+  "thumbnail": "https://i.ytimg.com/vi/Q8cA8kip_AY/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=Q8cA8kip_AY"
+}

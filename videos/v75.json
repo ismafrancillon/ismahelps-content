@@ -1,0 +1,16 @@
+{
+  "id": "v75",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Effective Rates",
+  "tags": [
+    "time-value-of-money",
+    "effective-rates",
+    "quoted-rates"
+  ],
+  "title": "How to convert Quoted Rates (QR) to Effective Annual Rates (EAR)",
+  "summary": "Convert between quoted annual rates and effective annual rates to accurately compare interest across compounding periods.",
+  "thumbnail": "https://i.ytimg.com/vi/6KQgNrLJD6c/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=6KQgNrLJD6c"
+}

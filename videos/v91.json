@@ -1,0 +1,16 @@
+{
+  "id": "v91",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Correlation & Covariance",
+  "tags": [
+    "time-value-of-money",
+    "correlation",
+    "covariance"
+  ],
+  "title": "Explaining correlation and covariance in finance",
+  "summary": "Distinguish between correlation and covariance as measures of how asset returns move together in portfolio analysis.",
+  "thumbnail": "https://i.ytimg.com/vi/ncd4sT_uL9Y/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=ncd4sT_uL9Y"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "v35",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Risk-free Rate",
+  "tags": [
+    "capm",
+    "risk-free-rate",
+    "calculation"
+  ],
+  "title": "How to solve for the Risk-Free Rate (Rf) using CAPM",
+  "summary": "Isolate the risk-free rate from the CAPM equation using known values of beta, expected return, and market premium.",
+  "thumbnail": "https://i.ytimg.com/vi/Dj086Zj7i5I/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=Dj086Zj7i5I"
+}

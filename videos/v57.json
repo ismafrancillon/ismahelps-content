@@ -1,0 +1,18 @@
+{
+  "id": "v57",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff Diagram",
+  "tags": [
+    "options",
+    "payoff-diagram",
+    "call-options",
+    "put-options",
+    "option-pricing"
+  ],
+  "title": "How to price options using payoff diagrams (Buy 1 Call, Buy 1 Put & Sell 2 Puts)",
+  "summary": "Combine buying a call, buying a put, and selling two puts into a single payoff diagram to find breakeven points.",
+  "thumbnail": "https://i.ytimg.com/vi/jpW462ZtzBk/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=jpW462ZtzBk"
+}

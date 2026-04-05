@@ -1,0 +1,16 @@
+{
+  "id": "v92",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Risk",
+  "tags": [
+    "portfolio-theory",
+    "portfolio-risk",
+    "calculation"
+  ],
+  "title": "How to solve portfolio risk exam questions",
+  "summary": "Calculate portfolio risk using variance, covariance, and asset weight inputs for a multi-asset portfolio.",
+  "thumbnail": "https://i.ytimg.com/vi/HQpW6iQCJ5Y/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=HQpW6iQCJ5Y"
+}

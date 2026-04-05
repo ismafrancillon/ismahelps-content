@@ -1,0 +1,17 @@
+{
+  "id": "v50",
+  "content_type": "video",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Alpha",
+  "tags": [
+    "capm",
+    "alpha",
+    "capm-graphs",
+    "calculation"
+  ],
+  "title": "How to calculate the alpha of a stock",
+  "summary": "Compute Jensen's alpha to measure a stock's excess return relative to its CAPM-predicted expected return.",
+  "thumbnail": "https://i.ytimg.com/vi/AMa6a7Z95hk/hqdefault.jpg",
+  "youtube_url": "https://www.youtube.com/watch?v=AMa6a7Z95hk"
+}
