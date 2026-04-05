@@ -1,0 +1,23 @@
+{
+  "id": "p521",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Sharpe Ratio",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "risk-return",
+    "calculation",
+    "application"
+  ],
+  "title": "Sharpe Ratio: The expected return of Security A is 0.12 with a...",
+  "summary": "Calculate the Sharpe ratio of a portfolio using expected return, risk-free rate, and standard deviation.",
+  "prompt": "The expected return of Security A is 12% with a standard deviation of 16%. The expected return of Security B is 7% with a standard deviation of 18%. Securities A and B have a correlation of 0.7. The market return is 15% with a standard deviation of 15% and the risk-free rate is 2%. What is the Sharpe ratio of a portfolio if 45% of the portfolio is in Security A and the remainder in Security B?",
+  "options": [],
+  "correct_option": "0.4045",
+  "answer_text": "0.4045",
+  "answer_format": "numeric_decimal",
+  "solution": "To compute the Sharpe ratio of the portfolio consisting of Securities A and B, we will follow these steps:\n\n### Step 1: Calculate the Expected Return of the Portfolio\n\nThe expected return of the portfolio (\\(E(R_p)\\)) can be calculated using the weighted average of the expected returns of the individual securities:\n\n\\[\nE(R_p) = w_A \\cdot E(R_A) + w_B \\cdot E(R_B)\n\\]\n\nWhere:\n- \\(w_A = 0.45\\) (weight of Security A)\n- \\(w_B = 0.55\\) (weight of Security B, which is \\(1 - w_A\\))\n- \\(E(R_A) = 12\\%\\)\n- \\(E(R_B) = 7\\%\\)\n\nSubstituting the values:\n\\[\nE(R_p) = 0.45 \\cdot 0.12 + 0.55 \\cdot 0.07\n\\]\n\\[\nE(R_p) = 0.054 + 0.0385 = 0.0925 \\text{ or } 9.25\\%\n\\]\n\n### Step 2: Calculate the Standard Deviation of the Portfolio\n\nThe standard deviation (\\(\\sigma_p\\)) of the portfolio can be calculated using the formula for the standard deviation of a two-asset portfolio:\n\n\\[\n\\sigma_p = \\sqrt{(w_A \\cdot \\sigma_A)^2 + (w_B \\cdot \\sigma_B)^2 + 2 \\cdot w_A \\cdot w_B \\cdot \\sigma_A \\cdot \\sigma_B \\cdot \\text{correlation}}\n\\]\n\nWhere:\n- \\(\\sigma_A = 16\\%\\)\n- \\(\\sigma_B = 18\\%\\)\n- Correlation = 0.7\n\nSubstituting the values:\n\\[\n\\sigma_p = \\sqrt{(0.45 \\cdot 0.16)^2 + (0.55 \\cdot 0.18)^2 + 2 \\cdot 0.45 \\cdot 0.55 \\cdot 0.16 \\cdot 0.18 \\cdot 0.7}\n\\]\n\nCalculating each term:\n1. \\( (0.45 \\cdot 0.16)^2 = (0.072)^2 = 0.005184 \\)\n2. \\( (0.55 \\cdot 0.18)^2 = (0.099)^2 = 0.009801 \\)\n3. \\( 2 \\cdot 0.45 \\cdot 0.55 \\cdot 0.16 \\cdot 0.18 \\cdot 0.7 \\approx 2 \\cdot 0.45 \\cdot 0.55 \\cdot 0.0288 \\approx 0.017136 \\)\n\nNow, combine these:\n\\[\n\\sigma_p = \\sqrt{0.005184 + 0.009801 + 0.017136} \\approx \\sqrt{0.032121} \\approx 0.179 \\text{ or } 17.9\\%\n\\]\n\n### Step 3: Calculate the Sharpe Ratio\n\nThe Sharpe ratio (\\(S\\)) is calculated using the formula:\n\\[\nS = \\frac{E(R_p) - R_f}{\\sigma_p}\n\\]\n\nWhere:\n- \\(R_f = 2\\%\\)\n\nSubstituting the values:\n\\[\nS = \\frac{0.0925 - 0.02}{0.179} \\approx \\frac{0.0725}{0.179} \\approx 0.4045\n\\]\n\n### Final Answer\n\nThe Sharpe ratio of the portfolio is approximately **0.4045**."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p577",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: If a commercial property generates 600000 in gross revenue and...",
+  "summary": "Calculate or interpret NOI in real estate investment analysis.",
+  "prompt": "If a commercial property generates $600,000 in gross revenue and has operating expenses of $350,000, what is the net operating income (NOI)?",
+  "options": [],
+  "correct_option": "250000",
+  "answer_text": "250000",
+  "answer_format": "numeric_decimal",
+  "solution": "The Net Operating Income (NOI) is calculated as follows: NOI = Gross Revenue - Operating Expenses. Here, NOI = $600,000 - $350,000 = $250,000. Understanding NOI is crucial for assessing property performance and potential profitability, as it serves as a key measure for real estate investors when analyzing cash flow and investment opportunities. This financial metric is fundamental in the valuation and investment decision-making processes."
+}

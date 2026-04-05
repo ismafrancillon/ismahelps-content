@@ -1,0 +1,24 @@
+{
+  "id": "p542",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "growth-rate",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Dividend: ABC Inc.’ next dividend is expected to be $1.75, and...",
+  "summary": "Determine a stock's historical price using the DDM and discounting the current value backward.",
+  "prompt": "ABC Inc.’ next dividend is expected to be $1.75, and their dividend growth has been consistent at 7% per year. What is the stock price 5 years ago if investors require a 12% return?",
+  "options": [],
+  "correct_option": "19.86",
+  "answer_text": "19.86",
+  "answer_format": "numeric_decimal",
+  "solution": "To find the stock price of ABC Inc. 5 years ago using the constant growth Dividend Discount Model (DDM), we can follow these steps:\n\n### Step 1: Identify Key Variables\n- Next dividend (\\(D_1\\)) = $1.75\n- Growth rate (\\(g\\)) = 7% or 0.07\n- Required return (\\(K\\)) = 12% or 0.12\n\n### Step 2: Calculate the Current Stock Price\nUsing the constant growth DDM formula:\n\n\\[\nP_0 = \\frac{D_1}{K - g}\n\\]\n\nSubstituting the known values:\n\n\\[\nP_0 = \\frac{1.75}{0.12 - 0.07} = \\frac{1.75}{0.05} = 35\n\\]\n\n### Step 3: Calculate the Stock Price 5 Years Ago\nTo find the stock price 5 years ago (\\(P_5\\)), we need to discount the current price back 5 years at the required return:\n\n\\[\nP_5 = \\frac{P_0}{(1 + K)^5}\n\\]\n\nSubstituting the values:\n\n\\[\nP_5 = \\frac{35}{(1 + 0.12)^5} = \\frac{35}{(1.7623)} \\approx 19.86\n\\]\n\n### Conclusion\nThus, the stock price of ABC Inc. 5 years ago is approximately **$19.86**."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p563",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Process Cost Accounting",
+  "subtopic": "Equivalent Units of Production",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "process-costing",
+    "equivalent-units",
+    "weighted-average",
+    "calculation"
+  ],
+  "title": "Equivalent Units of Production: A process costing system has the following data: Beginning WIP...",
+  "summary": "Calculate equivalent units of production in a process costing system for partially completed inventory.",
+  "prompt": "A process costing system has the following data: Beginning WIP = 1,000 units (30% complete), Units Started = 5,000, Units Completed = 4,500, Ending WIP = 1,500 units (60% complete). Calculate equivalent units of production using the weighted-average method.",
+  "options": [],
+  "correct_option": "5700",
+  "answer_text": "5700",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Identify Key Variables** - Beginning WIP = 1,000, Started = 5,000, Completed = 4,500, Ending WIP = 1,500. **Step 2: Calculate Equivalent Units for Ending WIP** - Equivalent Units = Ending WIP * % Complete = 1,500 * 60% = 900. **Step 3: Total Equivalent Units** - Total Equivalent Units = Completed + Equivalent Units of Ending WIP = 4,500 + 900 = 5,400. **Step 4: Conclusion** - The equivalent units of production using the weighted-average method is 5,400."
+}

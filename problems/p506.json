@@ -1,0 +1,24 @@
+{
+  "id": "p506",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Weighted Average Cost of Capital (WACC)",
+  "subtopic": "Debt-to-Equity",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-capital",
+    "debt-to-equity",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Debt-to-Equity: A firm's market values of debt and equity are 200000...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "A firm's market values of debt and equity are $200,000 and $500,000, respectively. The before-tax cost of debt=5%; Rf = 3%; beta=1.06; the market risk premium =8%; and the tax rate = 25%. What is WACC?",
+  "options": [],
+  "correct_option": "0.0927",
+  "answer_text": "9.27%",
+  "answer_format": "numeric_percent",
+  "solution": "To calculate the Weighted Average Cost of Capital (WACC) for the firm, we will use the following formula:\n\n\\[\n\\text{WACC} = \\left( \\frac{E}{V} \\times K_e \\right) + \\left( \\frac{D}{V} \\times K_d \\times (1 - T) \\right)\n\\]\n\nWhere:\n- \\( E \\) = Market value of equity\n- \\( D \\) = Market value of debt\n- \\( V \\) = Total market value of financing (equity + debt)\n- \\( K_e \\) = Cost of equity\n- \\( K_d \\) = Cost of debt\n- \\( T \\) = Tax rate\n\n### Step 1: Calculate Total Market Value (V)\n\\[\nV = E + D = 500,000 + 200,000 = 700,000\n\\]\n\n### Step 2: Calculate Proportions of Debt and Equity\n\\[\n\\frac{E}{V} = \\frac{500,000}{700,000} = 0.7143\n\\]\n\\[\n\\frac{D}{V} = \\frac{200,000}{700,000} = 0.2857\n\\]\n\n### Step 3: Calculate Cost of Equity (K_e)\nUsing the Capital Asset Pricing Model (CAPM):\n\\[\nK_e = R_f + \\beta \\times \\text{Market Risk Premium}\n\\]\n\\[\nK_e = 3\\% + 1.06 \\times 8\\% = 3\\% + 8.48\\% = 11.48\\%\n\\]\n\n### Step 4: Calculate After-Tax Cost of Debt (K_d)\n\\[\nK_d = 5\\% \\quad \\text{(before-tax cost of debt)}\n\\]\n\\[\n\\text{After-tax } K_d = K_d \\times (1 - T) = 5\\% \\times (1 - 0.25) = 5\\% \\times 0.75 = 3.75\\%\n\\]\n\n### Step 5: Calculate WACC\n\\[\n\\text{WACC} = \\left(0.7143 \\times 11.48\\%\\right) + \\left(0.2857 \\times 3.75\\%\\right)\n\\]\n\\[\n\\text{WACC} = 0.0820 + 0.0107 = 0.0927 \\quad \\text{or} \\quad 9.27\\%\n\\]\n\n### Conclusion\nThe WACC for the firm is approximately **9.27%**."
+}

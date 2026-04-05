@@ -1,0 +1,24 @@
+{
+  "id": "p574",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFF",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "present-value",
+    "terminal-value",
+    "cash-flows",
+    "discounted-cash-flow",
+    "multi-step"
+  ],
+  "title": "FCFF: Determine the present value of a project that generates cash...",
+  "summary": "Calculate the present value of a project's cash flows using discounted cash flow analysis.",
+  "prompt": "Determine the present value of a project that generates cash flows of $50,000 at the end of year 1, $70,000 at the end of year 2, and $90,000 at the end of year 3, with a required rate of return of 10%. The project has an estimated growth rate of 5% thereafter.",
+  "options": [],
+  "correct_option": "157927.05",
+  "answer_text": "157927.05",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**<br> Cash flows: Year 1: $50,000, Year 2: $70,000, Year 3: $90,000<br> Required return, k = 10%<br> Growth rate after Year 3, g = 5%<br> **Step 2: Build a Timeline**<br> Year 1: $50,000<br> Year 2: $70,000<br> Year 3: $90,000<br> Year 4 onwards: Cash flow grows at 5%<br> **Step 3: Calculate Present Value of Cash Flows for Years 1 to 3**<br> PV = CF / (1 + k)^n<br> PV Year 1 = $50,000 / (1 + 0.10)^1 = $45,454.55<br> PV Year 2 = $70,000 / (1 + 0.10)^2 = $57,851.24<br> PV Year 3 = $90,000 / (1 + 0.10)^3 = $67,797.35<br> Sum of PVs = $45,454.55 + $57,851.24 + $67,797.35 = $171,103.14<br> **Step 4: Calculate Terminal Value**<br> TV at Year 3 = CF * (1 + g) / (k - g) = $90,000 * (1 + 0.05) / (0.10 - 0.05) = $1,890,000<br> **Step 5: Discount Terminal Value**<br> PV of TV = $1,890,000 / (1 + 0.10)^3 = $1,420,318.73<br> **Step 6: Total Present Value**<br> Total PV = Sum of PVs + PV of TV = $171,103.14 + $1,420,318.73 = $1,591,421.87"
+}

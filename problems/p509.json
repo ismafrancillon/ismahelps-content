@@ -1,0 +1,24 @@
+{
+  "id": "p509",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Risk and Return",
+  "subtopic": "CAPM",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If a firm has a beta of 1.5, the risk-free...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If a firm has a beta of 1.5, the risk-free rate is 3%, and the expected return on the market is 8%, calculate the expected return using the CAPM model.",
+  "options": [],
+  "correct_option": "0.105",
+  "answer_text": "10.5%",
+  "answer_format": "numeric_percent",
+  "solution": "**Step 1: Define Variables**: Beta (β) = 1.5; Risk-free rate (r_f) = 3%; Market return (r_m) = 8%. <br> **Step 2: Apply CAPM Formula**: Expected Return = r_f + β * (r_m - r_f) <br> Expected Return = 3% + 1.5 * (8% - 3%) = 3% + 1.5 * 5% = 3% + 7.5% = 10.5%. <br> This indicates a higher expected return due to increased risk."
+}

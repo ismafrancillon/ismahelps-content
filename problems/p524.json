@@ -1,0 +1,24 @@
+{
+  "id": "p524",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Analyst Estimates of Growth",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "retained-earnings",
+    "growth-rate",
+    "return-on-equity",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Analyst Estimates of Growth: Given a firm's net income of $250,000, a return on...",
+  "summary": "Calculate the retention ratio and reinvestment rate from net income, dividends, and ROE.",
+  "prompt": "Given a firm's net income of $250,000, a return on equity (ROE) of 10%, and a dividend of $50,000, calculate the retention ratio and reinvestment rate for the firm.",
+  "options": [],
+  "correct_option": "0.8",
+  "answer_text": "0.8",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**<br> Net Income = $250,000<br> Dividend = $50,000<br> ROE = 10%<br> **Step 2: Calculate Retained Earnings**<br> Retained Earnings = Net Income - Dividend = $250,000 - $50,000 = $200,000<br> **Step 3: Calculate Retention Ratio**<br> Retention Ratio = Retained Earnings / Net Income = $200,000 / $250,000 = 0.80 or 80%<br> **Step 4: Calculate Reinvestment Rate**<br> Reinvestment Rate = Retention Ratio * ROE = 0.80 * 0.10 = 0.08 or 8%"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p538",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "P/E Ratio",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "price-to-earnings",
+    "earnings",
+    "valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "P/E Ratio: Calculate the adjusted P/E ratio if the target firm has...",
+  "summary": "Calculate an adjusted P/E ratio for a combined entity using weighted EPS and P/E ratios.",
+  "prompt": "Calculate the adjusted P/E ratio if the target firm has an EPS of $2, a P/E ratio of 12, and the acquirer has an EPS of $3 and a P/E ratio of 15.",
+  "options": [],
+  "correct_option": "13.5",
+  "answer_text": "13.5",
+  "answer_format": "numeric_decimal",
+  "solution": "Adjusted P/E = (Target EPS * Target P/E + Acquirer EPS * Acquirer P/E) / (Target EPS + Acquirer EPS) = (2*12 + 3*15) / (2 + 3) = 13.5."
+}

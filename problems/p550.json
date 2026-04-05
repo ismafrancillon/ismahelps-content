@@ -1,0 +1,23 @@
+{
+  "id": "p550",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Compound Interest",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "time-value-of-money",
+    "future-value",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Compound Interest: Jake has 698.45 in an account which pays 0.29 compounded...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "Jake has $698.45 in an account which pays 29% compounded annually. How much more additional interest can he earn over four years if he moved his money to an account which pays 30% compounded annually?",
+  "options": [],
+  "correct_option": "60.68",
+  "answer_text": "452.21",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine how much additional interest Jake can earn by moving his money from an account paying 29% compounded annually to one paying 30% compounded annually over four years, we can follow these steps: 1. **Calculate the future value (FV) of the current account (29% compounded annually):** - Present Value (PV) = $698.45 - Annual interest rate (r) = 29% or 0.29 - Number of years (t) = 4 The formula for future value with annual compounding is: \\[ FV = PV \\times (1 + r)^t \\] Applying the values: \\[ FV_{29} = 698.45 \\times (1 + 0.29)^4 \\] \\[ FV_{29} = 698.45 \\times (1.29)^4 \\] \\[ FV_{29} = 698.45 \\times 2.207 \\] \\[ FV_{29} \\approx 1540.92 \\] 2. **Calculate the future value (FV) of the new account (30% compounded annually):** - Present Value (PV) = $698.45 - Annual interest rate (r) = 30% or 0.30 - Number of years (t) = 4 Applying the values: \\[ FV_{30} = 698.45 \\times (1 + 0.30)^4 \\] \\[ FV_{30} = 698.45 \\times (1.30)^4 \\] \\[ FV_{30} = 698.45 \\times 2.8561 \\] \\[ FV_{30} \\approx 1993.13 \\] 3. **Calculate the additional interest earned by moving the money:** \\[ \\text{Additional Interest} = FV_{30} - FV_{29} \\] \\[ \\text{Additional Interest} = 1993.13 - 1540.92 \\] \\[ \\text{Additional Interest} \\approx 452.21 \\] Therefore, Jake can earn approximately $452.21 more in additional interest over four years by moving his money to an account that pays 30% compounded annually instead of 29%."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p533",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Loan Underwriting",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "financial-ratios",
+    "solvency",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Loan Underwriting: A commercial property has an adjusted NOI of 4000000 and...",
+  "summary": "Calculate DSCR by dividing NOI by total debt service payments.",
+  "prompt": "A commercial property has an adjusted NOI of $4,000,000 and a debt service of $2,000,000. What is the debt service coverage ratio (DSCR)?",
+  "options": [],
+  "correct_option": "2",
+  "answer_text": "2",
+  "answer_format": "numeric_decimal",
+  "solution": "The Debt Service Coverage Ratio (DSCR) is calculated by dividing the Net Operating Income (NOI) by the total debt service. Here, the DSCR = NOI / Debt Service = $4,000,000 / $2,000,000 = 2.0. A DSCR of greater than 1 indicates the property generates sufficient income to cover its debt obligations, which is a critical metric for lenders and investors assessing the financial health of the property. Understanding DSCR is essential for finance students to evaluate investment risk and property performance effectively."
+}

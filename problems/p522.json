@@ -1,0 +1,23 @@
+{
+  "id": "p522",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Expected Return",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "expected-return",
+    "probability-distribution",
+    "portfolio-theory",
+    "calculation"
+  ],
+  "title": "Expected Return: You have done a thorough study of the economy and...",
+  "summary": "Calculate the expected return and standard deviation of a stock using probability-weighted economic scenarios.",
+  "prompt": "You have done a thorough study of the economy and Stock X and concluded that: (1) the probability of having a boom next year is 20 percent, a stable economy is 55 percent, and a recession is 25 percent, and (2) the price of Stock X will be $45 if there is a boom, $25 if the economy is stable, and $15 if there is a recession. What is the expected return on Stock X if it is currently selling for $24? What is the standard deviation of returns?",
+  "options": [],
+  "correct_option": "0.4224",
+  "answer_text": "42.24%",
+  "answer_format": "numeric_percent",
+  "solution": "Sure, let’s solve the given problem step-by-step. ### Problem: You have done a thorough study of the economy and Stock X and concluded that: 1. The probability of having a boom next year is 20 percent, a stable economy is 55 percent, and a recession is 25 percent. 2. The price of Stock X will be $45 if there is a boom, $25 if the economy is stable, and $15 if there is a recession. What is the expected return on Stock X if it is currently selling for $24? What is the standard deviation of returns? ### Solution: #### Step 1: Calculate Expected Return The expected return (ER) is calculated using the formula: \\[ ER = \\sum (P_i \\times R_i) \\] Where \\( P_i \\) is the probability of state \\( i \\) and \\( R_i \\) is the return in state \\( i \\). 1. **Boom**: - Probability (\\( P_{boom} \\)) = 0.20 - Price (\\( P_{boom\\_price} \\)) = $45 - Return (\\( R_{boom} \\)) = \\( \\frac{P_{boom\\_price} - P_{current}}{P_{current}} \\) = \\( \\frac{45 - 24}{24} \\) = 0.875 2. **Stable**: - Probability (\\( P_{stable} \\)) = 0.55 - Price (\\( P_{stable\\_price} \\)) = $25 - Return (\\( R_{stable} \\)) = \\( \\frac{P_{stable\\_price} - P_{current}}{P_{current}} \\) = \\( \\frac{25 - 24}{24} \\) = 0.0417 3. **Recession**: - Probability (\\( P_{recession} \\)) = 0.25 - Price (\\( P_{recession\\_price} \\)) = $15 - Return (\\( R_{recession} \\)) = \\( \\frac{P_{recession\\_price} - P_{current}}{P_{current}} \\) = \\( \\frac{15 - 24}{24} \\) = -0.375 Now, calculate the expected return: \\[ ER = (0.20 \\times 0.875) + (0.55 \\times 0.0417) + (0.25 \\times -0.375) \\] \\[ ER = 0.175 + 0.0229 - 0.09375 \\] \\[ ER = 0.10415 \\] So, the expected return is approximately 10.42%. #### Step 2: Calculate Standard Deviation The standard deviation (σ) measures the dispersion of returns and is calculated using the formula: \\[ \\sigma = \\sqrt{\\sum P_i \\times (R_i - ER)^2} \\] 1. **Boom**: - Return deviation: \\( R_{boom} - ER = 0.875 - 0.10415 = 0.77085 \\) - Squared deviation: \\( (0.77085)^2 = 0.59421 \\) - Weighted squared deviation: \\( 0.20 \\times 0.59421 = 0.11884 \\) 2. **Stable**: - Return deviation: \\( R_{stable} - ER = 0.0417 - 0.10415 = -0.06245 \\) - Squared deviation: \\( (-0.06245)^2 = 0.00390 \\) - Weighted squared deviation: \\( 0.55 \\times 0.00390 = 0.00215 \\) 3. **Recession**: - Return deviation: \\( R_{recession} - ER = -0.375 - 0.10415 = -0.47915 \\) - Squared deviation: \\( (-0.47915)^2 = 0.22959 \\) - Weighted squared deviation: \\( 0.25 \\times 0.22959 = 0.05740 \\) Now, sum the weighted squared deviations and take the square root: \\[ \\sigma = \\sqrt{0.11884 + 0.00215 + 0.05740} \\] \\[ \\sigma = \\sqrt{0.17839} \\] \\[ \\sigma = 0.4224 \\] So, the standard deviation is approximately 42.24%. ### Final Answer: - **Expected Return on Stock X**: 10.42% - **Standard Deviation of Returns**: 42.24%"
+}

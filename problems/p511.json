@@ -1,0 +1,24 @@
+{
+  "id": "p511",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Required Rate of Return",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Required Rate of Return: The Impact Company has a beta of 1.30, the risk-free...",
+  "summary": "Calculate the required return on equity using the CAPM formula given beta, risk-free rate, and market return.",
+  "prompt": "The Impact Company has a beta of 1.30, the risk-free rate is 4% and the return on the market is 10%. The required return on the firm’s equity is:",
+  "options": [],
+  "correct_option": "0.118",
+  "answer_text": "11.8%",
+  "answer_format": "numeric_percent",
+  "solution": "The Impact Company has a beta of 1.30, the risk-free rate is 4%, and the return on the market is 10%. The required return on the firm’s equity is: Final Answer: 11.8% ### Step-by-Step Solution: 1. **Define Variables**: - Beta (\\(\\beta\\)) of the firm: 1.30 - Risk-free rate (\\(R_f\\)): 4% or 0.04 - Market return (\\(R_m\\)): 10% or 0.10 2. **Formula**: The required return on equity can be calculated using the Capital Asset Pricing Model (CAPM) formula: \\[ R_e = R_f + \\beta (R_m - R_f) \\] Where: - \\(R_e\\) is the required return on equity - \\(R_f\\) is the risk-free rate - \\(\\beta\\) is the beta of the firm - \\(R_m\\) is the return on the market 3. **Calculation**: Plug the values into the CAPM formula: \\[ R_e = 0.04 + 1.30 (0.10 - 0.04) \\] First, calculate the market risk premium (\\(R_m - R_f\\)): \\[ R_m - R_f = 0.10 - 0.04 = 0.06 \\] Then, multiply the market risk premium by the beta: \\[ 1.30 \\times 0.06 = 0.078 \\] Finally, add the risk-free rate: \\[ R_e = 0.04 + 0.078 = 0.118 \\] ### Explanation: The required return on the firm’s equity is determined using the CAPM formula, which accounts for the risk-free rate, the firm's beta, and the market risk premium. The firm's beta indicates its sensitivity to market movements, and multiplying it by the market risk premium provides the additional return required for taking on the firm's specific risk. Adding this to the risk-free rate gives the total required return on equity. Therefore, the required return on the firm’s equity is 11.8%."
+}

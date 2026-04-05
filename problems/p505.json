@@ -1,0 +1,23 @@
+{
+  "id": "p505",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Standard Deviation",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "standard-deviation",
+    "variance",
+    "calculation"
+  ],
+  "title": "Standard Deviation: Security A has an expected return of 0.12 and a...",
+  "summary": "Calculate portfolio standard deviation for two perfectly correlated securities.",
+  "prompt": "Security A has an expected return of 12% and a standard deviation of 14%. Security B has an expected return of 10% and a standard deviation of 8%. The correlation between A and B is 1.00. If you invest 20% in A and the rest in B, what is the standard deviation of your portfolio?",
+  "options": [],
+  "correct_option": "0.092",
+  "answer_text": "9.2%",
+  "answer_format": "numeric_percent",
+  "solution": "Sure, let's solve the problem step-by-step: **Problem:** Security A has an expected return of 12% and a standard deviation of 14%. Security B has an expected return of 10% and a standard deviation of 8%. The correlation between A and B is 1.00. If you invest 20% in A and the rest in B, what is the standard deviation of your portfolio? **Solution:** **Step 1: Define the variables** - Expected return of Security A (E(RA)) = 12% - Standard deviation of Security A (σA) = 14% - Expected return of Security B (E(RB)) = 10% - Standard deviation of Security B (σB) = 8% - Correlation between Security A and Security B (ρAB) = 1.00 - Weight of Security A (wA) = 20% or 0.20 - Weight of Security B (wB) = 80% or 0.80 **Step 2: Calculate the covariance between Security A and Security B** Since the correlation (ρAB) is 1.00, the covariance (CovAB) can be calculated as: \\[ \\text{Cov}(A, B) = \\rho_{AB} \\times \\sigma_A \\times \\sigma_B \\] \\[ \\text{Cov}(A, B) = 1.00 \\times 0.14 \\times 0.08 \\] \\[ \\text{Cov}(A, B) = 0.0112 \\] **Step 3: Calculate the variance of the portfolio (σ²p)** The formula for the variance of a two-asset portfolio is: \\[ \\sigma^2_p = (w_A^2 \\times \\sigma_A^2) + (w_B^2 \\times \\sigma_B^2) + (2 \\times w_A \\times w_B \\times \\text{Cov}(A, B)) \\] \\[ \\sigma^2_p = (0.20^2 \\times 0.14^2) + (0.80^2 \\times 0.08^2) + (2 \\times 0.20 \\times 0.80 \\times 0.0112) \\] \\[ \\sigma^2_p = (0.04 \\times 0.0196) + (0.64 \\times 0.0064) + (0.32 \\times 0.0112) \\] \\[ \\sigma^2_p = 0.000784 + 0.004096 + 0.003584 \\] \\[ \\sigma^2_p = 0.008464 \\] **Step 4: Calculate the standard deviation of the portfolio (σp)** \\[ \\sigma_p = \\sqrt{\\sigma^2_p} \\] \\[ \\sigma_p = \\sqrt{0.008464} \\] \\[ \\sigma_p = 0.092 \\] **Final Answer:** The standard deviation of the portfolio is 9.2%."
+}

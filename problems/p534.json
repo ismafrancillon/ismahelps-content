@@ -1,0 +1,23 @@
+{
+  "id": "p534",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Portfolio Beta",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "portfolio-beta",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Portfolio Beta: Assume that you have a portfolio with 372 in stock...",
+  "summary": "Determine the beta of a new investment needed to achieve a target portfolio beta.",
+  "prompt": "Assume that you have a portfolio with $372 in stock X with a beta of 0.89, $743 in stock Y with a beta of 1.24, and $385 in RF. What would be the beta of your new investment, if you had another $244 to invest and you wanted to achieve a portfolio beta equal to the market beta?",
+  "options": [],
+  "correct_option": "2.01",
+  "answer_text": "2.01",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the beta of the added security that you need to achieve a portfolio beta equal to the market beta (which is 1), we can follow these steps:\n\n### Step 1: Calculate Current Portfolio Value and Beta\n1. **Current Investments:**\n   - Stock A: $372 with a beta of 0.89\n   - Stock B: $743 with a beta of 1.24\n   - Risk-Free Asset: $385 with a beta of 0\n\n2. **Total Current Investment:**\n   \\[\n   \\text{Total Investment} = 372 + 743 + 385 = 1,500\n   \\]\n\n3. **Calculate Current Portfolio Beta:**\n   \\[\n   \\text{Portfolio Beta} = \\frac{(372 \\times 0.89) + (743 \\times 1.24) + (385 \\times 0)}{1,500}\n   \\]\n   \\[\n   = \\frac{330.48 + 920.32 + 0}{1,500} = \\frac{1,250.80}{1,500} \\approx 0.8339\n   \\]\n\n### Step 2: Set Up the Equation for New Portfolio Beta\nYou want the new portfolio beta to equal 1 after adding an investment of $244 with an unknown beta (\\( \\beta_x \\)).\n\n1. **New Total Investment:**\n   \\[\n   \\text{New Total Investment} = 1,500 + 244 = 1,744\n   \\]\n\n2. **New Portfolio Beta Equation:**\n   \\[\n   1 = \\frac{(1,250.80 + 244 \\times \\beta_x)}{1,744}\n   \\]\n\n### Step 3: Solve for \\( \\beta_x \\)\n1. **Multiply both sides by 1,744:**\n   \\[\n   1,744 = 1,250.80 + 244 \\beta_x\n   \\]\n\n2. **Rearranging gives:**\n   \\[\n   244 \\beta_x = 1,744 - 1,250.80 = 493.20\n   \\]\n   \\[\n   \\beta_x = \\frac{493.20}{244} \\approx 2.02\n   \\]\n\n### Final Answer\nThe beta of the added security should be approximately **2.01** to achieve a portfolio beta equal to the market beta."
+}

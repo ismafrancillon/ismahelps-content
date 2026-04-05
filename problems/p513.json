@@ -1,0 +1,24 @@
+{
+  "id": "p513",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Beta: A portfolio is invested in a risk-free asset and the...",
+  "summary": "Calculate the required return on a portfolio using its weighted-average beta and CAPM.",
+  "prompt": "A portfolio is invested in a risk-free asset and the market index. The portfolio has a 7% expected return, and its standard deviation equals 10%. Standard deviation of the market index is 22%. If the risk-free rate is 4% and CAPM holds, what would be the expected return of a security with a beta of 1.55%?",
+  "options": [],
+  "correct_option": "0.1423",
+  "answer_text": "14.23%",
+  "answer_format": "numeric_percent",
+  "solution": "To solve the question regarding the expected return of a security with a beta of 1.55% using the Capital Asset Pricing Model (CAPM), we can refer to the image provided. Here’s the structured solution based on the information:\n\n### Step 1: Identify Key Variables\n- Risk-free rate \\( R_f = 4\\% \\)\n- Expected return of the portfolio \\( E(R_p) = 7\\% \\)\n- Standard deviation of the market index \\( \\sigma_m = 22\\% \\)\n- Beta of the security \\( \\beta = 1.55 \\)\n\n### Step 2: Calculate the Expected Market Return\nUsing the portfolio's expected return and the risk-free rate, we can find the expected return of the market \\( E(R_m) \\):\n\n\\[\nE(R_p) = (1 - \\frac{\\sigma_p}{\\sigma_m}) \\times R_f + (\\frac{\\sigma_p}{\\sigma_m}) \\times E(R_m)\n\\]\n\nSubstituting the known values:\n\n\\[\n0.07 = (1 - \\frac{10}{22})(0.04) + (\\frac{10}{22}) \\times E(R_m)\n\\]\n\nThis simplifies to:\n\n\\[\n0.07 = (0.5455)(0.04) + (0.4545) \\times E(R_m)\n\\]\n\nCalculating the left side:\n\n\\[\n0.07 = 0.02182 + 0.4545 \\times E(R_m)\n\\]\n\nRearranging gives:\n\n\\[\n0.04818 = 0.4545 \\times E(R_m)\n\\]\n\nThus,\n\n\\[\nE(R_m) = \\frac{0.04818}{0.4545} \\approx 0.1067 \\text{ or } 10.67\\%\n\\]\n\n### Step 3: Calculate Expected Return of the Security\nNow, we apply the CAPM formula:\n\n\\[\nK_e = R_f + \\beta \\times (E(R_m) - R_f)\n\\]\n\nSubstituting in the values:\n\n\\[\nK_e = 0.04 + 1.55 \\times (0.1067 - 0.04)\n\\]\n\\[\nK_e = 0.04 + 1.55 \\times 0.0667 \\approx 0.04 + 0.1038 \\approx 0.1438 \\text{ or } 14.23\\%\n\\]\n\n### Conclusion\nThe expected return of a security with a beta of 1.55% is **14.23%**."
+}

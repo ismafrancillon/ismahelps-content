@@ -1,0 +1,23 @@
+{
+  "id": "p519",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Standard Deviation",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "standard-deviation",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Standard Deviation: Assume that you have decided to invest in a combination...",
+  "summary": "Determine the allocation between risky and risk-free assets to achieve a target portfolio standard deviation.",
+  "prompt": "Assume that you have decided to invest in a combination of the Apple Inc. stocks with an expected return of 5 percent and the Risk-Free asset. The standard deviation of Apple Inc. stocks’ returns is 10%. What fraction of your wealth should be invested in the risk-free asset, so that your portfolio will have a target standard deviation of 7 percent. The risk-free rate is 2 percent.",
+  "options": [],
+  "correct_option": "0.3",
+  "answer_text": "0.3",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine what fraction of your wealth should be invested in the risk-free asset to achieve a target standard deviation of 7 percent, follow these steps: ### Final Answer: The fraction of your wealth to be invested in the risk-free asset is 30%. ### Step-by-Step Explanation: 1. **Define Variables**: - Let \\( w \\) be the fraction of wealth invested in Apple Inc. stocks. - The standard deviation of Apple Inc. stocks (\\( \\sigma_A \\)) = 10%. - The target portfolio standard deviation (\\( \\sigma_P \\)) = 7%. - The standard deviation of the risk-free asset (\\( \\sigma_{RF} \\)) = 0% (since it is risk-free). 2. **Formula for Portfolio Standard Deviation**: Since the risk-free asset has zero standard deviation, the portfolio standard deviation (\\( \\sigma_P \\)) is given by: \\[ \\sigma_P = w \\cdot \\sigma_A \\] Where \\( w \\) is the fraction of wealth invested in Apple Inc. stocks. 3. **Calculate the Fraction Invested in Apple Inc. Stocks**: Substitute the known values into the formula: \\[ 7\\% = w \\cdot 10\\% \\] Solving for \\( w \\): \\[ w = \\frac{7\\%}{10\\%} = 0.7 \\] 4. **Calculate the Fraction Invested in the Risk-Free Asset**: The fraction invested in the risk-free asset is \\( 1 - w \\): \\[ 1 - 0.7 = 0.3 \\] ### Conclusion: Thus, 30% of your wealth should be invested in the risk-free asset to achieve the target portfolio standard deviation of 7 percent."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p564",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Annuity",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "time-value-of-money",
+    "future-value",
+    "annuity",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Annuity: Assume you are to receive a 20-year annuity with annual...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "Assume you are to receive a 20-year annuity with annual payments of $50. The first payment will be received at the end of Year 1, and the last payment will be received at the end of Year 20. You will invest each payment in an account that pays 10 percent. What will be the value in your account at the end of Year 30?",
+  "options": [],
+  "correct_option": "7427.83",
+  "answer_text": "7427.83",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the value in your account at the end of Year 30, given a 20-year annuity with annual payments of $50 invested at 10% interest, we need to follow these steps: 1. **Calculate the Future Value of the Annuity at the End of Year 20**: - Formula for the future value of an annuity: \\( FV = C \\times \\left( \\frac{(1 + r)^t - 1}{r} \\right) \\) - Where \\( C \\) is the annual payment ($50), \\( r \\) is the annual interest rate (10% or 0.10), and \\( t \\) is the number of years (20). \\[ FV_{20} = 50 \\times \\left( \\frac{(1 + 0.10)^{20} - 1}{0.10} \\right) \\] \\[ FV_{20} = 50 \\times \\left( \\frac{(1.10)^{20} - 1}{0.10} \\right) \\] \\[ FV_{20} = 50 \\times \\left( \\frac{6.7275 - 1}{0.10} \\right) \\] \\[ FV_{20} = 50 \\times 57.275 \\] \\[ FV_{20} = 2863.75 \\] 2. **Calculate the Future Value of the Amount at the End of Year 30**: - Now, we need to calculate the value of the annuity amount at the end of Year 30. This involves compounding the annuity's future value for an additional 10 years at 10%. \\[ FV_{30} = FV_{20} \\times (1 + r)^{10} \\] \\[ FV_{30} = 2863.75 \\times (1.10)^{10} \\] \\[ FV_{30} = 2863.75 \\times 2.5937 \\] \\[ FV_{30} = 7427.83 \\] Therefore, the value in your account at the end of Year 30 will be **$7,427.83**."
+}

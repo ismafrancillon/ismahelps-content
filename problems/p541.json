@@ -1,0 +1,24 @@
+{
+  "id": "p541",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "growth-rate",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Dividend Discount Model: Moderna Inc. just paid a dividend of 3.5 per common...",
+  "summary": "Calculate the market price of a stock using the Dividend Discount Model with CAPM-derived required return.",
+  "prompt": "Moderna Inc. just paid a dividend of $3.50 per common share. The growth rate in dividends is expected to be 20% per year for the first four years, and 2% per year thereafter. Investors require a 16% return per year in this stock for the first four years, and 12% per year thereafter. Calculate the current share price.",
+  "options": [],
+  "correct_option": "19.44",
+  "answer_text": "19.44",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the current share price of Moderna Inc., we will follow the Dividend Discount Model (DDM) approach, considering the different growth rates and required returns.\n\n### Step 1: Calculate Future Dividends\n\n1. **Current Dividend (D0)**: $3.50\n2. **Dividends for the first four years (20% growth)**:\n   - Year 1: \\( D_1 = D_0 \\times (1 + 0.20) = 3.50 \\times 1.20 = 4.20 \\)\n   - Year 2: \\( D_2 = D_1 \\times (1 + 0.20) = 4.20 \\times 1.20 = 5.04 \\)\n   - Year 3: \\( D_3 = D_2 \\times (1 + 0.20) = 5.04 \\times 1.20 = 6.048 \\)\n   - Year 4: \\( D_4 = D_3 \\times (1 + 0.20) = 6.048 \\times 1.20 = 7.2576 \\)\n\n3. **Dividend after Year 4 (2% growth)**:\n   - Year 5: \\( D_5 = D_4 \\times (1 + 0.02) = 7.2576 \\times 1.02 \\approx 7.4057 \\)\n\n### Step 2: Calculate Present Value of Future Dividends\n\nUsing the present value formula:\n\n\\[\nPV = \\frac{D}{(1 + r)^n}\n\\]\n\nWhere:\n- \\( D \\) = Dividend in each year\n- \\( r \\) = Required rate of return\n\n#### Present Value Calculations:\n\n1. **Year 1** (16% return):\n   \\[\n   PV_1 = \\frac{4.20}{(1 + 0.16)^1} = \\frac{4.20}{1.16} \\approx 3.62\n   \\]\n\n2. **Year 2** (16% return):\n   \\[\n   PV_2 = \\frac{5.04}{(1 + 0.16)^2} = \\frac{5.04}{1.3456} \\approx 3.74\n   \\]\n\n3. **Year 3** (16% return):\n   \\[\n   PV_3 = \\frac{6.048}{(1 + 0.16)^3} = \\frac{6.048}{1.560896} \\approx 3.87\n   \\]\n\n4. **Year 4** (16% return):\n   \\[\n   PV_4 = \\frac{7.2576}{(1 + 0.16)^4} = \\frac{7.2576}{1.811659} \\approx 4.01\n   \\]\n\n5. **Year 5** (12% return):\n   \\[\n   PV_5 = \\frac{7.4057}{(1 + 0.12)^5} = \\frac{7.4057}{1.762341} \\approx 4.20\n   \\]\n\n### Step 3: Total Present Value\n\nNow, we sum all present values:\n\n\\[\nPV_{Total} = PV_1 + PV_2 + PV_3 + PV_4 + PV_5\n\\]\n\\[\nPV_{Total} \\approx 3.62 + 3.74 + 3.87 + 4.01 + 4.20 \\approx 19.44\n\\]\n\n### Final Answer\n\nThe current share price of Moderna Inc. is approximately **$19.44**."
+}

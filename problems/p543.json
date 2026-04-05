@@ -1,0 +1,23 @@
+{
+  "id": "p543",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "equity valuation",
+  "subtopic": "Dividend Growth Model, Stock Pricing",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "growth-rate",
+    "calculation"
+  ],
+  "title": "Dividend Growth Model, Stock Pricing: Calculate the stock price of NIKE Inc. based on the...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "Calculate the stock price of NIKE Inc. based on the current dividend of $1.3, and a dividend growth rate of 5%. Note that the market risk premium is 9%, RF is 3%, and beta is 0.9.",
+  "options": [],
+  "correct_option": "22.38",
+  "answer_text": "22.38",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the stock price of NIKE Inc. based on the given data, we will use the Dividend Discount Model (DDM), specifically the Gordon Growth Model, which is suitable for valuing a stock with dividends that are expected to grow at a constant rate. ### Given Data: - Current dividend (D₀) = $1.3 - Dividend growth rate (g) = 5% or 0.05 - Market risk premium = 9% or 0.09 - Risk-free rate (RF) = 3% or 0.03 - Beta (β) = 0.9 ### Steps to Calculate Stock Price: 1. **Calculate the Required Rate of Return (k)**: Using the Capital Asset Pricing Model (CAPM): \\[ k = RF + β \\times (Market\\ Risk\\ Premium) \\] \\[ k = 0.03 + 0.9 \\times 0.09 = 0.03 + 0.081 = 0.111 \\text{ or } 11.1\\% \\] 2. **Calculate the Expected Dividend (D₁)**: Using the dividend growth rate: \\[ D₁ = D₀ \\times (1 + g) \\] \\[ D₁ = 1.3 \\times (1 + 0.05) = 1.3 \\times 1.05 = 1.365 \\] 3. **Calculate the Stock Price (P₀)**: Using the Gordon Growth Model: \\[ P₀ = \\frac{D₁}{k - g} \\] \\[ P₀ = \\frac{1.365}{0.111 - 0.05} = \\frac{1.365}{0.061} \\approx 22.38 \\] ### Final Answer: The stock price of NIKE Inc. is approximately $22.38."
+}

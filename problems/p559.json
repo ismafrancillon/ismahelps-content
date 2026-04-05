@@ -1,0 +1,23 @@
+{
+  "id": "p559",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Break-even Analysis",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "break-even-analysis",
+    "cvp",
+    "units",
+    "calculation"
+  ],
+  "title": "Break-even Analysis: A company produces 5000 units of product with variable costs...",
+  "summary": "Calculate the break-even point in units by dividing fixed costs by the contribution margin per unit.",
+  "prompt": "A company produces 5,000 units of product with variable costs of $10 per unit, and fixed costs of $50,000. If the selling price is $25 per unit, what is the break-even point in units?",
+  "options": [],
+  "correct_option": "2000",
+  "answer_text": "3334",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Identify Key Variables** - Variable Cost per Unit = $10, Fixed Costs = $50,000, Selling Price per Unit = $25. **Step 2: Calculate Contribution Margin** - Contribution Margin = Selling Price - Variable Cost = $25 - $10 = $15. **Step 3: Calculate Break-Even Point** - Break-even point in units = Fixed Costs / Contribution Margin = $50,000 / $15 = 3,334. **Step 4: Conclusion** - The break-even point is approximately 3,334 units."
+}

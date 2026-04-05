@@ -1,0 +1,23 @@
+{
+  "id": "p526",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "levered-beta",
+    "capital-structure",
+    "systematic-risk",
+    "calculation"
+  ],
+  "title": "Debt Ratios: A firm with an unlevered beta of 0.8 wishes to...",
+  "summary": "Calculate the levered beta using the Hamada equation given unlevered beta, debt-equity ratio, and tax rate.",
+  "prompt": "A firm with an unlevered beta of 0.8 wishes to increase its leverage. If the debt-equity ratio (D/E) is expected to be 1.5 and the tax rate is 30%, what will be the new levered beta?",
+  "options": [],
+  "correct_option": "1.07",
+  "answer_text": "1.64",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**<br> Unlevered Beta = 0.8<br> Debt-Equity Ratio (D/E) = 1.5<br> Tax Rate = 30%<br> **Step 2: Calculate Levered Beta**<br> Levered Beta = Unlevered Beta * (1 + (1 - Tax Rate) * (D/E))<br> Levered Beta = 0.8 * (1 + (1 - 0.30) * 1.5) = 0.8 * (1 + 0.70 * 1.5) = 0.8 * (1 + 1.05) = 0.8 * 2.05 = 1.64"
+}

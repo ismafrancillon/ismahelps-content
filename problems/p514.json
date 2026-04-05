@@ -1,0 +1,24 @@
+{
+  "id": "p514",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "payback-period",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "IRR: A firm is considering a replacement project that requires an...",
+  "summary": "Calculate the internal rate of return by finding the discount rate that sets NPV to zero.",
+  "prompt": "A firm is considering a replacement project that requires an investment of $500,000. The project will generate cash flows of $100,000 per year for 8 years. If the cost of capital is 12%, what is the IRR of the project? Should the firm accept the project based on its IRR?",
+  "options": [],
+  "correct_option": "0.1487",
+  "answer_text": "14.87%",
+  "answer_format": "numeric_percent",
+  "solution": "**Step 1: Define Variables**: Initial Investment = $500,000; Annual Cash Flows = $100,000; Project Life = 8 years. <br> **Step 2: Set Up IRR Equation**: 0 = -$500,000 + $100,000 * [(1 - (1 + IRR)^-8) / IRR]. <br> **Step 3: Solve for IRR using trial and error or financial calculator**: IRR ≈ 14.87%. <br> **Final Decision**: If IRR > Cost of Capital (12%), accept the project."
+}

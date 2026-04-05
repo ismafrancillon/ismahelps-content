@@ -1,0 +1,22 @@
+{
+  "id": "p582",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Managerial Cost Concepts & Cost Behaviour Analysis",
+  "subtopic": "Direct Materials and Direct Labour",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "manufacturing-costs",
+    "product-costing",
+    "calculation"
+  ],
+  "title": "Direct Materials and Direct Labour: A company produces widgets and incurs the following costs: Direct...",
+  "summary": "Calculate total manufacturing cost by summing direct materials, direct labor, and overhead.",
+  "prompt": "A company produces widgets and incurs the following costs: Direct materials cost $200,000, Direct labor $150,000, Variable overhead $100,000, and Fixed overhead $50,000. How much is the total manufacturing cost?",
+  "options": [],
+  "correct_option": "500000",
+  "answer_text": "500000",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Identify Key Variables** - The relevant costs for calculating total manufacturing costs include direct materials, direct labor, variable overhead, and fixed overhead. **Step 2: Calculate Total Costs** - Total Manufacturing Cost = Direct Materials + Direct Labor + Variable Overhead + Fixed Overhead. Therefore, Total Manufacturing Cost = $200,000 + $150,000 + $100,000 + $50,000 = $500,000. **Step 3: Conclusion** - The total manufacturing cost is $500,000."
+}

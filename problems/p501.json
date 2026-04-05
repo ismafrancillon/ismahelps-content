@@ -1,0 +1,23 @@
+{
+  "id": "p501",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Historical Growth Rates",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "growth-rate",
+    "roe",
+    "retention-ratio",
+    "calculation"
+  ],
+  "title": "Historical Growth Rates: An investor is analyzing a firm with a net income...",
+  "summary": "Calculate the expected growth rate from the retention ratio and return on equity.",
+  "prompt": "An investor is analyzing a firm with a net income of $200,000, a payout ratio of 40%, and a return on equity (ROE) of 12%. What is the expected growth rate of earnings for this firm?",
+  "options": [],
+  "correct_option": "0.072",
+  "answer_text": "7.2%",
+  "answer_format": "numeric_percent",
+  "solution": "**Step 1: Define Key Variables**<br> Net Income = $200,000<br> Payout Ratio = 40%<br> ROE = 12%<br> **Step 2: Calculate Retention Ratio**<br> Retention Ratio = 1 - Payout Ratio = 1 - 0.40 = 0.60<br> **Step 3: Calculate Expected Growth Rate**<br> Expected Growth Rate = Retention Ratio * ROE = 0.60 * 0.12 = 0.072 or 7.2%"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p529",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Beta",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "systematic-risk",
+    "calculation"
+  ],
+  "title": "Beta: Assuming the correlation between an asset and market is 0.67...",
+  "summary": "Calculate an asset's beta using the correlation with the market and the ratio of standard deviations.",
+  "prompt": "Assuming the correlation between an asset and market is 0.67 and the asset and market have standard deviations of 0.34 and 0.19 respectively, the asset’s beta would be closest to:",
+  "options": [],
+  "correct_option": "1.2",
+  "answer_text": "1.2",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the beta of an asset given the correlation between the asset and the market, and their respective standard deviations, we use the formula for beta: \\[ \\beta = \\frac{\\text{Correlation} \\times \\text{Standard Deviation of Asset}}{\\text{Standard Deviation of Market}} \\] Given: - Correlation (\\(\\rho\\)) = 0.67 - Standard Deviation of Asset (\\(\\sigma_a\\)) = 0.34 - Standard Deviation of Market (\\(\\sigma_m\\)) = 0.19 Step-by-step calculation: 1. **Identify the formula for beta:** \\[ \\beta = \\frac{\\rho \\times \\sigma_a}{\\sigma_m} \\] 2. **Plug in the given values:** \\[ \\beta = \\frac{0.67 \\times 0.34}{0.19} \\] 3. **Calculate the numerator:** \\[ 0.67 \\times 0.34 = 0.2278 \\] 4. **Divide by the standard deviation of the market:** \\[ \\beta = \\frac{0.2278}{0.19} \\approx 1.20 \\] Final Answer: The asset’s beta would be closest to 1.20. Explanation: - The correlation between the asset and the market indicates how the asset's returns move in relation to the market returns. - The standard deviations provide a measure of the risk or volatility of the asset and the market. - By using the formula, we can determine the asset’s sensitivity to market movements (beta), which in this case is approximately 1.20. Thus, the correct answer is C) 1.20."
+}

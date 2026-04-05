@@ -1,0 +1,23 @@
+{
+  "id": "p527",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Portfolio Beta",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "portfolio-beta",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Portfolio Beta: What is the beta of a portfolio consisting of 2000...",
+  "summary": "Calculate the weighted-average beta of a multi-asset portfolio from individual betas and investment weights.",
+  "prompt": "What is the beta of a portfolio consisting of $2,000 cash, $5,000 invested in a stock with a beta of 1.6, and $3,000 invested in a well-diversified portfolio?",
+  "options": [],
+  "correct_option": "1.1",
+  "answer_text": "1.1",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the beta of a portfolio consisting of $2,000 cash, $5,000 invested in a stock with a beta of 1.6, and $3,000 invested in a well-diversified portfolio, follow these steps: ### Step-by-Step Solution: 1. **Define the Portfolio Components and their Betas:** - Cash: $2,000 (Beta = 0, as cash has no market risk) - Stock: $5,000 (Beta = 1.6) - Well-diversified portfolio: $3,000 (Assume Beta = 1, as it represents the market) 2. **Calculate the Total Value of the Portfolio:** - Total Value = $2,000 + $5,000 + $3,000 = $10,000 3. **Determine the Weight of Each Component in the Portfolio:** - Weight of Cash = $2,000 / $10,000 = 0.2 - Weight of Stock = $5,000 / $10,000 = 0.5 - Weight of Well-diversified portfolio = $3,000 / $10,000 = 0.3 4. **Calculate the Weighted Beta for Each Component:** - Weighted Beta of Cash = 0.2 * 0 = 0 - Weighted Beta of Stock = 0.5 * 1.6 = 0.8 - Weighted Beta of Well-diversified portfolio = 0.3 * 1 = 0.3 5. **Sum the Weighted Betas to Get the Portfolio Beta:** - Portfolio Beta = 0 + 0.8 + 0.3 = 1.1 ### Final Answer: The beta of the portfolio is 1.1. ### Explanation: - The portfolio beta is calculated by summing the weighted betas of each component. Cash has a beta of zero because it does not carry market risk. The stock with a beta of 1.6 contributes significantly to the portfolio's market risk, while the well-diversified portfolio aligns closely with the market (beta of 1). - This approach ensures that the portfolio's overall sensitivity to market fluctuations is accurately represented by the weighted contributions of each investment."
+}

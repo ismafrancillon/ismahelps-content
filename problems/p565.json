@@ -1,0 +1,23 @@
+{
+  "id": "p565",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Job-Order Cost Accounting",
+  "subtopic": "Job-Order Cost Accounting",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "job-order-costing",
+    "manufacturing-costs",
+    "product-costing",
+    "calculation"
+  ],
+  "title": "Job-Order Cost Accounting: Nike Inc. has a job costing system. Job #101 incurred...",
+  "summary": "Calculate total job cost by summing direct materials, direct labor, and applied overhead.",
+  "prompt": "Nike Inc. has a job costing system. Job #101 incurred $5,000 in direct materials, $3,000 in direct labor, and $1,500 in applied overhead. What is the total cost for Job #101?",
+  "options": [],
+  "correct_option": "9500",
+  "answer_text": "9500",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Identify Key Variables** - Direct Materials = $5,000, Direct Labor = $3,000, Applied Overhead = $1,500. **Step 2: Calculate Total Cost** - Total Cost = Direct Materials + Direct Labor + Applied Overhead = $5,000 + $3,000 + $1,500 = $9,500. **Step 3: Conclusion** - The total cost for Job #101 is $9,500."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p555",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Long-Term Financing",
+  "subtopic": "Debt Financing",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "coupon-rate",
+    "present-value",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Debt Financing: A firm plans to issue a bond with a face...",
+  "summary": "Calculate bond price by discounting coupons and face value at the market rate.",
+  "prompt": "A firm plans to issue a bond with a face value of $1,000, a coupon rate of 6%, and a maturity of 10 years. If the market interest rate is 5%, what is the price of the bond?",
+  "options": [],
+  "correct_option": "1175.6",
+  "answer_text": "1175.6",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**: Face Value = $1,000; Coupon Rate = 6%; Market Rate = 5%; Maturity = 10 years. <br> **Step 2: Calculate Annual Coupon Payment**: C = Face Value * Coupon Rate = $1,000 * 0.06 = $60. <br> **Step 3: Use Bond Pricing Formula**: Price = (C * [1 - (1 + r)^-n] / r) + (FV / (1 + r)^n) = ($60 * [1 - (1 + 0.05)^-10] / 0.05) + ($1,000 / (1 + 0.05)^10) = $1,175.60. <br> This reflects the fair market value of the bond given current interest rates."
+}

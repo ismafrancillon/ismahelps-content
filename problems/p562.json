@@ -1,0 +1,23 @@
+{
+  "id": "p562",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Types of Real Estate Loans",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "bond-pricing",
+    "interest-rates",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Types of Real Estate Loans: A real estate investor purchases a property with a 1000000...",
+  "summary": "Calculate monthly mortgage payment using the fully amortizing loan formula.",
+  "prompt": "A real estate investor purchases a property with a $1,000,000 mortgage at an interest rate of 5% for 30 years. What is the monthly payment?",
+  "options": [],
+  "correct_option": "5368.22",
+  "answer_text": "5368.22",
+  "answer_format": "numeric_decimal",
+  "solution": "The monthly payment can be calculated using the formula for a fully amortizing mortgage: PMT = P * [r(1 + r)^n] / [(1 + r)^n - 1], where P is the principal, r is the monthly interest rate, and n is the number of payments. Here, PMT = $1,000,000 * [0.05/12(1 + 0.05/12)^(30*12)] / [(1 + 0.05/12)^(30*12) - 1] = $5,368.22. This calculation is crucial for investors to project cash flows accurately and assess their financial commitments. Understanding amortization schedules and payment structures is essential for finance students and real estate investors."
+}

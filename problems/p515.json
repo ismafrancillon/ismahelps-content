@@ -1,0 +1,23 @@
+{
+  "id": "p515",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity valuation",
+  "subtopic": "Dividend",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "expected-return",
+    "growth-rate",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Dividend: A stock has year-end prices and dividends as below. What...",
+  "summary": "Compute the geometric average return using year-end stock prices and dividend payments.",
+  "prompt": "A stock has year-end prices and dividends as below. What is the geometric average return? Price Dividend Year 1 $60.18 $0 Year 2 $73.66 $0.60 Year 3 $94.18 $0.64 Year 4 $89.35 $0.72",
+  "options": [],
+  "correct_option": "0.1496",
+  "answer_text": "14.96%",
+  "answer_format": "numeric_percent",
+  "solution": "To calculate the geometric average return for the stock with the given year-end prices and dividends, we follow these steps:\n\n### Step 1: Calculate the Total Returns for Each Year\nThe total return for each year can be calculated using the formula:\n\n\\[\nR = \\frac{P_1 + D}{P_0} - 1\n\\]\n\nWhere:\n- \\( P_1 \\) = Price at the end of the year\n- \\( D \\) = Dividend received during the year\n- \\( P_0 \\) = Price at the beginning of the year\n\n#### Year 1:\n\\[\nR_1 = \\frac{73.66 + 0.60}{60.18} - 1 = \\frac{74.26}{60.18} - 1 \\approx 0.2339 \\text{ or } 23.39\\%\n\\]\n\n#### Year 2:\n\\[\nR_2 = \\frac{94.18 + 0.64}{73.66} - 1 = \\frac{94.82}{73.66} - 1 \\approx 0.2876 \\text{ or } 28.76\\%\n\\]\n\n#### Year 3:\n\\[\nR_3 = \\frac{89.35 + 0.72}{94.18} - 1 = \\frac{90.07}{94.18} - 1 \\approx -0.0436 \\text{ or } -4.36\\%\n\\]\n\n### Step 2: Convert Returns to Growth Factors\nConvert each return into a growth factor by adding 1:\n\n- \\( 1 + R_1 = 1.2339 \\)\n- \\( 1 + R_2 = 1.2876 \\)\n- \\( 1 + R_3 = 0.9564 \\)\n\n### Step 3: Calculate the Geometric Average Return\nThe geometric average return can be calculated using the formula:\n\n\\[\nR_{geom} = \\left( (1 + R_1) \\times (1 + R_2) \\times (1 + R_3) \\right)^{\\frac{1}{n}} - 1\n\\]\n\nWhere \\( n \\) is the number of periods (in this case, 3 years):\n\n\\[\nR_{geom} = \\left( 1.2339 \\times 1.2876 \\times 0.9564 \\right)^{\\frac{1}{3}} - 1\n\\]\n\nCalculating the product:\n\n\\[\n= (1.2339 \\times 1.2876 \\times 0.9564) \\approx 1.4667\n\\]\n\nNow take the cube root and subtract 1:\n\n\\[\nR_{geom} = (1.4667)^{\\frac{1}{3}} - 1 \\approx 0.1496 \\text{ or } 14.96\\%\n\\]\n\n### Conclusion\nThe geometric average return for the stock is approximately **14.96%**."
+}

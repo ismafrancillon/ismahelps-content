@@ -1,0 +1,24 @@
+{
+  "id": "p547",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Stock Valuation",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Dividend Discount Model: If a stock currently pays a dividend of 2 per...",
+  "summary": "Apply the Gordon Growth Model or Dividend Discount Model for stock valuation.",
+  "prompt": "If a stock currently pays a dividend of $2 per share, which is expected to grow at a rate of 5% indefinitely, calculate the price of the stock if the required rate of return is 10%.",
+  "options": [],
+  "correct_option": "40",
+  "answer_text": "40",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**: Dividend (D) = $2; Growth Rate (g) = 5%; Required Rate of Return (r) = 10%. <br> **Step 2: Apply Gordon Growth Model**: Price = D / (r - g) = $2 / (0.10 - 0.05). <br> Price = $2 / 0.05 = $40. <br> This indicates a fair value of the stock based on its dividend growth."
+}

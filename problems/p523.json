@@ -1,0 +1,23 @@
+{
+  "id": "p523",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Weighted Average Cost of Capital (WACC)",
+  "subtopic": "Debt-to-Equity",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "debt-to-equity",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Debt-to-Equity: What proportion of a firm is equity financed if the...",
+  "summary": "Determine the equity financing proportion by rearranging the WACC formula with given cost components.",
+  "prompt": "What proportion of a firm is equity financed if the WACC is 14%, the before-tax cost of debt is 7%, the tax rate is 35% and the required return on equity is 18%?",
+  "options": [],
+  "correct_option": "0.7026",
+  "answer_text": "0.7026",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the proportion of a firm that is equity financed given the WACC, before-tax cost of debt, tax rate, and required return on equity, follow these steps: ### Step 1: Define Key Variables - **WACC**: Weighted Average Cost of Capital = 14% or 0.14 - **Before-tax cost of debt (Kd)**: 7% or 0.07 - **Tax rate (T)**: 35% or 0.35 - **Cost of equity (Ke)**: 18% or 0.18 ### Step 2: Calculate After-Tax Cost of Debt The after-tax cost of debt is calculated as: \\[ Kd_{\\text{after-tax}} = Kd \\times (1 - T) \\] \\[ Kd_{\\text{after-tax}} = 0.07 \\times (1 - 0.35) \\] \\[ Kd_{\\text{after-tax}} = 0.07 \\times 0.65 \\] \\[ Kd_{\\text{after-tax}} = 0.0455 \\text{ or } 4.55\\% \\] ### Step 3: Set Up the WACC Formula The WACC formula is: \\[ WACC = (E/V) \\times Ke + (D/V) \\times Kd_{\\text{after-tax}} \\] where: - \\( E/V \\) is the proportion of equity financing - \\( D/V \\) is the proportion of debt financing Since \\( E/V + D/V = 1 \\), we can denote \\( E/V \\) as \\( x \\) and \\( D/V \\) as \\( 1 - x \\). ### Step 4: Substitute Values into the WACC Formula \\[ 0.14 = x \\times 0.18 + (1 - x) \\times 0.0455 \\] ### Step 5: Solve for \\( x \\) \\[ 0.14 = 0.18x + 0.0455 - 0.0455x \\] \\[ 0.14 = 0.18x - 0.0455x + 0.0455 \\] \\[ 0.14 = 0.1345x + 0.0455 \\] \\[ 0.14 - 0.0455 = 0.1345x \\] \\[ 0.0945 = 0.1345x \\] \\[ x = \\frac{0.0945}{0.1345} \\] \\[ x \\approx 0.7037 \\text{ or } 70.37\\% \\] ### Final Answer The proportion of the firm that is equity financed is approximately **70.37%**. ### Explanation - We first identified the key variables and calculated the after-tax cost of debt. - We then set up the WACC formula and substituted the known values. - By solving the equation step-by-step, we isolated the proportion of equity financing. - The final answer indicates that 70.37% of the firm is financed by equity."
+}

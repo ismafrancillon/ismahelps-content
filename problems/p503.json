@@ -1,0 +1,23 @@
+{
+  "id": "p503",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "NPV: Project A requires a 1290 initial investment and returns 600...",
+  "summary": "Calculate the NPV of a perpetual cash flow project using the perpetuity formula minus the initial investment.",
+  "prompt": "Project A requires a $1,290 initial investment and returns $600 per year forever, and project B requires a $2,407 initial investment and returns $700 per year forever. What is the crossover point?",
+  "options": [],
+  "correct_option": "0.0895",
+  "answer_text": "8.95%",
+  "answer_format": "numeric_percent",
+  "solution": "In order to determine the crossover point for Project A and Project B, we need to find the discount rate at which both projects have the same Net Present Value (NPV). Here are the steps: 1. **Define the cash flows:** - Project A: Initial investment = $1,290, Annual cash inflow = $600 (perpetual) - Project B: Initial investment = $2,407, Annual cash inflow = $700 (perpetual) 2. **Calculate the NPV for both projects:** - For a perpetual cash flow, the NPV formula is \\( \\text{NPV} = \\frac{\\text{Annual Cash Inflow}}{\\text{Discount Rate}} - \\text{Initial Investment} \\). 3. **Set the NPVs equal to each other and solve for the discount rate:** - \\( \\frac{600}{r} - 1290 = \\frac{700}{r} - 2407 \\) - Simplify and solve for \\( r \\): \\[ \\frac{600}{r} - \\frac{700}{r} = 1290 - 2407 \\] \\[ \\frac{-100}{r} = -1117 \\] \\[ r = \\frac{100}{1117} \\] \\[ r \\approx 0.0895 \\text{ or } 8.95\\% \\] **Final Answer:** The crossover point for Project A and Project B is approximately 8.95%. ### Explanation: - We first defined the cash flows for both projects. - We then used the NPV formula for perpetual cash flows to set up the equation. - By setting the NPVs equal, we solved for the discount rate that makes both projects equally attractive. This rate is known as the crossover point, which in this case is 8.95%."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p571",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Perpetuity",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "time-value-of-money",
+    "present-value",
+    "perpetuity",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Perpetuity: The Yotsuba Group (ヨツバグループ) offers a perpetuity of 12344 per...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "The Yotsuba Group (ヨツバグループ) offers a perpetuity of $12,344 per year.\nHowever, note that the first payment will be paid in 2 years. What is the present\nvalue of the Yotsuba perpetuity if your discount rate is 12.1841% compounded\nannually?",
+  "options": [],
+  "correct_option": "90309.04",
+  "answer_text": "90309.04",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1 Highlight Relevant Information\nThe Yotsuba Group (ヨツバグループ) offers a perpetuity of $12,344 per year.\nHowever, note that the first payment will be paid in 2 years. What is the present\nvalue of Yotsuba perpetuity if your discount rate is 12.1841% compounded\nannually?\nA few things to note:\nThe first highlighted bit suggests that we're dealing with a perpetuity (i.e., P\nPMT/k); therefore, there's only one formula to use\nCalculator studio solutions 3\nThe second highlighted bit suggests that our perpetuity's \"PMT\" remains to be\n$12,344; and, that it occurs every year\nThe third highlighted bit informs us that our mission is to solve for the present\nvalue of this perpetuity\nThe fourth highlighted bit (i.e., 12.1841% represents \"QR\"; however, this figure\nmust be compounded annually; therefore, this must also be our the Effective\nAnnual Rate EAR\nStep 2 Build our Timeline\nNote that our timeline seems to display that our present value isn't at PV0 just yet;\ntherefore, some further discounting will be needed in order to solve for the\nACTUAL present value of the Yotsuba perpetuity.\nStep 3 Solving our Perpetuity\nThe formula for Perpetuities can be written as follows\nPVn=PMTn+1kPV_{n}=\\frac{PMT_{n+1}}{k}PVn=kPMTn+1\nPMT2 $12,344\nK 12.1841%\nSuch that, PV1 $101,312.38\nHowever, this isn't our final answer. We must discount this amount to t0 in order to\nfind the PV of these cash flows\nStep 4 Discounting Our Perpetuity to PV0\nThe formula for discounting cash flows can be written as follows\nPV0PVn(1+k)nPV_{0\\frac{PV_{n}}{(1+k)^{n}}PV0(1+k)nPVn\nPV1 $101,312.38\nK 12.1841%\nN 1\nSuch that, PV0 $90,309.04"
+}

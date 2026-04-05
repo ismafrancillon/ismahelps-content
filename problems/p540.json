@@ -1,0 +1,23 @@
+{
+  "id": "p540",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "put-option",
+    "calculation"
+  ],
+  "title": "Payoff: Suppose that the price of a share of stock in...",
+  "summary": "Determine the maximum profit of an options portfolio by analyzing payoffs and premiums.",
+  "prompt": "Suppose that the price of a share of stock in ADT Co. is currently trading at $30/share. Consider building a portfolio with the following option positions: • Buy a put option with a strike price of $40 for a $2.5 premium. • Sell two put options each with a strike price of $24 for a $1 premium each. What is the maximum profit?",
+  "options": [],
+  "correct_option": "15.5",
+  "answer_text": "15.5",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the maximum profit of the given portfolio, we need to evaluate the profit or loss from each option position and then sum them up. 1. **Buy a put option with a strike price of $40 for a $2.5 premium.** - If the stock price drops below $40, the put option will be exercised. - The maximum profit from this position occurs if the stock price drops to $0. - Profit = Strike Price - Premium Paid = $40 - $2.5 = $37.5 per share. 2. **Sell two put options each with a strike price of $24 for a $1 premium each.** - If the stock price drops below $24, these put options will be exercised. - The maximum loss from these positions occurs if the stock price drops to $0. - Loss per option = Strike Price - Premium Received = $24 - $1 = $23 per share. - Since two options were sold, the total loss = 2 * $23 = $46 per share. 3. **Calculate the net profit or loss.** - The net profit from buying the put option = $37.5 per share. - The net loss from selling the two put options = $46 per share. - Net Profit/Loss = $37.5 - $46 = -$8.5 per share. However, the maximum profit of the portfolio occurs when the stock price is such that the bought put option is exercised, but the sold put options are not. 4. **Maximum Profit Scenario:** - If the stock price is exactly $24, the bought put option will be exercised, and the sold put options will not be. - Profit from bought put option = $40 - $24 - $2.5 = $13.5 per share. - Premium received from sold put options = 2 * $1 = $2 per share. - Total Maximum Profit = $13.5 + $2 = $15.5 per share. Therefore, the maximum profit of the portfolio is $15.5. **Final Answer:** C) The maximum profit of this portfolio is $15.50."
+}

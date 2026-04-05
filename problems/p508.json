@@ -1,0 +1,24 @@
+{
+  "id": "p508",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Capital",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-equity",
+    "after-tax-cost-of-debt",
+    "capital-structure",
+    "calculation"
+  ],
+  "title": "Cost of Capital: Calculate the weighted average cost of capital (WACC) for a...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "Calculate the weighted average cost of capital (WACC) for a firm with a cost of equity of 12%, a cost of debt of 8%, a tax rate of 30%, and a capital structure consisting of 40% debt and 60% equity.",
+  "options": [],
+  "correct_option": "0.104",
+  "answer_text": "9.44%",
+  "answer_format": "numeric_percent",
+  "solution": "**Step 1: Define Key Variables**<br> Cost of Equity (Ke) = 12%<br> Cost of Debt (Kd) = 8%<br> Tax Rate = 30%<br> Weight of Debt (Wd) = 40%<br> Weight of Equity (We) = 60%<br> **Step 2: Calculate After-Tax Cost of Debt**<br> After-Tax Cost of Debt = Kd * (1 - Tax Rate) = 8% * (1 - 0.30) = 8% * 0.70 = 5.6%<br> **Step 3: Calculate WACC**<br> WACC = (Wd * After-Tax Cost of Debt) + (We * Cost of Equity)<br> WACC = (0.40 * 5.6%) + (0.60 * 12%) = 2.24% + 7.2% = 9.44%"
+}

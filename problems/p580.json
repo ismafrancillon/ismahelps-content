@@ -1,0 +1,24 @@
+{
+  "id": "p580",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Cost Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "revenues",
+    "expenses",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost Approach: A developer purchases land for 500000 and incurs 200000 in...",
+  "summary": "Calculate gross profit on a development by subtracting costs from selling price.",
+  "prompt": "A developer purchases land for $500,000 and incurs $200,000 in construction costs. If the developer expects the property to sell for $1,000,000, what is the gross profit?",
+  "options": [],
+  "correct_option": "300000",
+  "answer_text": "300000",
+  "answer_format": "numeric_decimal",
+  "solution": "The gross profit can be calculated as follows: Gross Profit = Selling Price - (Land Cost + Construction Costs). Here, Gross Profit = $1,000,000 - ($500,000 + $200,000) = $1,000,000 - $700,000 = $300,000. This calculation is vital for developers to understand their potential returns on investment and assess the feasibility of their projects. Understanding profit margins is critical for making informed investment decisions in the real estate development process."
+}

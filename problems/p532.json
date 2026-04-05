@@ -1,0 +1,23 @@
+{
+  "id": "p532",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Portfolio Beta",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "portfolio-beta",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Portfolio Beta: A portfolio has ten -10 stocks, and it has beta...",
+  "summary": "Calculate the new portfolio beta after changing holdings by adjusting component weights and betas.",
+  "prompt": "A portfolio has ten (10) stocks, and it has beta of 1.7. Security X represents 16% of the portfolio’s wealth and security Y represents 18% of the portfolio’s wealth. Security X has a beta of 0.7 and stock B has a beta of -0.7. What will be your new portfolio beta if you sell all of your investment in security X and Y in order to invest the proceeds in the risk-free asset?",
+  "options": [],
+  "correct_option": "1.714",
+  "answer_text": "1.714",
+  "answer_format": "numeric_decimal",
+  "solution": "To solve the problem, we need to determine the new portfolio beta after selling all of the investment in Security X and Security Y and investing the proceeds in the risk-free asset. \n\nGiven:\n- Portfolio beta (βp) = 1.7\n- Weight of Security X (wx) = 16% = 0.16\n- Beta of Security X (βx) = 0.7\n- Weight of Security Y (wy) = 18% = 0.18\n- Beta of Security Y (βy) = -0.7\n- Beta of risk-free asset (βrf) = 0\n\nStep-by-Step Solution:\n\n1. **Calculate the contribution of Security X and Y to the portfolio beta:**\n   - Contribution of Security X: \\( \\beta_x \\times wx = 0.7 \\times 0.16 = 0.112 \\)\n   - Contribution of Security Y: \\( \\beta_y \\times wy = -0.7 \\times 0.18 = -0.126 \\)\n\n2. **Calculate the total contribution of Security X and Y:**\n   - Total contribution: \\( 0.112 + (-0.126) = -0.014 \\)\n\n3. **Determine the combined weight of the remaining securities:**\n   - Total weight of remaining securities: \\( 1 - wx - wy = 1 - 0.16 - 0.18 = 0.66 \\)\n\n4. **Calculate the beta of the remaining securities (βremaining):**\n   - Since the total portfolio beta is 1.7, and the contribution of X and Y is -0.014, the remaining securities must account for the rest.\n   - Thus, the contribution of the remaining securities to the portfolio beta is: \\( 1.7 - (-0.014) = 1.714 \\)\n   - Therefore, the beta of the remaining securities: \\( \\beta_{remaining} = \\frac{1.714}{0.66} \\approx 2.59697 \\)\n\n5. **Calculate the new portfolio beta after selling X and Y and investing in the risk-free asset:**\n   - Since the proceeds are invested in the risk-free asset, which has a beta of 0, the weights of the remaining securities will be adjusted.\n   - New portfolio beta: \\( \\beta_{new} = \\beta_{remaining} \\times 0.66 = 2.59697 \\times 0.66 \\approx 1.714 \\)\n\nThe new portfolio beta after selling all of your investment in Security X and Y and investing the proceeds in the risk-free asset is approximately **1.714**."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p570",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "cash-flows",
+    "multi-step",
+    "calculation"
+  ],
+  "title": "NPV: A company plans to finance a project costing 1000000 They...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "A company plans to finance a project costing $1,000,000. They expect to generate cash flows of $300,000 in Year 1, $400,000 in Year 2, and $500,000 in Year 3. If the discount rate is 10%, calculate the NPV of the project and determine if the project should be accepted.",
+  "options": [],
+  "correct_option": "79682.64",
+  "answer_text": "79682.64",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**: Initial Investment = $1,000,000; Cash Flows = {Year 1: $300,000, Year 2: $400,000, Year 3: $500,000}; Discount Rate = 10%. <br> **Step 2: Calculate Present Values**: <br> PV Year 1 = $300,000 / (1+0.10)^1 = $272,727.27 <br> PV Year 2 = $400,000 / (1+0.10)^2 = $330,578.51 <br> PV Year 3 = $500,000 / (1+0.10)^3 = $375,657.53 <br> **Step 3: Calculate NPV**: NPV = PV Year 1 + PV Year 2 + PV Year 3 - Initial Investment <br> NPV = $272,727.27 + $330,578.51 + $375,657.53 - $1,000,000 = $79,682.64. <br> Since NPV > 0, the project should be accepted."
+}

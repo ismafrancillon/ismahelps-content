@@ -1,0 +1,23 @@
+{
+  "id": "p520",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Mortgage, Amortization",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "mortgage",
+    "amortization",
+    "loan-analysis",
+    "calculation"
+  ],
+  "title": "Mortgage, Amortization: Your company is planning to borrow 500000 on a 25-year,...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "Your company is planning to borrow $500,000 on a 25-year, 7%, annual payments, fully amortized term loan. What fraction of the payment made at the end of the eleventh year will represent repayment of principal?",
+  "options": [],
+  "correct_option": "0.3625",
+  "answer_text": "0.3625",
+  "answer_format": "numeric_decimal",
+  "solution": "…."
+}

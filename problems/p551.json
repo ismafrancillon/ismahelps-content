@@ -1,0 +1,23 @@
+{
+  "id": "p551",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "expected-return",
+    "calculation"
+  ],
+  "title": "Dividend: Far North Airlines is expected to pay a dividend of...",
+  "summary": "Calculate the required return on a portfolio using its weighted-average beta and CAPM.",
+  "prompt": "Far North Airlines is expected to pay a dividend of $8 in the coming year. Dividends are expected to decline at the rate of 2% per year. The risk-free rate of return is 6% and the expected return on the market portfolio is 14%. The stock of Far North Airlines Company has a beta of -0.25. The price of the stock is ______.",
+  "options": [],
+  "correct_option": "133.33",
+  "answer_text": "133.33",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the price of Far North Airlines' stock, we need to use the Dividend Discount Model (DDM) and Capital Asset Pricing Model (CAPM). Here's the step-by-step solution: ### Step 1: Calculate the Required Rate of Return using CAPM The CAPM formula is: \\[ \\text{Required Rate of Return} = R_f + \\beta \\times (R_m - R_f) \\] where: - \\( R_f \\) is the risk-free rate of return (6%) - \\( \\beta \\) is the stock's beta (-0.25) - \\( R_m \\) is the expected return on the market portfolio (14%) Plugging in the values: \\[ \\text{Required Rate of Return} = 0.06 + (-0.25) \\times (0.14 - 0.06) \\] \\[ \\text{Required Rate of Return} = 0.06 + (-0.25) \\times 0.08 \\] \\[ \\text{Required Rate of Return} = 0.06 - 0.02 \\] \\[ \\text{Required Rate of Return} = 0.04 \\] ### Step 2: Calculate the Stock Price using the Dividend Discount Model (DDM) The DDM formula for a stock with constant growth is: \\[ \\text{Stock Price} = \\frac{D_1}{k - g} \\] where: - \\( D_1 \\) is the expected dividend next year ($8) - \\( k \\) is the required rate of return (4%) - \\( g \\) is the growth rate of dividends (-2%) Plugging in the values: \\[ \\text{Stock Price} = \\frac{8}{0.04 - (-0.02)} \\] \\[ \\text{Stock Price} = \\frac{8}{0.04 + 0.02} \\] \\[ \\text{Stock Price} = \\frac{8}{0.06} \\] \\[ \\text{Stock Price} = 133.33 \\] ### Final Answer: The price of Far North Airlines' stock is $133.33. ### Explanation: 1. We first calculated the required rate of return using the CAPM formula, considering the risk-free rate, stock beta, and market return. 2. We then used the DDM formula to determine the stock price, incorporating the expected dividend, required rate of return, and the negative growth rate of dividends. 3. The final stock price is derived by dividing the expected dividend by the difference between the required rate of return and the dividend growth rate. Therefore, the correct answer is: B. $133.33"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p576",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Accounting Equation",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "accounting-equation",
+    "balance-sheet",
+    "equity",
+    "calculation"
+  ],
+  "title": "Accounting Equation: A company has an accounting equation where total assets equal...",
+  "summary": "Apply the accounting equation (Assets = Liabilities + Equity) to solve for missing values.",
+  "prompt": "A company has an accounting equation where total assets equal $500,000, total liabilities equal $300,000, and total shareholder's equity is what amount? Calculate the missing value. If a new investment of $50,000 is made, how will this affect the accounting equation?",
+  "options": [],
+  "correct_option": "200000",
+  "answer_text": "200000",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: The accounting equation is Assets = Liabilities + Shareholder's Equity. Here, $500,000 = $300,000 + SE. Therefore, SE = $200,000. Step 2: If a new investment of $50,000 is made, the assets will increase to $550,000. Liabilities remain unchanged at $300,000, so new SE will be $250,000 (i.e., $550,000 - $300,000). Hence, the accounting equation remains balanced."
+}

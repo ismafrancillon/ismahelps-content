@@ -1,0 +1,23 @@
+{
+  "id": "p557",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "incremental-cash-flow",
+    "calculation"
+  ],
+  "title": "NPV: Suppose a company has an investment that requires an after-tax...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "Suppose a company has an investment that requires an after-tax incremental cash outlay of $12,000 today. It estimates that the expected future after-tax cash flows associated with this investment are $5,000 in years 1 and 2, and $8,000 in year 3. Using a 15% discount rate, determine the project’s NPV.",
+  "options": [],
+  "correct_option": "1388.67",
+  "answer_text": "1388.59",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the Net Present Value (NPV) of the project, we follow these steps: 1. **Define Variables**: - Initial investment (C0): $12,000 - Cash flows (CF1, CF2, CF3): $5,000 in years 1 and 2, $8,000 in year 3 - Discount rate (r): 15% 2. **Formula**: The NPV formula is: \\[ NPV = \\sum \\frac{CF_t}{(1 + r)^t} - C_0 \\] Where \\( CF_t \\) is the cash flow at time t, r is the discount rate, and \\( C_0 \\) is the initial investment. 3. **Calculate Present Value of Each Cash Flow**: - Year 1: \\( \\frac{5000}{(1 + 0.15)^1} = \\frac{5000}{1.15} = 4347.83 \\) - Year 2: \\( \\frac{5000}{(1 + 0.15)^2} = \\frac{5000}{1.3225} = 3780.49 \\) - Year 3: \\( \\frac{8000}{(1 + 0.15)^3} = \\frac{8000}{1.520875} = 5260.27 \\) 4. **Sum of Present Values**: \\[ PV = 4347.83 + 3780.49 + 5260.27 = 13388.59 \\] 5. **Subtract Initial Investment**: \\[ NPV = 13388.59 - 12000 = 1388.59 \\] **Final Answer**: The project's NPV is $1388.59."
+}

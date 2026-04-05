@@ -1,0 +1,23 @@
+{
+  "id": "p528",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Beta",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "portfolio-beta",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Beta: Suppose you hold a diversified portfolio consisting of a 100...",
+  "summary": "Calculate the new portfolio beta after selling a stock and reinvesting in a risk-free or other asset.",
+  "prompt": "Suppose you hold a diversified portfolio consisting of a $100 investment in each of 10 different common stocks. The portfolio’s beta is 1.2. You decide to sell one of the stocks that has a beta of 1.5, and use the proceeds (i.e., $100) to buy a replacement stock with a beta of 0.9. What would be your new portfolio’s beta?",
+  "options": [],
+  "correct_option": "1.14",
+  "answer_text": "1.14",
+  "answer_format": "numeric_decimal",
+  "solution": "To find the new beta of the portfolio after selling one stock and buying another, we need to follow these steps: 1. **Define the initial portfolio beta**: The initial portfolio consists of 10 stocks, each with an equal investment of $100. The portfolio's beta is 1.2. 2. **Calculate the initial total beta**: Since the portfolio beta is the weighted average of the individual stock betas, we can find the total beta by multiplying the portfolio beta by the number of stocks. \\[ \\text{Total Initial Beta} = \\text{Portfolio Beta} \\times \\text{Number of Stocks} = 1.2 \\times 10 = 12 \\] 3. **Adjust the total beta after selling one stock**: When one stock with a beta of 1.5 is sold, its beta is removed from the total beta. \\[ \\text{Total Beta after Selling} = \\text{Total Initial Beta} - \\text{Beta of Sold Stock} = 12 - 1.5 = 10.5 \\] 4. **Add the beta of the new stock**: The proceeds are used to buy a new stock with a beta of 0.9. This beta is added to the adjusted total beta. \\[ \\text{Total Beta after Buying} = \\text{Total Beta after Selling} + \\text{Beta of New Stock} = 10.5 + 0.9 = 11.4 \\] 5. **Calculate the new portfolio beta**: The new portfolio beta is the total beta divided by the number of stocks (still 10). \\[ \\text{New Portfolio Beta} = \\frac{\\text{Total Beta after Buying}}{\\text{Number of Stocks}} = \\frac{11.4}{10} = 1.14 \\] **Final Answer**: The new portfolio's beta is **1.14**. ### Explanation: - Initially, the total beta of the portfolio is calculated by multiplying the portfolio beta by the number of stocks. - The beta of the sold stock is subtracted from the total beta. - The beta of the new stock is added to the adjusted total beta. - Finally, the new portfolio beta is determined by dividing the total beta by the number of stocks. This step-by-step method ensures the accurate calculation of the new portfolio beta after the adjustment."
+}

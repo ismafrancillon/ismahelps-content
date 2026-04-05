@@ -1,0 +1,24 @@
+{
+  "id": "p544",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "capm",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Dividend Discount Model: Golden State Inc. has a beta of 1.20. The risk-free...",
+  "summary": "Calculate the required return on a portfolio using its weighted-average beta and CAPM.",
+  "prompt": "Golden State Inc. has a beta of 1.20. The risk-free rate is 6% and the expected return on the market portfolio is 14.5%. The company presently pays an annual dividend of $5 per share. However, investors expect all future dividends to experience a decline of 1% per annum for many years to come. What is the stock’s present market price per share, assuming the required rate of return is determined by the CAPM?",
+  "options": [],
+  "correct_option": "28.77",
+  "answer_text": "28.77",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the present market price per share of Golden State Inc., we will use the Dividend Discount Model (DDM) in conjunction with the Capital Asset Pricing Model (CAPM) to find the required rate of return.\n\n### Step 1: Calculate the Required Rate of Return using CAPM\nThe CAPM formula is:\n\n\\[\n\\text{Required Rate of Return} = R_f + \\beta \\times (R_m - R_f)\n\\]\n\nWhere:\n- \\( R_f \\) = Risk-free rate = 6% or 0.06\n- \\( \\beta \\) = Beta of the stock = 1.20\n- \\( R_m \\) = Expected return on the market portfolio = 14.5% or 0.145\n\nSubstituting the values:\n\n\\[\n\\text{Required Rate of Return} = 0.06 + 1.20 \\times (0.145 - 0.06)\n\\]\n\nCalculating the market risk premium:\n\n\\[\nR_m - R_f = 0.145 - 0.06 = 0.085\n\\]\n\nNow substituting back:\n\n\\[\n\\text{Required Rate of Return} = 0.06 + 1.20 \\times 0.085 = 0.06 + 0.102 = 0.162 \\text{ or } 16.2\\%\n\\]\n\n### Step 2: Calculate the Present Market Price Using DDM\nSince dividends are expected to decline at a rate of 1% per annum, we will use the Gordon Growth Model for a declining dividend:\n\n\\[\nP_0 = \\frac{D_1}{r - g}\n\\]\n\nWhere:\n- \\( P_0 \\) = Present market price per share\n- \\( D_1 \\) = Expected dividend next year\n- \\( r \\) = Required rate of return = 16.2% or 0.162\n- \\( g \\) = Growth rate of dividends = -1% or -0.01\n\n### Step 3: Calculate \\( D_1 \\)\nThe expected dividend next year (\\( D_1 \\)) can be calculated from the current dividend:\n\n\\[\nD_1 = D_0 \\times (1 + g) = 5 \\times (1 - 0.01) = 5 \\times 0.99 = 4.95\n\\]\n\n### Step 4: Substitute into the DDM Formula\nNow, substituting the values into the DDM formula:\n\n\\[\nP_0 = \\frac{4.95}{0.162 - (-0.01)} = \\frac{4.95}{0.162 + 0.01} = \\frac{4.95}{0.172}\n\\]\n\nCalculating:\n\n\\[\nP_0 \\approx 28.77\n\\]\n\n### Final Answer:\nThe stock's present market price per share is approximately **$28.77**."
+}

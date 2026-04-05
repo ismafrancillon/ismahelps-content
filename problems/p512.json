@@ -1,0 +1,24 @@
+{
+  "id": "p512",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Risk and Return",
+  "subtopic": "CAPM",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "market-risk-premium",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If a company’s shares are expected to generate returns of...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If a company’s shares are expected to generate returns of 12% and the risk-free rate is 3%, what is the expected market return using the CAPM if the stock's beta is 1.2?",
+  "options": [],
+  "correct_option": "0.132",
+  "answer_text": "10.5%",
+  "answer_format": "numeric_percent",
+  "solution": "**Step 1: Define Key Variables**: Beta (β) = 1.2; Risk-free Rate (r_f) = 3%; Expected Return on Stock (r_s) = 12%. <br> **Step 2: Use CAPM to find Market Return**: r_s = r_f + β * (r_m - r_f). Rearranging gives r_m = (r_s - r_f) / β + r_f. <br> r_m = (12% - 3%) / 1.2 + 3% = 9% / 1.2 + 3% = 7.5% + 3% = 10.5%. <br> This shows the market return given the risk."
+}

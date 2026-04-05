@@ -1,0 +1,23 @@
+{
+  "id": "p584",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure",
+  "subtopic": "Earnings Before Interest and Taxes (EBIT)",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "earnings",
+    "income-statement",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Earnings Before Interest and Taxes (EBIT): If a company has a cash flow of $400,000, a...",
+  "summary": "Calculate the tax saving from interest expense using the marginal tax rate.",
+  "prompt": "If a company has a cash flow of $400,000, a tax rate of 25%, and an interest expense of $100,000, what is the company's Earnings Before Interest and Taxes (EBIT)?",
+  "options": [],
+  "correct_option": "533333.33",
+  "answer_text": "533333.33",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**: Cash Flow = $400,000; Tax Rate = 25%; Interest Expense = $100,000. <br> **Step 2: Rearranging EBIT Formula**: EBIT = Cash Flow + Interest Expense / (1 - Tax Rate). <br> EBIT = ($400,000 + $100,000) / (1 - 0.25) = $533,333.33. <br> This shows the company's operating income before interest and taxes."
+}

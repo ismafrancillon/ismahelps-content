@@ -1,0 +1,23 @@
+{
+  "id": "p579",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFF",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "fcff",
+    "free-cash-flow",
+    "valuation",
+    "calculation"
+  ],
+  "title": "FCFF: A company has an operating income (EBIT) of $500,000, with...",
+  "summary": "Calculate free cash flow to the firm from EBIT, depreciation, capital expenditures, and working capital.",
+  "prompt": "A company has an operating income (EBIT) of $500,000, with depreciation expenses of $100,000, capital expenditures of $250,000, and a change in working capital of $50,000. Calculate the free cash flow to the firm (FCFF) if the tax rate is 30%.",
+  "options": [],
+  "correct_option": "285000",
+  "answer_text": "285000",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**<br> EBIT = $500,000<br> Depreciation = $100,000<br> CAPEX = $250,000<br> Change in WC = $50,000<br> Tax Rate = 30%<br> **Step 2: Calculate After-Tax Operating Income**<br> After-tax EBIT = EBIT * (1 - Tax Rate) = $500,000 * (1 - 0.30) = $350,000<br> **Step 3: Calculate FCFF**<br> FCFF = After-tax EBIT + Depreciation - CAPEX - Change in WC<br> FCFF = $350,000 + $100,000 - $250,000 - $50,000 = $150,000"
+}

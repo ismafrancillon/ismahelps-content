@@ -1,0 +1,24 @@
+{
+  "id": "p573",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "present-value",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: An investor is considering a project with an initial investment...",
+  "summary": "Calculate NPV of a real estate project by discounting cash flows minus initial investment.",
+  "prompt": "An investor is considering a project with an initial investment of $1 million that will generate cash flows of $200,000 annually for 7 years. If the discount rate is 10%, what is the NPV of the project?",
+  "options": [],
+  "correct_option": "132000",
+  "answer_text": "132000",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: Calculate NPV using the formula: NPV = ∑ (Cash Flow / (1 + r)^t) - Initial Investment. Step 2: NPV = (200,000/(1+0.10)^1) + (200,000/(1+0.10)^2) + ... + (200,000/(1+0.10)^7) - $1,000,000. Step 3: Calculate each cash flow's present value and sum them to find NPV = $1,132,000 - $1,000,000 = $132,000."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "p504",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Weighted Average Cost of Capital (WACC)",
+  "subtopic": "Cost of Capital",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "cost-of-capital",
+    "cost-of-debt",
+    "after-tax-cost-of-debt",
+    "calculation"
+  ],
+  "title": "Cost of Capital: AMC’s pre-tax cost of debt is 8%, its cost of...",
+  "summary": "Calculate the weighted average cost of capital using capital structure weights and component costs.",
+  "prompt": "AMC’s pre-tax cost of debt is 8%, its cost of equity is 12%, and it is subject to a 40% corporate income tax rate. The firm’s debt-to-equity ratio (D/E) is 2/3. What is the firm’s WACC?",
+  "options": [],
+  "correct_option": "0.0912",
+  "answer_text": "9.12%",
+  "answer_format": "numeric_percent",
+  "solution": "To find the Weighted Average Cost of Capital (WACC) for AMC, we need to follow these steps:\n\n1. **Identify the given variables:**\n   - Pre-tax cost of debt (\\( K_d \\)) = 8%\n   - Cost of equity (\\( K_e \\)) = 12%\n   - Corporate tax rate (\\( T \\)) = 40%\n   - Debt-to-equity ratio (\\( D/E \\)) = 2/3\n\n2. **Calculate the proportion of debt and equity:**\n   - \\( D/E = 2/3 \\)\n   - Let \\( E = 1 \\) (Equity proportion)\n   - Then \\( D = 2/3 \\) (Debt proportion)\n   - Total capital = \\( D + E = 2/3 + 1 = 5/3 \\)\n\n   - Proportion of debt (\\( w_d \\)) = \\( D / (D + E) = (2/3) / (5/3) = 2/5 = 0.4 \\)\n   - Proportion of equity (\\( w_e \\)) = \\( E / (D + E) = 1 / (5/3) = 3/5 = 0.6 \\)\n\n3. **Calculate the after-tax cost of debt:**\n   - After-tax cost of debt (\\( K_d \\times (1 - T) \\)) = \\( 8\\% \\times (1 - 0.40) = 8\\% \\times 0.60 = 4.8\\% \\)\n\n4. **Calculate WACC using the formula:**\n   - \\( WACC = w_d \\times K_d \\times (1 - T) + w_e \\times K_e \\)\n   - \\( WACC = 0.4 \\times 4.8\\% + 0.6 \\times 12\\% \\)\n   - \\( WACC = 0.4 \\times 0.048 + 0.6 \\times 0.12 \\)\n   - \\( WACC = 0.0192 + 0.072 \\)\n   - \\( WACC = 0.0912 \\) or 9.12%\n\n**Final Answer:**\nThe firm’s WACC is 9.12%."
+}

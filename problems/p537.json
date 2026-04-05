@@ -1,0 +1,24 @@
+{
+  "id": "p537",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "growth-rate",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Dividend Discount Model: LVMH Inc. is expecting a period of intense growth, so...",
+  "summary": "Calculate stock price using a multi-stage Dividend Discount Model with changing growth rates.",
+  "prompt": "LVMH Inc. is expecting a period of intense growth, so it has decided to retain more of its earnings to help finance their expected growth. Therefore, LVMH Inc. has reduced its annual dividend by 10% a year for the next three years. After that it will maintain a constant dividend of $0.75 a share. The company just paid a dividend of $1.80 per share. What is the market value of this stock if the required rate of return is 13%?",
+  "options": [],
+  "correct_option": "7.48",
+  "answer_text": "7.48",
+  "answer_format": "numeric_decimal",
+  "solution": "To calculate the market value of LVMH Inc.'s stock using the Dividend Discount Model (DDM) with a two-part approach, we follow these steps:\n\n### Step 1: Calculate Future Dividends\n\n1. **Current Dividend (D0)**: $1.80\n2. **Dividends for the next three years (with a 10% reduction)**:\n   - Year 1: \\( D_1 = D_0 \\times (1 - 0.10) = 1.80 \\times 0.90 = 1.62 \\)\n   - Year 2: \\( D_2 = D_1 \\times (1 - 0.10) = 1.62 \\times 0.90 = 1.458 \\)\n   - Year 3: \\( D_3 = D_2 \\times (1 - 0.10) = 1.458 \\times 0.90 \\approx 1.3122 \\)\n\n3. **Constant Dividend After Year 3**: $0.75\n\n### Step 2: Calculate Present Value of Future Dividends\n\nUsing the present value formula:\n\n\\[\nPV = \\frac{D}{(1 + r)^n}\n\\]\n\nWhere:\n- \\( D \\) = Dividend in each year\n- \\( r \\) = Required rate of return (13% or 0.13)\n- \\( n \\) = Year number\n\n#### Present Value Calculations:\n\n1. **Year 1**:\n   \\[\n   PV_1 = \\frac{1.62}{(1 + 0.13)^1} = \\frac{1.62}{1.13} \\approx 1.43\n   \\]\n\n2. **Year 2**:\n   \\[\n   PV_2 = \\frac{1.458}{(1 + 0.13)^2} = \\frac{1.458}{1.2769} \\approx 1.14\n   \\]\n\n3. **Year 3**:\n   \\[\n   PV_3 = \\frac{1.3122}{(1 + 0.13)^3} = \\frac{1.3122}{1.4429} \\approx 0.91\n   \\]\n\n4. **Present Value of Constant Dividend from Year 4 Onward**:\n   The present value of a perpetuity starting from Year 4 can be calculated as follows:\n   \\[\n   PV_{Perpetuity} = \\frac{D}{r} = \\frac{0.75}{0.13} \\approx 5.7692\n   \\]\n   This value is then discounted back to present value at Year 3:\n   \\[\n   PV_{Perpetuity\\_at\\_Year\\_3} = \\frac{5.7692}{(1 + 0.13)^3} \\approx \\frac{5.7692}{1.4429} \\approx 4.00\n   \\]\n\n### Step 3: Total Present Value\n\nNow, we sum all present values:\n\n\\[\nPV_{Total} = PV_1 + PV_2 + PV_3 + PV_{Perpetuity\\_at\\_Year\\_3}\n\\]\n\\[\nPV_{Total} \\approx 1.43 + 1.14 + 0.91 + 4.00 \\approx 7.48\n\\]\n\n### Final Answer\n\nThe market value of LVMH Inc.'s stock is approximately **$7.48**."
+}

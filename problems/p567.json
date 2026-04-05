@@ -1,0 +1,23 @@
+{
+  "id": "p567",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Incremental Analysis",
+  "subtopic": "Relevant Costs and Revenues",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "relevant-costs",
+    "incremental-analysis",
+    "decision-making",
+    "calculation"
+  ],
+  "title": "Relevant Costs and Revenues: A company is considering a special order of 1000 units...",
+  "summary": "Calculate total contribution margin from a special order using incremental revenue and variable costs.",
+  "prompt": "A company is considering a special order of 1,000 units at $40 each. The variable costs for each unit are $25. What is the total contribution margin from this special order?",
+  "options": [],
+  "correct_option": "15000",
+  "answer_text": "15000",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Identify Key Variables** - Selling Price = $40, Variable Cost = $25, Number of Units = 1,000. **Step 2: Calculate Contribution Margin per Unit** - Contribution Margin per Unit = Selling Price - Variable Cost = $40 - $25 = $15. **Step 3: Calculate Total Contribution Margin** - Total Contribution Margin = Contribution Margin per Unit * Number of Units = $15 * 1,000 = $15,000. **Step 4: Conclusion** - The total contribution margin from the special order is $15,000."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p560",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Annuity",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "time-value-of-money",
+    "present-value",
+    "annuity",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Annuity: Your 6-year-old wants to go to Princeton. This will cost...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "Your 6-year-old wants to go to Princeton. This will cost you $30,000 per year for 4 years. On her next birthday you start putting money into an account paying 14% annually and continue to deposit the same amount every year until her 17th birthday. The first tuition payment will be payable on her 18th birthday, the second on her 19th birthday etc. How large are your annual deposits to this account?",
+  "options": [],
+  "correct_option": "3793.15",
+  "answer_text": "3375.15",
+  "answer_format": "numeric_decimal",
+  "solution": "Here’s a structured summary of the solution based on the notes:\n\n### **Problem Breakdown**\n- A **6-year-old** wants to go to **Princeton**, which costs **$30,000 per year for 4 years**.\n- Deposits are made **annually** into an account earning **14% interest**, starting on the child’s **7th birthday** and stopping on their **17th birthday**.\n- The **first tuition payment is due on their 18th birthday**.\n- The goal is to determine the **annual deposit amount**.\n\n---\n\n### **Step-by-Step Solution**\n#### **Step 1: Compute the Present Value (PV) of Tuition Costs**\n- **Tuition payments occur from age 18 to 21**, meaning four payments of **$30,000** each.\n- Each payment is discounted back to the 17th birthday using the formula for present value of annuities:\n  \n  \\[\n  PV = \\frac{30,000}{(1.14)^1} + \\frac{30,000}{(1.14)^2} + \\frac{30,000}{(1.14)^3} + \\frac{30,000}{(1.14)^4}\n  \\]\n\n- After calculations, the **total present value at age 17** is **$87,411.37**.\n\n---\n\n#### **Step 2: Find the Required Annual Deposits**\n- Deposits are made every year from age **7 to 17** (**11 deposits**).\n- These deposits form a **future value annuity** accumulating to the required amount ($87,411.37).\n- The **future value of an annuity formula** is used:\n\n  \\[\n  FV = PMT \\times \\frac{(1.14)^{11} - 1}{0.14}\n  \\]\n\n- Solving for **PMT (annual deposit amount)**:\n\n  \\[\n  87,411.37 = PMT \\times 31.578\n  \\]\n\n  \\[\n  PMT = \\frac{87,411.37}{31.578} = 3,375.152\n  \\]\n\n---\n\n### **Final Answer**\nThe required **annual deposit** is **$3,375.15** per year for 11 years to afford tuition payments.\n\nThis step-by-step breakdown simplifies the logic behind solving the problem:  \n1. **Find the present value of tuition costs.**  \n2. **Determine the future value of deposits needed to match that amount.**  \n3. **Solve for the required annual deposit.**"
+}

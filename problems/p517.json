@@ -1,0 +1,24 @@
+{
+  "id": "p517",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Risk and Return",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "standard-deviation",
+    "variance",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Risk and Return: You have observed the following annual returns for ABC Inc:...",
+  "summary": "Apply portfolio theory concepts to analyze risk, return, and diversification.",
+  "prompt": "You have observed the following annual returns for ABC Inc: 25%, 15%, -20%, 30% and -15%. What is the standard deviation of returns?",
+  "options": [],
+  "correct_option": "0.23076",
+  "answer_text": "23.076%",
+  "answer_format": "numeric_percent",
+  "solution": "To find the standard deviation of returns for ABC Inc., we will follow these steps: 1. **Calculate the Mean (Average) Return:** First, sum up all the annual returns and divide by the number of returns. \\[ \\text{Mean} = \\frac{25 + 15 + (-20) + 30 + (-15)}{5} = \\frac{35}{5} = 7\\% \\] 2. **Calculate Each Return's Deviation from the Mean:** Subtract the mean from each return and then square the result. \\[ \\begin{align*} (25 - 7)^2 &= 324 \\\\ (15 - 7)^2 &= 64 \\\\ (-20 - 7)^2 &= 729 \\\\ (30 - 7)^2 &= 529 \\\\ (-15 - 7)^2 &= 484 \\\\ \\end{align*} \\] 3. **Sum of Squared Deviations:** Add up all the squared deviations. \\[ \\text{Sum of Squared Deviations} = 324 + 64 + 729 + 529 + 484 = 2130 \\] 4. **Calculate the Variance:** Divide the sum of squared deviations by the number of returns minus one (n-1, where n is the number of returns). \\[ \\text{Variance} = \\frac{2130}{5-1} = \\frac{2130}{4} = 532.5 \\] 5. **Calculate the Standard Deviation:** Take the square root of the variance to get the standard deviation. \\[ \\text{Standard Deviation} = \\sqrt{532.5} \\approx 23.076\\% \\] So, the standard deviation of returns for ABC Inc. is approximately **23.076%**."
+}

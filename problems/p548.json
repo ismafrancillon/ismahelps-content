@@ -1,0 +1,24 @@
+{
+  "id": "p548",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Valuation",
+  "subtopic": "P/E Ratio",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "price-to-earnings",
+    "earnings",
+    "valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "P/E Ratio: If a company has a P/E ratio of 15 and...",
+  "summary": "Calculate a company's market price using its P/E ratio and earnings per share.",
+  "prompt": "If a company has a P/E ratio of 15 and its earnings per share (EPS) is $3, what is its market price?",
+  "options": [],
+  "correct_option": "45",
+  "answer_text": "45",
+  "answer_format": "numeric_decimal",
+  "solution": "Market Price = P/E * EPS = 15 * $3 = $45."
+}

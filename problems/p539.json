@@ -1,0 +1,23 @@
+{
+  "id": "p539",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Call and Puts",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "call-option",
+    "application"
+  ],
+  "title": "Call and Puts: Draw a payoff diagram of a portfolio with the following...",
+  "summary": "Evaluate properties and pricing factors of call and put options.",
+  "prompt": "Draw a payoff diagram of a portfolio with the following option positions: • Buy a Call option with a strike price of $25 • Sell two call options each with a strike price of $40 • Buy a call option with a strike price of $55.",
+  "options": [],
+  "correct_option": "15",
+  "answer_text": "15",
+  "answer_format": "numeric_decimal",
+  "solution": "To draw the payoff diagram of a portfolio with the following option positions: - Buy a Call option with a strike price of $25 - Sell two Call options each with a strike price of $40 - Buy a Call option with a strike price of $55 We need to calculate the payoff at different stock prices and then plot these values. ### Step-by-Step Solution: 1. **Define the Payoff for Each Option:** - **Long Call with Strike Price $25:** The payoff is max(0, S - 25), where S is the stock price. - **Short Two Calls with Strike Price $40:** The payoff is -2 * max(0, S - 40). - **Long Call with Strike Price $55:** The payoff is max(0, S - 55). 2. **Calculate Payoff for Different Stock Prices:** - **Stock Price = $0:** - Long Call (25): max(0, 0 - 25) = 0 - Short 2 Calls (40): -2 * max(0, 0 - 40) = 0 - Long Call (55): max(0, 0 - 55) = 0 - Total Payoff: 0 + 0 + 0 = 0 - **Stock Price = $25:** - Long Call (25): max(0, 25 - 25) = 0 - Short 2 Calls (40): -2 * max(0, 25 - 40) = 0 - Long Call (55): max(0, 25 - 55) = 0 - Total Payoff: 0 + 0 + 0 = 0 - **Stock Price = $40:** - Long Call (25): max(0, 40 - 25) = 15 - Short 2 Calls (40): -2 * max(0, 40 - 40) = 0 - Long Call (55): max(0, 40 - 55) = 0 - Total Payoff: 15 + 0 + 0 = 15 - **Stock Price = $55:** - Long Call (25): max(0, 55 - 25) = 30 - Short 2 Calls (40): -2 * max(0, 55 - 40) = -30 - Long Call (55): max(0, 55 - 55) = 0 - Total Payoff: 30 - 30 + 0 = 0 - **Stock Price = $80:** - Long Call (25): max(0, 80 - 25) = 55 - Short 2 Calls (40): -2 * max(0, 80 - 40) = -80 - Long Call (55): max(0, 80 - 55) = 25 - Total Payoff: 55 - 80 + 25 = 0 3. **Payoff Diagram:** - The payoff diagram can now be plotted with the stock price on the x-axis and the total payoff on the y-axis. ### Final Payoff Values: - Stock Price = $0: Payoff = $0 - Stock Price = $25: Payoff = $0 - Stock Price = $40: Payoff = $15 - Stock Price = $55: Payoff = $0 - Stock Price = $80: Payoff = $0 ### Explanation: The portfolio's payoff starts at $0 and remains $0 until the stock price reaches $40. At $40, the payoff increases to $15 due to the long call option with a strike price of $25. However, as the stock price increases beyond $55, the payoff returns to $0 due to the combined effect of the long call at $55 and the short two calls at $40. Thus, the final payoff diagram will show a peak at a stock price of $40 with a payoff of $15 and $0 at other stock prices."
+}

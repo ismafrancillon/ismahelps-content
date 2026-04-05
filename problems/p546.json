@@ -1,0 +1,23 @@
+{
+  "id": "p546",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "present-value",
+    "calculation"
+  ],
+  "title": "Dividend: Planner Corp. pays a 2 a share dividend every other...",
+  "summary": "Calculate the present value of a stock with irregular dividends and a known future repurchase price.",
+  "prompt": "Planner Corp. pays a $2.00 a share dividend every other year, and their most recent dividend was paid today. Five years from now, the company will repurchase all of the outstanding shares at $50 per share. What is the stock worth today at an 8% rate of return?",
+  "options": [],
+  "correct_option": "37.214",
+  "answer_text": "37.219",
+  "answer_format": "numeric_decimal",
+  "solution": "To determine the stock worth today, we need to calculate the present value of all future cash flows, including the dividends and the repurchase price. Here are the steps: 1. **Identify the Cash Flows**: - Dividend payments: $2.00 every other year. - Repurchase price: $50 in year 5. 2. **Calculate the Present Value of Dividends**: - Since dividends are paid every other year, the next dividend will be paid in year 2 and then in year 4. - The present value of dividends can be calculated using the formula: \\( PV = \\frac{D}{(1 + r)^t} \\) 3. **Calculate the Present Value of Repurchase Price**: - The repurchase price will be paid in year 5. - The present value of the repurchase price can be calculated using the formula: \\( PV = \\frac{F}{(1 + r)^t} \\) 4. **Sum the Present Values**: - Add the present value of dividends and the present value of the repurchase price to get the total present value, which represents the stock worth today. ### Step-by-Step Solution: **Step 1: Calculate the Present Value of Dividends** - Dividend in year 2: \\( PV = \\frac{2}{(1 + 0.08)^2} = \\frac{2}{1.1664} = 1.715 \\) - Dividend in year 4: \\( PV = \\frac{2}{(1 + 0.08)^4} = \\frac{2}{1.3605} = 1.470 \\) **Step 2: Calculate the Present Value of Repurchase Price** - Repurchase price in year 5: \\( PV = \\frac{50}{(1 + 0.08)^5} = \\frac{50}{1.4693} = 34.034 \\) **Step 3: Sum the Present Values** - Total Present Value = Present Value of Dividends + Present Value of Repurchase Price - Total Present Value = \\( 1.715 + 1.470 + 34.034 = 37.219 \\) ### Final Answer: The stock worth today at an 8% rate of return is **$37.219**."
+}

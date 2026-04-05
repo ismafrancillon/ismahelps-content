@@ -1,0 +1,23 @@
+{
+  "id": "p578",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Adjusting Earnings",
+  "subtopic": "Operating Expenses",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "operating-expenses",
+    "earnings-impact",
+    "net-income",
+    "calculation"
+  ],
+  "title": "Operating Expenses: Analyze the impact of a 0.15 increase in operating expenses...",
+  "summary": "Calculate the impact of an operating expense increase on EBIT and net income.",
+  "prompt": "Analyze the impact of a 15% increase in operating expenses on a firm with an initial EBIT of $400,000, depreciation of $50,000, and interest expense of $20,000. Assume a tax rate of 25%. What will be the new net income after this increase?",
+  "options": [],
+  "correct_option": "270000",
+  "answer_text": "270000",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Define Key Variables**<br> Initial EBIT = $400,000<br> Increase in Operating Expenses = 15% of $400,000 = $60,000<br> New EBIT = $400,000 - $60,000 = $340,000<br> Depreciation = $50,000<br> Interest Expense = $20,000<br> Tax Rate = 25%<br> **Step 2: Calculate Taxable Income**<br> Taxable Income = New EBIT - Interest Expense = $340,000 - $20,000 = $320,000<br> **Step 3: Calculate After-Tax Income**<br> Net Income = Taxable Income * (1 - Tax Rate) = $320,000 * (1 - 0.25) = $240,000"
+}

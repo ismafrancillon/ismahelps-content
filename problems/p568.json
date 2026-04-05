@@ -1,0 +1,23 @@
+{
+  "id": "p568",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Investing and Financing Decisions",
+  "subtopic": "Cash Basis Accounting",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "cash-basis-accounting",
+    "net-income",
+    "revenue-recognition",
+    "calculation"
+  ],
+  "title": "Cash Basis Accounting: A local company has a cash basis accounting system. They...",
+  "summary": "Apply cash basis accounting principles where revenue and expenses are recognized upon cash exchange.",
+  "prompt": "A local company has a cash basis accounting system. They received $20,000 for services provided but had incurred $5,000 in expenses that will be paid next year. How would this affect their net income for the current year?",
+  "options": [],
+  "correct_option": "20000",
+  "answer_text": "20000",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: Under cash basis accounting, revenues are recognized when cash is received. Hence, the income recognized is $20,000. Step 2: Expenses are recognized when cash is paid. As a result, the company does not recognize the $5,000 expense until the following year. Step 3: Therefore, net income for the current year is $20,000."
+}

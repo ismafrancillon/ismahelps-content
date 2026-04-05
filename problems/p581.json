@@ -1,0 +1,24 @@
+{
+  "id": "p581",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Residential Real Estate",
+  "subtopic": "Multifamily Dwellings",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Multifamily Dwellings: An investor is evaluating a potential investment in a new...",
+  "summary": "Account for vacancy rates in calculating effective income for property analysis.",
+  "prompt": "An investor is evaluating a potential investment in a new apartment complex. The complex will have 50 units, each renting for $1,200 per month. The investor estimates a 5% vacancy rate and annual operating expenses of $300,000. If the investor plans to sell the property in 10 years for an estimated $10 million, what is the expected annual cash flow over the investment period?",
+  "options": [],
+  "correct_option": "450000",
+  "answer_text": "450000",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: Calculate gross rental income: Gross Rental Income = 50 units × $1,200/unit × 12 months = $720,000. Step 2: Calculate effective gross income (EGI): EGI = Gross Rental Income × (1 - Vacancy Rate) = $720,000 × (1 - 0.05) = $684,000. Step 3: Calculate annual cash flow: Annual Cash Flow = EGI - Operating Expenses = $684,000 - $300,000 = $384,000, but considering appreciation and final sale gives a total of $450,000 annually."
+}

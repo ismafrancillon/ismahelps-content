@@ -1,0 +1,23 @@
+{
+  "id": "p561",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Break-even Analysis",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "break-even-analysis",
+    "cvp",
+    "fixed-costs",
+    "calculation"
+  ],
+  "title": "Break-even Analysis: A company has fixed costs of 100000 and a contribution...",
+  "summary": "Calculate the break-even point in units by dividing fixed costs by the contribution margin per unit.",
+  "prompt": "A company has fixed costs of $100,000 and a contribution margin per unit of $20. What is the sales volume required to break even?",
+  "options": [],
+  "correct_option": "5000",
+  "answer_text": "5000",
+  "answer_format": "numeric_decimal",
+  "solution": "**Step 1: Identify Key Variables** - Fixed Costs = $100,000, Contribution Margin = $20. **Step 2: Calculate Break-even Sales Volume** - Break-even Volume = Fixed Costs / Contribution Margin = $100,000 / $20 = 5,000 units. **Step 3: Conclusion** - The sales volume required to break even is 5,000 units."
+}

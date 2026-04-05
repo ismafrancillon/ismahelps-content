@@ -1,0 +1,23 @@
+{
+  "id": "p531",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Beta",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio-theory",
+    "beta",
+    "systematic-risk",
+    "calculation"
+  ],
+  "title": "Beta: You hold three stocks in your portfolio: A, B, and...",
+  "summary": "Calculate the new portfolio beta after selling a stock and reinvesting in a risk-free or other asset.",
+  "prompt": "You hold three stocks in your portfolio: A, B, and C. The portfolio beta is 1.50. Stock A comprises 20% of the dollar value of your holdings and has a beta of 1.0. If you sell all of your investment in A and invest the proceeds in the risk-free asset, your new portfolio beta will be?",
+  "options": [],
+  "correct_option": "1.3",
+  "answer_text": "1.3",
+  "answer_format": "numeric_decimal",
+  "solution": "You hold three stocks in your portfolio: A, B, and C. The portfolio beta is 1.50. Stock A comprises 20% of the dollar value of your holdings and has a beta of 1.0. If you sell all of your investment in A and invest the proceeds in the risk-free asset, your new portfolio beta will be: ### Final Answer: D) 1.300 ### Explanation: 1. **Identify Key Variables**: - Portfolio Beta (\\(\\beta_p\\)): 1.50 - Beta of Stock A (\\(\\beta_A\\)): 1.0 - Proportion of Stock A (\\(w_A\\)): 20% or 0.20 - Risk-free asset Beta (\\(\\beta_{rf}\\)): 0 (since the risk-free asset has zero beta) 2. **Determine the Contribution of Stock A to the Portfolio Beta**: - Contribution of Stock A to Portfolio Beta: \\(w_A \\times \\beta_A = 0.20 \\times 1.0 = 0.20\\) - Contribution of Stocks B and C to Portfolio Beta: \\(\\beta_{BC} = \\beta_p - \\beta_A \\times w_A = 1.50 - 0.20 = 1.30\\) 3. **Calculate the New Portfolio Beta**: - Since Stock A is sold and invested in the risk-free asset, the new portfolio beta will only consist of Stocks B and C. - New Portfolio Beta: \\(\\beta_{new} = \\beta_{BC} = 1.30\\) ### Conclusion: When you sell your investment in Stock A and invest in the risk-free asset, the new portfolio beta will be 1.300. Therefore, the correct answer is D) 1.300."
+}

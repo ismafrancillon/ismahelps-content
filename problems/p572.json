@@ -1,0 +1,23 @@
+{
+  "id": "p572",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Time Value of Money",
+  "subtopic": "Compound Interest",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "time-value-of-money",
+    "future-value",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Compound Interest: Kenshi's dream is to buy a home, so he decides...",
+  "summary": "Calculate the effective annual rate or convert between APR and EAR under different compounding assumptions.",
+  "prompt": "Kenshi's dream is to buy a home, so he decides to start a \"real estate\" fund. Note\nthat Kenshi deposited $38,937 into an investing account that pays 7.3488%\ncompounded 12 times per year. How large will Kenshi's \"real estate\" fund be in 15\nyears?\nSelect the closest\nanswer$128,829.29$122,694.56$116,851.96$113,930.66$111,082.40",
+  "options": [],
+  "correct_option": "116851.96",
+  "answer_text": "116851.96",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1 Highlight Relevant Information\nKenshi's dream is to buy a home, so he decides to start a \"real estate\" fund. Note\nthat Kenshi deposited $38,937 into an investing account that pays 7.3488%\ncompounded 12 times per year. How large will Kenshi's \"real estate\" fund be in\n15 years? Also, will he have enough money to purchase a $252,185 home at that\ntime?\nA few things to note:\nThe first highlighted bit (i.e., $38,937 represents \"PV0\" since it's the money\ndeposited by Kenshi as of today\nThe second highlighted bit (i.e., 7.3488% represents \"QR\"; therefore, this figure\nmust be compounded 12 times per year to earn Kenshi's Effective Annual Rate\nEAR\nThe third highlighted bit (i.e., 15 years) represents the number of years Kenshi's\ndeposit will compound interest; therefore, this will be \"N\" when we compute for\nthe future value of his deposit\nCalculator studio solutions 21\nThe fourth highlighted bit (i.e., a $252,185 home) will serve as a benchmark to\nverify whether Kenshi has enough money to buy his dream home\nThe formula to set Quoted Rates to Effective Annual Rates can be written as\nfollows\nEAR1QRm)m−1EAR \\left 1\\frac{QR}{m} \\right )^{m}-1EAR1+mQR)m−1\nQR 7.3488%\nm: 12\nThe formula to solve for the future value of Kenshi's deposit can be written as\nfollows\nFVn=PV0(1+k)nFV_{n}=PV_{0(1+k)^{n}FVn=PV0(1+k)n\nPV0 $38,937\nN 15\nK EAR unknown for now!\nFV15 ?\nStep 2 Visualizing Quoted Rates to Effective Rates\nAlthough you aren't requested to do this on an exam, it may be relevant to\nvisualize what a Quoted Rate and it's number of compounding periods actually\nrepresents.\nTimeline for Kenshi's Account\nA few things to note:\nNotice how QR was divided throughout the timeline (i.e., 7.3488% divided by 12\nNotice how this account will compound 0.6% every 1 period(s) (i.e., every 1\nmonths)\nStep 3 Solving for Kenshi's Effective Annual Rate\nThe formula to set Quoted Rates to Effective Annual Rates can be written as\nfollows\nEAR1QRm)m−1EAR \\left 1\\frac{QR}{m} \\right )^{m}-1EAR1+mQR)m−1\nQR 7.3488%\nm: 12\nCalculator studio solutions 22\nSuch that EAR 7.6015%\nStep 4 Compounding Interest on Kenshi's Deposit\nTimeline\nThe formula to solve for the future value of Kenshi's deposit can be written as\nfollows\nFVn=PV0(1+k)nFV_{n}=PV_{0(1+k)^{n}FVn=PV0(1+k)n\nPV0 $38,937\nN 15\nK EAR 7.6015%\nSuch that FV15 $116,851.96"
+}

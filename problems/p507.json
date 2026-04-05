@@ -1,0 +1,23 @@
+{
+  "id": "p507",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Dividend",
+  "question_type": "short_answer",
+  "difficulty": "Hard",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "growth-rate",
+    "calculation"
+  ],
+  "title": "Dividend: Two years ago, Lucas bought a stock for 27.12 a...",
+  "summary": "Derive the implied dividend growth rate using the Gordon Growth Model.",
+  "prompt": "Two years ago, Lucas bought a stock for $27.12 a share of Battery Co. When she purchased the stock, the Battery Co. just paid $1.58 in dividends and the dividend is expected to grow at a rate of x. Given the required return of 16% on this investment. What is the growth rate (x) of the Battery stock?",
+  "options": [],
+  "correct_option": "0.0961",
+  "answer_text": "9.61%",
+  "answer_format": "numeric_percent",
+  "solution": "Sure! To solve the problem, we need to use the Dividend Growth Model formula, which is: \\[ P_0 = \\frac{D_1}{r - g} \\] Where: - \\( P_0 \\) is the price of the stock today ($27.12). - \\( D_1 \\) is the dividend expected next year. - \\( r \\) is the required rate of return (16% or 0.16). - \\( g \\) is the growth rate of the dividend. Given: - \\( P_0 = 27.12 \\) - \\( D_0 = 1.58 \\) - \\( r = 0.16 \\) Step 1: Calculate \\( D_1 \\) Since the dividend is expected to grow at a rate \\( g \\), we can express \\( D_1 \\) as: \\[ D_1 = D_0 (1 + g) \\] Step 2: Substitute \\( D_1 \\) in the Dividend Growth Model formula \\[ P_0 = \\frac{D_0 (1 + g)}{r - g} \\] \\[ 27.12 = \\frac{1.58 (1 + g)}{0.16 - g} \\] Step 3: Solve for \\( g \\) \\[ 27.12 (0.16 - g) = 1.58 (1 + g) \\] \\[ 4.3392 - 27.12g = 1.58 + 1.58g \\] \\[ 4.3392 - 1.58 = 27.12g + 1.58g \\] \\[ 2.7592 = 28.7g \\] \\[ g = \\frac{2.7592}{28.7} \\] \\[ g \\approx 0.0961 \\] Therefore, the growth rate \\( g \\) of the Battery stock is approximately 9.61%."
+}
