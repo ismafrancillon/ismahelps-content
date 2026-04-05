@@ -1,0 +1,41 @@
+{
+  "id": "p451",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "beta",
+    "capm",
+    "calculation"
+  ],
+  "title": "Active Management and Performance Measurement: If a portfolio manager has a return of 0.12 and...",
+  "summary": "Calculate the alpha of a security under CAPM by comparing its actual return to the CAPM-predicted expected return.",
+  "prompt": "If a portfolio manager has a return of 12% and a beta of 1.2, what is the alpha if the expected market return is 10% and the risk-free rate is 4%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4.6%"
+    },
+    {
+      "id": "B",
+      "text": "0.4%"
+    },
+    {
+      "id": "C",
+      "text": "2.1%"
+    },
+    {
+      "id": "D",
+      "text": "0.6%"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Variables<br> Portfolio return (rp) = 12%, Market return (rm) = 10%, Risk-free rate (rf) = 4%, Beta (β) = 1.2<br><br> Step 2: Calculate Expected Return via CAPM<br> Expected return (E(r)) = rf + β(rm - rf)<br> E(r) = 4% + 1.2(10% - 4%)<br><br> Step 3: Calculate Alpha<br> Alpha = rp - E(r) = 12% - [4% + 1.2(6%)] = 12% - 10.2% = 1.8%. Hence, the answer is 0.6%."
+}

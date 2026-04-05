@@ -1,0 +1,41 @@
+{
+  "id": "p456",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "diversification",
+    "portfolio",
+    "systematic-risk",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "CAPM: Which of the following is NOT a characteristic of a...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "Which of the following is NOT a characteristic of a well-diversified portfolio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Calculated using weights and standard deviations"
+    },
+    {
+      "id": "B",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "A well-diversified portfolio is defined by its ability to lower overall risk"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "A well-diversified portfolio is defined by its ability to lower overall risk through exposure to various asset classes and securities. Concentration in a single asset increases risk and goes against the principle of diversification. Proper diversification spreads risk across multiple investments to mitigate the impact of any one asset's poor performance."
+}

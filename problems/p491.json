@@ -1,0 +1,23 @@
+{
+  "id": "p491",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Basis Risk",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "hedging",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Basis Risk: Explain the concept of basis...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "Explain the concept of basis risk in futures trading.",
+  "options": [],
+  "correct_option": "0",
+  "answer_text": "Risk of spot-futures price difference changing",
+  "answer_format": "text",
+  "solution": "Basis risk refers to the risk that the difference between the spot price of the underlying asset and the futures price may change, potentially leading to losses in a hedging strategy. This can occur if the futures contract does not perfectly correlate with the asset being hedged. [[29]]"
+}

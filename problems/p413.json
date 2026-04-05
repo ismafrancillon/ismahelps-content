@@ -1,0 +1,41 @@
+{
+  "id": "p413",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "market-value",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capital Structure: Which of the following statements about the Modigliani-Miller Proposition I...",
+  "summary": "Evaluate MM Proposition I: capital structure does not affect firm value without taxes.",
+  "prompt": "Which of the following statements about the Modigliani-Miller Proposition I without taxes is correct?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Financial distress probability increases"
+    },
+    {
+      "id": "B",
+      "text": "Firm value decreases due to higher risk"
+    },
+    {
+      "id": "C",
+      "text": "It states that in a world without taxes and market imperfections, the capital"
+    },
+    {
+      "id": "D",
+      "text": "The strike price"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Understand the basic premise of Modigliani-Miller Proposition I. It states that in a world without taxes and market imperfections, the capital structure does not affect the firm's overall value. <br>Step 2: Recognize that the value of a firm is determined solely by its earning power and risk, independent of how it is financed. Thus, the choice between debt and equity financing should not influence the value of the firm. <br>Step 3: Conclude that no matter how a firm chooses to finance itself, its total market value remains unchanged, supporting option C."
+}

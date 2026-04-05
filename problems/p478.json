@@ -1,0 +1,44 @@
+{
+  "id": "p478",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Corporate Real Estate",
+  "subtopic": "Maintenance and Refitting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "risk-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Maintenance and Refitting: What is a common risk associated with investing in single-tenant...",
+  "summary": "Identify risks of single-tenant properties including vacancy and tenant credit risk.",
+  "prompt": "What is a common risk associated with investing in single-tenant properties?",
+  "options": [
+    {
+      "id": "A",
+      "text": "REITs"
+    },
+    {
+      "id": "B",
+      "text": "Commercial bank loans"
+    },
+    {
+      "id": "C",
+      "text": "Construction loans"
+    },
+    {
+      "id": "D",
+      "text": "Government subsidies"
+    },
+    {
+      "id": "E",
+      "text": "Investing in single-tenant properties carries several risks, including high"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "Investing in single-tenant properties carries several risks, including high vacancy rates if the sole tenant vacates, which can lead to significant income loss. Additionally, tenant credit risk is a critical concern; if the tenant defaults, the owner may struggle to fill the space and recover lost income. Market fluctuations can also affect property values and leasing demand, while high operating expenses can reduce net income. Understanding these risks is vital for effective investment management."
+}

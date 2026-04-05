@@ -1,0 +1,41 @@
+{
+  "id": "p409",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Capital Structure",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "market-value",
+    "shareholders",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capital Structure: In a perfect capital market scenario, what is the effect...",
+  "summary": "Analyze capital structure concepts and their impact on firm value.",
+  "prompt": "In a perfect capital market scenario, what is the effect of changes in capital structure on shareholder wealth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "B",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "C",
+      "text": "Step 2: Understand that if the firm's value remains unchanged, shareholder"
+    },
+    {
+      "id": "D",
+      "text": "Firm value increases due to the tax shield"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Recall the Modigliani-Miller theorem, which states that in perfect capital markets, the capital structure does not affect the value of the firm. <br>Step 2: Understand that if the firm's value remains unchanged, shareholder wealth remains the same regardless of how the firm is financed. <br>Step 3: Conclude that changes in capital structure in a perfect market lead to no effect on wealth, thus C is correct."
+}

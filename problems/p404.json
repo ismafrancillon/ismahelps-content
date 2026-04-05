@@ -1,0 +1,40 @@
+{
+  "id": "p404",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Time Value of Money",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Time Value of Money: Calculate the present value of an annuity with cash flows...",
+  "summary": "Calculate the present value of an ordinary annuity using payment amount, discount rate, and number of periods.",
+  "prompt": "Calculate the present value of an annuity with cash flows of $500 received at the end of each year for 5 years at a discount rate of 7%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$2,146.13"
+    },
+    {
+      "id": "B",
+      "text": "$2,777.35"
+    },
+    {
+      "id": "C",
+      "text": "$2,524.86"
+    },
+    {
+      "id": "D",
+      "text": "$3,156.08"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "PV = PMT × [(1 - (1 + r)^-n) / r] = 500 × [(1 - (1 + 0.07)^-5) / 0.07] = $2,524.86."
+}

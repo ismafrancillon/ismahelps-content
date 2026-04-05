@@ -1,0 +1,40 @@
+{
+  "id": "p425",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Operating Decisions and the Accounting System",
+  "subtopic": "Adjustments and Quality of Earnings",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "adjusting-entries",
+    "accrued-expenses",
+    "wages-payable",
+    "accounting"
+  ],
+  "title": "Adjustments and Quality of Earnings: Which account would be affected by an adjusting entry for...",
+  "summary": "Analyze a financial accounting concept related to Adjustments and Quality of Earnings.",
+  "prompt": "Which account would be affected by an adjusting entry for accrued wages at the end of the accounting period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It increases operating income"
+    },
+    {
+      "id": "B",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "C",
+      "text": "It increases total assets"
+    },
+    {
+      "id": "D",
+      "text": "An adjusting entry for accrued wages increases the Wages Payable account (a"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "An adjusting entry for accrued wages increases the Wages Payable account (a liability) and the Wages Expense account (an expense). This entry reflects wages that have been incurred but not yet paid to employees by the end of the accounting period, ensuring that both the expenses and liabilities are accurately represented in the financial statements. This is important for presenting a true and fair view of the company's financial position."
+}

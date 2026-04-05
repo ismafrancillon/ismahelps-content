@@ -1,0 +1,41 @@
+{
+  "id": "p402",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Budgeting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Capital Budgeting: Calculate the NPV of a project with an initial investment...",
+  "summary": "Calculate the NPV of a project by discounting cash flows at the cost of capital.",
+  "prompt": "Calculate the NPV of a project with an initial investment of $200,000 and cash inflows of $80,000 for years 1-5 at a discount rate of 12%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$24,000"
+    },
+    {
+      "id": "B",
+      "text": "$48,000"
+    },
+    {
+      "id": "C",
+      "text": "$40,000"
+    },
+    {
+      "id": "D",
+      "text": "$36,000"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "NPV = -200,000 + (80,000 / 1.12) + (80,000 / 1.12^2) + ... + (80,000 / 1.12^5) = $40,000."
+}

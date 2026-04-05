@@ -1,0 +1,44 @@
+{
+  "id": "p470",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Mergers and Acquisitions",
+  "subtopic": "Reasons for M&A",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "m&a",
+    "strategy",
+    "acquisition-rationale",
+    "conceptual"
+  ],
+  "title": "Reasons for M&A: In a merger, what is the primary reason for acquiring...",
+  "summary": "Identify primary motivations for acquiring a target company including synergies and market expansion.",
+  "prompt": "In a merger, what is the primary reason for acquiring a target company?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A proxy contest for board control"
+    },
+    {
+      "id": "B",
+      "text": "An informal overture to management"
+    },
+    {
+      "id": "C",
+      "text": "Calculated using weights and standard deviations"
+    },
+    {
+      "id": "D",
+      "text": "A formal tender offer to shareholders"
+    },
+    {
+      "id": "E",
+      "text": "Acquiring a target company can be motivated by multiple factors including"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "Acquiring a target company can be motivated by multiple factors including eliminating competitors, enhancing market share, achieving synergies, and diversifying the business portfolio."
+}

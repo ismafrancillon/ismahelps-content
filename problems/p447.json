@@ -1,0 +1,40 @@
+{
+  "id": "p447",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Credit Risk",
+  "subtopic": "Credit Risk",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "hedging",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Credit Risk: What is a common risk...",
+  "summary": "Analyze a derivatives concept related to Credit Risk.",
+  "prompt": "What is a common risk associated with trading options?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "B",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "C",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "D",
+      "text": "Trading options entails various risks including market risk"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Trading options entails various risks including market risk, which relates to price movements, credit risk associated with the counterparty, and liquidity risk, which involves the ease of entering and exiting positions. Understanding these risks is crucial for successful trading."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p462",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Time Value of Money",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "growth-rate",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Time Value of Money: What is the present value of a growing perpetuity that...",
+  "summary": "Calculate the present value of a growing perpetuity.",
+  "prompt": "What is the present value of a growing perpetuity that pays $200 annually, with a growth rate of 3% and a discount rate of 5%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$8,000"
+    },
+    {
+      "id": "B",
+      "text": "$7,000"
+    },
+    {
+      "id": "C",
+      "text": "$10,500"
+    },
+    {
+      "id": "D",
+      "text": "$10,000"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "PV = C / (r - g) = 200 / (0.05 - 0.03) = $10,000. The present value is $10,000."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "p476",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: The value of a futures...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "The value of a futures contract is determined by:",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily settlement of gains/losses"
+    },
+    {
+      "id": "B",
+      "text": "Injunctive relief"
+    },
+    {
+      "id": "C",
+      "text": "Punitive damages"
+    },
+    {
+      "id": "D",
+      "text": "A forward contract to lock in the exchange rate"
+    },
+    {
+      "id": "E",
+      "text": "The value of a futures contract is influenced by the current spot price,"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "The value of a futures contract is influenced by the current spot price, expected future prices, interest rates, and cost of carry. [[29]]"
+}

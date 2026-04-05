@@ -1,0 +1,45 @@
+{
+  "id": "p471",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Equity",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cost-of-equity",
+    "estimation-methods",
+    "capm",
+    "wacc",
+    "conceptual"
+  ],
+  "title": "Cost of Equity: Which of the following is NOT a method to estimate...",
+  "summary": "Calculate the weighted average cost of capital or cost of equity using CAPM and capital structure data.",
+  "prompt": "Which of the following is NOT a method to estimate the cost of equity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increasing debt (if return > cost)"
+    },
+    {
+      "id": "B",
+      "text": "Growth = ROE × Retention ratio"
+    },
+    {
+      "id": "C",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "D",
+      "text": "Financial distress probability increases"
+    },
+    {
+      "id": "E",
+      "text": "The Weighted Average Cost of Capital (WACC) is a broader metric that includes"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "The Weighted Average Cost of Capital (WACC) is a broader metric that includes both cost of debt and cost of equity, while the other options are specific methods for estimating the cost of equity."
+}

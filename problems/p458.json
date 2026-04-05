@@ -1,0 +1,40 @@
+{
+  "id": "p458",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Income Approach: Which of the following is a common approach to valuing...",
+  "summary": "Analyze a real estate finance concept related to Income Approach.",
+  "prompt": "Which of the following is a common approach to valuing commercial properties?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Always distributed as dividends"
+    },
+    {
+      "id": "B",
+      "text": "Private equity funds"
+    },
+    {
+      "id": "C",
+      "text": "Mortgage financing"
+    },
+    {
+      "id": "D",
+      "text": "Valuing commercial properties can be achieved through multiple approaches,"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Valuing commercial properties can be achieved through multiple approaches, including the income approach, which estimates a property's value based on its income-generating potential; the cost approach, which considers the replacement costs of the property; and the comparable sales approach, which evaluates similar properties in the market. Each method serves to provide a comprehensive understanding of a property's value in different contexts."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p453",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "portfolio",
+    "beta",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "CAPM: What is the primary assumption of the Capital Asset Pricing...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "What is the primary assumption of the Capital Asset Pricing Model (CAPM)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "B",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "C",
+      "text": "Depends on correlation between assets"
+    },
+    {
+      "id": "D",
+      "text": "The CAPM assumes that all investors will hold the same portfolio in equilibrium"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The CAPM assumes that all investors will hold the same portfolio in equilibrium, which is known as the market portfolio. This portfolio is a combination of all risky assets available in the market, weighted by their market values. The rationale behind this assumption is that all investors are rational and utilize the same information to make investment decisions, leading to a consensus on the market portfolio."
+}

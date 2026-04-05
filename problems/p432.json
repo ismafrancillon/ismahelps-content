@@ -1,0 +1,39 @@
+{
+  "id": "p432",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-functions",
+    "planning-directing-controlling",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: Which of the following is an example of a managerial...",
+  "summary": "Identify core managerial functions of planning, directing, and controlling.",
+  "prompt": "Which of the following is an example of a managerial function?",
+  "options": [
+    {
+      "id": "A",
+      "text": "For internal decision-making"
+    },
+    {
+      "id": "B",
+      "text": "True"
+    },
+    {
+      "id": "C",
+      "text": "Reports generated as needed"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "All of the above. Planning, directing, and controlling are considered the three primary functions of managerial accounting, which aid managers in achieving organizational objectives (Page 9)."
+}

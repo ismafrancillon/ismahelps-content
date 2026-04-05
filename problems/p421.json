@@ -1,0 +1,41 @@
+{
+  "id": "p421",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "irr",
+    "profitability-index",
+    "decision-rule",
+    "mcq"
+  ],
+  "title": "NPV: Which of the following statements is most correct concerning a...",
+  "summary": "Determine the discount rate that produces a specified profitability index for a project with perpetual cash flows.",
+  "prompt": "Which of the following statements is most correct concerning a project with normal cash flows (i.e., a cash outflow in Year 0 followed by cash inflows in all subsequent years)? A) If the NPV of a project is positive, then the payback period rule will always reject the project B) If the NPV of a project is negative, then the profitability index of the project will always be greater than one. C) If the PI of a project is greater than one, then the IRR will always be less than the project’s cost of capital D) If the NPV of a project is zero, then the IRR of the project will be equal to the discount rate for the project.",
+  "options": [
+    {
+      "id": "A",
+      "text": "If the NPV of a project is positive, then the payback period rule will always reject the project"
+    },
+    {
+      "id": "B",
+      "text": "If the NPV of a project is negative, then the profitability index of the project will always be greater than one"
+    },
+    {
+      "id": "C",
+      "text": "If the PI of a project is greater than one, then the IRR will always be less than the project’s cost of capital"
+    },
+    {
+      "id": "D",
+      "text": "If the NPV of a project is zero, then the IRR of the project will be equal to"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Which of the following statements is most correct concerning a project with normal cash flows (i.e., a cash outflow in Year 0 followed by cash inflows in all subsequent years)? A) If the NPV of a project is positive, then the payback period rule will always reject the project B) If the NPV of a project is negative, then the profitability index of the project will always be greater than one. C) If the PI of a project is greater than one, then the IRR will always be less than the project’s cost of capital D) If the NPV of a project is zero, then the IRR of the project will be equal to the discount rate for the project. Final Answer: D Explanation: 1. **Statement A**: If the NPV of a project is positive, it means the project's cash inflows exceed the cash outflows when discounted at the project's cost of capital. The payback period rule does not necessarily reject the project; it simply measures the time required to recover the initial investment, without considering the time value of money. Therefore, this statement is incorrect. 2. **Statement B**: If the NPV of a project is negative, it implies the project's cash inflows are less than the cash outflows when discounted at the project's cost of capital. The profitability index (PI) is calculated as the present value of future cash inflows divided by the initial investment. A PI greater than one indicates a positive NPV, not a negative one. Hence, this statement is incorrect. 3. **Statement C**: If the PI of a project is greater than one, it indicates that the present value of future cash inflows is greater than the initial investment, resulting in a positive NPV. The IRR is the discount rate that makes the NPV zero, which typically exceeds the project's cost of capital if the PI is greater than one. Therefore, this statement is incorrect. 4. **Statement D**: If the NPV of a project is zero, it means the present value of cash inflows equals the initial investment when discounted at the project's cost of capital. The IRR is the rate that equates the present value of cash inflows to the initial investment, making the NPV zero. Therefore, the IRR will be equal to the discount rate for the project. This statement is correct. Thus, the correct statement is D."
+}

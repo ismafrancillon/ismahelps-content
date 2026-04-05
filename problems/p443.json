@@ -1,0 +1,40 @@
+{
+  "id": "p443",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Put",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "put-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Put: A trader sells a put option with a strike price...",
+  "summary": "Calculate the profit or loss from a put option position at expiration.",
+  "prompt": "A trader sells a put option with a strike price of $50 for a premium of $5. If the stock price is $45 at expiration, what is the total profit/loss?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$30"
+    },
+    {
+      "id": "B",
+      "text": "$48"
+    },
+    {
+      "id": "C",
+      "text": "$45"
+    },
+    {
+      "id": "D",
+      "text": "$50"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Strike price = $50<br>Premium received = $5<br>Stock price at expiration = $45<br><br>**Step 2: Calculate Profit/Loss**<br>Loss = Strike Price - Stock Price + Premium = ($50 - $45) + $5 = $10 loss.<br><br>**Step 3: Conclusion**<br>The total profit/loss is a loss of $10."
+}

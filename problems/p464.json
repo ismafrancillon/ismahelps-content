@@ -1,0 +1,44 @@
+{
+  "id": "p464",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "discounted-cash-flow",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "IRR: Consider a project with an initial outflow at time 0...",
+  "summary": "Assess the effect of increasing the discount rate on IRR and NPV for projects with conventional cash flows.",
+  "prompt": "Consider a project with an initial outflow at time 0 and positive cash flows in all subsequent years. As the discount rate is increased the _____________. A) IRR remains constant while the NPV increases. B) IRR decreases while the NPV remains constant. C) IRR increases while the NPV remains constant. D) IRR remains constant while the NPV decreases. E) IRR decreases while the NPV decreases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "IRR remains constant while the NPV increases"
+    },
+    {
+      "id": "B",
+      "text": "None of the above"
+    },
+    {
+      "id": "C",
+      "text": "IRR increases while the NPV remains constant"
+    },
+    {
+      "id": "D",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "E",
+      "text": "IRR decreases while the NPV decreases"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "Sure, here is the step-by-step solution to the question: ### Question: Consider a project with an initial outflow at time 0 and positive cash flows in all subsequent years. As the discount rate is increased the _____________. A) IRR remains constant while the NPV increases. B) IRR decreases while the NPV remains constant. C) IRR increases while the NPV remains constant. D) IRR remains constant while the NPV decreases. E) IRR decreases while the NPV decreases. ### Answer: E) IRR decreases while the NPV decreases. ### Explanation: 1. **Define Key Terms:** - **NPV (Net Present Value):** The sum of the present values of all cash flows associated with a project, discounted at the project's cost of capital. - **IRR (Internal Rate of Return):** The discount rate that makes the NPV of a project zero. It is the rate at which the present value of future cash flows equals the initial investment. 2. **Effect of Increasing Discount Rate on NPV:** - When the discount rate increases, the present value of future cash flows decreases because future cash flows are discounted more heavily. - As a result, the NPV of the project decreases because the sum of the discounted cash flows is lower. 3. **Effect of Increasing Discount Rate on IRR:** - The IRR is the rate at which the NPV is zero. It is a fixed value for a given set of cash flows and does not change with the discount rate. - However, the question asks about the relationship between discount rate and NPV. As the discount rate increases, the NPV decreases, moving closer to zero. If the NPV is zero, the discount rate equals the IRR. - Therefore, as the discount rate increases, the NPV decreases, and the IRR effectively decreases because the project becomes less attractive. ### Final Answer: E) IRR decreases while the NPV decreases. This conclusion is based on the understanding that increasing the discount rate makes future cash flows less valuable, thereby reducing NPV and making the IRR, which is the break-even discount rate, less attractive."
+}

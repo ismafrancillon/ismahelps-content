@@ -1,0 +1,40 @@
+{
+  "id": "p441",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Specification of Futures",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Specification of Futures: A trader holds a short position in a futures contract...",
+  "summary": "Calculate the profit or loss from a futures position based on entry and exit prices.",
+  "prompt": "A trader holds a short position in a futures contract with a price of $150. If the price moves to $145, what is the profit or loss incurred by the trader?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$195"
+    },
+    {
+      "id": "B",
+      "text": "$142"
+    },
+    {
+      "id": "C",
+      "text": "$165"
+    },
+    {
+      "id": "D",
+      "text": "$150"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Initial Futures Price = $150<br>New Futures Price = $145<br><br>**Step 2: Calculate Profit/Loss**<br>Profit/Loss = Initial Price - New Price = $150 - $145 = $5 (profit).<br><br>**Step 3: Conclusion**<br>The profit incurred by the trader is $5."
+}

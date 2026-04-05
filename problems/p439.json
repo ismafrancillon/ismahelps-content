@@ -1,0 +1,41 @@
+{
+  "id": "p439",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Corporate Restructuring",
+  "subtopic": "Divestitures",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "governance",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Divestitures: Why might management choose to...",
+  "summary": "Identify reasons management might divest a business unit including focus on core operations.",
+  "prompt": "Why might management choose to divest a business unit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "B",
+      "text": "Proportion of debt financing"
+    },
+    {
+      "id": "C",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "D",
+      "text": "Management might decide to divest a business unit to enhance focus on core"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Management might decide to divest a business unit to enhance focus on core operations, improve overall performance, or respond to financial pressures, thereby aiming to maximize stockholder wealth."
+}

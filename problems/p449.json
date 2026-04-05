@@ -1,0 +1,40 @@
+{
+  "id": "p449",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Introduction to Derivatives",
+  "subtopic": "Futures",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Futures: Which of the following is NOT a characteristic of futures...",
+  "summary": "Identify which features are not characteristic of standardized futures contracts.",
+  "prompt": "Which of the following is NOT a characteristic of futures contracts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Daily margin requirement"
+    },
+    {
+      "id": "B",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "C",
+      "text": "Only the storage cost"
+    },
+    {
+      "id": "D",
+      "text": "Futures contracts are primarily regulated by the Commodity Futures Trading"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Futures contracts are primarily regulated by the Commodity Futures Trading Commission (CFTC) rather than the SEC, which oversees securities."
+}

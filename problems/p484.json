@@ -1,0 +1,23 @@
+{
+  "id": "p484",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "option-payoff",
+    "call-option",
+    "calculation"
+  ],
+  "title": "Payoff: Suppose that the price of a share of stock XYZ...",
+  "summary": "Calculate the payoff or profit from an options strategy at expiration.",
+  "prompt": "Suppose that the price of a share of stock XYZ corporation is currently at $20 per share. Consider buying a call option with strike price $40 and simultaneously selling another call option with strike price $60. Both options have the same underlying asset and same maturity date. A) Draw a payoff diagram of this portfolio. Then, compute payoff. B) If the stock price is $60, what would be your profit? C) If the stock price is $100, what would be your profit?",
+  "options": [],
+  "correct_option": "Payoff: $20 Profit for B & C: $19",
+  "answer_text": "Payoff: $20 Profit for B & C: $19",
+  "answer_format": "text",
+  "solution": "Let's break down the problem step-by-step: **Problem Statement:** Suppose that the price of a share of stock XYZ Corporation is currently at $20 per share. Consider buying a call option with a strike price of $40 and simultaneously selling another call option with a strike price of $60. Both options have the same underlying asset and the same maturity date. **Questions:** A) Draw a payoff diagram of this portfolio. Then, compute the payoff. B) If the stock price is $60, what would be your profit? C) If the stock price is $100, what would be your profit? ### Step-by-Step Solution: ### A) Draw a Payoff Diagram and Compute the Payoff 1. **Define the Payoff for Each Option:** - **Long Call (Strike Price $40):** The payoff is max(0, S - 40), where S is the stock price at maturity. - **Short Call (Strike Price $60):** The payoff is -max(0, S - 60). 2. **Combine the Payoffs:** - The combined payoff of the portfolio is: \\[ \\text{Payoff} = \\max(0, S - 40) - \\max(0, S - 60) \\] 3. **Payoff Diagram:** - For S ≤ $40: Payoff = $0 (both options expire worthless). - For $40 < S ≤ $60: Payoff = S - 40 (only the long call is in the money). - For S > $60: Payoff = (S - 40) - (S - 60) = 20 (both options are in the money, but the gain from the long call is offset by the loss from the short call). The payoff diagram would look like this: ``` Stock Price (S) | Payoff ----------------|------- ≤ $40 | $0 $40 < S ≤ $60 | S - 40 > $60 | $20 ``` ### B) If the Stock Price is $60, What Would Be Your Profit? 1. **Payoff Calculation:** - At S = $60, the payoff is $20 (as calculated above). 2. **Profit Calculation:** - Assuming there is no cost to enter into the positions (i.e., premiums paid and received cancel each other out), the profit is equal to the payoff. - Therefore, the profit is $20. ### C) If the Stock Price is $100, What Would Be Your Profit? 1. **Payoff Calculation:** - At S = $100, the payoff is $20 (as calculated above). 2. **Profit Calculation:** - Assuming there is no cost to enter into the positions (i.e., premiums paid and received cancel each other out), the profit is equal to the payoff. - Therefore, the profit is $20. ### Summary: - **Payoff:** $20 - **Profit for B & C:** $20 This concludes the step-by-step solution to the problem."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "p474",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Going-Private Transactions",
+  "subtopic": "Management Buyouts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "governance",
+    "capital-structure",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Management Buyouts: A management buyout (MBO) typically involves which of the following?...",
+  "summary": "Describe a management buyout as managers acquiring the company to transition it to private ownership.",
+  "prompt": "A management buyout (MBO) typically involves which of the following?",
+  "options": [
+    {
+      "id": "A",
+      "text": "A discount on their shares"
+    },
+    {
+      "id": "B",
+      "text": "Same share price as before"
+    },
+    {
+      "id": "C",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "D",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "E",
+      "text": "An MBO involves managers acquiring the company, often transitioning it from"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "An MBO involves managers acquiring the company, often transitioning it from public to private."
+}

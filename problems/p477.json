@@ -1,0 +1,45 @@
+{
+  "id": "p477",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "systematic-risk",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "CAPM: What is the primary critique of using the CAPM in...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "What is the primary critique of using the CAPM in practice?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Correlation with market portfolio"
+    },
+    {
+      "id": "B",
+      "text": "Portfolio with highest Sharpe ratio"
+    },
+    {
+      "id": "C",
+      "text": "Total risk of the investment"
+    },
+    {
+      "id": "D",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "E",
+      "text": "The primary critique of using the CAPM in practice is that it is overly"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "The primary critique of using the CAPM in practice is that it is overly simplistic and does not account for all relevant variables that can impact asset pricing. Additionally, the model is based on historical data, which may not accurately predict future returns, and it assumes all investors have identical expectations while ignoring transaction costs, thus leading to potential inaccuracies in real-world applications."
+}

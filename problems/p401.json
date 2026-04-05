@@ -1,0 +1,40 @@
+{
+  "id": "p401",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Investment Decision Making",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Investment Decision Making: Calculate the IRR for the project with the following cash...",
+  "summary": "Calculate the IRR by finding the discount rate that sets NPV equal to zero.",
+  "prompt": "Calculate the IRR for the project with the following cash flows: Year 0: -$15,000, Year 1: $5,000, Year 2: $6,000, Year 3: $8,000.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Accept because NPV is positive"
+    },
+    {
+      "id": "B",
+      "text": "Payback ignores time value of money"
+    },
+    {
+      "id": "C",
+      "text": "Use a financial calculator or software to find IRR, which is approximately 10%"
+    },
+    {
+      "id": "D",
+      "text": "Reject because NPV is negative"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Use a financial calculator or software to find IRR, which is approximately 10%."
+}

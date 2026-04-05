@@ -1,0 +1,45 @@
+{
+  "id": "p418",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Corporate Finance",
+  "subtopic": "Corporate Structure, Taxation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "corporation",
+    "partnership",
+    "limited-liability",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Corporate Structure, Taxation: Which of the following is most correct? A) Corporations and...",
+  "summary": "Identify the correct statement about corporate structures, partnerships, and avoiding double taxation.",
+  "prompt": "Which of the following is most correct? A) Corporations and partnerships are subject to corporate income tax while only partnerships are subject to partnership income tax. B) One of the advantages of the partnership is that all the partners are exposed to limited liability. C) One of the advantages of the sole proprietorship is that the proprietors are easy to transfer the ownership. D) One of the advantages of the partnership is that it avoids double taxation. E) All of the above.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Corporations and partnerships are subject to corporate income tax while only partnerships are subject to partnership income tax"
+    },
+    {
+      "id": "B",
+      "text": "One of the advantages of the partnership is that all the partners are exposed to limited liability"
+    },
+    {
+      "id": "C",
+      "text": "One of the advantages of the sole proprietorship is that the proprietors are easy to transfer the ownership"
+    },
+    {
+      "id": "D",
+      "text": "One of the advantages of the partnership is that it avoids double taxation"
+    },
+    {
+      "id": "E",
+      "text": "All of the above"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The correct answer is D) One of the advantages of the partnership is that it avoids double taxation. Explanation: 1. Corporations are subject to corporate income tax, and partnerships are subject to partnership income tax. However, this does not mean that both are subject to corporate income tax (statement A is incorrect). 2. In a partnership, partners are exposed to unlimited liability, meaning they are personally responsible for the debts of the business (statement B is incorrect). 3. Sole proprietorships are not easy to transfer ownership because the business is tied to the individual owner (statement C is incorrect). 4. Partnerships avoid double taxation because income is taxed only at the partner level, not at the business level. This is an advantage of the partnership structure (statement D is correct). Therefore, the correct answer is D."
+}

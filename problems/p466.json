@@ -1,0 +1,44 @@
+{
+  "id": "p466",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-market-hypothesis",
+    "market-efficiency",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: Which of the following statements is most correct? A. If...",
+  "summary": "Identify the most correct statement distinguishing weak, semi-strong, and strong forms of efficiency.",
+  "prompt": "Which of the following statements is most correct? A. If a market is strong-form efficient this implies that the returns on bonds and stocks should be identical. B. If a market is weak-form efficient this implies that all public information is rapidly incorporated into market prices. C. If your uncle earns a return higher than the overall stock market, this means the stock market is inefficient. D. Statements a and b are correct. E. None of the above statements is correct.",
+  "options": [
+    {
+      "id": "A",
+      "text": "If a market is strong-form efficient this implies that the returns on bonds and stocks should be identical"
+    },
+    {
+      "id": "B",
+      "text": "If a market is weak-form efficient this implies that all public information is rapidly incorporated into market prices"
+    },
+    {
+      "id": "C",
+      "text": "If your uncle earns a return higher than the overall stock market, this means the stock market is inefficient"
+    },
+    {
+      "id": "D",
+      "text": "Statements a and b are correct"
+    },
+    {
+      "id": "E",
+      "text": "None of the above statements is correct"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "Which of the following statements is most correct? A. If a market is strong-form efficient, this implies that the returns on bonds and stocks should be identical. B. If a market is weak-form efficient, this implies that all public information is rapidly incorporated into market prices. C. If your uncle earns a return higher than the overall stock market, this means the stock market is inefficient. D. Statements a and b are correct. E. None of the above statements is correct. Answer: E. None of the above statements is correct. Explanation: 1. Statement A is incorrect because strong-form efficiency implies that all information, both public and private, is reflected in stock prices, but it does not imply that returns on bonds and stocks should be identical. Bonds and stocks have different risk profiles and return characteristics. 2. Statement B is incorrect because weak-form efficiency implies that stock prices reflect all past market data, such as historical prices and volumes. It does not include all public information, which is a characteristic of semi-strong form efficiency. 3. Statement C is incorrect because an individual earning a return higher than the overall stock market does not necessarily mean the market is inefficient. It could be due to higher risk taken or skill in stock selection. 4. Statement D is incorrect because both statements A and B are incorrect. Therefore, the most correct statement is E, none of the above statements is correct."
+}

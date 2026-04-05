@@ -1,0 +1,44 @@
+{
+  "id": "p417",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Discount Rate",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "discount-rate",
+    "cost-of-capital",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Discount Rate: The appropriate discount rate to be used when analyzing an...",
+  "summary": "Identify the appropriate discount rate for evaluating investment projects in capital budgeting.",
+  "prompt": "The appropriate discount rate to be used when analyzing an investment project is __________ A) The rate of return that will result in the highest NPV B) The internal rate of return on that investment C) Equal to the cost of capital based on the firm's existing assets D) The rate of return financial markets offer on investments of similar risk E) The rate of interest the firm would pay if it sold bonds",
+  "options": [
+    {
+      "id": "A",
+      "text": "The rate of return that will result in the highest NPV"
+    },
+    {
+      "id": "B",
+      "text": "The internal rate of return on that investment"
+    },
+    {
+      "id": "C",
+      "text": "Equal to the cost of capital based on the firm's existing assets"
+    },
+    {
+      "id": "D",
+      "text": "The rate of return financial markets offer on investments of similar risk"
+    },
+    {
+      "id": "E",
+      "text": "The rate of interest the firm would pay if it sold bonds"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The appropriate discount rate to be used when analyzing an investment project is __________ A) The rate of return that will result in the highest NPV B) The internal rate of return on that investment C) Equal to the cost of capital based on the firm's existing assets D) The rate of return financial markets offer on investments of similar risk E) The rate of interest the firm would pay if it sold bonds Answer: D Explanation: 1. When analyzing an investment project, the appropriate discount rate must reflect the risk associated with that project. This ensures that the project’s expected cash flows are discounted appropriately to account for their riskiness. 2. The rate of return financial markets offer on investments of similar risk is the most suitable discount rate because it reflects the opportunity cost of capital for the investors. This means it represents the return that investors could earn on an alternative investment with similar risk. 3. Using the market rate for similar risk investments ensures that the project's evaluation is aligned with market expectations and provides a realistic assessment of its potential return. Therefore, the correct answer is D) The rate of return financial markets offer on investments of similar risk."
+}

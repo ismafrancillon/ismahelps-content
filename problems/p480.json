@@ -1,0 +1,45 @@
+{
+  "id": "p480",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Loan Underwriting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "financial-ratios",
+    "solvency",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Loan Underwriting: When considering the financing of a real estate project, what...",
+  "summary": "Evaluate the DSCR's role in assessing a property's capacity to service debt.",
+  "prompt": "When considering the financing of a real estate project, what is the significance of the Debt Service Coverage Ratio (DSCR)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "REITs"
+    },
+    {
+      "id": "B",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "C",
+      "text": "Option premium"
+    },
+    {
+      "id": "D",
+      "text": "Construction loans"
+    },
+    {
+      "id": "E",
+      "text": "The Debt Service Coverage Ratio (DSCR) is crucial in assessing a property's"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "The Debt Service Coverage Ratio (DSCR) is crucial in assessing a property's financial health and its capacity to cover debt obligations. A DSCR greater than 1 indicates that the property generates sufficient income to meet its debt payments, suggesting lower risk for lenders. Conversely, a DSCR less than 1 indicates potential cash flow issues, which may affect loan eligibility. Thus, it is an essential metric for both investors and lenders in evaluating real estate financing options."
+}

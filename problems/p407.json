@@ -1,0 +1,41 @@
+{
+  "id": "p407",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Dividend Discount Model: If a firm plans to pay a dividend of 4...",
+  "summary": "Apply the Gordon Growth Model or Dividend Discount Model for stock valuation.",
+  "prompt": "If a firm plans to pay a dividend of $4 next year and expects a growth rate of 5%, what is the price of the stock if the required return is 10%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$76"
+    },
+    {
+      "id": "B",
+      "text": "$60"
+    },
+    {
+      "id": "C",
+      "text": "$80"
+    },
+    {
+      "id": "D",
+      "text": "$84"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Price = D / (r - g) = 4 / (0.10 - 0.05) = $80."
+}

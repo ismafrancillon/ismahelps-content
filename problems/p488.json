@@ -1,0 +1,23 @@
+{
+  "id": "p488",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Discounted Cash Flow",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "discounted-cash-flow",
+    "npv",
+    "decision-rule",
+    "capital-budgeting"
+  ],
+  "title": "Discounted Cash Flow: A firm is considering a project that will cost 250000...",
+  "summary": "Evaluate project viability by comparing present value of cash inflows to the initial investment.",
+  "prompt": "A firm is considering a project that will cost $250,000 today and is expected to generate cash flows of $80,000 per year for 4 years. If the required return is 10%, should the firm proceed with the project?",
+  "options": [],
+  "correct_option": "0",
+  "answer_text": "3589.60",
+  "answer_format": "numeric_decimal",
+  "solution": "Step 1: Calculate the present value of cash inflows: PV = Σ (Cash inflow / (1 + r)^t) = $80,000 × [(1 - (1 + 0.10)^-4) / 0.10] = $80,000 × 3.16987 = $253,589.60. Step 2: Calculate NPV: NPV = PV - Initial Investment = $253,589.60 - $250,000 = $3,589.60. Since NPV > 0, the firm should proceed with the project."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p427",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Employment Rights",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "employment-law",
+    "severance",
+    "termination",
+    "conceptual"
+  ],
+  "title": "Employment Rights: What is the maximum amount of severance pay for an...",
+  "summary": "Determine the maximum severance pay or notice period entitlement based on years of service.",
+  "prompt": "What is the maximum amount of severance pay for an employee who has worked for 10 years?",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "C",
+      "text": "All of the above"
+    },
+    {
+      "id": "D",
+      "text": "According to Quebec law, an employee who has worked for 10 years is entitled to"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "According to Quebec law, an employee who has worked for 10 years is entitled to a maximum of 8 weeks' notice or severance pay upon termination. This provision ensures that long-serving employees receive adequate compensation for their loyalty and service."
+}

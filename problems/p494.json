@@ -1,0 +1,24 @@
+{
+  "id": "p494",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure",
+  "subtopic": "Cost of Debt",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "after-tax-cost-of-debt",
+    "cost-of-debt",
+    "tax-shield",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Debt: A company has a debt of 2000000 with an interest...",
+  "summary": "Analyze a concept in theories of finance related to Cost of Debt.",
+  "prompt": "A company has a debt of $2,000,000 with an interest rate of 5%. If the tax rate is 30%, calculate the after-tax cost of debt.",
+  "options": [],
+  "correct_option": "0.035",
+  "answer_text": "3.5%",
+  "answer_format": "numeric_percent",
+  "solution": "**Step 1: Define Key Variables**: Debt = $2,000,000; Interest Rate = 5%; Tax Rate = 30%. <br> **Step 2: Apply After-tax Cost of Debt Formula**: After-tax Cost of Debt = Interest Rate * (1 - Tax Rate). <br> After-tax Cost of Debt = 5% * (1 - 0.30) = 5% * 0.70 = 3.5%. <br> This represents the true cost of borrowing after tax effects."
+}

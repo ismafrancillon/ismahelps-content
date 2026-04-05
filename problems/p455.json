@@ -1,0 +1,41 @@
+{
+  "id": "p455",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "Index Models and the Arbitrage Pricing Theory",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "systematic-risk",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Index Models and the Arbitrage Pricing Theory: Which of the following factors is considered when constructing a...",
+  "summary": "Identify factors in multifactor models for analyzing asset returns.",
+  "prompt": "Which of the following factors is considered when constructing a multifactor model?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Provide insights into performance trends"
+    },
+    {
+      "id": "B",
+      "text": "Growth = ROE × Retention ratio"
+    },
+    {
+      "id": "C",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "D",
+      "text": "When constructing a multifactor model, various factors are considered,"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "When constructing a multifactor model, various factors are considered, including market risk, firm-specific risk, and macroeconomic indicators. Multifactor models aim to capture a more comprehensive view of the risks affecting asset returns, allowing for a better understanding of the relationships between risk factors and expected returns."
+}

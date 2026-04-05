@@ -1,0 +1,45 @@
+{
+  "id": "p472",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "financial-ratios",
+    "liquidity",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: What is the significance of the Cash Burn Ratio in...",
+  "summary": "Assess the Cash Burn Ratio's significance in evaluating how long a firm can sustain operations.",
+  "prompt": "What is the significance of the Cash Burn Ratio in evaluating a firm's financial health?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Proportion of debt financing"
+    },
+    {
+      "id": "B",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "C",
+      "text": "It reduces total liabilities"
+    },
+    {
+      "id": "D",
+      "text": "It reduces net income"
+    },
+    {
+      "id": "E",
+      "text": "The Cash Burn Ratio is significant in evaluating a firm's financial health as"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "The Cash Burn Ratio is significant in evaluating a firm's financial health as it measures the firm's cash reserves relative to its operational expenditures. This ratio indicates how long the firm can continue to operate before running out of cash, especially crucial for firms with negative cash flows. A high burn ratio can signal potential financial distress, making it an important metric for investors and analysts assessing the risk of insolvency in firms reliant on external financing or unprofitable operations."
+}

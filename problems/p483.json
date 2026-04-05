@@ -1,0 +1,45 @@
+{
+  "id": "p483",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Payoff",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "put-option",
+    "option-pricing",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Payoff: The value of a put option decreases when: I. the...",
+  "summary": "Calculate the payoff or profit from an options strategy at expiration.",
+  "prompt": "The value of a put option decreases when: I. the time to expiration increases. II. the risk rate of return decreases. III. the volatility of the underlying asset's price increases. IV. the underlying asset's price increases. Select the best answer:",
+  "options": [
+    {
+      "id": "A",
+      "text": "I and III only"
+    },
+    {
+      "id": "B",
+      "text": "II and III only"
+    },
+    {
+      "id": "C",
+      "text": "I, II, and IV only"
+    },
+    {
+      "id": "D",
+      "text": "II and IV only"
+    },
+    {
+      "id": "E",
+      "text": "I, III, and IV only"
+    }
+  ],
+  "correct_option": "only II and IV.",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "To determine when the value of a put option decreases, let's analyze each statement: 1. **Time to expiration increases**: Generally, the value of a put option increases with more time to expiration because there is a higher chance the underlying asset's price might drop below the strike price. Therefore, this statement is incorrect. 2. **The risk rate of return decreases**: If the risk-free rate decreases, the present value of the strike price increases, making the put option less valuable. Therefore, this statement is correct. 3. **The volatility of the underlying asset's price increases**: Higher volatility increases the value of both call and put options because there is a greater chance of the underlying asset's price moving significantly. Therefore, this statement is incorrect. 4. **The underlying asset's price increases**: The value of a put option decreases when the price of the underlying asset increases, as the likelihood of the option ending up in-the-money decreases. Therefore, this statement is correct. Based on the analysis, the value of a put option decreases when: - The risk rate of return decreases. - The underlying asset's price increases. Thus, the best answer is: **only II and IV**."
+}

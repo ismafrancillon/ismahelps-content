@@ -1,0 +1,41 @@
+{
+  "id": "p460",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If an investor expects to earn 0.09 on a stock...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If an investor expects to earn 9% on a stock with a beta of 1.2, what is the expected return according to CAPM if the risk-free rate is 3%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "7.2%"
+    },
+    {
+      "id": "B",
+      "text": "5.1%"
+    },
+    {
+      "id": "C",
+      "text": "20.4%"
+    },
+    {
+      "id": "D",
+      "text": "10.2%"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Expected Return = Risk-Free Rate + Beta × (Market Return - Risk-Free Rate) = 3% + 1.2(9% - 3%) = 3% + 7.2% = 10.2%."
+}

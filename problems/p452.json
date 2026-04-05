@@ -1,0 +1,40 @@
+{
+  "id": "p452",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Performance Evaluation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Performance Evaluation: In which situation would a portfolio manager most likely underperform...",
+  "summary": "Analyze a portfolio management concept related to Performance Evaluation.",
+  "prompt": "In which situation would a portfolio manager most likely underperform relative to a benchmark?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "B",
+      "text": "Always distributed as dividends"
+    },
+    {
+      "id": "C",
+      "text": "Increasing debt (if return > cost)"
+    },
+    {
+      "id": "D",
+      "text": "A portfolio manager is most likely to underperform relative to a benchmark when"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "A portfolio manager is most likely to underperform relative to a benchmark when their investment philosophy diverges from that of the benchmark. If the manager's approach does not align with the underlying assets or strategies that drive the benchmark's performance, it may lead to negative returns compared to the benchmark, highlighting the importance of congruence between investment strategies and performance benchmarks."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p499",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "profitability-index",
+    "perpetuity",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "NPV: You’re consider a project with an initial cost of 70189...",
+  "summary": "Calculate the NPV of a perpetual cash flow project using the perpetuity formula minus the initial investment.",
+  "prompt": "You’re consider a project with an initial cost of $70,189 with annual cash inflows of $17,304 per year forever. What is the discount rate that will produce a profitability index of 4.0?",
+  "options": [],
+  "correct_option": "0.0616",
+  "answer_text": "6.16%",
+  "answer_format": "numeric_percent",
+  "solution": "Sure, here's the solution to the problem: ### Final Answer: The discount rate that will produce a profitability index (PI) of 4.0 for the given project is **0.0616 or 6.16%**. ### Step-by-Step Solution: 1. **Define Variables:** - **Initial Cost (C0)**: $70,189 - **Annual Cash Inflows (CF)**: $17,304 - **Profitability Index (PI)**: 4.0 2. **Formula for Profitability Index (PI):** \\[ PI = \\frac{PV \\, of \\, Cash \\, Inflows}{Initial \\, Cost} \\] Where \\( PV \\, of \\, Cash \\, Inflows \\) is the present value of cash inflows. 3. **Rearrange the Formula to Solve for PV of Cash Inflows:** \\[ PV \\, of \\, Cash \\, Inflows = PI \\times Initial \\, Cost \\] \\[ PV \\, of \\, Cash \\, Inflows = 4.0 \\times 70,189 = 280,756 \\] 4. **Calculate the Discount Rate (r):** Since the cash inflows are perpetual, the present value of cash inflows can be calculated using the perpetuity formula: \\[ PV = \\frac{CF}{r} \\] \\[ 280,756 = \\frac{17,304}{r} \\] \\[ r = \\frac{17,304}{280,756} \\] \\[ r = 0.0616 \\text{ or } 6.16\\% \\] ### Explanation: - This project involves perpetual cash inflows, which means the cash inflows will continue indefinitely. - The profitability index is a measure of the value created per unit of investment. - By rearranging the formula for the profitability index, we can determine the present value of the cash inflows required to achieve the given PI. - Using the perpetuity formula, we can then solve for the discount rate that equates the present value of the perpetual cash inflows to the calculated value."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p435",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "debt-to-equity",
+    "capital-structure",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Debt Ratios: If a firm has a current debt of 300000 and...",
+  "summary": "Calculate the debt-to-equity ratio from debt and equity values.",
+  "prompt": "If a firm has a current debt of $300,000 and a market value of equity of $700,000, what is the firm's debt-to-equity ratio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.4929"
+    },
+    {
+      "id": "B",
+      "text": "0.3643"
+    },
+    {
+      "id": "C",
+      "text": "0.5572"
+    },
+    {
+      "id": "D",
+      "text": "0.4286"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Current Debt = $300,000 <br> - Market Value of Equity = $700,000<br><br> **Step 2: Apply the Debt-to-Equity Ratio Formula**<br> Debt-to-Equity Ratio = Debt / Equity<br> = $300,000 / $700,000 = 0.4286 or approximately 0.43.<br> Therefore, the debt-to-equity ratio is approximately 0.43, and the answer is D."
+}

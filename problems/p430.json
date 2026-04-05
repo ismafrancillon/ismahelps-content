@@ -1,0 +1,40 @@
+{
+  "id": "p430",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "capital-budgeting",
+    "calculation"
+  ],
+  "title": "NPV: If a project has cash inflows of $50,000, $60,000, and...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "If a project has cash inflows of $50,000, $60,000, and $70,000 over three years, what is the NPV if the discount rate is 5%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$175,000"
+    },
+    {
+      "id": "B",
+      "text": "$105,000"
+    },
+    {
+      "id": "C",
+      "text": "$126,000"
+    },
+    {
+      "id": "D",
+      "text": "$140,000"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "NPV = ($50,000 / 1.05) + ($60,000 / 1.05^2) + ($70,000 / 1.05^3) = $140,000."
+}

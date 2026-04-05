@@ -1,0 +1,40 @@
+{
+  "id": "p423",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Temporary vs. Permanent Accounts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "temporary-accounts",
+    "closing-entries",
+    "accounting-cycle",
+    "conceptual"
+  ],
+  "title": "Temporary vs. Permanent Accounts: Which of the following accounts...",
+  "summary": "Distinguish between temporary and permanent accounts in the accounting cycle.",
+  "prompt": "Which of the following accounts is a temporary account?",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "C",
+      "text": "All of the above"
+    },
+    {
+      "id": "D",
+      "text": "Temporary accounts are accounts that accumulate balances over a single"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Temporary accounts are accounts that accumulate balances over a single accounting period and are closed at the end of the period to the income summary account. Sales revenue is a classic example of a temporary account, as it resets to zero at the end of the year. Understanding the distinction between temporary and permanent accounts is crucial for proper accounting practices and accurate financial reporting."
+}

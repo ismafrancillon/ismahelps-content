@@ -1,0 +1,41 @@
+{
+  "id": "p437",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Fundamental Determinants of Growth",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "growth-rate",
+    "return-on-equity",
+    "retained-earnings",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Fundamental Determinants of Growth: Which of the following is a fundamental determinant of growth...",
+  "summary": "Identify reinvestment and return on capital as fundamental growth determinants.",
+  "prompt": "Which of the following is a fundamental determinant of growth in a firm?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Financial distress probability increases"
+    },
+    {
+      "id": "B",
+      "text": "Guarantee future performance"
+    },
+    {
+      "id": "C",
+      "text": "Growth = ROE × Retention ratio"
+    },
+    {
+      "id": "D",
+      "text": "Reinvestment and return on capital are fundamental determinants of growth in a"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Reinvestment and return on capital are fundamental determinants of growth in a firm. The ability of a company to reinvest its earnings effectively into projects that yield a return greater than its cost of capital is crucial for sustainable growth. This relationship highlights the importance of assessing both the firm's reinvestment rates and the profitability of its investments to evaluate future growth potential accurately."
+}

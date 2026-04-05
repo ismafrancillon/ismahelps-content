@@ -1,0 +1,40 @@
+{
+  "id": "p457",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: Which of the following is NOT a common characteristic measured...",
+  "summary": "Analyze a portfolio management concept related to Active Management and Performance Measurement.",
+  "prompt": "Which of the following is NOT a common characteristic measured in portfolio performance evaluation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Precedent transaction analysis"
+    },
+    {
+      "id": "B",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "C",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "D",
+      "text": "Liquidity is not directly a measure of performance"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Liquidity is not directly a measure of performance; it is more related to the ease of buying or selling an asset without affecting its price."
+}

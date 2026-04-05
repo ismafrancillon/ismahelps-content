@@ -1,0 +1,41 @@
+{
+  "id": "p454",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: Which measure considers both the portfolio's returns and its residual...",
+  "summary": "Analyze a portfolio management concept related to Active Management and Performance Measurement.",
+  "prompt": "Which measure considers both the portfolio's returns and its residual risk in its calculation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "B",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "The Information Ratio assesses the portfolio's excess return relative to its"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The Information Ratio assesses the portfolio's excess return relative to its tracking error (residual risk)."
+}

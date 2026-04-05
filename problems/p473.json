@@ -1,0 +1,45 @@
+{
+  "id": "p473",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Cost of Equity",
+  "subtopic": "Estimation Methods",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "dividend-discount-model",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Estimation Methods: Which of the following methods is used to estimate the...",
+  "summary": "Calculate the expected return using the Gordon Growth Model from stock price and dividend data.",
+  "prompt": "Which of the following methods is used to estimate the cost of equity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increase financial leverage"
+    },
+    {
+      "id": "B",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "C",
+      "text": "Total risk of the investment"
+    },
+    {
+      "id": "D",
+      "text": "Expected excess return per unit of risk"
+    },
+    {
+      "id": "E",
+      "text": "The cost of equity can be estimated using various methods, including the"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "The cost of equity can be estimated using various methods, including the Capital Asset Pricing Model (CAPM), Dividend Yield Approach, and the Gordon Growth Model. Each method provides insights based on different financial metrics and risk assessments, allowing analysts to accurately gauge the expected return required by investors. This versatility is discussed in the materials on pages 9 and 10."
+}

@@ -1,0 +1,45 @@
+{
+  "id": "p465",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Call and Puts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "call-option",
+    "option-pricing",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Call and Puts: Other things equal, the price of a stock call option...",
+  "summary": "Identify factors positively correlated with the price of a stock call option.",
+  "prompt": "Other things equal, the price of a stock call option is positively correlated with the following factors: A) the stock price. B) the time to expiration. C) the stock volatility. D) the risk-free rate. E) all of the above",
+  "options": [
+    {
+      "id": "A",
+      "text": "the stock price"
+    },
+    {
+      "id": "B",
+      "text": "the time to expiration"
+    },
+    {
+      "id": "C",
+      "text": "the stock volatility"
+    },
+    {
+      "id": "D",
+      "text": "the risk-free rate"
+    },
+    {
+      "id": "E",
+      "text": "all of the above"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "Answer: E) all of the above Explanation: The price of a stock call option is positively correlated with several factors. Let's break down each component: 1. **Stock Price**: As the stock price increases, the value of the call option typically increases because the option holder has the right to purchase the stock at a lower strike price, which becomes more valuable as the market price rises. 2. **Time to Expiration**: The longer the time to expiration, the higher the call option price. This is because there is more time for the stock price to potentially increase, providing greater opportunity for the option to end up in the money. 3. **Stock Volatility**: Higher volatility increases the likelihood of significant price movements, which can benefit the call option holder. Greater volatility means higher potential gains from price swings, increasing the option's value. 4. **Risk-Free Rate**: An increase in the risk-free rate generally raises the price of call options. This is because the present value of the strike price (which is discounted at the risk-free rate) decreases, making the call option more attractive. Given these correlations, all the factors listed (stock price, time to expiration, stock volatility, and risk-free rate) positively affect the price of a stock call option. Therefore, the correct answer is E) all of the above."
+}

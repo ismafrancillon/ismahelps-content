@@ -1,0 +1,23 @@
+{
+  "id": "p490",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Futures Markets",
+  "subtopic": "Regulation",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "economics",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Regulation: Discuss how futures markets can be regulated to minimize systemic...",
+  "summary": "Discuss how clearinghouses and margin requirements minimize systemic risk in futures markets.",
+  "prompt": "Discuss how futures markets can be regulated to minimize systemic risk.",
+  "options": [],
+  "correct_option": "0",
+  "answer_text": "Clearing houses and margin requirements",
+  "answer_format": "text",
+  "solution": "Futures markets can be regulated by establishing clearing houses that guarantee trades and mitigate counterparty risk. Additionally, margin requirements can be set to ensure that traders maintain sufficient capital to cover potential losses. This helps to maintain market integrity and reduce the risk of a financial crisis. [[29]]"
+}

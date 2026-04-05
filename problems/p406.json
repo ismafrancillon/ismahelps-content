@@ -1,0 +1,41 @@
+{
+  "id": "p406",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Long-Term Financing",
+  "subtopic": "Long-Term Debt",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "yield-to-maturity",
+    "bond-pricing",
+    "coupon-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Long-Term Debt: If a firm issues a bond at a price of...",
+  "summary": "Calculate the yield to maturity of a bond from price, coupon, and maturity.",
+  "prompt": "If a firm issues a bond at a price of $1,050 with a coupon payment of $60 annually, what is the yield to maturity (YTM) if it matures in 5 years?",
+  "options": [
+    {
+      "id": "A",
+      "text": "5%"
+    },
+    {
+      "id": "B",
+      "text": "12%"
+    },
+    {
+      "id": "C",
+      "text": "6%"
+    },
+    {
+      "id": "D",
+      "text": "4%"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Price = $1,050, Coupon = $60, Maturity = 5 years. <br> **Step 2: Use YTM Formula**<br>YTM = [C + (F-P)/N] / [(F+P)/2] where F = Face Value ($1,000), P = Price, N = Number of years.<br> YTM = [$60 + ($1,000 - $1,050)/5] / [($1,000 + $1,050)/2] = 0.058 or 6%."
+}

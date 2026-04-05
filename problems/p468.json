@@ -1,0 +1,44 @@
+{
+  "id": "p468",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Introduction to Law",
+  "subtopic": "Sources of Law",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "sources-of-law",
+    "canadian-law",
+    "legal-framework",
+    "conceptual"
+  ],
+  "title": "Sources of Law: Which of the following is a source of law in...",
+  "summary": "Identify the primary sources of law in the Canadian legal system.",
+  "prompt": "Which of the following is a source of law in Canada?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Voidable at one party's option"
+    },
+    {
+      "id": "B",
+      "text": "Compensatory damages"
+    },
+    {
+      "id": "C",
+      "text": "Punitive damages"
+    },
+    {
+      "id": "D",
+      "text": "Specific performance"
+    },
+    {
+      "id": "E",
+      "text": "The sources of law in Canada include statutes, case law (jurisprudence),"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "The sources of law in Canada include statutes, case law (jurisprudence), doctrine, and customs. Statutes are the written laws adopted by the government at both the federal and provincial levels, while jurisprudence consists of court decisions that interpret these statutes. Doctrine refers to scholarly articles and analyses, and customs are historical practices recognized in law. Each source plays a significant role in shaping the legal landscape of Canada."
+}

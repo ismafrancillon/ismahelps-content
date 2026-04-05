@@ -1,0 +1,40 @@
+{
+  "id": "p442",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "options",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: A trader sells a futures contract on a commodity at...",
+  "summary": "Calculate the profit or loss from a futures position based on entry and exit prices.",
+  "prompt": "A trader sells a futures contract on a commodity at $80 and subsequently closes the position when the futures price rises to $85. What is the profit or loss from this trade?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$104"
+    },
+    {
+      "id": "B",
+      "text": "$96"
+    },
+    {
+      "id": "C",
+      "text": "$84"
+    },
+    {
+      "id": "D",
+      "text": "$80"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Initial Futures Price = $80<br>Closing Futures Price = $85<br><br>**Step 2: Calculate Profit/Loss**<br>Profit/Loss = Initial Price - Closing Price = $80 - $85 = -$5 (loss).<br><br>**Step 3: Conclusion**<br>The profit or loss from this trade is a loss of $5."
+}

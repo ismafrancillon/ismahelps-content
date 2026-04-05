@@ -1,0 +1,40 @@
+{
+  "id": "p434",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Estimating Growth",
+  "subtopic": "Historical Growth Rates",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "growth-rate",
+    "conceptual",
+    "interpretation",
+    "short-answer"
+  ],
+  "title": "Historical Growth Rates: How does the compound annual growth rate (CAGR) differ from...",
+  "summary": "Distinguish compound annual growth rate from average growth rate in analyzing firm performance.",
+  "prompt": "How does the compound annual growth rate (CAGR) differ from the average growth rate when analyzing a firm's performance?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Provide insights into performance trends"
+    },
+    {
+      "id": "B",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "C",
+      "text": "Guarantee future performance"
+    },
+    {
+      "id": "D",
+      "text": "The compound annual growth rate (CAGR) considers only the beginning and ending"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The compound annual growth rate (CAGR) considers only the beginning and ending values over a specified period, providing a smoothed annual growth rate that eliminates the effects of volatility and fluctuations. In contrast, average growth rate simply calculates the arithmetic mean of growth rates over the same period, which can be skewed by extreme values. CAGR is often preferred for evaluating performance over time, as it gives a clearer picture of growth trends compared to the average growth rate."
+}

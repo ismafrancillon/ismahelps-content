@@ -1,0 +1,40 @@
+{
+  "id": "p426",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Assistance",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "civil-liability",
+    "good-samaritan",
+    "negligence",
+    "conceptual"
+  ],
+  "title": "Assistance: If a person is injured while helping another in peril,...",
+  "summary": "Identify the type of fault that applies under Good Samaritan law when assisting someone in peril.",
+  "prompt": "If a person is injured while helping another in peril, which type of fault applies?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The burden of proof"
+    },
+    {
+      "id": "B",
+      "text": "Punitive damages"
+    },
+    {
+      "id": "C",
+      "text": "It never legally existed"
+    },
+    {
+      "id": "D",
+      "text": "According to the Good Samaritan legislation in Quebec, if a person comes to the"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "According to the Good Samaritan legislation in Quebec, if a person comes to the aid of someone in peril, they will not be held liable for any additional injury caused to that person unless gross negligence or intentional fault can be proven. This provision encourages individuals to assist others in emergencies without the fear of legal repercussions, fostering a supportive community."
+}

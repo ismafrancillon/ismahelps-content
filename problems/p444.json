@@ -1,0 +1,41 @@
+{
+  "id": "p444",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Hedging Strategies Using Futures",
+  "subtopic": "Cross Hedging",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio-beta",
+    "hedging",
+    "portfolio",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cross Hedging: An investor has a portfolio worth 1 million with a...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "An investor has a portfolio worth $1 million with a beta of 1.5. If the market rises by 10%, what is the expected change in the portfolio value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$112,500"
+    },
+    {
+      "id": "B",
+      "text": "$165,000"
+    },
+    {
+      "id": "C",
+      "text": "$75,000"
+    },
+    {
+      "id": "D",
+      "text": "$150,000"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The expected change in the portfolio can be calculated as the portfolio beta multiplied by the market change. Thus, change = 1.5 x 10% x $1 million = $150,000."
+}

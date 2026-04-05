@@ -1,0 +1,41 @@
+{
+  "id": "p408",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "portfolio",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "CAPM: If the expected return on a portfolio is 12%, the...",
+  "summary": "Calculate the weighted-average beta of a portfolio from the betas and weights of its component assets.",
+  "prompt": "If the expected return on a portfolio is 12%, the risk-free rate is 3%, and the market return is 8%, calculate the portfolio beta.",
+  "options": [
+    {
+      "id": "A",
+      "text": "2.50"
+    },
+    {
+      "id": "B",
+      "text": "1.62"
+    },
+    {
+      "id": "C",
+      "text": "1.25"
+    },
+    {
+      "id": "D",
+      "text": "1.06"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Using the CAPM: r = rF + β(rM - rF) => 12% = 3% + β(8% - 3%) => β = (12% - 3%) / (8% - 3%) = 1.25."
+}

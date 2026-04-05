@@ -1,0 +1,45 @@
+{
+  "id": "p482",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Dividend Discount Model: If a firm’s current stock price is $40, and it...",
+  "summary": "Calculate stock price using the Gordon Growth Model with dividend, growth rate, and required return.",
+  "prompt": "If a firm’s current stock price is $40, and it is expected to pay a dividend of $2 next year, what is the expected growth rate if the required rate of return is 10%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10%"
+    },
+    {
+      "id": "B",
+      "text": "9%"
+    },
+    {
+      "id": "C",
+      "text": "4%"
+    },
+    {
+      "id": "D",
+      "text": "6%"
+    },
+    {
+      "id": "E",
+      "text": "5%"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "Using the Gordon Growth Model: P0 = D1 / (r - g) => g = r - (D1 / P0) = 10% - (2 / 40) = 10% - 5% = 5%."
+}

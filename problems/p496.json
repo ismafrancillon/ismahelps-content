@@ -1,0 +1,23 @@
+{
+  "id": "p496",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Equity Valuation",
+  "subtopic": "Preferred Equity",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "Preferred Equity: Preferred shares of Chinnok Electrical Co. have a par value...",
+  "summary": "Calculate the risk premium on preferred shares by deriving dividend yield and subtracting the risk-free rate.",
+  "prompt": "Preferred shares of Chinnok Electrical Co. have a par value of $100 and a dividend rate of 8%. The current price is $105. If the risk-free is 2.5%, what is the risk premium associated with these preferred shares?",
+  "options": [],
+  "correct_option": "0.0512",
+  "answer_text": "5.12%",
+  "answer_format": "numeric_percent",
+  "solution": "To calculate the risk premium associated with the preferred shares of Chinnok Electrical Co., follow these steps: 1. **Identify Key Variables:** - Par value of the preferred shares (P): $100 - Dividend rate (D): 8% of the par value - Current price of the preferred shares (P0): $105 - Risk-free rate (Rf): 2.5% 2. **Calculate the Dividend Payment:** - The annual dividend payment (D) is calculated as: \\[ D = \\text{Dividend rate} \\times \\text{Par value} = 0.08 \\times 100 = 8 \\text{ dollars} \\] 3. **Determine the Required Rate of Return (K):** - The required rate of return (K) is calculated using the formula for the value of preferred stock: \\[ P0 = \\frac{D}{K} \\] Rearrange to solve for \\( K \\): \\[ K = \\frac{D}{P0} = \\frac{8}{105} = 0.0762 \\text{ or } 7.62\\% \\] 4. **Calculate the Risk Premium:** - The risk premium is the difference between the required rate of return and the risk-free rate: \\[ \\text{Risk premium} = K - Rf = 0.0762 - 0.025 = 0.0512 \\text{ or } 5.12\\% \\] **Final Answer:** The risk premium associated with the preferred shares of Chinnok Electrical Co. is 5.12%."
+}

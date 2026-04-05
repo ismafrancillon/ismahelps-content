@@ -1,0 +1,23 @@
+{
+  "id": "p487",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Discounted Cash Flow",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "discounted-cash-flow",
+    "project-selection",
+    "npv-comparison",
+    "calculation"
+  ],
+  "title": "Discounted Cash Flow: A company is evaluating two projects with the following cash...",
+  "summary": "Compare two projects using discounted cash flow analysis to identify the preferred investment.",
+  "prompt": "A company is evaluating two projects with the following cash flows: Project A: Year 1: $50,000; Year 2: $60,000; Project B: Year 1: $70,000; Year 2: $40,000. If the company uses a discount rate of 6%, which project has a higher NPV?",
+  "options": [],
+  "correct_option": "0",
+  "answer_text": "Project B",
+  "answer_format": "text",
+  "solution": "Step 1: Calculate NPV for Project A: NPV = $50,000 / (1 + 0.06) + $60,000 / (1 + 0.06)^2 = $47,169.81 + $53,490.97 = $100,660.78. Step 2: Calculate NPV for Project B: NPV = $70,000 / (1 + 0.06) + $40,000 / (1 + 0.06)^2 = $66,037.74 + $35,446.31 = $101,484.05. Step 3: Compare NPVs: Project B has a higher NPV of $101,484.05 compared to Project A's $100,660.78."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "p486",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Alpha, Stock Valuation",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Alpha, Stock Valuation: Stock A is valued at 21.65 per share. The return...",
+  "summary": "Calculate the alpha of a security under CAPM by comparing its actual return to the CAPM-predicted expected return.",
+  "prompt": "Stock A is valued at $21.65 per share. The return of the market portfolio is 12% and the return of Stock A is 9%. The risk-free rate is 2% and the company’s beta is 1.00. What is the alpha of Stock A under CAPM?",
+  "options": [],
+  "correct_option": "-0.03",
+  "answer_text": "-3%",
+  "answer_format": "numeric_percent",
+  "solution": "Sure, let's calculate the alpha of Stock A using the given data. ### Given Data: - Market price of Stock A: $21.65 per share - Return of Stock A: 9% - Return of the market portfolio: 12% - Risk-free rate: 2% - Beta of Stock A: 1.00 ### Formula for Alpha: \\[ \\alpha = R_A - [R_f + \\beta \\times (R_M - R_f)] \\] Where: - \\( R_A \\) is the return of Stock A - \\( R_f \\) is the risk-free rate - \\( \\beta \\) is the beta of Stock A - \\( R_M \\) is the return of the market portfolio ### Step-by-Step Calculation: 1. **Identify and plug in the values:** - \\( R_A = 9\\% \\) - \\( R_f = 2\\% \\) - \\( \\beta = 1.00 \\) - \\( R_M = 12\\% \\) 2. **Calculate the expected return using CAPM:** \\[ R_{expected} = R_f + \\beta \\times (R_M - R_f) \\] \\[ R_{expected} = 2\\% + 1.00 \\times (12\\% - 2\\%) \\] \\[ R_{expected} = 2\\% + 1.00 \\times 10\\% \\] \\[ R_{expected} = 2\\% + 10\\% \\] \\[ R_{expected} = 12\\% \\] 3. **Calculate the alpha:** \\[ \\alpha = R_A - R_{expected} \\] \\[ \\alpha = 9\\% - 12\\% \\] \\[ \\alpha = -3\\% \\] ### Final Answer: The alpha of Stock A is \\(-3\\%\\). ### Explanation: - We first identified the given values and substituted them into the CAPM formula to find the expected return. - The expected return was calculated to be 12%. - Finally, we subtracted the expected return from the actual return of Stock A to find the alpha, which is \\(-3\\%\\). This indicates that Stock A underperforms the market by 3% based on its risk profile."
+}

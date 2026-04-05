@@ -1,0 +1,44 @@
+{
+  "id": "p414",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "market-risk-premium",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: Consider the following scenarios: I. You use a simple trading...",
+  "summary": "Evaluate trading strategies against weak-form and semi-strong-form efficiency criteria.",
+  "prompt": "Consider the following scenarios: I. You use a simple trading rule: buy every stock that has gone up three days in a row, hold the stock for two (2) days and then sell. On average, you make an unusual profit using this strategy. II. On average, analysts who analyze the financial reports of AMC do not make unusual profits using this strategy. Choose the following statement that is the most correct: A) I is consistent with weak-form market efficiency while II is consistent with semi-strong form efficiency B) I is consistent with weak-form market efficiency while II is not consistent with semi-strong form efficiency C) I is not consistent with weak-form market efficiency while II is consistent with semi-strong form efficiency D) Both I and II are consistent with Weak form market efficiency. E) I is not consistent with weak-form market efficiency while II is consistent with strong form efficiency",
+  "options": [
+    {
+      "id": "A",
+      "text": "I is consistent with weak-form market efficiency while II is consistent with semi-strong form efficiency"
+    },
+    {
+      "id": "B",
+      "text": "I is consistent with weak-form market efficiency while II is not consistent with semi-strong form efficiency"
+    },
+    {
+      "id": "C",
+      "text": "I is not consistent with weak-form market efficiency while II is consistent with semi-strong form efficiency"
+    },
+    {
+      "id": "D",
+      "text": "Both I and II are consistent with Weak form market efficiency"
+    },
+    {
+      "id": "E",
+      "text": "I is not consistent with weak-form market efficiency while II is consistent with strong form efficiency"
+    }
+  ],
+  "correct_option": "C) I is not consistent with weak-form market efficiency while II is consistent with semi-strong form efficiency",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Based on the provided context and the previous knowledge base, the correct answer for the question is: C) I is not consistent with weak-form market efficiency while II is consistent with semi-strong form efficiency. Here's the detailed reasoning: 1. **Scenario I**: You use a simple trading rule: buy every stock that has gone up three days in a row, hold the stock for two (2) days and then sell. On average, you make an unusual profit using this strategy. - **Weak-form market efficiency** states that stock prices already reflect all past trading information. Therefore, it should be impossible to achieve abnormal profits using past price movements (like the rule described). - Since you are making an unusual profit using this strategy, it suggests that past price information is not fully reflected in the stock prices, which contradicts weak-form market efficiency. 2. **Scenario II**: On average, analysts who analyze the financial reports of AMC do not make unusual profits using this strategy. - **Semi-strong form market efficiency** states that stock prices reflect all publicly available information, including financial reports. - If analysts, who use publicly available information (financial reports), do not make unusual profits, it supports the idea that this information is already reflected in stock prices, consistent with semi-strong form efficiency. Thus, the correct answer is: C) I is not consistent with weak-form market efficiency while II is consistent with semi-strong form efficiency."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "p479",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Debt Financing",
+  "subtopic": "Loan Underwriting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "financial-ratios",
+    "solvency",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Loan Underwriting: What is the main consideration when determining the appropriate loan...",
+  "summary": "Identify key considerations in selecting the appropriate loan structure.",
+  "prompt": "What is the main consideration when determining the appropriate loan structure for a real estate investment?",
+  "options": [
+    {
+      "id": "A",
+      "text": "REITs"
+    },
+    {
+      "id": "B",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "C",
+      "text": "Government subsidies"
+    },
+    {
+      "id": "D",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "E",
+      "text": "When determining the appropriate loan structure for a real estate investment,"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "When determining the appropriate loan structure for a real estate investment, several factors must be considered, including interest rates, which affect overall financing costs; Loan-to-Value (LTV) ratios, which assess the proportion of debt to property value; and Debt Service Coverage Ratios (DSCR), which evaluate a property’s ability to cover its debt obligations. Each of these elements plays a critical role in structuring a financially sound investment."
+}

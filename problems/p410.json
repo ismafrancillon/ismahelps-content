@@ -1,0 +1,40 @@
+{
+  "id": "p410",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Dividend Policy",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "growth-rate",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Dividend Policy: In the context of the Dividend Irrelevance Theory proposed by...",
+  "summary": "Calculate the IRR by finding the discount rate that sets NPV equal to zero.",
+  "prompt": "In the context of the Dividend Irrelevance Theory proposed by Modigliani and Miller, what is the primary assertion?",
+  "options": [
+    {
+      "id": "A",
+      "text": "IRR may yield multiple solutions"
+    },
+    {
+      "id": "B",
+      "text": "Reject because NPV is negative"
+    },
+    {
+      "id": "C",
+      "text": "Step 2: Recognize that what matters most is the firm’s investment decisions"
+    },
+    {
+      "id": "D",
+      "text": "WACC decreases"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Understand the Dividend Irrelevance Theory which suggests that in perfect markets, the firm’s dividend policy does not affect its value. <br>Step 2: Recognize that what matters most is the firm’s investment decisions and the overall profitability. <br>Step 3: Therefore, C correctly reflects the assertion that the value of the firm is determined by its investment decisions, not its dividend policy."
+}

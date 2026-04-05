@@ -1,0 +1,41 @@
+{
+  "id": "p440",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Determination of Forward and Futures Prices",
+  "subtopic": "Valuing Forward Contracts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "yield-to-maturity",
+    "coupon-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Valuing Forward Contracts: A futures contract on Treasury bonds has a price of...",
+  "summary": "Analyze the mechanics and characteristics of futures contracts.",
+  "prompt": "A futures contract on Treasury bonds has a price of $100, and the interest rate is 4% per annum. If the bond pays a coupon of 5%, what is the expected total return from the futures contract?",
+  "options": [
+    {
+      "id": "A",
+      "text": "1%"
+    },
+    {
+      "id": "B",
+      "text": "9%"
+    },
+    {
+      "id": "C",
+      "text": "3%"
+    },
+    {
+      "id": "D",
+      "text": "5%"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Futures Price = $100<br>Coupon Rate = 5%<br>Interest Rate = 4%<br><br>**Step 2: Calculate Total Return**<br>Total Return = Coupon Rate + Interest Rate = 5% + 4% = 9%.<br><br>**Step 3: Conclusion**<br>The expected total return from the futures contract is 9%."
+}

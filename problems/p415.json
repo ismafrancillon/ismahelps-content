@@ -1,0 +1,41 @@
+{
+  "id": "p415",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Security Valuation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "security-valuation",
+    "required-return",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Security Valuation: Your personal opinion is that a security has an expected...",
+  "summary": "Determine whether a security is overpriced, underpriced, or fairly priced by comparing actual return to CAPM expected return.",
+  "prompt": "Your personal opinion is that a security has an expected rate of return of 0.11. It has a beta of 1.5. The risk-free asset has a beta of zero and the market expected rate of return is 0.09. According to the Capital Asset Pricing Model, this security is:",
+  "options": [
+    {
+      "id": "A",
+      "text": "The security is overpriced"
+    },
+    {
+      "id": "B",
+      "text": "The security is underpriced"
+    },
+    {
+      "id": "C",
+      "text": "The security is fairly priced"
+    },
+    {
+      "id": "D",
+      "text": "Cannot be determined from data provided"
+    }
+  ],
+  "correct_option": "Cannot be determined from data provided",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "To determine if the security is underpriced, overpriced, or fairly priced using the Capital Asset Pricing Model (CAPM), follow these steps: 1. **Define Variables:** - Expected rate of return of the security (\\(E(R_i)\\)): 0.11 or 11% - Beta of the security (\\(\\beta_i\\)): 1.5 - Risk-free rate (\\(R_f\\)): Not provided - Market expected rate of return (\\(E(R_m)\\)): 0.09 or 9% 2. **Calculate the Required Rate of Return using CAPM Formula:** The CAPM formula is: \\[ E(R_i) = R_f + \\beta_i (E(R_m) - R_f) \\] Here, we need the risk-free rate (\\(R_f\\)) to calculate the required rate of return. However, since the risk-free rate is not provided in the problem, we cannot accurately calculate the required rate of return. 3. **Compare Expected and Required Rates of Return:** Without the risk-free rate, it is impossible to determine if the security's expected return (0.11) is higher or lower than the required return, thus we cannot conclude if the security is underpriced, overpriced, or fairly priced. **Final Answer:** Given the missing risk-free rate, the answer is: **D) Cannot be determined from data provided.** The key missing piece of information (risk-free rate) prevents us from performing the necessary calculations to determine the security's pricing status accurately."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p461",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "beta",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: What is the cost of equity if a firm has...",
+  "summary": "Calculate or evaluate the cost of capital using appropriate financial models.",
+  "prompt": "What is the cost of equity if a firm has a beta of 1.2, a risk-free rate of 3%, and a market return of 8%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "4%"
+    },
+    {
+      "id": "B",
+      "text": "13%"
+    },
+    {
+      "id": "C",
+      "text": "6%"
+    },
+    {
+      "id": "D",
+      "text": "9%"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Cost of Equity = Risk-free rate + Beta × (Market return - Risk-free rate) = 3% + 1.2(8% - 3%) = 3% + 6% = 9%."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "p419",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: Which of the following is not correct regarding market efficiency?...",
+  "summary": "Identify the incorrect statement about forms of market efficiency.",
+  "prompt": "Which of the following is not correct regarding market efficiency? A. Weak form efficient states that prices reflect all market data (past prices and volumes) B. Semi-strong form efficient includes all publicly known information as available in financial statements C. Strong form efficient says that prices reflect all information both public and private information D. If the market is strong form efficient, insiders can consistently earn abnormal profits because they have access to private information",
+  "options": [
+    {
+      "id": "A",
+      "text": "Weak form efficient states that prices reflect all market data (past prices and volumes)"
+    },
+    {
+      "id": "B",
+      "text": "Semi-strong form efficient includes all publicly known information as available in financial statements"
+    },
+    {
+      "id": "C",
+      "text": "Strong form efficient says that prices reflect all information both public and private information"
+    },
+    {
+      "id": "D",
+      "text": "If the market is strong form efficient, insiders can consistently earn abnormal"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The correct answer is D. If the market is strong form efficient, insiders can consistently earn abnormal profits because they have access to private information. ### Explanation: 1. **Define Market Efficiency Forms**: - **Weak Form Efficiency**: Prices reflect all past market data like prices and volumes. Investors cannot earn abnormal returns by trading based on historical data. - **Semi-Strong Form Efficiency**: Prices reflect all publicly available information, including financial statements and news. Investors cannot earn abnormal returns by trading based on public information. - **Strong Form Efficiency**: Prices reflect all information, both public and private. Investors cannot earn abnormal returns even if they have access to insider information. 2. **Analyze Each Statement**: - **Statement A**: Correct. Weak form efficiency states that prices reflect all past market data (prices and volumes). - **Statement B**: Correct. Semi-strong form efficiency includes all publicly known information as available in financial statements. - **Statement C**: Correct. Strong form efficiency says that prices reflect all information, both public and private. - **Statement D**: Incorrect. If the market is strong form efficient, insiders cannot consistently earn abnormal profits because all information (including private) is already reflected in the prices. 3. **Conclusion**: - The false statement regarding market efficiency is D. In a strong form efficient market, insiders cannot consistently earn abnormal profits because their private information is already incorporated into the stock prices. Thus, the answer is D."
+}

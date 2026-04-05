@@ -1,0 +1,45 @@
+{
+  "id": "p475",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Legal Framework",
+  "subtopic": "Antitrust Laws",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "industry-analysis",
+    "competition",
+    "corporation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Antitrust Laws: What is the main objective of antitrust laws in the...",
+  "summary": "Identify the primary objective of antitrust laws in maintaining market competition during mergers.",
+  "prompt": "What is the main objective of antitrust laws in the context of mergers?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Same share price as before"
+    },
+    {
+      "id": "B",
+      "text": "Nominal damages"
+    },
+    {
+      "id": "C",
+      "text": "A premium above market price"
+    },
+    {
+      "id": "D",
+      "text": "Punitive damages"
+    },
+    {
+      "id": "E",
+      "text": "Antitrust laws aim to prevent monopolistic practices and maintain competition"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "Antitrust laws aim to prevent monopolistic practices and maintain competition within markets, particularly regarding mergers."
+}

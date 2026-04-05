@@ -1,0 +1,41 @@
+{
+  "id": "p446",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Mechanics of Options Markets",
+  "subtopic": "Call",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "call-option",
+    "intrinsic-value-option",
+    "option-payoff",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Call: Calculate the profit from a long position in a call...",
+  "summary": "Calculate the profit from a call option position at expiration.",
+  "prompt": "Calculate the profit from a long position in a call option if the stock price at expiration is $60, the strike price is $55, and the premium paid is $5.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "B",
+      "text": "The strike price"
+    },
+    {
+      "id": "C",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "D",
+      "text": "Profit = Max(0, Stock Price - Strike Price) - Premium = Max(0, 60 - 55) - 5 = $0"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Profit = Max(0, Stock Price - Strike Price) - Premium = Max(0, 60 - 55) - 5 = $0. [[24]]"
+}

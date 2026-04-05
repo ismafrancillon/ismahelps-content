@@ -1,0 +1,43 @@
+{
+  "id": "p420",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: Which of the following statement is most correct? A) Semi...",
+  "summary": "Identify the most correct statement distinguishing weak, semi-strong, and strong forms of efficiency.",
+  "prompt": "Which of the following statement is most correct? A) Semi strong form market efficiency means that stock prices reflect all public information B) An individual who has information about past stock prices should not be able to profit from this information in a weak-form efficient market C) An individual who has inside information about a publicly traded company should be able to profit from this information in a semi-strong form efficient market D) Statement a and c are correct E) All above are correct",
+  "options": [
+    {
+      "id": "A",
+      "text": "Semi strong form market efficiency means that stock prices reflect all public information"
+    },
+    {
+      "id": "B",
+      "text": "An individual who has information about past stock prices should not be able to profit from this information in a weak-form efficient market"
+    },
+    {
+      "id": "C",
+      "text": "An individual who has inside information about a publicly traded company should be able to profit from this information in a semi-strong form efficient market"
+    },
+    {
+      "id": "D",
+      "text": "Statement a and c are correct"
+    },
+    {
+      "id": "E",
+      "text": "All above are correct"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Which of the following statement is most correct? A) Semi-strong form market efficiency means that stock prices reflect all public information. B) An individual who has information about past stock prices should not be able to profit from this information in a weak-form efficient market. C) An individual who has inside information about a publicly traded company should be able to profit from this information in a semi-strong form efficient market. D) Statement a and c are correct. E) All above are correct. ### Final Answer: D) Statement a and c are correct. ### Explanation: 1. **Semi-Strong Form Market Efficiency**: - **Statement A** is correct because semi-strong form market efficiency implies that stock prices fully reflect all publicly available information. This includes historical price data, financial statements, news reports, and other public disclosures. 2. **Weak-Form Market Efficiency**: - **Statement B** is correct because weak-form efficiency suggests that stock prices already incorporate all past trading information such as historical prices and volumes. Therefore, using past stock prices to predict future prices should not yield any abnormal profits. 3. **Inside Information**: - **Statement C** is incorrect in the context of semi-strong form efficiency. In semi-strong form efficient markets, stock prices reflect all public information, but not necessarily private or inside information. An individual with inside information could still potentially profit because this information is not yet reflected in the stock price. 4. **Combining Statements**: - **Statement D** is correct because it accurately combines the correct parts of statements A and C. Statement A correctly describes semi-strong form efficiency, and statement C, although incorrect in isolation, aligns with the context provided by statement A. Therefore, combining these makes statement D the most accurate. ### Conclusion: Given the above analysis, the most correct statement is D) Statement a and c are correct."
+}

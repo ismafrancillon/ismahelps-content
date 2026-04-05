@@ -1,0 +1,40 @@
+{
+  "id": "p448",
+  "content_type": "practice_question",
+  "course": "Options",
+  "topic": "Properties of Stock Options",
+  "subtopic": "Factors Affecting Option Prices",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "option-pricing",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Factors Affecting Option Prices: Which of the following factors affects the pricing of options?...",
+  "summary": "Identify key factors affecting option prices: volatility, time, underlying price, and interest rates.",
+  "prompt": "Which of the following factors affects the pricing of options?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "B",
+      "text": "The strike price"
+    },
+    {
+      "id": "C",
+      "text": "Measures profitability"
+    },
+    {
+      "id": "D",
+      "text": "Options pricing is influenced by multiple factors including the volatility of"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Options pricing is influenced by multiple factors including the volatility of the underlying asset, the time remaining until expiration, and prevailing interest rates. Understanding these factors is essential for traders and investors in options markets."
+}

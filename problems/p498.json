@@ -1,0 +1,23 @@
+{
+  "id": "p498",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "equity valuation",
+  "subtopic": "Dividend",
+  "question_type": "short_answer",
+  "difficulty": "Medium",
+  "tags": [
+    "stock-valuation",
+    "dividend-discount-model",
+    "growth-rate",
+    "calculation"
+  ],
+  "title": "Dividend: What is the annual capital gain of a company that...",
+  "summary": "Calculate the annual capital gain rate from the stock price, dividend, and required rate of return.",
+  "prompt": "What is the annual capital gain of a company that is selling for 180, Just paid 5$ dividend and require rate of return is 9%?",
+  "options": [],
+  "correct_option": "0.06",
+  "answer_text": "6%",
+  "answer_format": "numeric_percent",
+  "solution": "The annual capital gain can be calculated using the following formula:\n\n\\[\ng = K - \\frac{D_0}{P_0}\n\\]\n\nWhere:\n- \\(g\\) = annual capital gain (growth rate)\n- \\(K\\) = required rate of return (9% or 0.09)\n- \\(D_0\\) = dividend just paid ($5)\n- \\(P_0\\) = current price of the stock ($180)\n\n### Step 1: Plug in the Values\nSubstituting the values into the formula:\n\n\\[\ng = 0.09 - \\frac{5}{180}\n\\]\n\n### Step 2: Calculate the Dividend Yield\nFirst, calculate the dividend yield:\n\n\\[\n\\frac{5}{180} \\approx 0.02778 \\text{ (or 2.78%)}\n\\]\n\n### Step 3: Calculate the Capital Gain\nNow, substituting back into the equation:\n\n\\[\ng = 0.09 - 0.02778 \\approx 0.06222 \\text{ (or 6.22%)}\n\\]\n\n### Final Answer\nThe annual capital gain of the company is approximately **6%**."
+}

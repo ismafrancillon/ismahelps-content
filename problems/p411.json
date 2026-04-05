@@ -1,0 +1,40 @@
+{
+  "id": "p411",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: What is the IRR of a project with cash flows...",
+  "summary": "Calculate the IRR by finding the discount rate that sets NPV equal to zero.",
+  "prompt": "What is the IRR of a project with cash flows of -$100, $40, $60, and $20 over 4 years?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Choose the highest NPV project"
+    },
+    {
+      "id": "B",
+      "text": "NPV and IRR always agree"
+    },
+    {
+      "id": "C",
+      "text": "Step 2: Use the IRR Formula IRR is found by setting NPV = 0 and"
+    },
+    {
+      "id": "D",
+      "text": "Firm value increases due to the tax shield"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Cash Flows = {-100, 40, 60, 20}. <br> **Step 2: Use the IRR Formula**<br>IRR is found by setting NPV = 0 and solving: -100 + (40/(1+IRR)^1) + (60/(1+IRR)^2) + (20/(1+IRR)^3) = 0. Use trial and error or a financial calculator. <br> **Step 3: Conclusion**<br>The IRR of the project is approximately 20%."
+}

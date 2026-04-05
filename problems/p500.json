@@ -1,0 +1,24 @@
+{
+  "id": "p500",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Weighted Average Cost of Capital (WACC)",
+  "subtopic": "Cost of Capital",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "wacc",
+    "cost-of-capital",
+    "capm",
+    "calculation",
+    "formula-based"
+  ],
+  "title": "Cost of Capital: Consider the follow information to calculate a firm’s WACC: -...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "Consider the follow information to calculate a firm’s WACC: - Debt-to-equity ratio: 1.2 - Before-tax cost of debt: 7% - RF= 3% - Beta= 1.2 - Market return= 8% - Tax rate= 40%",
+  "options": [],
+  "correct_option": "0.0638",
+  "answer_text": "6.38%",
+  "answer_format": "numeric_percent",
+  "solution": "To calculate the Weighted Average Cost of Capital (WACC) for the given firm, we need to follow these steps: ### Step 1: Define the Variables - Debt-to-equity ratio (D/E) = 1.2 - Before-tax cost of debt (\\(K_d\\)) = 7% - Risk-free rate (\\(R_f\\)) = 3% - Beta (\\(\\beta\\)) = 1.2 - Market return (\\(R_m\\)) = 8% - Tax rate (\\(T\\)) = 40% ### Step 2: Calculate the Cost of Equity (\\(K_e\\)) The cost of equity can be calculated using the Capital Asset Pricing Model (CAPM): \\[ K_e = R_f + \\beta (R_m - R_f) \\] Plugging in the values: \\[ K_e = 3\\% + 1.2 (8\\% - 3\\%) \\] \\[ K_e = 3\\% + 1.2 \\times 5\\% \\] \\[ K_e = 3\\% + 6\\% \\] \\[ K_e = 9\\% \\] ### Step 3: Calculate the Proportions of Debt and Equity Given the debt-to-equity ratio (D/E) = 1.2, we can express the proportions of debt and equity as follows: \\[ \\text{Proportion of Debt (W_d)} = \\frac{D}{D + E} = \\frac{1.2}{1 + 1.2} = \\frac{1.2}{2.2} \\approx 0.545 \\] \\[ \\text{Proportion of Equity (W_e)} = \\frac{E}{D + E} = \\frac{1}{1 + 1.2} = \\frac{1}{2.2} \\approx 0.455 \\] ### Step 4: Calculate the After-tax Cost of Debt The after-tax cost of debt (\\(K_d\\)) is: \\[ K_d (1 - T) = 7\\% (1 - 0.40) = 7\\% \\times 0.60 = 4.2\\% \\] ### Step 5: Calculate the WACC The WACC is calculated using the formula: \\[ WACC = W_d \\times K_d (1 - T) + W_e \\times K_e \\] Plugging in the values: \\[ WACC = 0.545 \\times 4.2\\% + 0.455 \\times 9\\% \\] \\[ WACC = 0.545 \\times 4.2\\% + 0.455 \\times 9\\% \\] \\[ WACC = 2.289\\% + 4.095\\% \\] \\[ WACC = 6.384\\% \\] ### Final Answer The firm's WACC is approximately 6.38%."
+}

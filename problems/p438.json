@@ -1,0 +1,41 @@
+{
+  "id": "p438",
+  "content_type": "practice_question",
+  "course": "Mergers & Acquisitions",
+  "topic": "Going-Private Transactions",
+  "subtopic": "Management Buyouts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "valuation",
+    "market-value",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Management Buyouts: What was the average premium for management buyouts (MBOs) according...",
+  "summary": "Identify the average premium paid for management buyouts based on empirical research findings.",
+  "prompt": "What was the average premium for management buyouts (MBOs) according to Kaplan's study?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Cash consideration only"
+    },
+    {
+      "id": "B",
+      "text": "A proxy contest for board control"
+    },
+    {
+      "id": "C",
+      "text": "A formal tender offer to shareholders"
+    },
+    {
+      "id": "D",
+      "text": "Kaplan found that the average premium for MBOs was 42"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Kaplan found that the average premium for MBOs was 42.3% above the market price two months before the initial announcement."
+}

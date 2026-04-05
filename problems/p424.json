@@ -1,0 +1,40 @@
+{
+  "id": "p424",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Types of Financial Statements",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "financial-statements",
+    "classification",
+    "reporting",
+    "conceptual"
+  ],
+  "title": "Types of Financial Statements: Which of the following is NOT one of the four...",
+  "summary": "Identify which statement is not among the four primary financial statements and explain their purposes.",
+  "prompt": "Which of the following is NOT one of the four primary financial statements?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "B",
+      "text": "The strike price"
+    },
+    {
+      "id": "C",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "D",
+      "text": "The four primary financial statements are the Income Statement, Balance Sheet,"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The four primary financial statements are the Income Statement, Balance Sheet, Cash Flow Statement, and Statement of Changes in Equity. The Statement of Changes in Equity reflects changes in equity accounts but is not as commonly assessed in examinations as the first three. The other options listed are all recognized financial statements that provide critical information regarding a company's financial performance and position."
+}

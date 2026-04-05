@@ -1,0 +1,44 @@
+{
+  "id": "p469",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Mergers and Acquisitions",
+  "subtopic": "Types of Takeovers",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "lbo",
+    "financing-sources",
+    "private-equity",
+    "conceptual"
+  ],
+  "title": "Types of Takeovers: In a leveraged buyout (LBO), which of the following is...",
+  "summary": "Identify typical and non-typical sources of financing in a leveraged buyout.",
+  "prompt": "In a leveraged buyout (LBO), which of the following is NOT typically a source of financing?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Firm value decreases due to higher risk"
+    },
+    {
+      "id": "B",
+      "text": "The strike price"
+    },
+    {
+      "id": "C",
+      "text": "Option premium"
+    },
+    {
+      "id": "D",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "E",
+      "text": "In an LBO, financing typically comes from debt and equity markets"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "In an LBO, financing typically comes from debt and equity markets, as well as any available cash reserves, but government grants are not a standard source of financing."
+}

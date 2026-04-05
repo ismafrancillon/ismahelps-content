@@ -1,0 +1,24 @@
+{
+  "id": "p497",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Bond Valuation",
+  "subtopic": "Coupon Payments",
+  "question_type": "short_answer",
+  "difficulty": "Easy",
+  "tags": [
+    "bond-pricing",
+    "yield-to-maturity",
+    "coupon-rate",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "Coupon Payments: Gator Inc. has outstanding bonds with 1000 par value, and...",
+  "summary": "Determine a bond's coupon rate from its market price, par value, YTM, and compounding frequency.",
+  "prompt": "Gator Inc. has outstanding bonds with $1,000 par value, and they mature in five (5) years. Their yield to maturity is 9% with semi-annual compounding, and the current market price is $853.61. What is the bond’s annual coupon interest rate?",
+  "options": [],
+  "correct_option": "0.053",
+  "answer_text": "5.3%",
+  "answer_format": "numeric_percent",
+  "solution": "The bond’s annual coupon interest rate is calculated using the following steps: 1. **Define the variables**: - Par value (FV) = $1,000 - Market price (PV) = $853.61 - Yield to maturity (YTM) = 9% annually, compounded semi-annually - Number of years to maturity (N) = 5 years - Payment frequency = Semi-annually (2 times per year) 2. **Convert the YTM to a semi-annual rate**: - Semi-annual YTM = 9% / 2 = 4.5% 3. **Determine the number of periods**: - Total periods (N) = 5 years * 2 = 10 periods 4. **Calculate the bond’s semi-annual coupon payment (PMT)**: - Using the bond pricing formula: \\[ PV = \\frac{PMT}{(1 + r)^1} + \\frac{PMT}{(1 + r)^2} + \\ldots + \\frac{PMT}{(1 + r)^N} + \\frac{FV}{(1 + r)^N} \\] - Rearrange to solve for PMT using a financial calculator or spreadsheet: \\[ PMT = \\frac{PV \\times r}{1 - \\frac{1}{(1 + r)^N}} + \\frac{FV \\times r}{(1 + r)^N} \\] - Plug in the values: \\[ 853.61 = \\frac{PMT \\times (1 - \\frac{1}{(1 + 0.045)^{10}})}{0.045} + \\frac{1000}{(1 + 0.045)^{10}} \\] 5. **Calculate PMT**: - Using a financial calculator or spreadsheet: \\[ PMT \\approx 26.50 \\] 6. **Convert the semi-annual coupon payment to an annual coupon rate**: - Annual coupon payment = PMT * 2 = 26.50 * 2 = 53 - Annual coupon rate = (Annual coupon payment / Par value) * 100 = (53 / 1000) * 100 = 5.3% **Final Answer**: The bond’s annual coupon interest rate is **5.3%**."
+}

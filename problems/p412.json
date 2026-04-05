@@ -1,0 +1,41 @@
+{
+  "id": "p412",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "cost-of-equity",
+    "cost-of-debt",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: When considering a firm's optimal capital structure, which of the...",
+  "summary": "Identify which factors are and are not typically considered in determining optimal capital structure.",
+  "prompt": "When considering a firm's optimal capital structure, which of the following is NOT a factor typically considered?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "B",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "C",
+      "text": "Step 2: Identify factors affecting this decision: taxes reduce the"
+    },
+    {
+      "id": "D",
+      "text": "Financial distress probability increases"
+    }
+  ],
+  "correct_option": "C",
+  "answer_text": "C",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Define optimal capital structure as the debt-to-equity ratio that minimizes the firm's overall cost of capital and maximizes its market value. <br>Step 2: Identify factors affecting this decision: taxes reduce the effective cost of debt, bankruptcy costs increase with higher leverage, the cost of equity rises with increased risk, and financial flexibility is crucial for future financing. <br>Step 3: Recognize that market share, while important for overall business strategy, does not directly influence the capital structure decision. Therefore, C is the correct answer."
+}

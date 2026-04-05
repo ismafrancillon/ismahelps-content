@@ -1,0 +1,41 @@
+{
+  "id": "p436",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "FCFE",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cash-flows",
+    "dividend-discount-model",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "FCFE: What is the main advantage of using the Free Cash...",
+  "summary": "Identify the advantage of the FCFE model for valuing firms that do not pay dividends.",
+  "prompt": "What is the main advantage of using the Free Cash Flow to Equity (FCFE) model over the Dividend Discount Model (DDM)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reduce cost of equity"
+    },
+    {
+      "id": "B",
+      "text": "Free Cash Flow to Equity (FCFE)"
+    },
+    {
+      "id": "C",
+      "text": "Comparable company analysis"
+    },
+    {
+      "id": "D",
+      "text": "The main advantage of using the FCFE model is its applicability to firms that"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The main advantage of using the FCFE model is its applicability to firms that do not pay dividends. The FCFE model focuses on the cash available to equity holders after accounting for reinvestments and debt obligations, making it particularly useful for valuing companies with fluctuating dividend policies, as highlighted in the materials on pages 47 to 48."
+}

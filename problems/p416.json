@@ -1,0 +1,45 @@
+{
+  "id": "p416",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Call and Puts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "call-option",
+    "put-option",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Call and Puts: An investor simultaneously buys a call option and a put...",
+  "summary": "Determine the payoff behavior of a straddle strategy combining a long call and long put.",
+  "prompt": "An investor simultaneously buys a call option and a put option. Both options have the same expiration date, same strike price, and they are written on the same stock. His total payoff will: _______________ A) Increase as the stock price increases above the strike price. B) Increase as the stock price decreases below the strike price. C) Will not change with change in the stock price. D) Both A and B. E) Insufficient information for answering the question",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increase as the stock price increases above the strike price"
+    },
+    {
+      "id": "B",
+      "text": "Increase as the stock price decreases below the strike price"
+    },
+    {
+      "id": "C",
+      "text": "Will not change with change in the stock price"
+    },
+    {
+      "id": "D",
+      "text": "Both A and B"
+    },
+    {
+      "id": "E",
+      "text": "Insufficient information for answering the question"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The answer is D) Both A and B. Explanation: When an investor buys both a call option and a put option with the same expiration date and strike price on the same stock, this strategy is known as a straddle. The payoff from a straddle increases if the stock price moves significantly in either direction, whether up or down. 1. If the stock price increases above the strike price, the call option will be in the money, and the investor can exercise the call option to buy the stock at the lower strike price and sell it at the higher market price. The put option will be out of the money and worthless. 2. If the stock price decreases below the strike price, the put option will be in the money, and the investor can exercise the put option to sell the stock at the higher strike price while buying it at the lower market price. The call option will be out of the money and worthless. Therefore, the total payoff will increase as the stock price either increases above the strike price or decreases below the strike price. This makes option D) Both A and B the correct answer."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p459",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Dividend Discount Model: A stock pays a constant dividend of 4 per share....",
+  "summary": "Apply the Gordon Growth Model or Dividend Discount Model for stock valuation.",
+  "prompt": "A stock pays a constant dividend of $4 per share. If the required return is 10%, what is the price of the stock?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$24"
+    },
+    {
+      "id": "B",
+      "text": "$60"
+    },
+    {
+      "id": "C",
+      "text": "$80"
+    },
+    {
+      "id": "D",
+      "text": "$40"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "Price = D / r = 4 / 0.10 = $40."
+}

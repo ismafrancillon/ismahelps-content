@@ -1,0 +1,41 @@
+{
+  "id": "p422",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Cost of Sales and Inventory Management",
+  "subtopic": "Inventory Valuation Methods (FIFO, WAC)",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "fifo",
+    "inventory-valuation",
+    "cogs",
+    "financial-statements",
+    "conceptual"
+  ],
+  "title": "Inventory Valuation Methods (FIFO, WAC): How does the FIFO method of inventory valuation impact the...",
+  "summary": "Assess the impact of FIFO inventory valuation on COGS and financial statements during rising prices.",
+  "prompt": "How does the FIFO method of inventory valuation impact the financial statements during a period of rising prices?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It increases operating income"
+    },
+    {
+      "id": "B",
+      "text": "Residual Income Model"
+    },
+    {
+      "id": "C",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "D",
+      "text": "The FIFO (First-In, First-Out) method of inventory valuation assumes that the"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The FIFO (First-In, First-Out) method of inventory valuation assumes that the oldest inventory items are sold first. During periods of rising prices, this means that the cost of goods sold will be lower because it reflects the older, cheaper costs of inventory. Consequently, this results in a higher ending inventory value on the balance sheet and a higher gross profit on the income statement. This can lead to increased taxable income, as higher profits could result in higher income tax liabilities."
+}

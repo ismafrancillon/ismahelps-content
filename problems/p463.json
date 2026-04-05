@@ -1,0 +1,44 @@
+{
+  "id": "p463",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Call and Puts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "call-option",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Call and Puts: An out-of-the-money call option is one that: A) has an...",
+  "summary": "Identify the defining characteristic of an out-of-the-money call based on strike vs. market price.",
+  "prompt": "An out-of-the-money call option is one that: A) has an exercise price below the current market price of the underlying security. B) should not be exercised. C) has an exercise price above the current market price of the underlying security. D) Both A and B. E) Both B and C.",
+  "options": [
+    {
+      "id": "A",
+      "text": "has an exercise price below the current market price of the underlying security"
+    },
+    {
+      "id": "B",
+      "text": "should not be exercised"
+    },
+    {
+      "id": "C",
+      "text": "has an exercise price above the current market price of the underlying security"
+    },
+    {
+      "id": "D",
+      "text": "None of the above"
+    },
+    {
+      "id": "E",
+      "text": "Both B and C"
+    }
+  ],
+  "correct_option": "E",
+  "answer_text": "E",
+  "answer_format": "option_letter",
+  "solution": "An out-of-the-money call option is one that: A) has an exercise price below the current market price of the underlying security. B) should not be exercised. C) has an exercise price above the current market price of the underlying security. D) Both A and B. E) Both B and C. **Answer: E** **Explanation:** 1. **Definition of Out-of-the-Money Call Option:** A call option is considered \"out-of-the-money\" when the exercise (strike) price is higher than the current market price of the underlying security. This means the option holder would not benefit from exercising the option because buying the stock at the strike price would be more expensive than buying it at the current market price. 2. **Evaluation of Options:** - **Option A:** Incorrect. An exercise price below the current market price would make the call option \"in-the-money.\" - **Option B:** Correct. Since exercising the option would result in a loss, it should not be exercised. - **Option C:** Correct. The definition of an out-of-the-money call option includes having an exercise price above the current market price. 3. **Combination of Options:** - **Option D:** Incorrect. It includes Option A, which is incorrect. - **Option E:** Correct. It combines the correct statements B and C. Thus, the correct answer is E, as both B and C accurately describe an out-of-the-money call option."
+}

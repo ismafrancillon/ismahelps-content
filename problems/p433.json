@@ -1,0 +1,40 @@
+{
+  "id": "p433",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cost-of-equity",
+    "capm",
+    "determinants",
+    "conceptual"
+  ],
+  "title": "Cost of Capital: A firm's required rate of return (cost of equity) is...",
+  "summary": "Identify the factors influencing the cost of equity including risk-free rate, beta, and market premium.",
+  "prompt": "A firm's required rate of return (cost of equity) is influenced by which of the following factors?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It reduces total liabilities"
+    },
+    {
+      "id": "B",
+      "text": "Systematic risk relative to the market"
+    },
+    {
+      "id": "C",
+      "text": "It reduces net income"
+    },
+    {
+      "id": "D",
+      "text": "The cost of equity is influenced by multiple factors, including the risk-free"
+    }
+  ],
+  "correct_option": "D",
+  "answer_text": "D",
+  "answer_format": "option_letter",
+  "solution": "The cost of equity is influenced by multiple factors, including the risk-free rate (the return expected from a risk-free investment), the market risk premium (the additional return expected from investing in the stock market over risk-free assets), and the firm's beta (which measures its volatility relative to the market)."
+}
