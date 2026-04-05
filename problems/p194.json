@@ -1,0 +1,41 @@
+{
+  "id": "p194",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Adjusting Earnings",
+  "subtopic": "Tax Effects",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "tax-shield",
+    "net-income",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Tax Effects: How does the presence of net operating losses (NOL) affect...",
+  "summary": "Assess how net operating loss carryforwards generate tax savings that enhance firm valuation.",
+  "prompt": "How does the presence of net operating losses (NOL) affect the valuation of a firm?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Residual Income Model"
+    },
+    {
+      "id": "B",
+      "text": "The presence of net operating losses (NOL) can significantly affect the"
+    },
+    {
+      "id": "C",
+      "text": "Daily margin requirement"
+    },
+    {
+      "id": "D",
+      "text": "Expected profit from holding"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The presence of net operating losses (NOL) can significantly affect the valuation of a firm, as these losses can be carried forward to offset taxable income in future periods. This results in tax savings that enhance the firm's cash flow, thereby increasing its overall valuation. When estimating the value of a firm with NOL, analysts often incorporate these future tax benefits into their discounted cash flow models, leading to a more accurate assessment of the firm's worth."
+}

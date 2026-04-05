@@ -1,0 +1,40 @@
+{
+  "id": "p143",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Capital Expenditures vs. Expenses",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-expenditures",
+    "asset-cost",
+    "capitalization",
+    "conceptual"
+  ],
+  "title": "Capital Expenditures vs. Expenses: When purchasing equipment, which of the following costs should be...",
+  "summary": "Determine total capitalized cost including purchase price and acquisition-related expenses.",
+  "prompt": "When purchasing equipment, which of the following costs should be included in the asset's recorded cost?",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "The recorded cost of an asset includes all costs that are necessary to acquire"
+    },
+    {
+      "id": "C",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The recorded cost of an asset includes all costs that are necessary to acquire the asset and prepare it for its intended use. This encompasses not only the purchase price but also any related costs such as installation, transportation, and necessary renovations. Recognizing these costs properly ensures that the asset is reported accurately on the balance sheet, reflecting its true economic value to the company. This understanding is fundamental for accurate asset management and financial reporting."
+}

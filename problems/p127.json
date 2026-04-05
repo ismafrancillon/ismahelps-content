@@ -1,0 +1,45 @@
+{
+  "id": "p127",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Correlation Coefficient",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "diversification",
+    "correlation",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Correlation Coefficient: When two risky securities with correlation less than one, are...",
+  "summary": "Assess the effect of correlation on portfolio risk reduction through diversification.",
+  "prompt": "When two risky securities with correlation less than one, are held in a portfolio, A. the portfolio standard deviation will be greater than the weighted average of the individual security standard deviations. B. the portfolio standard deviation will be less than the weighted average of the individual security standard deviations. C. the portfolio standard deviation will be equal to the weighted average of the individual security standard deviations. D. the portfolio standard deviation will always be equal to the securities' covariance. E. none of the above are true.",
+  "options": [
+    {
+      "id": "A",
+      "text": "the portfolio standard deviation will be greater than the weighted average of the individual security standard deviations"
+    },
+    {
+      "id": "B",
+      "text": "the portfolio standard deviation will be less than the weighted average of the individual security standard deviations"
+    },
+    {
+      "id": "C",
+      "text": "the portfolio standard deviation will be equal to the weighted average of the individual security standard deviations"
+    },
+    {
+      "id": "D",
+      "text": "the portfolio standard deviation will always be equal to the securities' covariance"
+    },
+    {
+      "id": "E",
+      "text": "none of the above are true"
+    }
+  ],
+  "correct_option": "A. TRUE\nB. FALSE\nC. FALSE\nD. TRUE\nE. FALSE\nF. TRUE\nG. TRUE",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "When two risky securities with correlation less than one are held in a portfolio, the correct statement is: B. the portfolio standard deviation will be less than the weighted average of the individual security standard deviations. Explanation: 1. Define Variables: In portfolio theory, risky securities are securities that have a certain level of risk associated with them, which can be measured by their standard deviation. Correlation measures how two securities move in relation to each other. A correlation less than one indicates that the securities do not move perfectly in sync with each other. 2. Portfolio Standard Deviation: The standard deviation of a portfolio is a measure of the total risk of the portfolio. When combining two risky securities, the portfolio standard deviation is influenced by the correlation between the securities. If the correlation is less than one, the combined risk (standard deviation) of the portfolio will be reduced due to diversification benefits. 3. Calculations and Theory: The formula for the standard deviation of a portfolio consisting of two securities is: \\[ \\sigma_p = \\sqrt{w_1^2\\sigma_1^2 + w_2^2\\sigma_2^2 + 2w_1w_2\\sigma_1\\sigma_2\\rho_{12}} \\] Where: - \\( w_1 \\) and \\( w_2 \\) are the weights of the securities in the portfolio. - \\( \\sigma_1 \\) and \\( \\sigma_2 \\) are the standard deviations of the individual securities. - \\( \\rho_{12} \\) is the correlation coefficient between the two securities. Since \\( \\rho_{12} \\) is less than one, the term \\( 2w_1w_2\\sigma_1\\sigma_2\\rho_{12} \\) will be less than the sum of the individual variances, leading to a portfolio standard deviation that is less than the weighted average of the individual standard deviations. Therefore, the correct answer is B."
+}

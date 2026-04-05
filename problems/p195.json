@@ -1,0 +1,41 @@
+{
+  "id": "p195",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "From Earnings to Cash Flows",
+  "subtopic": "After-Tax Operating Income",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "cash-flows",
+    "growth-rate",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "After-Tax Operating Income: If a company expects to generate free cash flows of...",
+  "summary": "Analyze tax effects on cash flows, income, or firm valuation.",
+  "prompt": "If a company expects to generate free cash flows of $1,000,000 next year, with a growth rate of 5% and a discount rate of 10%, what is the present value of the cash flows?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$15,000,000"
+    },
+    {
+      "id": "B",
+      "text": "$20,000,000"
+    },
+    {
+      "id": "C",
+      "text": "$10,000,000"
+    },
+    {
+      "id": "D",
+      "text": "$22,000,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Free Cash Flow (FCF) = $1,000,000 <br> - Growth Rate (g) = 5% <br> - Discount Rate (r) = 10%<br><br> **Step 2: Calculate the Present Value**<br> PV = FCF / (r - g)<br> = $1,000,000 / (0.10 - 0.05)<br> = $1,000,000 / 0.05 = $20,000,000.<br> Therefore, the present value of the cash flows is $20,000,000, and the answer is B."
+}

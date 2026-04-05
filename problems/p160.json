@@ -1,0 +1,40 @@
+{
+  "id": "p160",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "capital-budgeting",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "IRR: A project requires an upfront investment of 100000 and is...",
+  "summary": "Evaluate or calculate the internal rate of return for project decision-making.",
+  "prompt": "A project requires an upfront investment of $100,000 and is expected to generate cash inflows of $40,000 for 4 years. What is its IRR?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Reject because NPV is negative"
+    },
+    {
+      "id": "B",
+      "text": "The IRR is calculated to be approximately 15% using a financial calculator"
+    },
+    {
+      "id": "C",
+      "text": "NPV and IRR always agree"
+    },
+    {
+      "id": "D",
+      "text": "IRR may yield multiple solutions"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The IRR is calculated to be approximately 15% using a financial calculator."
+}

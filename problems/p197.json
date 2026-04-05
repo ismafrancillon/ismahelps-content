@@ -1,0 +1,41 @@
+{
+  "id": "p197",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "stock-valuation",
+    "growth-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Cost of Capital: If a firm has a current dividend of $5, a...",
+  "summary": "Calculate or evaluate the cost of capital using appropriate financial models.",
+  "prompt": "If a firm has a current dividend of $5, a required return of 12%, and a constant growth rate of 4%, what is the stock price using the Gordon Growth Model?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$78"
+    },
+    {
+      "id": "B",
+      "text": "$65"
+    },
+    {
+      "id": "C",
+      "text": "$81"
+    },
+    {
+      "id": "D",
+      "text": "$32"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Price = D1 / (k - g) = $5 × (1 + 0.04) / (0.12 - 0.04) = $5.20 / 0.08 = $65. This value provides insight into the stock's worth based on future dividend payments and their growth."
+}

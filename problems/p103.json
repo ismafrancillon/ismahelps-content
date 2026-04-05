@@ -1,0 +1,40 @@
+{
+  "id": "p103",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: You have a portfolio consisting of a stock with an...",
+  "summary": "Calculate the expected dollar return from investment amount and expected return.",
+  "prompt": "You have a portfolio consisting of a stock with an expected return of 15% and a standard deviation of 20%. If you invest $10,000 in this stock, what is the expected dollar return after one year?",
+  "options": [
+    {
+      "id": "A",
+      "text": "15%"
+    },
+    {
+      "id": "B",
+      "text": "19%"
+    },
+    {
+      "id": "C",
+      "text": "8%"
+    },
+    {
+      "id": "D",
+      "text": "30%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Identify Key Variables<br> Investment amount = $10,000, Expected return = 15%<br><br> Step 2: Calculate Expected Dollar Return<br> Expected dollar return = Investment * Expected return<br> Expected dollar return = $10,000 * 0.15 = $1,500<br><br> Step 3: Confirm Calculation<br> This is a straightforward calculation of expected returns. Hence, the expected dollar return after one year is $1,500."
+}

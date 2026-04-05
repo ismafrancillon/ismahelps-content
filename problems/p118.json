@@ -1,0 +1,40 @@
+{
+  "id": "p118",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Long-Term Financing",
+  "subtopic": "Options",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Options: What is the expected return on a portfolio consisting of...",
+  "summary": "Calculate portfolio expected return as the weighted average of component returns.",
+  "prompt": "What is the expected return on a portfolio consisting of 60% stock A (expected return 10%) and 40% stock B (expected return 15%)?",
+  "options": [
+    {
+      "id": "A",
+      "text": "12%"
+    },
+    {
+      "id": "B",
+      "text": "18%"
+    },
+    {
+      "id": "C",
+      "text": "7%"
+    },
+    {
+      "id": "D",
+      "text": "9%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Weight of A = 0.60, Weight of B = 0.40, Return A = 0.10, Return B = 0.15. <br> **Step 2: Calculate Expected Return**<br>Expected Return = (Weight A * Return A) + (Weight B * Return B) = (0.60 * 0.10) + (0.40 * 0.15) = 0.12 or 12%. <br> **Step 3: Conclusion**<br>The expected return on the portfolio is 12%."
+}

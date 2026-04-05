@@ -1,0 +1,45 @@
+{
+  "id": "p133",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Call and Puts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "call-option",
+    "option-writer",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Call and Puts: Which of the following statements is TRUE regarding a call...",
+  "summary": "Determine the payoff behavior of a straddle strategy combining a long call and long put.",
+  "prompt": "Which of the following statements is true regarding a call writer? A) The call writer expects the stock to move upward. B) The call writer expects the stock to remain the same or move down. C) The call writer expects the stock to be more volatile. D) The call writer expects to sell the stock prior to expiration of the option. E) The call writer can offset his potential loss by buying and holding a put option",
+  "options": [
+    {
+      "id": "A",
+      "text": "The call writer expects the stock to move upward"
+    },
+    {
+      "id": "B",
+      "text": "The call writer expects the stock to remain the same or move down"
+    },
+    {
+      "id": "C",
+      "text": "The call writer expects the stock to be more volatile"
+    },
+    {
+      "id": "D",
+      "text": "The call writer expects to sell the stock prior to expiration of the option"
+    },
+    {
+      "id": "E",
+      "text": "The call writer can offset his potential loss by buying and holding a put option"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The correct answer is B) The call writer expects the stock to remain the same or move down. Explanation: - A call writer sells call options, expecting the stock price to stay the same or decrease. If the stock price remains the same or falls, the buyer of the call option is less likely to exercise the option, allowing the call writer to keep the premium received from selling the call option. - If the stock price increases significantly, the buyer will exercise the option, and the call writer will have to sell the stock at the strike price, potentially incurring a loss. - Therefore, the call writer benefits when the stock price remains stable or declines."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p142",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Asset Disposal Accounting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "asset-disposal",
+    "gain-loss",
+    "book-value",
+    "calculation"
+  ],
+  "title": "Asset Disposal Accounting: If a company sells a piece of equipment for 35000...",
+  "summary": "Calculate the gain or loss on asset disposal by comparing sale price to book value.",
+  "prompt": "If a company sells a piece of equipment for $35,000 that originally cost $100,000 and had accumulated depreciation of $80,000, what is the gain or loss on the sale of the asset?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$28,000"
+    },
+    {
+      "id": "B",
+      "text": "$35,000"
+    },
+    {
+      "id": "C",
+      "text": "$24,500"
+    },
+    {
+      "id": "D",
+      "text": "$17,500"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "To calculate the gain or loss on the sale of an asset, we first determine the book value of the asset, which is calculated as: Book Value = Cost - Accumulated Depreciation. In this case: Book Value = $100,000 - $80,000 = $20,000. The gain or loss is determined by comparing the sale price to the book value: Gain/Loss = Sale Price - Book Value = $35,000 - $20,000 = $15,000 gain. However, since the sale price is above the book value, the result is actually a gain. Understanding this calculation is crucial for accurate financial reporting and assessing the impact of asset sales on the company's financial position."
+}

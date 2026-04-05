@@ -1,0 +1,41 @@
+{
+  "id": "p175",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Growth Rate and Terminal Value",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "terminal-value",
+    "perpetuity-growth",
+    "dcf",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Growth Rate and Terminal Value: When calculating the terminal value in a DCF analysis, which...",
+  "summary": "Assess the role of terminal value in DCF analysis as capturing value beyond the forecast period.",
+  "prompt": "When calculating the terminal value in a DCF analysis, which formula is typically used for a growing perpetuity?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Time to expiration"
+    },
+    {
+      "id": "B",
+      "text": "The formula for a growing perpetuity is PV = PMT × (1 + g) / (r - g)"
+    },
+    {
+      "id": "C",
+      "text": "Option premium"
+    },
+    {
+      "id": "D",
+      "text": "Discounted Cash Flow (DCF)"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The formula for a growing perpetuity is PV = PMT × (1 + g) / (r - g), which calculates the present value of cash flows that grow at a constant rate indefinitely."
+}

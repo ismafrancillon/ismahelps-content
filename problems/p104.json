@@ -1,0 +1,41 @@
+{
+  "id": "p104",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "revenues",
+    "expenses",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: Calculate the net operating income (NOI) of a property that...",
+  "summary": "Calculate NOI by subtracting operating expenses from rental income.",
+  "prompt": "Calculate the net operating income (NOI) of a property that generates $200,000 in rental income and incurs $100,000 in operating expenses.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$100,000"
+    },
+    {
+      "id": "B",
+      "text": "$115,000"
+    },
+    {
+      "id": "C",
+      "text": "$110,000"
+    },
+    {
+      "id": "D",
+      "text": "$50,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify Key Variables**: Rental Income = $200,000; Operating Expenses = $100,000. **Step 2: Apply the NOI Formula**: NOI = Rental Income - Operating Expenses. **Step 3: Solve**: NOI = $200,000 - $100,000 = $100,000. Therefore, the net operating income is $100,000."
+}

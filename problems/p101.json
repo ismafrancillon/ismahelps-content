@@ -1,0 +1,41 @@
+{
+  "id": "p101",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Portfolio Management",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "efficient-frontier",
+    "portfolio",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "CAPM: Which of the following best describes the concept of the...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "Which of the following best describes the concept of the efficient frontier in portfolio management?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The efficient frontier is a key concept in modern portfolio theory introduced"
+    },
+    {
+      "id": "B",
+      "text": "Equal to the weighted average return"
+    },
+    {
+      "id": "C",
+      "text": "Calculated using weights and standard deviations"
+    },
+    {
+      "id": "D",
+      "text": "Portfolio with highest Sharpe ratio"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The efficient frontier is a key concept in modern portfolio theory introduced by Harry Markowitz. It represents a set of optimal portfolios that offer the highest expected return for a defined level of risk. This means that for any given level of risk, the portfolios on this frontier provide the best possible expected return. The efficient frontier is derived from the combination of risky assets and is fundamental in helping investors maximize their returns while managing risk."
+}

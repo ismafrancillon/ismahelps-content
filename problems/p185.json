@@ -1,0 +1,40 @@
+{
+  "id": "p185",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Dividend Discount Model",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "dividend-discount-model",
+    "gordon-growth",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Dividend Discount Model: A company has a required return of 0.09 and a...",
+  "summary": "Calculate intrinsic stock value using the Gordon Growth Model with dividend, growth, and required return.",
+  "prompt": "A company has a required return of 9% and a growth rate of 4%. If the next dividend is expected to be $2.00, what is the intrinsic value of the stock according to the Gordon Growth Model?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$80"
+    },
+    {
+      "id": "B",
+      "text": "$40"
+    },
+    {
+      "id": "C",
+      "text": "$32"
+    },
+    {
+      "id": "D",
+      "text": "$30"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - Required Return (r) = 9% <br> - Growth Rate (g) = 4% <br> - Next Dividend (D1) = $2.00<br><br> **Step 2: Apply the Gordon Growth Model Formula**<br> Value = D1 / (r - g)<br> = $2.00 / (0.09 - 0.04)<br> = $2.00 / 0.05 = $40.00. <br> Therefore, the intrinsic value of the stock is $40, and the answer is B."
+}

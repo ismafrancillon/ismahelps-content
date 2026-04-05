@@ -1,0 +1,40 @@
+{
+  "id": "p105",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Income Approach: If a property has a cap rate of 0.08 and...",
+  "summary": "Calculate property value by dividing NOI by the capitalization rate.",
+  "prompt": "If a property has a cap rate of 8% and an NOI of $160,000, what is the property value?",
+  "options": [
+    {
+      "id": "A",
+      "text": "8%"
+    },
+    {
+      "id": "B",
+      "text": "7%"
+    },
+    {
+      "id": "C",
+      "text": "11%"
+    },
+    {
+      "id": "D",
+      "text": "10%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**: Cap Rate = 8% (0.08); NOI = $160,000. **Step 2: Use the Cap Rate Formula**: Property Value = NOI / Cap Rate. **Step 3: Solve**: Property Value = $160,000 / 0.08 = $2,000,000. Thus, the property value is $2,000,000."
+}

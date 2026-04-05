@@ -1,0 +1,41 @@
+{
+  "id": "p114",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "decision-rule",
+    "cash-flows",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: Calculate the profitability index (PI) for a project requiring a...",
+  "summary": "Analyze a concept in theories of finance related to Corporate Financing Decisions.",
+  "prompt": "Calculate the profitability index (PI) for a project requiring a $150,000 investment and generating $50,000 in cash flows for 5 years with a discount rate of 8%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.23%"
+    },
+    {
+      "id": "B",
+      "text": "2.23%"
+    },
+    {
+      "id": "C",
+      "text": "0.92%"
+    },
+    {
+      "id": "D",
+      "text": "2.46%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Investment = $150,000, Cash Flows = $50,000 for 5 years, r = 0.08. <br> **Step 2: Calculate PV of Cash Flows**<br>PV = ∑(C / (1 + r)^t) = $50,000 * [1 - (1 + 0.08)^-5]/0.08 = $184,000 approximately. <br> **Step 3: Calculate PI**<br>PI = PV of Cash Flows / Initial Investment = $184,000 / $150,000 = 1.23."
+}

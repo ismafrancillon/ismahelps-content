@@ -1,0 +1,40 @@
+{
+  "id": "p173",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Risk Analysis Measures",
+  "subtopic": "Sensitivity Analysis",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "sensitivity-analysis",
+    "financial-modeling",
+    "risk-analysis",
+    "conceptual"
+  ],
+  "title": "Sensitivity Analysis: What is the main purpose of sensitivity analysis in financial...",
+  "summary": "Assess how sensitivity analysis evaluates the impact of changing assumptions on financial outcomes.",
+  "prompt": "What is the main purpose of sensitivity analysis in financial forecasting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "B",
+      "text": "Sensitivity analysis is primarily used to evaluate how changes in key"
+    },
+    {
+      "id": "C",
+      "text": "Price of the underlying asset"
+    },
+    {
+      "id": "D",
+      "text": "Option premium"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Sensitivity analysis is primarily used to evaluate how changes in key assumptions or inputs affect the outcomes of financial models, allowing analysts to understand the risks associated with their forecasts."
+}

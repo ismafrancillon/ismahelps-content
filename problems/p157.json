@@ -1,0 +1,40 @@
+{
+  "id": "p157",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "capital-budgeting",
+    "discount-rate",
+    "calculation"
+  ],
+  "title": "IRR: A project has an initial investment of 100000 and cash...",
+  "summary": "Evaluate or calculate the internal rate of return for project decision-making.",
+  "prompt": "A project has an initial investment of $100,000 and cash inflows of $30,000 for 5 years. What is its IRR?",
+  "options": [
+    {
+      "id": "A",
+      "text": "NPV and IRR always agree"
+    },
+    {
+      "id": "B",
+      "text": "The IRR is calculated to be approximately 20% using a financial calculator"
+    },
+    {
+      "id": "C",
+      "text": "Payback ignores time value of money"
+    },
+    {
+      "id": "D",
+      "text": "Accept because NPV is positive"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The IRR is calculated to be approximately 20% using a financial calculator."
+}

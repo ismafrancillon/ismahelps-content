@@ -1,0 +1,40 @@
+{
+  "id": "p199",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Option Pricing Theory",
+  "subtopic": "Implied Volatility",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "option-pricing",
+    "options",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Implied Volatility: In the context of option pricing, what does \"implied volatility\"...",
+  "summary": "Analyze an investment analysis concept related to Implied Volatility.",
+  "prompt": "In the context of option pricing, what does \"implied volatility\" represent?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Risk-free interest rate"
+    },
+    {
+      "id": "B",
+      "text": "Implied volatility represents the market's expectation of future volatility of"
+    },
+    {
+      "id": "C",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "D",
+      "text": "Time to expiration"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Implied volatility represents the market's expectation of future volatility of the underlying asset's price. It is derived from the market price of options and reflects how much the market anticipates the asset's price will fluctuate in the future. This concept is critical in option pricing models, as discussed in the materials on pages 63 to 64."
+}

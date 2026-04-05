@@ -1,0 +1,40 @@
+{
+  "id": "p147",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Non-Current Liabilities",
+  "subtopic": "Interest Expense Calculations",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-interest",
+    "interest-expense",
+    "semi-annual",
+    "calculation"
+  ],
+  "title": "Interest Expense Calculations: Calculate the interest expense for a bond with a face...",
+  "summary": "Calculate interest expense using face value, coupon rate, and payment frequency.",
+  "prompt": "Calculate the interest expense for a bond with a face value of $1,000,000, a coupon rate of 6%, and interest paid semi-annually.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$33,000"
+    },
+    {
+      "id": "B",
+      "text": "$30,000"
+    },
+    {
+      "id": "C",
+      "text": "$45,000"
+    },
+    {
+      "id": "D",
+      "text": "$31,500"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The interest expense for a bond is calculated using the formula: Interest Expense = Face Value × Coupon Rate × Time. For semi-annual payments, the calculation is as follows: $1,000,000 × 6% × (1/2) = $30,000 per payment. Given that there are two payments per year, the total annual interest expense would be $60,000. Understanding how to calculate interest expenses is vital for accurate financial reporting and cash flow management in bond financing. This knowledge is essential for both investors and company management when evaluating the cost of borrowing."
+}

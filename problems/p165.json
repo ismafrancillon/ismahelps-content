@@ -1,0 +1,40 @@
+{
+  "id": "p165",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Payback Period Rule",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "payback-period",
+    "capital-budgeting",
+    "approximation",
+    "calculation"
+  ],
+  "title": "Payback Period Rule: If a project has a cost of 100000 and generates...",
+  "summary": "Calculate the payback period by dividing the initial investment by annual cash inflows.",
+  "prompt": "If a project has a cost of $100,000 and generates cash flows of $30,000 for 5 years, what is the payback period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$3.66"
+    },
+    {
+      "id": "B",
+      "text": "$3.33"
+    },
+    {
+      "id": "C",
+      "text": "$5"
+    },
+    {
+      "id": "D",
+      "text": "$4.16"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Payback Period = Initial Investment / Annual Cash Flow. Thus, $100,000 / $30,000 = 3.33 years, indicating the payback period is approximately 4 years."
+}

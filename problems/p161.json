@@ -1,0 +1,41 @@
+{
+  "id": "p161",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Growth Rate and Terminal Value",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "terminal-value",
+    "growth-rate",
+    "perpetuity",
+    "valuation",
+    "calculation"
+  ],
+  "title": "Growth Rate and Terminal Value: If a company expects to generate cash flows of 100000...",
+  "summary": "Apply growth rate and terminal value concepts in valuation analysis.",
+  "prompt": "If a company expects to generate cash flows of $100,000 for the first 5 years, followed by a perpetual growth of 4%, and the discount rate is 10%, what is the present value of the cash flows from year 6 onwards?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$109,200"
+    },
+    {
+      "id": "B",
+      "text": "$104,000"
+    },
+    {
+      "id": "C",
+      "text": "$124,800"
+    },
+    {
+      "id": "D",
+      "text": "$52,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The present value of cash flows from year 6 onwards can be calculated using the growing perpetuity formula after finding the cash flow for year 6, which is $100,000 × (1 + 0.04) = $104,000. The present value = $104,000 / (0.10 - 0.04) = $1,733,333. Discounting back for 5 years gives $1,733,333 / (1 + 0.10)^5 = $1,070,000."
+}

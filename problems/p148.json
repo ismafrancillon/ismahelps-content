@@ -1,0 +1,40 @@
+{
+  "id": "p148",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Non-Current Liabilities",
+  "subtopic": "Bond Redemption Accounting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-redemption",
+    "accounting-entries",
+    "loss-on-redemption",
+    "conceptual"
+  ],
+  "title": "Bond Redemption Accounting: If a company buys back 0.2 of its bonds for...",
+  "summary": "Analyze bond issuance and valuation in financial accounting.",
+  "prompt": "If a company buys back 20% of its bonds for cash at 102, how would the journal entry reflect this transaction?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bond trades at a discount"
+    },
+    {
+      "id": "B",
+      "text": "When a company redeems bonds at a premium (above par), it incurs a loss if the"
+    },
+    {
+      "id": "C",
+      "text": "Price and yield move inversely"
+    },
+    {
+      "id": "D",
+      "text": "Bond trades at par"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "When a company redeems bonds at a premium (above par), it incurs a loss if the carrying amount exceeds the cash paid. The journal entry would reflect a debit to the bond payable account for the amount of bonds redeemed and a debit to loss on redemption for the excess amount over cash paid. This understanding is crucial for accurate financial reporting and managing the impact on the company's financial position. Proper accounting for bond redemptions helps provide stakeholders with a clear view of the company's financing activities and obligations."
+}

@@ -1,0 +1,44 @@
+{
+  "id": "p129",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Call and Puts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "call-option",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Call and Puts: An increase in which of the following will increase the...",
+  "summary": "Identify which factors positively affect a call option's value among interest rates, volatility, and time.",
+  "prompt": "An increase in which of the following will increase the value of a call option? I. Dividend payments of the underlying asset II. Interest rates III. Variance of the return on the underlying asset IV. Time to expiration A) II and IV only B) II, III, and IV only C) I, III, and IV only D) II and III only E) I, II, III, and IV",
+  "options": [
+    {
+      "id": "A",
+      "text": "None of the above"
+    },
+    {
+      "id": "B",
+      "text": "II, III, and IV only"
+    },
+    {
+      "id": "C",
+      "text": "Cannot be determined from the given information"
+    },
+    {
+      "id": "D",
+      "text": "All of the above"
+    },
+    {
+      "id": "E",
+      "text": "Insufficient information to determine"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "An increase in which of the following will increase the value of a call option?\n\nI. Dividend payments of the underlying asset\nII. Interest rates\nIII. Variance of the return on the underlying asset\nIV. Time to expiration\n\nA) II and IV only\nB) II, III, and IV only\nC) I, III, and IV only\nD) II and III only\nE) I, II, III, and IV\n\nAnswer: B\n\nExplanation:\n1. **Interest Rates (II)**: Higher interest rates generally increase the value of call options because the cost of carrying the underlying asset is higher, making options more attractive.\n2. **Variance of the Return on the Underlying Asset (III)**: Higher volatility (variance) increases the potential for the underlying asset to move significantly, which increases the value of call options due to the higher chance of profitable movements.\n3. **Time to Expiration (IV)**: More time to expiration increases the value of call options because there is more time for the underlying asset to move favorably.\n\nDividend payments (I) generally decrease the value of call options because the price of the underlying asset tends to drop by the dividend amount when it is paid, making the call option less valuable. Therefore, the correct answer is B) II, III, and IV only."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p187",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "FCFF",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "fcff",
+    "free-cash-flow",
+    "valuation",
+    "calculation"
+  ],
+  "title": "FCFF: A company reports an EBIT of $300,000, a tax rate...",
+  "summary": "Calculate free cash flow to the firm from EBIT, depreciation, capital expenditures, and working capital.",
+  "prompt": "A company reports an EBIT of $300,000, a tax rate of 30%, and capital expenditures of $100,000. Calculate the Free Cash Flow to the Firm (FCFF) if the depreciation is $20,000.",
+  "options": [
+    {
+      "id": "A",
+      "text": "45%"
+    },
+    {
+      "id": "B",
+      "text": "30%"
+    },
+    {
+      "id": "C",
+      "text": "32%"
+    },
+    {
+      "id": "D",
+      "text": "33%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br> Given: <br> - EBIT = $300,000 <br> - Tax Rate = 30% <br> - Capital Expenditures (CAPEX) = $100,000 <br> - Depreciation = $20,000 <br> To find the FCFF, we can use the formula:<br> **FCFF = EBIT(1 - Tax Rate) + Depreciation - CAPEX**<br><br> **Step 2: Calculate After-Tax EBIT**<br> After-Tax EBIT = EBIT * (1 - Tax Rate)<br> = $300,000 * (1 - 0.30) = $300,000 * 0.70 = $210,000<br><br> **Step 3: Calculate FCFF**<br> FCFF = After-Tax EBIT + Depreciation - CAPEX<br> = $210,000 + $20,000 - $100,000<br> = $210,000 + $20,000 - $100,000 = $130,000<br> Therefore, the FCFF is $130,000. The answer is B."
+}

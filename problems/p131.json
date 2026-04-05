@@ -1,0 +1,43 @@
+{
+  "id": "p131",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: In the weak form of market efficiency is respected, then...",
+  "summary": "Assess the implications of weak-form market efficiency for technical and fundamental analysis.",
+  "prompt": "In the weak form of market efficiency is respected, then we can argue that: A) Stock prices reflect insider trading B) Fundamental analysis isn’t helpful C) Trends in stock prices would be useful in selecting stocks D) Insider information is the only tool that can help generate abnormal returns E) Stock prices changes follow a random walk",
+  "options": [
+    {
+      "id": "A",
+      "text": "Stock prices reflect insider trading"
+    },
+    {
+      "id": "B",
+      "text": "Fundamental analysis isn’t helpful"
+    },
+    {
+      "id": "C",
+      "text": "Trends in stock prices would be useful in selecting stocks"
+    },
+    {
+      "id": "D",
+      "text": "Insider information is the only tool that can help generate abnormal returns"
+    },
+    {
+      "id": "E",
+      "text": "Stock prices changes follow a random walk"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "In the context of weak form market efficiency, the correct argument is:\n\n**B) Fundamental analysis isn’t helpful.**\n\nThis is because, under weak form efficiency, all past trading information (such as stock prices and volumes) is already reflected in current stock prices, meaning that neither technical analysis nor fundamental analysis can provide an advantage in predicting future price movements. Therefore, option B aligns with the principles of weak form efficiency. \n\nOther options, such as A and C, are incorrect as they suggest that insider trading and trends can provide an advantage, which contradicts the weak form's assertion that past information is already priced in. \n\nOption E is also relevant, as it implies that stock prices follow a random walk, which is a characteristic of weak form efficiency. However, the most direct answer to the question regarding the implications of weak form efficiency is B."
+}

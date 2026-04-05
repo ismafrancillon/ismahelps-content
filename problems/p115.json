@@ -1,0 +1,41 @@
+{
+  "id": "p115",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Budgeting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "decision-rule",
+    "wacc",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capital Budgeting: If a firm has a weighted average cost of capital...",
+  "summary": "Calculate the NPV of a project by discounting cash flows at the cost of capital.",
+  "prompt": "If a firm has a weighted average cost of capital (WACC) of 10% and is considering a project with an NPV of $50,000, what should the firm do?",
+  "options": [
+    {
+      "id": "A",
+      "text": "According to the NPV rule, the firm should accept projects with a positive NPV,"
+    },
+    {
+      "id": "B",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "C",
+      "text": "Financial distress probability increases"
+    },
+    {
+      "id": "D",
+      "text": "WACC decreases"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "According to the NPV rule, the firm should accept projects with a positive NPV, indicating value creation."
+}

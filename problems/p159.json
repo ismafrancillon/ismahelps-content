@@ -1,0 +1,40 @@
+{
+  "id": "p159",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "capital-budgeting",
+    "calculation"
+  ],
+  "title": "NPV: A project has cash flows of $20,000, $30,000, and 50000...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "A project has cash flows of $20,000, $30,000, and $50,000 over three years. What is the NPV if the discount rate is 8%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$62,700"
+    },
+    {
+      "id": "B",
+      "text": "$66,000"
+    },
+    {
+      "id": "C",
+      "text": "$46,200"
+    },
+    {
+      "id": "D",
+      "text": "$82,500"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "NPV = -Initial Investment + (Cash Flow / (1 + r)^t). Assuming no initial investment, NPV = ($20,000 / 1.08^1) + ($30,000 / 1.08^2) + ($50,000 / 1.08^3) = $66,000."
+}

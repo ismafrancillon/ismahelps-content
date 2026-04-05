@@ -1,0 +1,40 @@
+{
+  "id": "p152",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Termination of Contracts",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "employment-law",
+    "termination",
+    "fixed-term-contract",
+    "conceptual"
+  ],
+  "title": "Termination of Contracts: If an employment contract is for a fixed term and...",
+  "summary": "Assess whether notice is required at the end of a fixed-term employment contract.",
+  "prompt": "If an employment contract is for a fixed term and expires, must the employer provide notice?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "B",
+      "text": "For fixed-term employment contracts, the contract naturally terminates at the"
+    },
+    {
+      "id": "C",
+      "text": "Punitive damages"
+    },
+    {
+      "id": "D",
+      "text": "Bond trades at par"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "For fixed-term employment contracts, the contract naturally terminates at the end of the specified term without the need for notice. The employer is not required to provide notice of termination once the agreed-upon duration has been fulfilled."
+}

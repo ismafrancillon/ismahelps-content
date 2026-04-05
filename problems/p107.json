@@ -1,0 +1,41 @@
+{
+  "id": "p107",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Long-Term Financing",
+  "subtopic": "Long-Term Debt",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "present-value",
+    "yield-to-maturity",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Long-Term Debt: A bond has a face value of $1,000, a coupon...",
+  "summary": "Calculate the present value of a future amount using discounting.",
+  "prompt": "A bond has a face value of $1,000, a coupon rate of 5%, and matures in 10 years. What is the present value of the bond if the market interest rate is 7%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "7%"
+    },
+    {
+      "id": "B",
+      "text": "10%"
+    },
+    {
+      "id": "C",
+      "text": "5%"
+    },
+    {
+      "id": "D",
+      "text": "11%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>Face Value = $1,000, Coupon Rate = 5%, Market Rate = 7%, n = 10. <br> **Step 2: Calculate Annual Coupon Payment**<br>Coupon Payment = 0.05 * $1,000 = $50. <br> **Step 3: Calculate PV of Coupons and Face Value**<br>PV = ∑(C / (1 + r)^t) + (FV / (1 + r)^n) = ($50/(1.07)^1 + $50/(1.07)^2 + ... + $50/(1.07)^10) + ($1,000/(1.07)^10) = $900."
+}

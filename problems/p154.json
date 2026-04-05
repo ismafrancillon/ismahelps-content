@@ -1,0 +1,40 @@
+{
+  "id": "p154",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Personal Rights",
+  "subtopic": "Employment Rights",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "employment-law",
+    "unpaid-wages",
+    "director-liability",
+    "conceptual"
+  ],
+  "title": "Employment Rights: What is the maximum duration for an employer to be...",
+  "summary": "Identify the maximum duration of director liability for unpaid employee wages.",
+  "prompt": "What is the maximum duration for an employer to be liable for unpaid wages?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Subject to corporate income tax"
+    },
+    {
+      "id": "B",
+      "text": "Under Quebec law, directors are personally liable for up to six months of"
+    },
+    {
+      "id": "C",
+      "text": "Easy transfer of ownership"
+    },
+    {
+      "id": "D",
+      "text": "Compares market to book value"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Under Quebec law, directors are personally liable for up to six months of unpaid wages owed to employees while they were directors of the company. This provision is in place to ensure that employees are compensated for their labor during financially difficult times for the corporation. It emphasizes the responsibility of directors to prioritize employee payments in financial planning."
+}

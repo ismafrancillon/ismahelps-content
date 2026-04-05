@@ -1,0 +1,52 @@
+{
+  "id": "p128",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "SML / CML",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "systematic-risk",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "SML / CML: Match the following statements to TRUE or FALSE A) The...",
+  "summary": "Evaluate true/false statements about the Security Market Line, Capital Market Line, and their properties.",
+  "prompt": "Match the following statements to true or false A) The greater the intercept of the security market line (SML), the higher the risk-free rate of return. B) The greater the intercept of the capital market line (CML), the higher the beta of the stock. C) Under CAPM, when the beta of a security is equal to 1, the expected return of the security is the return of the market portfolio. D) Under CAPM, when the beta of a security is equal to 0, this security has no risk. E) The tangency portfolio is the portfolio with the lowest standard deviation. F) When the expected return of stock A lies above the SML, it is overpriced. G) All portfolios on the efficient frontier have the same Sharpe Ratio.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The greater the intercept of the security market line (SML), the higher the risk-free rate of return"
+    },
+    {
+      "id": "B",
+      "text": "The greater the intercept of the capital market line (CML), the higher the beta of the stock"
+    },
+    {
+      "id": "C",
+      "text": "Under CAPM, when the beta of a security is equal to 1, the expected return of the security is the return of the market portfolio"
+    },
+    {
+      "id": "D",
+      "text": "Under CAPM, when the beta of a security is equal to 0, this security has no risk"
+    },
+    {
+      "id": "E",
+      "text": "The tangency portfolio is the portfolio with the lowest standard deviation"
+    },
+    {
+      "id": "F",
+      "text": "When the expected return of stock A lies above the SML, it is overpriced"
+    },
+    {
+      "id": "G",
+      "text": "All portfolios on the efficient frontier have the same Sharpe Ratio"
+    }
+  ],
+  "correct_option": "A. TRUE; B. FALSE; C. TRUE; D. FALSE; E. FALSE; F. FALSE; G. FALSE",
+  "answer_text": "A. TRUE; B. FALSE; C. TRUE; D. FALSE; E. FALSE; F. FALSE; G. FALSE",
+  "answer_format": "text",
+  "solution": "Let's match the following statements to true or false based on the Capital Asset Pricing Model (CAPM): A) The greater the intercept of the security market line (SML), the higher the risk-free rate of return. - **True**. The intercept of the SML represents the risk-free rate of return. Therefore, a higher intercept means a higher risk-free rate. B) The greater the intercept of the capital market line (CML), the higher the beta of the stock. - **False**. The intercept of the CML represents the risk-free rate, not the beta of the stock. Beta is related to the slope of the SML. C) Under CAPM, when the beta of a security is equal to 1, the expected return of the security is the return of the market portfolio. - **True**. When beta is 1, the security's expected return is equal to the market return. D) Under CAPM, when the beta of a security is equal to 0, this security has no risk. - **False**. A beta of 0 means the security has no systematic risk, but it can still have other types of risk, such as unsystematic risk. E) The tangency portfolio is the portfolio with the lowest standard deviation. - **False**. The tangency portfolio is the portfolio that lies on the efficient frontier and is tangent to the capital market line, representing the highest Sharpe ratio, not the lowest standard deviation. F) When the expected return of stock A lies above the SML, it is overpriced. - **False**. If the expected return lies above the SML, it indicates the stock is underpriced because it offers a higher return for its level of risk. G) All portfolios on the efficient frontier have the same Sharpe Ratio. - **False**. Portfolios on the efficient frontier have different Sharpe Ratios; the tangency portfolio has the highest Sharpe Ratio. Final Answer: A. TRUE B. FALSE C. TRUE D. FALSE E. FALSE F. FALSE G. FALSE"
+}

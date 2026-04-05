@@ -1,0 +1,40 @@
+{
+  "id": "p188",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "gordon-growth-model",
+    "cost-of-equity",
+    "dividend-valuation",
+    "calculation"
+  ],
+  "title": "Cost of Capital: A company's stock is currently selling for $50, and it...",
+  "summary": "Calculate the cost of equity or expected return using the CAPM formula.",
+  "prompt": "A company's stock is currently selling for $50, and it is expected to pay a dividend of $2 per share next year. If the expected growth rate in dividends is 4%, what is the required rate of return according to the Gordon Growth Model?",
+  "options": [
+    {
+      "id": "A",
+      "text": "9%"
+    },
+    {
+      "id": "B",
+      "text": "8%"
+    },
+    {
+      "id": "C",
+      "text": "6%"
+    },
+    {
+      "id": "D",
+      "text": "3%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using the Gordon Growth Model, k = (D1 / P0) + g = ($2 / $50) + 0.04 = 0.04 + 0.04 = 0.08 or 8%. The required rate of return reflects the expected return based on dividends and their growth rate."
+}

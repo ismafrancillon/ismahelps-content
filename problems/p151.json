@@ -1,0 +1,40 @@
+{
+  "id": "p151",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Sales Revenue, Receivables, and Cash Management",
+  "subtopic": "Revenue Recognition",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "revenue-recognition",
+    "delivery-obligation",
+    "accrual-accounting",
+    "conceptual"
+  ],
+  "title": "Revenue Recognition: When revenue is recognized under the revenue recognition principle, which...",
+  "summary": "Identify conditions for revenue recognition under the revenue recognition principle.",
+  "prompt": "When revenue is recognized under the revenue recognition principle, which of the following must occur?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It reduces net income"
+    },
+    {
+      "id": "B",
+      "text": "Under the revenue recognition principle, revenue is recognized when a company"
+    },
+    {
+      "id": "C",
+      "text": "It increases total assets"
+    },
+    {
+      "id": "D",
+      "text": "It increases operating income"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Under the revenue recognition principle, revenue is recognized when a company has fulfilled its obligations to deliver goods or services to customers, regardless of whether cash has been received. This principle ensures that revenue is matched with the corresponding expenses incurred in generating that revenue, providing a clearer picture of the company’s financial performance. For example, if a company sells a product on credit, it can recognize the revenue at the point of sale even if payment occurs later."
+}

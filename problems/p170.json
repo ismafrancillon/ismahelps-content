@@ -1,0 +1,40 @@
+{
+  "id": "p170",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "annuity",
+    "discounted-cash-flow",
+    "calculation"
+  ],
+  "title": "NPV: The cash flow from a project is projected to be...",
+  "summary": "Calculate the NPV of a project by discounting expected cash flows at the appropriate discount rate.",
+  "prompt": "The cash flow from a project is projected to be $100,000 per year for 5 years. If the discount rate is 12%, what is the NPV of the project?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$315,000"
+    },
+    {
+      "id": "B",
+      "text": "$300,000"
+    },
+    {
+      "id": "C",
+      "text": "$390,000"
+    },
+    {
+      "id": "D",
+      "text": "$180,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "NPV = Σ (Cash Flow / (1 + r)^t) - Initial Investment. Assuming no initial investment, NPV = ($100,000 / 1.12^1) + ($100,000 / 1.12^2) + ($100,000 / 1.12^3) + ($100,000 / 1.12^4) + ($100,000 / 1.12^5) = $300,000."
+}

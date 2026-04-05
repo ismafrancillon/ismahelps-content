@@ -1,0 +1,40 @@
+{
+  "id": "p172",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Valuation Tools",
+  "subtopic": "Multiples",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "valuation-multiples",
+    "pe-ratio",
+    "growth-rate",
+    "conceptual"
+  ],
+  "title": "Multiples: What is the impact of increasing the payout ratio on...",
+  "summary": "Evaluate the P/E ratio as a valuation metric comparing market price to earnings per share.",
+  "prompt": "What is the impact of increasing the payout ratio on the P/E ratio, assuming constant growth?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price-to-Earnings (P/E) ratio"
+    },
+    {
+      "id": "B",
+      "text": "Increasing the payout ratio typically leads to a decrease in retained earnings"
+    },
+    {
+      "id": "C",
+      "text": "Increasing debt (if return > cost)"
+    },
+    {
+      "id": "D",
+      "text": "Time to expiration"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Increasing the payout ratio typically leads to a decrease in retained earnings and growth, which in turn decreases the growth rate (g) in the P/E ratio formula, leading to a lower P/E ratio."
+}

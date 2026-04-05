@@ -1,0 +1,40 @@
+{
+  "id": "p121",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Dividend Policy",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Dividend Policy: What is the present value of a perpetuity that pays...",
+  "summary": "Calculate the present value of a perpetuity by dividing the annual payment by the discount rate.",
+  "prompt": "What is the present value of a perpetuity that pays $200 annually, discounted at a rate of 5%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$4,000"
+    },
+    {
+      "id": "B",
+      "text": "$2,400"
+    },
+    {
+      "id": "C",
+      "text": "$4,600"
+    },
+    {
+      "id": "D",
+      "text": "$3,000"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Highlight Relevant Information & Define Key Variables**<br>PMT = $200, r = 0.05. <br> **Step 2: Use the Perpetuity Formula**<br>PV = PMT / r = $200 / 0.05 = $4,000.<br> **Step 3: Conclusion**<br>The present value of the perpetuity is $4,000."
+}

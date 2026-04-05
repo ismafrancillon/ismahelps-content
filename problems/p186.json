@@ -1,0 +1,40 @@
+{
+  "id": "p186",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "Earnings Manipulation",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "earnings-analysis",
+    "ebit",
+    "taxable-income",
+    "calculation"
+  ],
+  "title": "Earnings Manipulation: A company has an EBIT of $500,000, interest expenses of...",
+  "summary": "Calculate taxable income by subtracting interest expense from EBIT.",
+  "prompt": "A company has an EBIT of $500,000, interest expenses of $100,000, and a tax rate of 30%. Calculate the taxable income before extraordinary items.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$340,000"
+    },
+    {
+      "id": "B",
+      "text": "$400,000"
+    },
+    {
+      "id": "C",
+      "text": "$200,000"
+    },
+    {
+      "id": "D",
+      "text": "$480,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Taxable Income = EBIT - Interest Expense = $500,000 - $100,000 = $400,000. After applying the tax rate, the taxable income before extraordinary items is $400,000. This figure is crucial for assessing the firm’s tax liabilities and net income."
+}

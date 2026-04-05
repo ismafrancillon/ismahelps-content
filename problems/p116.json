@@ -1,0 +1,41 @@
+{
+  "id": "p116",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "CAPM",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "beta",
+    "expected-return",
+    "market-risk-premium",
+    "calculation"
+  ],
+  "title": "CAPM: If the market risk premium is 0.05 and the risk-free...",
+  "summary": "Calculate the expected return on equity using CAPM given beta, risk-free rate, and market return.",
+  "prompt": "If the market risk premium is 5% and the risk-free rate is 4%, what is the expected return for a stock with a beta of 1.5?",
+  "options": [
+    {
+      "id": "A",
+      "text": "11.5%"
+    },
+    {
+      "id": "B",
+      "text": "7.5%"
+    },
+    {
+      "id": "C",
+      "text": "17.2%"
+    },
+    {
+      "id": "D",
+      "text": "5.8%"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Expected Return = Risk-free rate + Beta × Market risk premium = 4% + 1.5 × 5% = 4% + 7.5% = 11.5%."
+}

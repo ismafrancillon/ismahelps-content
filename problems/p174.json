@@ -1,0 +1,41 @@
+{
+  "id": "p174",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Mergers and Acquisitions",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "m&a",
+    "merger-analysis",
+    "valuation",
+    "npv",
+    "conceptual"
+  ],
+  "title": "NPV: What is the main technique used to assess the potential...",
+  "summary": "Assess merger value creation using NPV analysis comparing synergies to acquisition costs.",
+  "prompt": "What is the main technique used to assess the potential value of a merger?",
+  "options": [
+    {
+      "id": "A",
+      "text": "An informal overture to management"
+    },
+    {
+      "id": "B",
+      "text": "NPV analysis is the primary technique used to assess the potential value of a"
+    },
+    {
+      "id": "C",
+      "text": "Payback ignores time value of money"
+    },
+    {
+      "id": "D",
+      "text": "A premium above market price"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "NPV analysis is the primary technique used to assess the potential value of a merger, by comparing the expected cash inflows from the merger against the costs associated with it."
+}

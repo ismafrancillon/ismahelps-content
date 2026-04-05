@@ -1,0 +1,40 @@
+{
+  "id": "p139",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Depreciation Methods",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "depreciation",
+    "straight-line",
+    "long-lived-assets",
+    "calculation"
+  ],
+  "title": "Depreciation Methods: A company has equipment that costs $50,000, with a residual...",
+  "summary": "Calculate annual depreciation expense using the straight-line method given cost, residual value, and useful life.",
+  "prompt": "A company has equipment that costs $50,000, with a residual value of $5,000 and a useful life of 10 years. What is the annual depreciation expense using the straight-line method?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$5,850"
+    },
+    {
+      "id": "B",
+      "text": "$4,500"
+    },
+    {
+      "id": "C",
+      "text": "$2,250"
+    },
+    {
+      "id": "D",
+      "text": "$4,050"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using the straight-line method, the annual depreciation expense is calculated as follows: Depreciation Expense = (Cost - Residual Value) / Useful Life. Here, the calculation is: ($50,000 - $5,000) / 10 years = $4,500 per year. Understanding how to compute depreciation expense is critical for accurate financial reporting and asset management. This method is widely used because it provides a consistent expense amount over the life of the asset, simplifying budgeting and forecasting."
+}

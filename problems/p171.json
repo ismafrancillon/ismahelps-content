@@ -1,0 +1,40 @@
+{
+  "id": "p171",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "IRR",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "irr",
+    "capital-budgeting",
+    "investment-analysis",
+    "calculation"
+  ],
+  "title": "IRR: The Majestic Mulch and Compost Company has a project with...",
+  "summary": "Calculate the internal rate of return by finding the discount rate that sets NPV to zero.",
+  "prompt": "The Majestic Mulch and Compost Company has a project with cash flows of $50,000 for 5 years and an initial investment of $150,000. What is the IRR?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Payback ignores time value of money"
+    },
+    {
+      "id": "B",
+      "text": "The IRR is calculated to be approximately 20% using an IRR financial calculator"
+    },
+    {
+      "id": "C",
+      "text": "Reject because NPV is negative"
+    },
+    {
+      "id": "D",
+      "text": "Accept because NPV is positive"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The IRR is calculated to be approximately 20% using an IRR financial calculator."
+}

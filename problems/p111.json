@@ -1,0 +1,41 @@
+{
+  "id": "p111",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Financial Planning and Short-Term Finance",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "market-risk-premium",
+    "expected-return",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Financial Planning and Short-Term Finance: According to CAPM, if the market risk premium increases, the...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "According to CAPM, if the market risk premium increases, the expected return on a stock will also increase.",
+  "options": [
+    {
+      "id": "A",
+      "text": "CAPM establishes that the expected return on a stock is directly related to the"
+    },
+    {
+      "id": "B",
+      "text": "Correlation with market portfolio"
+    },
+    {
+      "id": "C",
+      "text": "Unsystematic (diversifiable) risk"
+    },
+    {
+      "id": "D",
+      "text": "Total risk of the investment"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "CAPM establishes that the expected return on a stock is directly related to the market risk premium; thus, an increase in the risk premium raises the expected return on the stock."
+}

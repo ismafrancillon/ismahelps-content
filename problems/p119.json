@@ -1,0 +1,40 @@
+{
+  "id": "p119",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Time Value of Money",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "future-value",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Time Value of Money: What is the future value of 1000 invested for 5...",
+  "summary": "Calculate the future value of an investment using compound interest.",
+  "prompt": "What is the future value of $1,000 invested for 5 years at an interest rate of 8% compounded annually?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$1,469.33"
+    },
+    {
+      "id": "B",
+      "text": "$881.60"
+    },
+    {
+      "id": "C",
+      "text": "$1,542.80"
+    },
+    {
+      "id": "D",
+      "text": "$734.66"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Future Value = PV × (1 + r)^n = 1,000 × (1.08)^5 = $1,469.33."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p117",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Capital Structure and Dividend Policy",
+  "subtopic": "Corporate Financing Decisions",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "cost-of-debt",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Corporate Financing Decisions: In which scenario would the firm benefit most from issuing...",
+  "summary": "Analyze a concept in theories of finance related to Corporate Financing Decisions.",
+  "prompt": "In which scenario would the firm benefit most from issuing debt?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Step 2: Recognize that optimal debt levels can enhance firm value in"
+    },
+    {
+      "id": "B",
+      "text": "Financial distress probability increases"
+    },
+    {
+      "id": "C",
+      "text": "Cost of equity increases"
+    },
+    {
+      "id": "D",
+      "text": "Firm value decreases due to higher risk"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Step 1: Understand that issuing debt can provide significant tax benefits, especially when rates are low, as interest is tax-deductible. <br>Step 2: Recognize that optimal debt levels can enhance firm value in favorable economic conditions. <br>Step 3: Conclude that A represents the best scenario for the firm to benefit from issuing debt."
+}

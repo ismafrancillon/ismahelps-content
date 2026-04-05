@@ -1,0 +1,41 @@
+{
+  "id": "p193",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "Adjusted Present Value Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "discounted-cash-flow",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Adjusted Present Value Approach: How can the Adjusted Present Value (APV) approach be advantageous...",
+  "summary": "Identify the benefit of APV in separating unlevered firm value from tax benefits of debt.",
+  "prompt": "How can the Adjusted Present Value (APV) approach be advantageous for valuing firms with significant debt?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "B",
+      "text": "The Adjusted Present Value (APV) approach can be advantageous for valuing firms"
+    },
+    {
+      "id": "C",
+      "text": "No effect on firm value"
+    },
+    {
+      "id": "D",
+      "text": "Measures ability to meet short-term obligations"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The Adjusted Present Value (APV) approach can be advantageous for valuing firms with significant debt because it separates the impact of financing from operating value. By valuing the firm without leverage first and then adding the present value of tax benefits from debt, the APV approach provides a more accurate representation of the firm's value, especially in cases where the capital structure is complex or changing. This method allows for clearer insights into the contributions of both operations and financing to the overall value of the firm."
+}

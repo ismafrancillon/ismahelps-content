@@ -1,0 +1,40 @@
+{
+  "id": "p112",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Time Value of Money",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "future-value",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Time Value of Money: Calculate the future value of an investment of 5000 at...",
+  "summary": "Calculate the future value of an investment using compound interest.",
+  "prompt": "Calculate the future value of an investment of $5,000 at 6% interest compounded quarterly for 5 years.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$6,744.86"
+    },
+    {
+      "id": "B",
+      "text": "$8,768.32"
+    },
+    {
+      "id": "C",
+      "text": "$10,117.29"
+    },
+    {
+      "id": "D",
+      "text": "$4,721.40"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Future Value = PV × (1 + r/n)^(nt) = 5,000 × (1 + 0.06/4)^(4*5) = $6,744.86."
+}

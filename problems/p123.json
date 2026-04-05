@@ -1,0 +1,44 @@
+{
+  "id": "p123",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "Market Risk Premium",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "market-risk-premium",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Risk Premium: Match the following statements to TRUE or FALSE A) The...",
+  "summary": "Evaluate true/false statements about the market risk premium and its relationship to risk and return.",
+  "prompt": "Match the following statements to true or false A) The market risk premium is only the percentage of the portfolio consisting of risk-free assets divided by the percentage of the portfolio consisting of risky assets. B) The market risk premium is the slope of the security market line and the difference between the expected rate of return from the market portfolio (ERM) and the expected rate of return from the risk-free asset (RF). C) Stocks with the same total risk can have different betas. D) The slope of the capital market line (CML) is the market risk premium (ERM – RF). E) The slope of the security market line (SML) will increase if the risk-free rate increases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The market risk premium is only the percentage of the portfolio consisting of risk-free assets divided by the percentage of the portfolio consisting of risky assets"
+    },
+    {
+      "id": "B",
+      "text": "The market risk premium is the slope of the security market line and the difference between the expected rate of return from the market portfolio (ERM) and the expected rate of return from the risk-free asset (RF)"
+    },
+    {
+      "id": "C",
+      "text": "Stocks with the same total risk can have different betas"
+    },
+    {
+      "id": "D",
+      "text": "The slope of the capital market line (CML) is the market risk premium (ERM – RF)"
+    },
+    {
+      "id": "E",
+      "text": "The slope of the security market line (SML) will increase if the risk-free rate increases"
+    }
+  ],
+  "correct_option": "A. FALSE - B. TRUE - C. TRUE - D. FALSE - E. FALSE",
+  "answer_text": "A. FALSE; B. TRUE; C. TRUE; D. FALSE; E. FALSE",
+  "answer_format": "text",
+  "solution": "Sure, let's analyze and determine the truthfulness of each statement provided: ### Statement Analysis: **A) The market risk premium is only the percentage of the portfolio consisting of risk-free assets divided by the percentage of the portfolio consisting of risky assets.** - **False**: The market risk premium is the difference between the expected return on a market portfolio and the risk-free rate, not a ratio of portfolio components. **B) The market risk premium is the slope of the security market line and the difference between the expected rate of return from the market portfolio (ERM) and the expected rate of return from the risk-free asset (RF).** - **True**: This is correct. The market risk premium represents the excess return expected from holding a risky market portfolio instead of risk-free assets, and it is indeed the slope of the Security Market Line (SML). **C) Stocks with the same total risk can have different betas.** - **True**: This is correct. Total risk includes both systematic (market) and unsystematic (specific) risk. Beta measures only systematic risk, so stocks with the same total risk can indeed have different betas if their mix of systematic and unsystematic risk differs. **D) The slope of the capital market line (CML) is the market risk premium (ERM – RF).** - **False**: The slope of the CML is the Sharpe ratio, which is the market risk premium divided by the standard deviation of the market portfolio. It measures the risk-adjusted return of the market portfolio. **E) The slope of the security market line (SML) will increase if the risk-free rate increases.** - **False**: The slope of the SML is the market risk premium, which is the difference between the expected market return and the risk-free rate. If the risk-free rate increases, the market risk premium would decrease, assuming the expected market return stays the same, leading to a flatter SML. ### Final Answers: - **A) False** - **B) True** - **C) True** - **D) False** - **E) False** These answers are based on the definitions and relationships within the Capital Asset Pricing Model (CAPM) and related financial theories."
+}

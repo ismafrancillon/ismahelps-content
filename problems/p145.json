@@ -1,0 +1,40 @@
+{
+  "id": "p145",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Non-Current Liabilities",
+  "subtopic": "Bond Issuance and Valuation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "interest-rates",
+    "discount",
+    "conceptual"
+  ],
+  "title": "Bond Issuance and Valuation: A company has an outstanding bond with a coupon rate...",
+  "summary": "Assess the effect on bond price when market rates differ from the coupon rate.",
+  "prompt": "A company has an outstanding bond with a coupon rate of 4% and a market rate of 5%. What would you expect to happen to the bond's price in the market?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price and yield move inversely"
+    },
+    {
+      "id": "B",
+      "text": "When the market interest rate is higher than the coupon rate of a bond, the"
+    },
+    {
+      "id": "C",
+      "text": "Bond trades at par"
+    },
+    {
+      "id": "D",
+      "text": "YTM equals coupon rate"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "When the market interest rate is higher than the coupon rate of a bond, the bond will be sold at a discount to compensate investors for the lower interest payments compared to current market rates. Thus, the bond's price in the market will decrease. This understanding is essential for investors analyzing bond investments, as the relationship between coupon rates and market rates directly impacts bond pricing and investment strategies. Proper assessment of interest rates is vital for making informed investment decisions in fixed-income securities."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p153",
+  "content_type": "practice_question",
+  "course": "Business Law",
+  "topic": "Forms of Business Ownership",
+  "subtopic": "Corporation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "corporation",
+    "limited-liability",
+    "legal-entity",
+    "conceptual"
+  ],
+  "title": "Corporation: What is the main characteristic...",
+  "summary": "Identify the primary characteristics of a corporation including legal personhood and limited liability.",
+  "prompt": "What is the main characteristic of a corporation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Proportion of debt financing"
+    },
+    {
+      "id": "B",
+      "text": "The primary characteristic of a corporation is limited liability"
+    },
+    {
+      "id": "C",
+      "text": "Measures operational efficiency"
+    },
+    {
+      "id": "D",
+      "text": "Easy transfer of ownership"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The primary characteristic of a corporation is limited liability, which means that shareholders are only liable for the company's debts to the extent of their investment in shares. This protection separates the personal assets of the shareholders from the liabilities of the corporation, thereby reducing financial risk for investors."
+}

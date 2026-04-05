@@ -1,0 +1,40 @@
+{
+  "id": "p190",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "Earnings Manipulation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "net-income",
+    "profitability",
+    "financial-analysis",
+    "calculation"
+  ],
+  "title": "Earnings Manipulation: A firm has an EBIT of 400000 and interest expenses...",
+  "summary": "Calculate net income from EBIT by subtracting interest expense and applying the tax rate.",
+  "prompt": "A firm has an EBIT of $400,000 and interest expenses of $100,000. If the tax rate is 30%, calculate the net income.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$157,500"
+    },
+    {
+      "id": "B",
+      "text": "$210,000"
+    },
+    {
+      "id": "C",
+      "text": "$252,000"
+    },
+    {
+      "id": "D",
+      "text": "$105,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Net Income = (EBIT - Interest Expense) × (1 - Tax Rate) = ($400,000 - $100,000) × (1 - 0.30) = $300,000 × 0.70 = $210,000. This metric is crucial for assessing a company's profitability after accounting for all expenses."
+}

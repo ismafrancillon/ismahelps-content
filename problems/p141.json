@@ -1,0 +1,40 @@
+{
+  "id": "p141",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Capital Expenditures vs. Expenses",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "book-value",
+    "asset-valuation",
+    "accumulated-depreciation",
+    "calculation"
+  ],
+  "title": "Capital Expenditures vs. Expenses: Calculate the book value of an asset that was purchased...",
+  "summary": "Calculate book value by subtracting accumulated depreciation from the original cost.",
+  "prompt": "Calculate the book value of an asset that was purchased for $10,000, has a residual value of $1,000, and has been depreciated by $4,000.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$15,000"
+    },
+    {
+      "id": "B",
+      "text": "$10,000"
+    },
+    {
+      "id": "C",
+      "text": "$9,500"
+    },
+    {
+      "id": "D",
+      "text": "$8,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "To calculate the book value of an asset, you subtract the accumulated depreciation from the original purchase price. The formula is: Book Value = Cost - Accumulated Depreciation. Here, the calculation is as follows: Book Value = $10,000 - $4,000 = $6,000. It's important to recognize that the residual value does not affect the book value calculation; it is used for determining depreciation expense. Understanding how to calculate book value is essential for financial reporting and maintaining accurate asset records."
+}

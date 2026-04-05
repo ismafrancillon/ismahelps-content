@@ -1,0 +1,40 @@
+{
+  "id": "p189",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Measuring Earnings",
+  "subtopic": "Earnings Manipulation",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "net-income",
+    "profitability",
+    "financial-analysis",
+    "calculation"
+  ],
+  "title": "Earnings Manipulation: A firm has an EBIT of $300,000, interest expenses of...",
+  "summary": "Calculate net income from EBIT by subtracting interest expense and applying the tax rate.",
+  "prompt": "A firm has an EBIT of $300,000, interest expenses of $50,000, and tax rate of 30%. Calculate the net income before extraordinary items.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$105,000"
+    },
+    {
+      "id": "B",
+      "text": "$175,000"
+    },
+    {
+      "id": "C",
+      "text": "$262,500"
+    },
+    {
+      "id": "D",
+      "text": "$192,500"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Net Income = (EBIT - Interest Expense) × (1 - Tax Rate) = ($300,000 - $50,000) × (1 - 0.30) = $250,000 × 0.70 = $175,000. The net income before extraordinary items is a critical metric for assessing a company's profitability."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p144",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Residual Value",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "residual-value",
+    "depreciation",
+    "asset-valuation",
+    "conceptual"
+  ],
+  "title": "Residual Value: Which of the following statements is TRUE regarding the residual...",
+  "summary": "Evaluate statements about the residual value of an asset and its role in depreciation.",
+  "prompt": "Which of the following statements is true regarding the residual value of an asset?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Price-to-Earnings (P/E) ratio"
+    },
+    {
+      "id": "B",
+      "text": "Residual value, also known as salvage value, is the estimated amount that an"
+    },
+    {
+      "id": "C",
+      "text": "Dividend Discount Model (DDM)"
+    },
+    {
+      "id": "D",
+      "text": "Asset-based valuation"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Residual value, also known as salvage value, is the estimated amount that an entity expects to recover upon disposal of an asset at the end of its useful life. Understanding residual value is essential for calculating depreciation and accurately reporting an asset's book value over time. This concept plays a crucial role in financial accounting and asset management, affecting both profitability and asset valuation on balance sheets."
+}

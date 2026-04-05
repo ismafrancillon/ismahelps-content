@@ -1,0 +1,40 @@
+{
+  "id": "p176",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Inventory Management",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "inventory-management",
+    "ending-inventory",
+    "budgeting",
+    "calculation"
+  ],
+  "title": "Inventory Management: A company wants to maintain an ending inventory of 0.2...",
+  "summary": "Calculate required ending inventory as a percentage of the next quarter's budgeted sales.",
+  "prompt": "A company wants to maintain an ending inventory of 20% of the next quarter’s budgeted sales volume. If the budgeted sales volume for the next quarter is 50,000 units, what should the ending inventory be for the current quarter?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10500"
+    },
+    {
+      "id": "B",
+      "text": "10000"
+    },
+    {
+      "id": "C",
+      "text": "13000"
+    },
+    {
+      "id": "D",
+      "text": "15000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Ending Inventory = 20% * 50,000 = 10,000 units. This calculation is important for inventory management (Page 51)."
+}

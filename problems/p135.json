@@ -1,0 +1,40 @@
+{
+  "id": "p135",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Cost of Sales and Inventory Management",
+  "subtopic": "COGS",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cogs",
+    "inventory-accounting",
+    "calculation",
+    "financial-statements"
+  ],
+  "title": "COGS: If the beginning inventory was $50,000, purchases during the year...",
+  "summary": "Calculate cost of goods sold using the formula: beginning inventory plus purchases minus ending inventory.",
+  "prompt": "If the beginning inventory was $50,000, purchases during the year were $150,000, and the ending inventory is $30,000, what is the cost of goods sold for the year?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$260,000"
+    },
+    {
+      "id": "B",
+      "text": "$130,000"
+    },
+    {
+      "id": "C",
+      "text": "$156,000"
+    },
+    {
+      "id": "D",
+      "text": "$117,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Identify key variables.**<br> Beginning Inventory (BI) = $50,000<br> Purchases (P) = $150,000<br> Ending Inventory (EI) = $30,000<br><br>**Step 2: Use the Cost of Goods Sold formula.**<br> COGS = BI + P - EI<br> COGS = $50,000 + $150,000 - $30,000<br><br>**Step 3: Calculate COGS.**<br> COGS = $170,000 - $30,000 = $130,000. The cost of goods sold for the year is $130,000."
+}

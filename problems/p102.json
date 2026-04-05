@@ -1,0 +1,41 @@
+{
+  "id": "p102",
+  "content_type": "practice_question",
+  "course": "Portfolio Management",
+  "topic": "Active Portfolio Management",
+  "subtopic": "Active Management and Performance Measurement",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "portfolio",
+    "expected-return",
+    "standard-deviation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Active Management and Performance Measurement: Which of the following measures accounts for the volatility of...",
+  "summary": "Analyze a portfolio management concept related to Active Management and Performance Measurement.",
+  "prompt": "Which of the following measures accounts for the volatility of portfolio returns relative to the risk-free rate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The Sharpe Ratio measures the excess return per unit of risk, calculated as the"
+    },
+    {
+      "id": "B",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "C",
+      "text": "Minimizes risk for a given return"
+    },
+    {
+      "id": "D",
+      "text": "Measures operational efficiency"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The Sharpe Ratio measures the excess return per unit of risk, calculated as the difference between the portfolio return and the risk-free rate divided by the portfolio's standard deviation."
+}

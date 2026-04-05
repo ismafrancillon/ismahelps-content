@@ -1,0 +1,39 @@
+{
+  "id": "p182",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "financial-vs-nonfinancial",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: Managerial accounting is only concerned...",
+  "summary": "Evaluate whether managerial accounting uses only financial or also non-financial information.",
+  "prompt": "Managerial accounting is only concerned with financial data.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Must publish quarterly"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "For external stakeholders"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "False. Managerial accounting also considers non-financial data to inform management decisions, such as customer satisfaction metrics or operational efficiency (Page 51)."
+}

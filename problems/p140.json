@@ -1,0 +1,40 @@
+{
+  "id": "p140",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Long-Lived Assets",
+  "subtopic": "Depreciation Methods",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "depreciation",
+    "straight-line",
+    "accumulated-depreciation",
+    "calculation"
+  ],
+  "title": "Depreciation Methods: A company purchased a vehicle for 40000 with an estimated...",
+  "summary": "Calculate cumulative depreciation expense over multiple years using the straight-line method.",
+  "prompt": "A company purchased a vehicle for $40,000 with an estimated useful life of 8 years and no residual value. Calculate the total depreciation expense at the end of year 4 using the straight-line method.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$23,000"
+    },
+    {
+      "id": "B",
+      "text": "$20,000"
+    },
+    {
+      "id": "C",
+      "text": "$16,000"
+    },
+    {
+      "id": "D",
+      "text": "$19,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using the straight-line method, the total depreciation expense is calculated as follows: Depreciation Expense = Cost / Useful Life. For this vehicle: $40,000 / 8 years = $5,000 per year. Over 4 years, total depreciation would be $5,000 * 4 = $20,000. This understanding is essential for accurate financial reporting, as it affects both the income statement and the balance sheet. Properly accounting for depreciation ensures that the asset's value is accurately represented over time."
+}

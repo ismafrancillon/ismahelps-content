@@ -1,0 +1,51 @@
+{
+  "id": "p126",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Asset Pricing Model (CAPM)",
+  "subtopic": "SML / CML",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-frontier",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "SML / CML: Match the following statements to TRUE or FALSE A) The...",
+  "summary": "Evaluate true/false statements about the properties of the SML and CML in the CAPM framework.",
+  "prompt": "Match the following statements to true or false A) The steeper the slope of the security market line (SML), the higher the market risk premium. B) The steeper the slope of the capital market line (CML), the higher the Sharpe Ratio. C) The steeper the slope of the security market line (SML), the higher the beta of the stock. D) The intercept of the security market line (SML) is the risk-free rate. E) The intercept of the security market line (SML) is beta. F) Typically, one can argue that the beta of a portfolio is equal to the average of the betas of its individual stocks. G) The expected rate of return must be equal to the required rate of return for the market to be in equilibrium.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The steeper the slope of the security market line (SML), the higher the market risk premium"
+    },
+    {
+      "id": "B",
+      "text": "The steeper the slope of the capital market line (CML), the higher the Sharpe Ratio"
+    },
+    {
+      "id": "C",
+      "text": "The steeper the slope of the security market line (SML), the higher the beta of the stock"
+    },
+    {
+      "id": "D",
+      "text": "The intercept of the security market line (SML) is the risk-free rate"
+    },
+    {
+      "id": "E",
+      "text": "The intercept of the security market line (SML) is beta"
+    },
+    {
+      "id": "F",
+      "text": "Typically, one can argue that the beta of a portfolio is equal to the average of the betas of its individual stocks"
+    },
+    {
+      "id": "G",
+      "text": "The expected rate of return must be equal to the required rate of return for the market to be in equilibrium"
+    }
+  ],
+  "correct_option": "A. TRUE B. TRUE C. FALSE D. TRUE E. FALSE F. TRUE G. TRUE",
+  "answer_text": "A. TRUE; B. TRUE; C. FALSE; D. TRUE; E. FALSE; F. TRUE; G. TRUE",
+  "answer_format": "text",
+  "solution": "Sure, let's analyze and answer the question step by step: **Question:** Match the following statements to true or false: A) The steeper the slope of the security market line (SML), the higher the market risk premium. B) The steeper the slope of the capital market line (CML), the higher the Sharpe Ratio. C) The steeper the slope of the security market line (SML), the higher the beta of the stock. D) The intercept of the security market line (SML) is the risk-free rate. E) The intercept of the security market line (SML) is beta. F) Typically, one can argue that the beta of a portfolio is equal to the average of the betas of its individual stocks. G) The expected rate of return must be equal to the required rate of return for the market to be in equilibrium. **Answer:** **A) The steeper the slope of the security market line (SML), the higher the market risk premium.** - **True**. The slope of the SML represents the market risk premium. A steeper slope indicates a higher market risk premium. **B) The steeper the slope of the capital market line (CML), the higher the Sharpe Ratio.** - **True**. The slope of the CML represents the Sharpe Ratio. A steeper slope indicates a higher Sharpe Ratio, reflecting better risk-adjusted returns. **C) The steeper the slope of the security market line (SML), the higher the beta of the stock.** - **False**. The slope of the SML represents the market risk premium, not the beta of individual stocks. Beta is a measure of a stock's volatility relative to the market. **D) The intercept of the security market line (SML) is the risk-free rate.** - **True**. The intercept of the SML is the risk-free rate, as the SML equation is given by: Expected Return = Risk-free Rate + Beta * Market Risk Premium. **E) The intercept of the security market line (SML) is beta.** - **False**. The intercept of the SML is the risk-free rate, not beta. Beta is a measure of the stock's risk relative to the market. **F) Typically, one can argue that the beta of a portfolio is equal to the average of the betas of its individual stocks.** - **True**. The beta of a portfolio is typically calculated as the weighted average of the betas of the individual stocks in the portfolio. **G) The expected rate of return must be equal to the required rate of return for the market to be in equilibrium.** - **True**. For the market to be in equilibrium, the expected rate of return should equal the required rate of return. **Final Answer:** A) True B) True C) False D) True E) False F) True G) True"
+}

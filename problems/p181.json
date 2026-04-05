@@ -1,0 +1,40 @@
+{
+  "id": "p181",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Contribution Margin Analysis",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "net-income",
+    "profitability",
+    "cvp",
+    "calculation"
+  ],
+  "title": "Contribution Margin Analysis: If fixed costs are 20000 and variable costs are 30000...",
+  "summary": "Calculate net income by subtracting total fixed and variable costs from sales revenue.",
+  "prompt": "If fixed costs are $20,000 and variable costs are $30,000 while total sales are $100,000, what is the net income?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$47,500"
+    },
+    {
+      "id": "B",
+      "text": "$50,000"
+    },
+    {
+      "id": "C",
+      "text": "$55,000"
+    },
+    {
+      "id": "D",
+      "text": "$40,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Net income = Sales - Total Costs = $100,000 - ($30,000 + $20,000) = $50,000. This calculation is crucial for assessing the profitability of operations (Page 47)."
+}

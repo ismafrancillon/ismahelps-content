@@ -1,0 +1,40 @@
+{
+  "id": "p150",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Reporting and Interpreting Financial Information",
+  "subtopic": "Financial Statement Analysis",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "financial-ratios",
+    "current-ratio",
+    "liquidity",
+    "conceptual"
+  ],
+  "title": "Financial Statement Analysis: If a company’s current liabilities increased by 20000 while current...",
+  "summary": "Calculate current assets from the current ratio and assess the impact of changes.",
+  "prompt": "If a company’s current liabilities increased by $20,000 while current assets remained unchanged, what would happen to the current ratio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Intrinsic value of the option"
+    },
+    {
+      "id": "B",
+      "text": "The current ratio is calculated as Current Assets / Current Liabilities"
+    },
+    {
+      "id": "C",
+      "text": "Measures ability to meet short-term obligations"
+    },
+    {
+      "id": "D",
+      "text": "Measures operational efficiency"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The current ratio is calculated as Current Assets / Current Liabilities. If current liabilities increase while current assets remain unchanged, the current ratio will decrease. Specifically, if current liabilities increase by $20,000 while current assets remain the same, the overall ratio will reflect a lower ability to cover short-term obligations. This assessment is crucial for analyzing a company's liquidity and financial health. A declining current ratio may indicate potential liquidity issues, prompting stakeholders to evaluate the company’s financial management practices closely."
+}

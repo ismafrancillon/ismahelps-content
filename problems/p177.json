@@ -1,0 +1,40 @@
+{
+  "id": "p177",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Direct Materials Calculation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "direct-materials",
+    "product-costing",
+    "manufacturing",
+    "calculation"
+  ],
+  "title": "Direct Materials Calculation: Calculate the direct materials cost if each unit requires 3...",
+  "summary": "Calculate direct materials cost from units, material quantity, and cost per unit.",
+  "prompt": "Calculate the direct materials cost if each unit requires 3 kg of material at a cost of $10 per kg for 1,000 units.",
+  "options": [
+    {
+      "id": "A",
+      "text": "$22,500"
+    },
+    {
+      "id": "B",
+      "text": "$30,000"
+    },
+    {
+      "id": "C",
+      "text": "$15,000"
+    },
+    {
+      "id": "D",
+      "text": "$27,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Direct Materials Cost = Units * kg per unit * cost per kg = 1,000 * 3 * $10 = $30,000. This calculation is essential for budgeting (Page 51)."
+}

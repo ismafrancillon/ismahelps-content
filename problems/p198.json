@@ -1,0 +1,40 @@
+{
+  "id": "p198",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "FCFE",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cash-flows",
+    "net-income",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "FCFE: If a firm's cash flow to equity (FCFE) is greater...",
+  "summary": "Interpret the implications when FCFE exceeds dividend payments for equity investors.",
+  "prompt": "If a firm's cash flow to equity (FCFE) is greater than its dividends paid, what does this indicate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Comparable company analysis"
+    },
+    {
+      "id": "B",
+      "text": "When FCFE exceeds dividends paid, it indicates that the firm has excess cash"
+    },
+    {
+      "id": "C",
+      "text": "Growth = ROE × Retention ratio"
+    },
+    {
+      "id": "D",
+      "text": "Finance internal growth and new projects"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "When FCFE exceeds dividends paid, it indicates that the firm has excess cash available after meeting its reinvestment needs and debt obligations. This excess cash can be used for various purposes, including further investments, paying down debt, or increasing dividends in the future."
+}

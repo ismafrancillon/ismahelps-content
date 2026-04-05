@@ -1,0 +1,37 @@
+{
+  "id": "p122",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "NPV",
+  "question_type": "mcq",
+  "difficulty": "Hard",
+  "tags": [
+    "npv",
+    "discounted-cash-flow",
+    "decision-rule",
+    "calculation",
+    "multi-step"
+  ],
+  "title": "NPV: Find the correct answer for the following prompts: A) You...",
+  "summary": "Calculate the NPV of a perpetual cash flow project using the perpetuity formula minus the initial investment.",
+  "prompt": "Find the correct answer for the following prompts: A) You are considering an investment at a price of $190,000, and its after-tax net cash flows will increase by $30,000 per year and remain at this level forever. If the appropriate cost of capital is 15%, what is the NPV? B) Project A requires a $1,290 initial investment and returns $600 per year forever, and project B requires a $2,407 initial investment and returns $700 per year forever. What is the crossover point? C) You’re consider a project with an initial cost of $70,189 with annual cash inflows of $17,304 per year forever. What is the discount rate that will produce a profitability index of 4.0?",
+  "options": [
+    {
+      "id": "A",
+      "text": "You are considering an investment at a price of $190,000, and its after-tax net cash flows will increase by $30,000 per year and remain at this level forever. If the appropriate cost of capital is 15%, what is the NPV?"
+    },
+    {
+      "id": "B",
+      "text": "Project A requires a $1,290 initial investment and returns $600 per year forever, and project B requires a $2,407 initial investment and returns $700 per year forever. What is the crossover point?"
+    },
+    {
+      "id": "C",
+      "text": "You’re consider a project with an initial cost of $70,189 with annual cash inflows of $17,304 per year forever. What is the discount rate that will produce a profitability index of 4.0?"
+    }
+  ],
+  "correct_option": "A. 10,000; B. 8.95%; C. 6.16%",
+  "answer_text": "A. 10,000; B. 8.95%; C. 6.16%",
+  "answer_format": "text",
+  "solution": "Sure, here are the answers to the given prompts: ### A) NPV Calculation **Prompt:** You are considering an investment at a price of $190,000, and its after-tax net cash flows will increase by $30,000 per year and remain at this level forever. If the appropriate cost of capital is 15%, what is the NPV? **Answer:** To calculate the NPV, we need to determine the present value of the perpetual cash flows and then subtract the initial investment. **Step-by-Step Solution:** 1. **Determine the present value of perpetual cash flows:** - Formula: \\( PV = \\frac{C}{r} \\) - Where \\( C \\) is the annual cash flow ($30,000) and \\( r \\) is the discount rate (15% or 0.15). - \\( PV = \\frac{30,000}{0.15} = 200,000 \\) 2. **Calculate NPV:** - NPV = Present Value of Cash Flows - Initial Investment - NPV = $200,000 - $190,000 - NPV = $10,000 **Final Answer:** **$10,000** ### B) Crossover Point Calculation **Prompt:** Project A requires a $1,290 initial investment and returns $600 per year forever, and project B requires a $2,407 initial investment and returns $700 per year forever. What is the crossover point? **Answer:** To find the crossover point, we need to determine the discount rate that makes the NPV of both projects equal. **Step-by-Step Solution:** 1. **Set up the equations for NPVs of both projects:** - For Project A: \\( NPV_A = \\frac{600}{r} - 1290 \\) - For Project B: \\( NPV_B = \\frac{700}{r} - 2407 \\) 2. **Find the crossover rate by setting \\( NPV_A = NPV_B \\):** - \\( \\frac{600}{r} - 1290 = \\frac{700}{r} - 2407 \\) 3. **Solve for \\( r \\):** - \\( 600r - 1290r = 700r - 2407r \\) - \\( 600 - 1290r = 700 - 2407r \\) - \\( 600 - 700 = 2407r - 1290r \\) - \\( -100 = 1117r \\) - \\( r = \\frac{100}{1117} = 0.0895 \\) **Final Answer:** **8.95%** ### C) Discount Rate for Profitability Index Calculation **Prompt:** You’re considering a project with an initial cost of $70,189 with annual cash inflows of $17,304 per year forever. What is the discount rate that will produce a profitability index of 4.0? **Answer:** To find the discount rate that will produce a profitability index (PI) of 4.0, we use the formula for PI and solve for the discount rate. **Step-by-Step Solution:** 1. **Set up the formula for PI:** - \\( PI = \\frac{PV \\, of \\, future \\, cash \\, flows}{Initial \\, Investment} \\) - Given \\( PI = 4.0 \\) and Initial Investment = $70,189, we need to find \\( r \\). 2. **Rearrange the formula to solve for PV:** - \\( 4.0 = \\frac{PV}{70,189} \\) - \\( PV = 4.0 \\times 70,189 = 280,756 \\) 3. **Determine the discount rate using the PV of a perpetuity:** - \\( PV = \\frac{C}{r} \\) - \\( 280,756 = \\frac{17,304}{r} \\) - \\( r = \\frac{17,304}{280,756} = 0.0616 \\) **Final Answer:** **6.16%** By following these steps, we can accurately determine the answers to the given prompts."
+}

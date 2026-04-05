@@ -1,0 +1,40 @@
+{
+  "id": "p164",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Payback Period Rule",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "payback-period",
+    "capital-budgeting",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "Payback Period Rule: If a project costs 200000 and generates cash inflows of...",
+  "summary": "Calculate the payback period by dividing the initial investment by annual cash inflows.",
+  "prompt": "If a project costs $200,000 and generates cash inflows of $40,000 for 5 years, what is the payback period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "10"
+    },
+    {
+      "id": "B",
+      "text": "5"
+    },
+    {
+      "id": "C",
+      "text": "6"
+    },
+    {
+      "id": "D",
+      "text": "8"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Payback Period = Initial Investment / Annual Cash Flow. Thus, $200,000 / $40,000 = 5 years."
+}

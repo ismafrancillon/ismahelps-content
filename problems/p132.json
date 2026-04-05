@@ -1,0 +1,45 @@
+{
+  "id": "p132",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Options",
+  "subtopic": "Call and Puts",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "options",
+    "call-option",
+    "option-writer",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Call and Puts: Which of the following statements is TRUE regarding a call...",
+  "summary": "Identify the market expectation of a call option writer regarding the stock price direction.",
+  "prompt": "Which of the following statements is true regarding a call writer: A) The call writer expects the stock to move upward. B) The call writer expects the stock to remain the same or move down. C) The call writer expects the stock to split. D) The call writer expects to sell the stock prior to expiration of the option E) None of the above",
+  "options": [
+    {
+      "id": "A",
+      "text": "The call writer expects the stock to move upward"
+    },
+    {
+      "id": "B",
+      "text": "The call writer expects the stock to remain the same or move down"
+    },
+    {
+      "id": "C",
+      "text": "The call writer expects the stock to split"
+    },
+    {
+      "id": "D",
+      "text": "The call writer expects to sell the stock prior to expiration of the option"
+    },
+    {
+      "id": "E",
+      "text": "None of the above"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Which of the following statements is true regarding a call writer: A) The call writer expects the stock to move upward. B) The call writer expects the stock to remain the same or move down. C) The call writer expects the stock to split. D) The call writer expects to sell the stock prior to expiration of the option. E) None of the above **Answer: B** **Explanation:** 1. **Definition of a Call Writer:** - A call writer is someone who sells a call option. This means they have an obligation to sell the underlying stock at the strike price if the option is exercised by the buyer. 2. **Expectations of a Call Writer:** - The call writer expects the stock to remain the same or decrease in value. This is because if the stock price stays the same or goes down, the buyer of the call option will not exercise the option, allowing the call writer to keep the premium received from selling the option without having to sell the stock. 3. **Analysis of Options:** - **Option A:** Incorrect, because if the stock moves upward, the buyer will exercise the option, and the call writer will have to sell the stock at the strike price, potentially missing out on gains. - **Option B:** Correct, because if the stock remains the same or moves down, the call writer benefits from the premium without having to sell the stock. - **Option C:** Incorrect, because a stock split does not directly affect the call writer’s expectations regarding the stock price movement. - **Option D:** Incorrect, because the call writer’s primary expectation is not about selling the stock before expiration but rather about the stock price movement. - **Option E:** Incorrect, because option B is the correct and true statement regarding a call writer’s expectations. Therefore, the correct answer is B."
+}

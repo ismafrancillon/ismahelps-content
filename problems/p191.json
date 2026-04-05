@@ -1,0 +1,40 @@
+{
+  "id": "p191",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Debt Ratios",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "debt-ratio",
+    "leverage",
+    "financial-analysis",
+    "calculation"
+  ],
+  "title": "Debt Ratios: A firm has total equity of 500000 and total liabilities...",
+  "summary": "Calculate the debt ratio by dividing total liabilities by total assets.",
+  "prompt": "A firm has total equity of $500,000 and total liabilities of $300,000. What is the debt ratio?",
+  "options": [
+    {
+      "id": "A",
+      "text": "0.4875"
+    },
+    {
+      "id": "B",
+      "text": "0.3750"
+    },
+    {
+      "id": "C",
+      "text": "0.2812"
+    },
+    {
+      "id": "D",
+      "text": "0.4688"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Debt Ratio = Total Liabilities / Total Assets. Total Assets = Total Liabilities + Total Equity = $300,000 + $500,000 = $800,000. Debt Ratio = $300,000 / $800,000 = 0.375. This metric provides insights into the firm's financial leverage."
+}

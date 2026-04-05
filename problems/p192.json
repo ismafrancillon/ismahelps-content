@@ -1,0 +1,41 @@
+{
+  "id": "p192",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Financing Expenses",
+  "subtopic": "Cost of Capital",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "wacc",
+    "cost-of-equity",
+    "cost-of-debt",
+    "debt-to-equity",
+    "calculation"
+  ],
+  "title": "Cost of Capital: Calculate the WACC if the cost of equity is 10%,...",
+  "summary": "Calculate the weighted average cost of capital using equity and debt costs with capital structure weights.",
+  "prompt": "Calculate the WACC if the cost of equity is 10%, the cost of debt is 5%, and the firm has a debt-to-equity ratio of 1:1. Assume a tax rate of 30%.",
+  "options": [
+    {
+      "id": "A",
+      "text": "1.75%"
+    },
+    {
+      "id": "B",
+      "text": "6.75%"
+    },
+    {
+      "id": "C",
+      "text": "5.75%"
+    },
+    {
+      "id": "D",
+      "text": "8.44%"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "To calculate the WACC, we use the formula: WACC = (E/V)×Re + (D/V)×Rd(1-T), where E is equity, D is debt, V is total value (E+D), Re is the cost of equity, Rd is the cost of debt, and T is the tax rate. Given a debt-to-equity ratio of 1:1, we have E = D, so V = E + D = 2E. Thus, WACC = (0.5)×(10%) + (0.5)×(5%)(1-0.3) = 0.05 + 0.0175 = 0.0675 or 6.75%."
+}

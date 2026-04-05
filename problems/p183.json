@@ -1,0 +1,40 @@
+{
+  "id": "p183",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "gaap",
+    "standardization",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: Managerial accounting reports are standardized and must adhere to GAAP....",
+  "summary": "Assess whether managerial accounting reports must follow GAAP or can be tailored internally.",
+  "prompt": "Managerial accounting reports are standardized and must adhere to GAAP.",
+  "options": [
+    {
+      "id": "A",
+      "text": "True"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    },
+    {
+      "id": "C",
+      "text": "For internal decision-making"
+    },
+    {
+      "id": "D",
+      "text": "Must publish quarterly"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "False. Managerial accounting reports are not standardized and do not have to adhere to GAAP, as they are tailored for internal decision-making (Page 9)."
+}

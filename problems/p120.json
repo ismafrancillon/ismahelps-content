@@ -1,0 +1,40 @@
+{
+  "id": "p120",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Time Value of Money",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "time-value-of-money",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Time Value of Money: What is the present value of 1000 received 10 years...",
+  "summary": "Calculate the present value of a future amount using discounting.",
+  "prompt": "What is the present value of $1,000 received 10 years from now if the discount rate is 8%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$463.19"
+    },
+    {
+      "id": "B",
+      "text": "$277.91"
+    },
+    {
+      "id": "C",
+      "text": "$486.35"
+    },
+    {
+      "id": "D",
+      "text": "$440.03"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "PV = FV / (1 + r)^n = 1,000 / (1.08^10) = $463.19."
+}

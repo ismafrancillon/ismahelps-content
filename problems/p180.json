@@ -1,0 +1,40 @@
+{
+  "id": "p180",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Inventory Management",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "inventory-management",
+    "raw-materials",
+    "accounting",
+    "calculation"
+  ],
+  "title": "Inventory Management: If a company starts the year with 10000 in raw...",
+  "summary": "Calculate ending raw materials inventory from beginning balance, purchases, and usage.",
+  "prompt": "If a company starts the year with $10,000 in raw materials and purchases an additional $50,000, what will be the ending raw materials inventory if $30,000 is used during the year?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$28,500"
+    },
+    {
+      "id": "B",
+      "text": "$30,000"
+    },
+    {
+      "id": "C",
+      "text": "$15,000"
+    },
+    {
+      "id": "D",
+      "text": "$60,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Ending Raw Materials = Beginning Inventory + Purchases - Used = $10,000 + $50,000 - $30,000 = $30,000. This calculation is vital for inventory management (Page 51)."
+}

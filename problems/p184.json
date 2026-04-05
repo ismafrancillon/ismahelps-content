@@ -1,0 +1,40 @@
+{
+  "id": "p184",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Managerial Accounting",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "managerial-accounting",
+    "users",
+    "internal-stakeholders",
+    "conceptual"
+  ],
+  "title": "Managerial Accounting: The primary users of managerial accounting reports are external stakeholders....",
+  "summary": "Identify the primary users of managerial accounting as internal managers and executives.",
+  "prompt": "The primary users of managerial accounting reports are external stakeholders.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Not required to follow standards"
+    },
+    {
+      "id": "B",
+      "text": "False"
+    },
+    {
+      "id": "C",
+      "text": "True"
+    },
+    {
+      "id": "D",
+      "text": "Reports generated as needed"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "False. The primary users of managerial accounting reports are internal stakeholders such as managers and executives (Page 9)."
+}

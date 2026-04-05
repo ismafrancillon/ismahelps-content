@@ -1,0 +1,40 @@
+{
+  "id": "p163",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Cost of Capital",
+  "subtopic": "Cost of Equity",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "capm",
+    "cost-of-equity",
+    "risk-free-rate",
+    "calculation"
+  ],
+  "title": "Cost of Equity: If a firm has a WACC of 0.08 and the...",
+  "summary": "Apply the Capital Asset Pricing Model to calculate expected returns or evaluate security pricing.",
+  "prompt": "If a firm has a WACC of 8% and the expected market return is 12%, what is the implied risk-free rate if the firm's beta is 1.5?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Slope of the security market line"
+    },
+    {
+      "id": "B",
+      "text": "Using the CAPM formula: Cost of equity = risk-free rate + beta × (market return"
+    },
+    {
+      "id": "C",
+      "text": "Total risk of the investment"
+    },
+    {
+      "id": "D",
+      "text": "Correlation with market portfolio"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Using the CAPM formula: Cost of equity = risk-free rate + beta × (market return - risk-free rate). Rearranging gives risk-free rate = (cost of equity - (beta × market return)) / (1 - beta). Plugging in values yields a risk-free rate of 5%."
+}

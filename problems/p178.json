@@ -1,0 +1,40 @@
+{
+  "id": "p178",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "Decision-Making: Cost-Volume-Profit Analysis",
+  "subtopic": "Break-even Analysis",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "break-even-analysis",
+    "cvp",
+    "units",
+    "calculation"
+  ],
+  "title": "Break-even Analysis: If a company has a total fixed cost of 60000...",
+  "summary": "Calculate the break-even point in units by dividing fixed costs by the contribution margin per unit.",
+  "prompt": "If a company has a total fixed cost of $60,000 and sells its product for $15, with a variable cost of $9, how many units must it sell to break even?",
+  "options": [
+    {
+      "id": "A",
+      "text": "9500"
+    },
+    {
+      "id": "B",
+      "text": "10000"
+    },
+    {
+      "id": "C",
+      "text": "8000"
+    },
+    {
+      "id": "D",
+      "text": "7000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Break-even point in units = Fixed Costs / (Selling Price - Variable Cost) = $60,000 / ($15 - $9) = 10,000 units. This is essential for understanding sales targets (Page 47)."
+}

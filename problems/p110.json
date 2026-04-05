@@ -1,0 +1,41 @@
+{
+  "id": "p110",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Long-Term Debt",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-pricing",
+    "coupon-rate",
+    "yield-to-maturity",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Long-Term Debt: A company plans to issue a bond with a face...",
+  "summary": "Calculate bond price by discounting coupons and face value at the market rate.",
+  "prompt": "A company plans to issue a bond with a face value of $1,000, coupon rate of 6%, and market interest rate of 8%. What will be the price of the bond?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Bond Price = (C / (1 + r)) + (C / (1 + r)^2) +"
+    },
+    {
+      "id": "B",
+      "text": "YTM equals coupon rate"
+    },
+    {
+      "id": "C",
+      "text": "Bond trades at par"
+    },
+    {
+      "id": "D",
+      "text": "Duration measures rate sensitivity"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Bond Price = (C / (1 + r)) + (C / (1 + r)^2) + ... + (F / (1 + r)^n). Here, the bond price will be less than the face value since the market rate is higher than the coupon rate."
+}

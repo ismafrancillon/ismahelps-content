@@ -1,0 +1,40 @@
+{
+  "id": "p136",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Financial Statements and Business Decisions",
+  "subtopic": "Accounting Equation",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "accounting-equation",
+    "double-entry",
+    "accounting-system",
+    "conceptual"
+  ],
+  "title": "Accounting Equation: The accounting equation states that every transaction must affect at...",
+  "summary": "Identify the minimum number of accounts each transaction must affect under double-entry accounting.",
+  "prompt": "The accounting equation states that every transaction must affect at least how many accounts?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Total assets are understated"
+    },
+    {
+      "id": "B",
+      "text": "Two accounts to maintain the balance in the accounting records"
+    },
+    {
+      "id": "C",
+      "text": "Net income is overstated"
+    },
+    {
+      "id": "D",
+      "text": "Reports generated as needed"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The accounting equation is fundamental to financial accounting, stating that Assets = Liabilities + Shareholder's Equity. This means that every transaction must affect at least two accounts to maintain the balance in the accounting records. For instance, when a company purchases inventory, it increases the inventory account (asset) and decreases the cash account (asset), thus affecting both accounts. This principle ensures that the accounting records remain balanced after each transaction."
+}

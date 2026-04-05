@@ -1,0 +1,53 @@
+{
+  "id": "p125",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Portfolio Theory",
+  "subtopic": "Correlation Coefficient",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "portfolio",
+    "diversification",
+    "correlation",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Correlation Coefficient: Match the following statements to TRUE or false: A) When...",
+  "summary": "Evaluate statements about portfolio diversification benefits when asset correlation is less than one.",
+  "prompt": "Match the following statements to true or false: A) When two risky securities with a correlation of less than one, the portfolio standard deviation will be less than the weighted average of the individual security standard deviations. B) There is no benefit from diversification if the correlation coefficient is 0. C) Standard deviation measures market risk, whereas beta measures unique risk of a portfolio. D) There is no benefit from diversification if the correlation coefficient is 1. E) All portfolios on the efficient frontier have the same variance to return ratio. F) The minimum variance portfolio represents the lowest level of variance that an efficient portfolio can have. G) All portfolios on the efficient frontier are attainable.",
+  "options": [
+    {
+      "id": "A",
+      "text": "When two risky securities with a correlation of less than one, the portfolio standard deviation will be less than the weighted average of the individual security standard deviations"
+    },
+    {
+      "id": "B",
+      "text": "There is no benefit from diversification if the correlation coefficient is 0"
+    },
+    {
+      "id": "C",
+      "text": "Standard deviation measures market risk, whereas beta measures unique risk of a portfolio"
+    },
+    {
+      "id": "D",
+      "text": "There is no benefit from diversification if the correlation coefficient is 1"
+    },
+    {
+      "id": "E",
+      "text": "All portfolios on the efficient frontier have the same variance to return ratio"
+    },
+    {
+      "id": "F",
+      "text": "The minimum variance portfolio represents the lowest level of variance that an efficient portfolio can have"
+    },
+    {
+      "id": "G",
+      "text": "All portfolios on the efficient frontier are attainable"
+    }
+  ],
+  "correct_option": "A. TRUE B. FALSE C. FALSE D. TRUE E. FALSE F. TRUE G. TRUE",
+  "answer_text": "A. TRUE; B. FALSE; C. FALSE; D. TRUE; E. FALSE; F. TRUE; G. TRUE",
+  "answer_format": "text",
+  "solution": "Certainly! Let's match the following statements to true or false: A) When two risky securities with a correlation of less than one, the portfolio standard deviation will be less than the weighted average of the individual security standard deviations. - **True**: When the correlation is less than 1, diversification benefits reduce the portfolio's standard deviation below the weighted average of individual securities' standard deviations. B) There is no benefit from diversification if the correlation coefficient is 0. - **False**: Even with a correlation coefficient of 0, diversification benefits exist because the returns are uncorrelated, reducing overall risk. C) Standard deviation measures market risk, whereas beta measures unique risk of a portfolio. - **False**: Standard deviation measures total risk (both systematic and unsystematic), while beta measures market risk (systematic risk). D) There is no benefit from diversification if the correlation coefficient is 1. - **True**: If the correlation coefficient is 1, the securities move perfectly together, and diversification does not reduce risk. E) All portfolios on the efficient frontier have the same variance to return ratio. - **False**: Portfolios on the efficient frontier have different risk-return trade-offs; hence, their variance-to-return ratios differ. F) The minimum variance portfolio represents the lowest level of variance that an efficient portfolio can have. - **True**: The minimum variance portfolio is the portfolio with the lowest risk (variance) among all possible portfolios. G) All portfolios on the efficient frontier are attainable. - **True**: Portfolios on the efficient frontier are attainable as they represent the optimal combinations of risk and return. Summary of answers: - A. TRUE - B. FALSE - C. FALSE - D. TRUE - E. FALSE - F. TRUE - G. TRUE"
+}

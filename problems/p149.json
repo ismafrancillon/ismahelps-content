@@ -1,0 +1,40 @@
+{
+  "id": "p149",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Reporting and Interpreting Financial Information",
+  "subtopic": "Earnings Quality Assessment",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "earnings-quality",
+    "accruals",
+    "financial-analysis",
+    "conceptual"
+  ],
+  "title": "Earnings Quality Assessment: If a company has a lower quality of earnings ratio...",
+  "summary": "Interpret a lower quality of earnings ratio as greater reliance on accruals versus cash flows.",
+  "prompt": "If a company has a lower quality of earnings ratio compared to its competitors, what does it imply?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Compares market to book value"
+    },
+    {
+      "id": "B",
+      "text": "A lower quality of earnings ratio suggests that a company is relying more on"
+    },
+    {
+      "id": "C",
+      "text": "Measures long-term solvency"
+    },
+    {
+      "id": "D",
+      "text": "Proportion of debt financing"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "A lower quality of earnings ratio suggests that a company is relying more on accruals to report its earnings rather than actual cash flows. This implies that the company's earnings may not be as reliable or sustainable as those of its competitors, which could be a cause for concern among investors. The quality of earnings ratio is an important metric as it helps assess the true profit-generating ability of a company."
+}

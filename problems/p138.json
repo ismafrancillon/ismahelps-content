@@ -1,0 +1,40 @@
+{
+  "id": "p138",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Investing and Financing Decisions",
+  "subtopic": "Matching Process",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "matching-principle",
+    "accrual-accounting",
+    "financial-reporting",
+    "conceptual"
+  ],
+  "title": "Matching Process: Which of the following best defines the matching process in...",
+  "summary": "Evaluate the matching principle linking expense recognition to the period revenues are generated.",
+  "prompt": "Which of the following best defines the matching process in accounting?",
+  "options": [
+    {
+      "id": "A",
+      "text": "It only affects the balance sheet"
+    },
+    {
+      "id": "B",
+      "text": "The matching process in accounting refers to recognizing expenses in the same"
+    },
+    {
+      "id": "C",
+      "text": "It has no effect on net income"
+    },
+    {
+      "id": "D",
+      "text": "It reduces total liabilities"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The matching process in accounting refers to recognizing expenses in the same period as the revenues they help generate. This principle is essential for accurately reflecting a company’s profitability during an accounting period. For instance, if a company incurs costs to produce goods, those costs should be expensed in the same period in which the goods are sold, thereby matching them with the related revenue. This enhances the quality of financial reporting."
+}

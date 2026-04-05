@@ -1,0 +1,41 @@
+{
+  "id": "p134",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Efficient Market Hypothesis",
+  "subtopic": "Market Efficiency",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "efficient-market-hypothesis",
+    "market-inefficiency",
+    "behavioral-finance",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Market Efficiency: You have observed that every time the Andrews Sisters Music...",
+  "summary": "Identify which form of market efficiency is violated by a predictable pattern in stock returns.",
+  "prompt": "You have observed that every time the Andrews Sisters Music Corp’s stock rises by 2% in a week, it drops by 3% the next week. This observation is consistent with: A. Weak form inefficiency B. Semi-strong form inefficiency C. Strong form inefficiency D. It has nothing to do with efficiency.",
+  "options": [
+    {
+      "id": "A",
+      "text": "Weak form inefficiency"
+    },
+    {
+      "id": "B",
+      "text": "Semi-strong form inefficiency"
+    },
+    {
+      "id": "C",
+      "text": "None of the above"
+    },
+    {
+      "id": "D",
+      "text": "It has nothing to do with efficiency"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The observation that the Andrews Sisters Music Corp’s stock rises by 2% in a week and drops by 3% the next week is consistent with: Answer: B. Semi-strong form inefficiency Explanation: 1. **Define Market Efficiency Forms**: Market efficiency is categorized into three forms: weak, semi-strong, and strong. Each form indicates how quickly and accurately information is reflected in stock prices. - **Weak Form Efficiency**: Prices reflect all past trading information. - **Semi-Strong Form Efficiency**: Prices reflect all publicly available information. - **Strong Form Efficiency**: Prices reflect all information, public and private. 2. **Analyze Stock Behavior**: The observed pattern suggests that stock prices are not reflecting new information efficiently. If stock prices rise by 2% one week and drop by 3% the next, it implies that the market is not efficiently processing and incorporating information into the stock price. 3. **Determine the Appropriate Form**: - **Weak Form Inefficiency**: If the market were weak form efficient, historical price patterns would not predict future price movements. However, the observed pattern suggests predictability based on past prices. - **Semi-Strong Form Inefficiency**: The pattern indicates that the market is not processing publicly available information efficiently, as the price changes are predictable. - **Strong Form Inefficiency**: This form would imply that even insider information is not reflected, which is beyond the scope of the observed pattern. Given the predictability of the stock price changes based on publicly available information, the correct answer is B. Semi-strong form inefficiency."
+}

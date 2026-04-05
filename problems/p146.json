@@ -1,0 +1,40 @@
+{
+  "id": "p146",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Non-Current Liabilities",
+  "subtopic": "Interest Expense Calculations",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "bond-interest",
+    "interest-expense",
+    "non-current-liabilities",
+    "calculation"
+  ],
+  "title": "Interest Expense Calculations: A company issues a bond with 0.1 interest at a...",
+  "summary": "Calculate interest expense using face value, coupon rate, and payment frequency.",
+  "prompt": "A company issues a bond with 10% interest at a face value of $500,000 and pays interest semi-annually. What is the total cash payment for interest over 5 years?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$1,000,000"
+    },
+    {
+      "id": "B",
+      "text": "$500,000"
+    },
+    {
+      "id": "C",
+      "text": "$375,000"
+    },
+    {
+      "id": "D",
+      "text": "$750,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Total cash payment for interest can be calculated using the formula: Total Interest = Face Value × Coupon Rate × Number of Payments. For semi-annual payments over 5 years, there are 10 payments (5 years × 2). The calculation is: $500,000 × 10% × 10 = $500,000. It's crucial to understand the cash flow implications of bond interest payments, as they affect a company's liquidity and financing decisions. Proper planning and cash management for these obligations are essential for maintaining financial health throughout the life of the bond."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "p166",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Discounted Payback Period",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "discounted-payback-period",
+    "capital-budgeting",
+    "discounting",
+    "calculation"
+  ],
+  "title": "Discounted Payback Period: If a project has a cost of 80000 and annual...",
+  "summary": "Calculate the discounted payback period by accumulating discounted cash flows until the investment is recovered.",
+  "prompt": "If a project has a cost of $80,000 and annual cash flows of $25,000 for 4 years, what is the discounted payback period at a discount rate of 10%?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Payback ignores time value of money"
+    },
+    {
+      "id": "B",
+      "text": "Discount each cash flow and find the payback point"
+    },
+    {
+      "id": "C",
+      "text": "NPV and IRR always agree"
+    },
+    {
+      "id": "D",
+      "text": "Accept because NPV is positive"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Discount each cash flow and find the payback point. The calculation shows that it takes about 3.5 years to recover the cost."
+}

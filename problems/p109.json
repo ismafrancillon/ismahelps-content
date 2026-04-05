@@ -1,0 +1,41 @@
+{
+  "id": "p109",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Theories of Finance",
+  "subtopic": "Capital Budgeting",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "npv",
+    "decision-rule",
+    "discount-rate",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Capital Budgeting: A company is evaluating two projects. Project A has an...",
+  "summary": "Compare two projects using NPV analysis to identify the value-maximizing choice.",
+  "prompt": "A company is evaluating two projects. Project A has an NPV of $30,000, and Project B has an NPV of $25,000. If the cost of capital is 10%, which project should it choose?",
+  "options": [
+    {
+      "id": "A",
+      "text": "The company should choose Project A as it has a higher NPV"
+    },
+    {
+      "id": "B",
+      "text": "Optimal level minimizes WACC"
+    },
+    {
+      "id": "C",
+      "text": "Reject because NPV is negative"
+    },
+    {
+      "id": "D",
+      "text": "No effect on firm value"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "The company should choose Project A as it has a higher NPV, which indicates greater value creation."
+}

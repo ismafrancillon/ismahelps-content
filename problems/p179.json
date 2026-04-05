@@ -1,0 +1,40 @@
+{
+  "id": "p179",
+  "content_type": "practice_question",
+  "course": "Intro to Managerial Accounting",
+  "topic": "",
+  "subtopic": "Cost Analysis",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "cost-analysis",
+    "fixed-costs",
+    "unit-cost",
+    "calculation"
+  ],
+  "title": "Cost Analysis: If a company produces 50000 units and has fixed costs...",
+  "summary": "Calculate fixed cost per unit by dividing total fixed costs by total units produced.",
+  "prompt": "If a company produces 50,000 units and has fixed costs of $500,000, what is the fixed cost per unit?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$13"
+    },
+    {
+      "id": "B",
+      "text": "$10"
+    },
+    {
+      "id": "C",
+      "text": "$15"
+    },
+    {
+      "id": "D",
+      "text": "$5"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "Fixed Cost per Unit = Total Fixed Costs / Total Units Produced = $500,000 / 50,000 = $10 per unit. This is crucial information for cost analysis (Page 51)."
+}

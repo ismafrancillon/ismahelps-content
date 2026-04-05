@@ -1,0 +1,40 @@
+{
+  "id": "p106",
+  "content_type": "practice_question",
+  "course": "Real Estate Finance",
+  "topic": "Real Estate Valuation",
+  "subtopic": "Income Approach",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "valuation",
+    "cash-flows",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "Income Approach: What is the impact of long-term leases on the valuation...",
+  "summary": "Assess how long-term leases stabilize property income and affect valuations.",
+  "prompt": "What is the impact of long-term leases on the valuation of commercial real estate?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Long-term leases generally stabilize property income by securing tenants for"
+    },
+    {
+      "id": "B",
+      "text": "Precedent transaction analysis"
+    },
+    {
+      "id": "C",
+      "text": "Discounted Cash Flow (DCF)"
+    },
+    {
+      "id": "D",
+      "text": "Adjusted Present Value (APV)"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "Long-term leases generally stabilize property income by securing tenants for extended periods, providing predictable cash flows and reducing vacancy risk. This stability often leads to higher property valuations, as investors prefer assets with reliable income streams. Conversely, properties with short-term leases may experience more volatility in income and valuation, which can affect their attractiveness to investors. Thus, understanding lease terms is vital for effective real estate valuation."
+}

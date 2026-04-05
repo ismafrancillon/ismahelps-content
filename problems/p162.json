@@ -1,0 +1,40 @@
+{
+  "id": "p162",
+  "content_type": "practice_question",
+  "course": "Cases in Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Payback Period Rule",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "payback-period",
+    "capital-budgeting",
+    "decision-rule",
+    "calculation"
+  ],
+  "title": "Payback Period Rule: If a company has an initial investment of 50000 and...",
+  "summary": "Calculate the payback period by dividing the initial investment by annual cash inflows.",
+  "prompt": "If a company has an initial investment of $50,000 and cash inflows of $15,000 for the first three years, what is the payback period?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$58,500"
+    },
+    {
+      "id": "B",
+      "text": "$45,000"
+    },
+    {
+      "id": "C",
+      "text": "$40,500"
+    },
+    {
+      "id": "D",
+      "text": "$54,000"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The payback period is calculated by summing the cash inflows until the initial investment is recovered. Year 1: $15,000, Year 2: $15,000, Year 3: $15,000. Total after 3 years = $45,000. Therefore, it takes slightly more than 3 years to recover the investment."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "p124",
+  "content_type": "practice_question",
+  "course": "Intro to Finance",
+  "topic": "Capital Budgeting",
+  "subtopic": "Discounted Payback Period",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "payback-period",
+    "discounted-cash-flow",
+    "conceptual",
+    "mcq"
+  ],
+  "title": "Discounted Payback Period: Match the following statements to TRUE or false: A) The...",
+  "summary": "Explain why the discounted payback period exceeds the simple payback period due to discounting future cash flows.",
+  "prompt": "Match the following statements to true or false: A) The discounted payback period is longer than the simple payback period because the future cash flows are worth less. B) The discounted payback period is longer than the simple payback period because the PV of cash inflows are worth more. C) IRR decisions rule can be reliably used to choose between mutually exclusive projects. D) If a project has a discounted payback period within the acceptable time, and it has conventional cash flows, it cannot have a negative IRR. E) Assuming a cash outflow in year 0 followed by cash inflows in all following years: if the NPV of project is zero, then the IRR of the project will be equal to the discount rate for the project. F) The NPV and IRR methods will always result in the same accept and reject decisions when the cost of capital is less than IRR for two independent projects. G) Assuming a cash outflow in year 0 followed by cash inflows in all following years: as the discount rate is increased the IRR decreases while the NPV decreases.",
+  "options": [
+    {
+      "id": "A",
+      "text": "The discounted payback period is longer than the simple payback period because the future cash flows are worth less"
+    },
+    {
+      "id": "B",
+      "text": "The discounted payback period is longer than the simple payback period because the PV of cash inflows are worth more"
+    },
+    {
+      "id": "C",
+      "text": "IRR decisions rule can be reliably used to choose between mutually exclusive projects"
+    },
+    {
+      "id": "D",
+      "text": "If a project has a discounted payback period within the acceptable time, and it has conventional cash flows, it cannot have a negative IRR"
+    },
+    {
+      "id": "E",
+      "text": "Assuming a cash outflow in year 0 followed by cash inflows in all following years: if the NPV of project is zero, then the IRR of the project will be equal to the discount rate for the project"
+    },
+    {
+      "id": "F",
+      "text": "The NPV and IRR methods will always result in the same accept and reject decisions when the cost of capital is less than IRR for two independent projects"
+    },
+    {
+      "id": "G",
+      "text": "Assuming a cash outflow in year 0 followed by cash inflows in all following years: as the discount rate is increased the IRR decreases while the NPV decreases"
+    }
+  ],
+  "correct_option": "A. TRUE B. FALSE C. FALSE D. FALSE E. TRUE F. TRUE G. FALSE",
+  "answer_text": "A. TRUE; B. FALSE; C. FALSE; D. FALSE; E. TRUE; F. TRUE; G. FALSE",
+  "answer_format": "text",
+  "solution": "Sure, let's match the following statements to true or false: A) The discounted payback period is longer than the simple payback period because the future cash flows are worth less. - **True**. This is because the discounted payback period accounts for the time value of money, which makes future cash flows worth less in present value terms. B) The discounted payback period is longer than the simple payback period because the PV of cash inflows are worth more. - **False**. The discounted payback period is longer because the present value of future cash inflows is less, not more. C) IRR decisions rule can be reliably used to choose between mutually exclusive projects. - **False**. The IRR decision rule can be misleading when comparing mutually exclusive projects because it does not account for differences in project scale, timing, or reinvestment rates. D) If a project has a discounted payback period within the acceptable time, and it has conventional cash flows, it cannot have a negative IRR. - **False**. A project with an acceptable discounted payback period can still have a negative IRR if the cash flows beyond the payback period are negative or insufficient to cover the initial investment when discounted. E) Assuming a cash outflow in year 0 followed by cash inflows in all following years: if the NPV of the project is zero, then the IRR of the project will be equal to the discount rate for the project. - **True**. If the NPV is zero, it means the project's cash flows are exactly sufficient to cover the initial investment and the cost of capital, making the IRR equal to the discount rate. F) The NPV and IRR methods will always result in the same accept and reject decisions when the cost of capital is less than IRR for two independent projects. - **True**. For independent projects, if the IRR is greater than the cost of capital, the NPV will be positive, leading to the same accept/reject decision. G) Assuming a cash outflow in year 0 followed by cash inflows in all following years: as the discount rate is increased the IRR decreases while the NPV decreases. - **False**. As the discount rate increases, the NPV decreases, but the IRR remains constant as it is a project-specific rate of return. Here is the summary of the answers: A) True B) False C) False D) False E) True F) True G) False"
+}

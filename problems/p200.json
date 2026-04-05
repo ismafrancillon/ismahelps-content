@@ -1,0 +1,41 @@
+{
+  "id": "p200",
+  "content_type": "practice_question",
+  "course": "Investment Analysis",
+  "topic": "Valuation Approaches",
+  "subtopic": "APV Approach",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "capital-structure",
+    "tax-shield",
+    "valuation",
+    "conceptual",
+    "short-answer"
+  ],
+  "title": "APV Approach: The Adjusted Present Value (APV) approach primarily emphasizes what aspect...",
+  "summary": "Describe the APV approach's focus on separating operating value from financing effects.",
+  "prompt": "The Adjusted Present Value (APV) approach primarily emphasizes what aspect of firm valuation?",
+  "options": [
+    {
+      "id": "A",
+      "text": "Increasing debt (if return > cost)"
+    },
+    {
+      "id": "B",
+      "text": "The APV approach focuses on separating the operating value of a firm from the"
+    },
+    {
+      "id": "C",
+      "text": "Free Cash Flow to Equity (FCFE)"
+    },
+    {
+      "id": "D",
+      "text": "WACC decreases"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "The APV approach focuses on separating the operating value of a firm from the value of tax benefits associated with debt financing. This method allows analysts to assess the impact of financing on a firm's overall value more clearly, particularly for firms with varying capital structures, as explained in the materials on pages 55 and 56."
+}

@@ -1,0 +1,41 @@
+{
+  "id": "p108",
+  "content_type": "practice_question",
+  "course": "Theories of Finance",
+  "topic": "Long-Term Financing",
+  "subtopic": "Long-Term Debt",
+  "question_type": "mcq",
+  "difficulty": "Medium",
+  "tags": [
+    "present-value",
+    "cash-flows",
+    "discount-rate",
+    "calculation",
+    "short-answer"
+  ],
+  "title": "Long-Term Debt: A company expects a cash flow of 80000 in year...",
+  "summary": "Calculate the present value of a future amount using discounting.",
+  "prompt": "A company expects a cash flow of $80,000 in year 1 and $120,000 in year 2. If the required rate of return is 6%, what is the present value of these cash flows?",
+  "options": [
+    {
+      "id": "A",
+      "text": "$188,679"
+    },
+    {
+      "id": "B",
+      "text": "$235,849"
+    },
+    {
+      "id": "C",
+      "text": "$169,811"
+    },
+    {
+      "id": "D",
+      "text": "$132,075"
+    }
+  ],
+  "correct_option": "A",
+  "answer_text": "A",
+  "answer_format": "option_letter",
+  "solution": "**Step 1: Define Key Variables**<br>CF1 = $80,000, CF2 = $120,000, r = 0.06. <br> **Step 2: Calculate Present Value**<br>PV = CF1/(1 + r)^1 + CF2/(1 + r)^2 = $80,000/(1.06) + $120,000/(1.06^2) = $188,679."
+}

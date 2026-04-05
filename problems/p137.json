@@ -1,0 +1,40 @@
+{
+  "id": "p137",
+  "content_type": "practice_question",
+  "course": "Intro to Financial Accounting",
+  "topic": "Investing and Financing Decisions",
+  "subtopic": "Revenue Recognition",
+  "question_type": "mcq",
+  "difficulty": "Easy",
+  "tags": [
+    "revenue-recognition",
+    "accrual-accounting",
+    "timing",
+    "conceptual"
+  ],
+  "title": "Revenue Recognition: Revenue should be recognized when:...",
+  "summary": "Identify conditions for revenue recognition under the revenue recognition principle.",
+  "prompt": "Revenue should be recognized when:",
+  "options": [
+    {
+      "id": "A",
+      "text": "It increases total assets"
+    },
+    {
+      "id": "B",
+      "text": "According to the Revenue Recognition Principle, revenue is recognized when"
+    },
+    {
+      "id": "C",
+      "text": "It increases operating income"
+    },
+    {
+      "id": "D",
+      "text": "It reduces net income"
+    }
+  ],
+  "correct_option": "B",
+  "answer_text": "B",
+  "answer_format": "option_letter",
+  "solution": "According to the Revenue Recognition Principle, revenue is recognized when goods and services are delivered to customers, not necessarily when payment is received. This principle ensures that revenue is matched with the expenses incurred to generate it, adhering to the matching process in accounting. For example, a company may deliver a product in one accounting period but receive payment in another, and it should still recognize the revenue when the product is delivered."
+}
